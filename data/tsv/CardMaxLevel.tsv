@@ -1,0 +1,17 @@
+id	init_max_lv	awakening	max_limitbreak_rank	max_limitbreak_reward_id	limitbreak_rank1	limitbreak_rank2	limitbreak_rank3	limitbreak_rank4	limitbreak_rank5	limitbreak_rank6	limitbreak_rank7	limitbreak_rank8	limitbreak_rank9	limitbreak_rank10
+	1			1										
+1	20		4	2203	5	5	5	5						
+2	30		4	2204	5	5	5	5						
+3	40		4	2205	5	5	5	5						
+4	40		4	2205	5	5	5	5						
+5	40		4	2205	5	5	5	5						
+101	20		4	2203	5	5	5	5						
+102	30		4	2204	5	5	5	5						
+103	40		4	2205	5	5	5	5						
+104	40		4	2205	5	5	5	5						
+105	40		4	2205	5	5	5	5						
+201	5		4	2203	1	1	1	2						
+202	10		4	2204	1	1	1	2						
+203	15		4	2205	1	1	1	2						
+204	40		4	2205	5	5	5	5						
+205	40		4	2205	5	5	5	5						

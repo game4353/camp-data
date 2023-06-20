@@ -1,0 +1,2 @@
+id	weather_category	start_month	end_month	under_temperature	upper_temperature	top_resource_id	start_date	end_date	close_date
+1	2	10	12	5	3	57100001	2020-01-01 00:00:00	2050-01-01 00:00:00	2050-02-01 00:00:00

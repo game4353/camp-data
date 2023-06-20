@@ -1,0 +1,11 @@
+id	name_text_id	condition_type	target_type	effect_ratio	display_type	require_season
+1	ムードメーカー	1		2	1	
+2	風邪気味	2			2	
+3	寝不足	3		2	2	
+4	ハイテンション	3		-2	1	
+5	空腹	4	1	-50	2	
+6	筋肉痛	4	2	-50	2	
+7	寒がり	4	3	-50	2	4
+8	暑がり	4	4	-50	2	2
+9	満腹	4	5	-50	2	
+99	普通					

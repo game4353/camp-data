@@ -1,0 +1,16 @@
+id	group_id	rank	relationship	satisfaction	comfortableness	warmth	healing	hotness	coldness	sporty	relaxing	playing	cooking	camp_skill_level_slot3	camp_support_effect_level_slot6
+100300	1003														
+100301	1003	1												1	
+100302	1003	2												2	
+100303	1003	3												3	
+100304	1003	4												4	
+200300	2003														
+200301	2003	1													3
+200302	2003	2													4
+200303	2003	3													5
+200304	2003	4													6
+999900	9999														
+999901	9999	1													
+999902	9999	2													
+999903	9999	3													
+999904	9999	4													
