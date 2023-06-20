@@ -650,7 +650,7 @@ id	key	value	type	priority	open_date	close_date	open_time	close_time
 100329	sticker_detail_limit	256	2	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100330	location_daily_limit	3	2	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100331	location_reset_time	1440	2	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
-100332	location_distance_limit	1000	2	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
+100332	location_distance_limit	2000	2	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100333	location_speed_limit	1000	2	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100334	home_ui_hide_second	20	2	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100335	help_url	https://supportbot-admin.userlocal.jp/pages/9b7fefcd283c395e26f6	4	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
@@ -861,3 +861,4 @@ id	key	value	type	priority	open_date	close_date	open_time	close_time
 100541	new_card_add_point_r2	35	2	1	2020-05-01 00:00:13	2100-12-31 00:00:13		
 100542	new_card_add_point_r3	40	2	1	2020-05-01 00:00:13	2100-12-31 00:00:13		
 100543	camp_report_rental_max	1	2	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
+100544	camp_mission_clear_reward_cp_badge	1	1	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
