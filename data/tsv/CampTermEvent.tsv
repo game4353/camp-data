@@ -1,6 +1,6 @@
 id	name_text_id	event_type	story_id	motivation	condition_id	relationship	satisfaction	comfortableness	warmth	healing	hotness	coldness	sporty	relaxing	playing	cooking	skill_pt	health	receive_trick_camp_skill_group_id	receive_trick_camp_skill_level	receive_camp_skill_trick_level	camp_friendship_group_id	support_effect_flag_ids
-27010121	みんなで本栖湖、薪割り競争	7	71501012																				
-27020121	ちくわと遊ぼう！	7	71502012																				
-27030121	夜の灯りとお料理キャンプ	7	71503012																				
-27040121	ウッドキャンドルりべんじ！	7	71504012																				
-28010101	ウッドキャンドルりべんじ！	11																					
+27010121	27010121	7	71501012																				
+27020121	27020121	7	71502012																				
+27030121	27030121	7	71503012																				
+27040121	27040121	7	71504012																				
+28010101	27040121	11																					
