@@ -1,4 +1,6 @@
 /.vscode
 /src
-/data/raw
-/data/inter
+/data/*
+!/data/tsv
+/assets
+memo.txt

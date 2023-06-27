@@ -236,7 +236,8 @@ id	key	value	type	priority	open_date	close_date	open_time	close_time
 22306	home_bgmid	BGM1004	4	1	2024-12-14 11:00:00	2024-12-29 23:59:59		
 22307	home_bgmid	BGM1005	4	1	2025-01-01 00:00:00	2025-01-31 23:59:59		
 22410	enable_rd_update_confirm_dialog	false	1	1	2016-11-16 00:00:00	2100-12-31 00:00:00		
-22420	rd_update_confirm_dialog_text	リソースデータの更新がありました。\nリソースデータをダウンロードします。	4	1	2016-11-16 00:00:00	2100-12-31 00:00:00		
+22420	rd_update_confirm_dialog_text	"リソースデータの更新がありました。
+リソースデータをダウンロードします。"	4	1	2016-11-16 00:00:00	2100-12-31 00:00:00		
 22421	challenge_monthly_close_dialog_text	近日公開予定！	4	1	2016-11-16 00:00:00	2100-12-31 00:00:00		
 22430	enable_resource_data_update	true	1	1	2016-11-16 00:00:00	2100-12-31 00:00:00		
 22500	gacha_detail_force_show_reset_days	2	2	1	2016-11-16 00:00:00	2100-12-31 00:00:00		
@@ -436,7 +437,11 @@ id	key	value	type	priority	open_date	close_date	open_time	close_time
 39001	home_ayumi_story_icon	true	1	1	2020-04-24 17:00:00	2100-12-31 23:59:00		
 39101	gacha_list_show_alert_time	24	2	1	2016-11-16 00:00:00	2100-12-31 00:00:00		
 39201	ygp_close_datetime	2020-04-23 06:00:00	4	1	2016-11-16 00:00:00	2100-12-31 00:00:00		
-39211	ygp_close_message	Yahoo!ゲームプレーヤー版は\nサービスを終了しました。\nサービス終了に伴う有償ダイヤの\n返金対応につきましては、下記ボタンより\n必要事項を記入の上ご連絡ください。	4	1	2016-11-16 00:00:00	2100-12-31 00:00:00		
+39211	ygp_close_message	"Yahoo!ゲームプレーヤー版は
+サービスを終了しました。
+サービス終了に伴う有償ダイヤの
+返金対応につきましては、下記ボタンより
+必要事項を記入の上ご連絡ください。"	4	1	2016-11-16 00:00:00	2100-12-31 00:00:00		
 39221	record_ranking_lock_date	2023-06-22	4	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100001	collection_page_release_cost_1	5	2	1	2016-11-16 00:00:00	2100-12-31 00:00:00		
 100002	collection_page_release_cost_2	25	2	1	2016-11-16 00:00:00	2100-12-31 00:00:00		
@@ -506,9 +511,11 @@ id	key	value	type	priority	open_date	close_date	open_time	close_time
 100121	hiCheese_voiceInterval_4	2.5	3	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100122	hiCheese_voiceInterval_5	3.5	3	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100123	work_mvp_card_exp_enhance	1.5	3	1	2016-11-16 00:00:00	2100-12-31 00:00:00		
-100124	appointment_default_member_message_1	「そろそろ時間だね！\n私、先行ってるね！」	4	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
+100124	appointment_default_member_message_1	"「そろそろ時間だね！
+私、先行ってるね！」"	4	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100125	appointment_default_member_message_2	「お兄ちゃん…まだぁ」	4	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
-100126	appointment_default_member_message_3	「先に待ち合わせ場所に\n行ってるね！」	4	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
+100126	appointment_default_member_message_3	"「先に待ち合わせ場所に
+行ってるね！」"	4	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100127	work_additional_budget_enhance	0.5	3	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100128	home_notifcation_isCheck_unlockCondition	0	1	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100129	home_appearVice_01	V001_3048	4	1	2020-05-01 00:00:00	2100-12-31 00:00:00	21600	35999
@@ -588,7 +595,9 @@ id	key	value	type	priority	open_date	close_date	open_time	close_time
 100267	chat_friend_enabled	1	1	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100268	chat_group_enabled	1	1	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100269	rt_server_conn_title	1	1	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
-100270	home_licence_expired_message	お兄ちゃん！\n会員/パック/パスの期限が切れたよ！\nショップをチェックしてみない？	4	1	2016-11-16 00:00:00	2100-12-31 00:00:00		
+100270	home_licence_expired_message	"お兄ちゃん！
+会員/パック/パスの期限が切れたよ！
+ショップをチェックしてみない？"	4	1	2016-11-16 00:00:00	2100-12-31 00:00:00		
 100271	home_licence_expired_voiceid	V005_3032	4	1	2100-05-01 00:00:00	2100-12-31 00:00:00		
 100272	chat_world_max_num_channel	1000	2	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100273	push_chat_new_notification	なでしこ「あっ！返信が来てるよ」	4	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
@@ -614,12 +623,20 @@ id	key	value	type	priority	open_date	close_date	open_time	close_time
 100293	initial_comment	よろしくお願いします	4	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100294	challenge_shop_complete_reaction	6001	2	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100295	aprilgame_adv_afterstoryid	70900004	2	1	2020-05-01 00:00:01	2100-12-31 00:00:01		
-100296	aprilgame_howto	森を駆け抜けて勉強魔王から五月さんたちを助けに行こう!\n\nハンバーグを取るとスピードアップ！\n岩はスピードダウン、移動や羽ジャンプで回避！\n\nタイマーが切れる前に次のゴールラインを目指そう！\n――お兄ちゃんをコテンパンにしちゃうからね！！	4	1	2020-05-01 00:00:01	2100-12-31 00:00:01		
+100296	aprilgame_howto	"森を駆け抜けて勉強魔王から五月さんたちを助けに行こう!
+
+ハンバーグを取るとスピードアップ！
+岩はスピードダウン、移動や羽ジャンプで回避！
+
+タイマーが切れる前に次のゴールラインを目指そう！
+――お兄ちゃんをコテンパンにしちゃうからね！！"	4	1	2020-05-01 00:00:01	2100-12-31 00:00:01		
 100297	card_lock_initial_value_r5	true	1	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100298	card_lock_initial_value_r4	false	1	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100299	card_lock_initial_value_first	true	1	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100300	PresenBox_message_01	カード所持枠上限を超えている状態で獲得したカード	4	1	2020-05-01 00:00:01	2100-12-31 00:00:01		
-100301	team_report_team_result	昨日の成績\n・獲得EP %dpt(累計%dpt)\n・現在の順位 %d位%s	4	1	2020-05-01 00:00:01	2100-12-31 00:00:01		
+100301	team_report_team_result	"昨日の成績
+・獲得EP %dpt(累計%dpt)
+・現在の順位 %d位%s"	4	1	2020-05-01 00:00:01	2100-12-31 00:00:01		
 100302	team_report_personal_performance	パズル:%d回 獲得:%dep	4	1	2020-05-01 00:00:01	2100-12-31 00:00:01		
 100303	memorial_stamp_zoom_max	2	3	1	2020-05-01 00:00:01	2100-12-31 00:00:01		
 100304	memorial_stamp_zoom_min	0.5	3	1	2020-05-01 00:00:01	2100-12-31 00:00:01		
