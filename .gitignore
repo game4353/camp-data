@@ -2,5 +2,6 @@
 /src
 /data/*
 !/data/tsv
+!/data/tsv_tw
 /assets
 memo.txt
