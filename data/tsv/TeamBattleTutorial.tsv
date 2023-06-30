@@ -1,0 +1,19 @@
+team_battle_event_id	seq	cmd	val1	val1_text_id	val2	val3
+901	1	ActiveNavigator	1		Bottom	0
+901	2	UpdateNavigator	"こんにちは、石森 虹花です
+みなさん、お待たせしました♪
+新イベント『チームライブ』が
+いよいよスタートになります！"		0	0
+901	3	UpdateNavigator	"このチームライブは
+2チームに分かれての対抗戦！
+ここでしか手に入らない
+貴重な限定報酬が貰えますよ"		0	0
+901	4	UpdateNavigator	"チームライブのパズルは、なんと
+下方向に進んでいく新パズル♪
+ボーナスボックスを集めて
+チームを勝利に導きましょう"		0	0
+901	5	UpdateNavigator	"勝利チームは報酬が
+多く貰えちゃうんですよ！
+チームライブに参加して
+ぜひ手に入れてくださいね"		0	0
+901	6	ActiveNavigator	0		Keep	0

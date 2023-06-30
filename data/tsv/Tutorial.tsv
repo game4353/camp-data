@@ -1,0 +1,36 @@
+step	title	scene	challenge_ids	guide_mission_chapter_id
+	Initialize			
+10	Install			
+20	Term			
+30	Prologue	tutorialprologue		
+40	Download	tutorialdownload		
+50	Adv01	tutorialadv01		
+60	Home01	tutorialhome01	50010	50010
+70	Adv02	tutorialadv02		
+80	GearAction01	tutorialgearaction01	50020	50020
+90	Adv03	tutorialadv03		
+100	CraftGear01	tutorialcraftgear01		
+110	CraftGear02	tutorialcraftgear02		
+120	CraftGear03	tutorialcraftgear03	50030	50030
+130	Adv04	tutorialadv04		
+140	CampFire01	tutorialcampfire01	50040	50040
+150	Adv05	tutorialadv05		
+160	ChangeTime01	tutorialchangetime01		
+170	ChangeTime02	tutorialchangetime02		
+180	ChangeTime03	tutorialchangetime03	50050,50051	50050
+190	Adv06	tutorialadv06		
+200	CraftFood01	tutorialcraftfood01		
+210	CraftFood02	tutorialcraftfood02		
+220	CraftFood03	tutorialcraftfood03	50060	50060
+230	Adv07	tutorialadv07		
+240	ChangeCostume01	tutorialchangecostume01	50070	50070
+250	Adv08	tutorialadv08		
+260	PhotoBooth01	tutorialphotobooth01		
+270	PhotoBooth02	tutorialphotobooth02	50080	50080
+280	Adv09	tutorialadv09		
+290	CosGacha01	tutorialcosgacha01		
+300	CosGacha02	tutorialcosgacha02		
+310	CosGacha03	tutorialcosgacha03		
+320	SupGacha01	tutorialsupgacha01		
+330	SupGacha02	tutorialsupgacha02		
+340	SupGacha03	tutorialsupgacha03	51012	

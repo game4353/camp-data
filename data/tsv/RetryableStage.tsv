@@ -1,0 +1,4 @@
+id	group_id	seq_id	information	information_text_id	character_id	clothes_id	model_id	can_continue	play_condition	clear_score
+101011	5010101	1	25手以内に目標を達成しよう！				1	1		10000
+101021	5010201	2	25手以内に目標を達成しよう！				1	1		10000
+101031	5010301	3	20手以内に目標を達成しよう！				1	1		10000

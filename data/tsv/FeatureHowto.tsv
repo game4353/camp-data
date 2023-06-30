@@ -1,0 +1,9 @@
+feature_id	no	header_text_id	body_text_id	resource_id	link_type	link	link_text_id	btn_term
+1	1			30200000	1	album?feature_id=701		2,3
+1	2			30200001	2			
+1	4			30200002	3			2,3
+1	5			30200003	1	gacha?gacha_id=1001		1,2
+1	6			30200004				
+1	7	1						
+701	1	7014	7015					
+702	1	70204	70205					

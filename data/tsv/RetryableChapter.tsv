@@ -1,0 +1,5 @@
+id	name_text_id	description	description_text_id	detail	detail_text_id	character_id	clothes_id	model_id	show_reward	top_resource_id	bg_resource_id	bg_model_resource_id	icon_resource_id	bar_color_text_id	position_tmpl_id	quest_id	fail_back	clear_reward_id	start_x	start_y	end_x	end_y	weekday	open_date	close_date
+50101	1	紅のエンブレム		"失敗すると１つ後退！
+３ステージを連続でクリアしよう！"				1	1	30200000	30200000	13	30200000	1	1	501	1	1					1	2020-05-01 00:00:00	2100-12-31 23:59:59
+50201	1	紅のブック		指定の属性でユニットを編成しよう！				1	1	30200000	30200000	13	30200000	1	1	502		1					1	2020-05-01 00:00:00	2100-12-31 23:59:59
+50301	1	紅のマイク		ライブレッスンを３ラウンドクリアしよう！				1	1	30200000	30200000	13	30200000	1	1	503		1					1	2020-05-01 00:00:00	2100-12-31 23:59:59

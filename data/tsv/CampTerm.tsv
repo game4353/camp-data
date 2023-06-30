@@ -25,3 +25,5 @@ id	camp_id	day	time_slot	weather_weight_sunny	weather_weight_cloudy	weather_weig
 104102	1041	1	4	100				100							100		
 104103	1041	1	5	100				100							100		
 104104	1041	2	2	100				100							100		
+105101	1051	1	3	100				100					100				
+105102	1051	1	4	100				100					100				

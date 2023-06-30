@@ -1,0 +1,2 @@
+id	team_battle_event_id	name	name_text_id	banner_resource_id	tutorial	character_id	clothes_id	model_id	ranking_reward_group_id	difficulty_id	rank_score_s	rank_score_a	rank_score_b	rank_score_c	rank_score_d	rank_ep_s	rank_ep_a	rank_ep_b	rank_ep_c	rank_ep_d	gold_treasure_ep	silver_treasure_ep	bronze_treasure_ep	can_continue	max_continue	continue_price	play_condition	exp	card_exp	gold_treasure_reward_id	silver_treasure_reward_id	bronze_treasure_reward_id
+1	901	第1回 チームライブ						1		90101	200000	150000	100000	50000		1000	800	600	400	200	1000	500	100	1		20		50	50	20	20	20

@@ -1,0 +1,6 @@
+id	name	name_text_id	member_cnt	card_id	member1	member2	member3	member4	member5	member6	member7	member8	member9	member10	member11	member12	member13	member14	member15	member16	member17	member18	member19	member20	open_date	close_date
+1	あああああ		2	10001	12	13																			2000-01-01 00:00:00	2099-12-31 23:59:59
+2	いいいいい		2	10002	13	14																			2000-01-01 00:00:00	2099-12-31 23:59:59
+3	ううううう		2	10003	11	12																			2000-01-01 00:00:00	2099-12-31 23:59:59
+4	えええええ		2	10004	12	13																			2017-10-31 11:00:00	2099-12-31 23:59:59
+5	おおおおお		3	10005	13	14																			2018-03-03 11:00:00	2099-12-31 23:59:59

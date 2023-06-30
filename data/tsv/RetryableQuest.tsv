@@ -1,0 +1,4 @@
+id	name_text_id	description_text_id	list_type	max_current_reset	max_other_reset	current_reset_price	other_reset_price	open_date	close_date
+501	1	1	1	2	2	10,20	20,40	2020-05-01 00:00:00	2100-12-31 23:59:59
+502	1	1	1	2	2	10,20	20,40	2020-05-01 00:00:00	2100-12-31 23:59:59
+503	1	1	1	2	2	10,20	20,40	2020-05-01 00:00:00	2100-12-31 23:59:59

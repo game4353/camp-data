@@ -1,0 +1,10 @@
+id	feature_id	type	name_text_id	appearance_time	color_type	firstclear_reward_id	rank_s_reward_id	clear_reward_id	drop_reward1_id	drop_reward2_id	drop_reward3_id	exp	card_exp
+70101	701	1	1	600		1	1	1	1			50	40
+70102	701	2	2	600		1	1	1	1			50	40
+70103	701	3	3	600		1	1	1	1			50	40
+90001	900	1	1	600		1	1	1	1			50	40
+90002	900	2	2	600		1	1	1	1			50	40
+90003	900	3	3	600		1	1	1	1			50	40
+90101	901	1	1	600		1	1	1	1			50	40
+90102	901	2	2	600		1	1	1	1			50	40
+90103	901	3	3	600		1	1	1	1			50	40
