@@ -811,7 +811,7 @@ id	key	value	type	priority	open_date	close_date	open_time	close_time
 100474	shop_background	10180001	2	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100475	guild_camp_max_cost_per_member	200	2	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100476	enable_datalinkage	0	2	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
-100477	feature_max_boost_rate	300	2	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
+100477	feature_max_boost_rate	10000	2	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100478	mileage_gift_rate	0.5	3	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100479	time_inbox_message_remove	60	2	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100480	recordranking_button_grayout	1	1	1	2023-05-24 00:00:00	2023-05-31 00:00:00		
