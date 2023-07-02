@@ -1,8 +1,10 @@
 /.vscode
 /src
+memo.txt
+test.*
+/assets
+
 /data/*
 !/data/tsv
 !/data/tsv_tw
-/assets
-memo.txt
-test.*
+/data/tsv/Reaction.tsv
