@@ -1,11 +1,11 @@
-id	FeatureText
-0	0
-1	イベントヘルプ・注意事項
-2	利用規約
-7011	旅キャンはじまり！RECAMPおだわら
-7012	旅キャンはじまり！
-7013	ストキャン「旅キャンはじまり！RECAMPおだわら」
-7014	遊び方詳細
+id	ja	zh-TW	en	ko
+0	0	0	0	0
+1	イベントヘルプ・注意事項	活動幫助・注意事項	Event Help & Precautions	이벤트 도움말・주의 사항
+2	利用規約	使用條款	Terms of Use	이용 약관
+7011	旅キャンはじまり！RECAMPおだわら	出發去旅遊露營！RECAMP小田原	Travel Camping Begins! RECAMP Odawara!	여행캠 시작! RECAMP 오다와라
+7012	旅キャンはじまり！	出發去旅遊露營！	Travel Camping Begins!	여행캠 시작!
+7013	ストキャン「旅キャンはじまり！RECAMPおだわら」	故事露營「出發去旅遊露營！RECAMP小田原」	Story Camp: Travel Camping Begins! RECAMP Odawara!	"스토캠 ""여행캠 시작! RECAMP 오다와라"""
+7014	遊び方詳細	遊戲玩法詳情	How to Play Details	게임 방법 상세
 7015	"■イベント「ストキャン」とは
 ""キャンプ""をプレイしていくことでイベント限定""ストーリー""を楽しむことができるイベントを略して「ストキャン」と呼びます。
 ストキャンではキャンプを完了すると、イベントポイントや「ストキャンボックス」を獲得できます。
@@ -53,20 +53,168 @@ id	FeatureText
 イベントでは、イベント限定ギアや料理のカケラが手に入ることがあります。
 これらはレアリティがRのものは2個、SRのものは3個集めるとクラフト画面に移動した際に
 ギアの設計図や料理のレシピが完成します。
-"
-7016	遊び方ガイド
+"	"■「故事露營」活動
+在進行露營遊戲時，可以享受限定活動的""""故事""""，簡稱為「故事露營」。
+在故事露營中，完成露營後，可以獲得活動點數和「故事露營箱」。
+通過收集這些活動點數或使用獲得的「故事露營箱」，可以獲得各種獎勵。
+
+■活動點數
+在活動期間內開始露營，並在期間內結束該露營時，根據評價得分可以獲得活動積分。
+此外，活動積分的獲得量也會因「活動獎勵」和「AP2倍設定」而變動。
+根據獲得的活動積分，除了「活動故事解鎖」之外，還可能獲得「活動積分獎勵」。
+也能用於獲得「活動點數報酬」。
+此外，當下的活動點數無法保存至其他的活動。
+
+■活動額外效果
+當持有附帶活動額外效果的服裝或輔助卡時，
+就能提高活動點數的獲得量。
+從活動頁面能夠確認活動額外效果的詳細內容。
+
+■AP2倍設定
+在露營開始前的畫面中，可以使用「將消耗的AP翻倍」設定。
+使用此設定後，露營結束時獲得的「活動點數」將變為2倍。
+另外，活動點數的獎勵不受影響。
+
+■活動故事
+隨獲得活動點數而逐一開放的活動限定故事。
+觀賞過活動故事後有機會能獲得報酬。
+
+■活動點數報酬
+當獲得一定程度的活動點數後就能夠拿到報酬。
+其中包含只能在當下活動才能獲得用品、食譜碎片、搖曳幣（銀）、強化素材
+等多種道具。
+
+■活動聯動和要事清單
+在活動期間中會以聯動的形式追加要事清單。
+只要達成清單上的項目，就可以獲得用具的碎片和活動專用稱號以及各種其他道具。
+
+■故事露營箱
+露營結束時，根據獲得的活動點數，可以獲得故事露營箱。
+因此，當「活動獎勵」或「AP 2倍設定」使活動點數增加時，
+相應地，故事露營箱的獲得量也會增加。
+此外，如果購買了「搖曳通行證」，在有效期內，ストキャンボックス的獲得量將變為2倍。
+從道具畫面使用故事露營箱時，可以從各種道具中隨機獲得道具。
+
+■用品設計圖碎片・料理食譜碎片
+在活動中，有時可以獲得活動限定用品和料理碎片。
+這些碎片中，R稀有度的需要2個，SR稀有度的需要3個，當收集齊後在製作畫面中，用品設計圖和料理食譜將會完成。"	"■ Story Camp Event
+In events called ""Story Camp"" or ""StoCamp"" for short, you can enjoy event-limited ""stories"" by playing ""camping"". 
+When you complete a camp in StoCamp, you can earn event points and ""StoCamp Boxes"". 
+By collecting these event points and using the obtained ""StoCamp Boxes"", you can acquire various rewards.
+
+■ Event Points
+During the event period, you can earn event points based on the evaluation points when you start a camp and finish it within the period. 
+The amount of event points earned can also vary depending on the ""Event Bonus"" and ""AP 2x Setting"".
+In addition to unlocking ""Event Stories"" based on the amount of event points earned, you may also be able to obtain ""Event Point Rewards"".
+you may also earn rewards with event points.
+Event points cannot be carried over to other events.
+
+■ Event Bonus
+Having costumes and support cards that give event bonuses
+will increase the amount of event points earned.
+Check for event bonuses on the event page.""
+
+■ 2x AP Mode
+Before starting the camp, you can use the """"Double the AP consumption"""" setting on the screen.
+By using this setting, the amount of """"Event Points"""" you can earn at the end of the camp will be doubled.
+Please note that this does not affect the rewards for event points.
+
+■ Event Story
+This is a limited-time story that can only be unlocked by event points.
+Rewards are earned for viewing the event story.
+
+■ Event Point Rewards
+Earning a certain amount of event points will allow you to get event point rewards.
+Items such as gears, food fragments, YuruCoin (Silver),
+enhancement materials, etc, can be obtained.
+
+■ Event To-Do List
+During the event, an event to-do list will be added.
+Items such as gear fragments and exclusive titles can be obtained by completing the to-do list.
+
+■ Story Camp Box
+When the camp ends, you can earn Sto-Camp Boxes in proportion to the event points you have earned. 
+Therefore, if the amount of event points earned increases due to ""Event Bonus"" or ""AP 2x Setting"", the amount of Sto-Camp Boxes earned will also increase accordingly. 
+In addition, if you have purchased a ""Yuru Pass"", the amount of Sto-Camp Boxes earned will be doubled during the effective period. 
+By using Sto-Camp Boxes from the item screen, you can randomly obtain items from various items.
+
+■ Gear design fragment & Recipe fragment
+During events, you may be able to obtain event-limited gear and cooking fragments. 
+If you collect 2 R rarity fragments or 3 SR rarity fragments, the gear design and cooking recipe will be completed when you move to the crafting screen."	"■이벤트 ""스토캠""
+""""캠프""""를 플레이하면서 이벤트 한정 """"스토리""""를 즐길 수 있는 이벤트를 줄여서 '스토리 캠프'이라고 부릅니다.
+스트캠에서 캠프를 완료하면, 이벤트 포인트와 '스토리 캠프 박스'를 획득할 수 있습니다.
+이 이벤트 포인트를 모아가거나, 얻은 '스토리 캠프 박스'를 사용하여 다양한 보상을 획득할 수 있습니다.
+
+■이벤트 포인트
+이벤트 기간 동안 캠프를 시작하고, 기간 중에 해당 캠프가 종료될 때의 평가 점수에 따라 이벤트 포인트를 획득할 수 있습니다.
+또한, 이벤트 포인트 획득량은 '이벤트 보너스'나 'AP 2배 설정'에 따라서도 변동합니다.
+이벤트 포인트를 획득한 양에 따라 '이벤트 스토리가 개방되는' 외에도
+'이벤트 포인트 보상'을 획득할 수 있는 경우가 있습니다.
+""이벤트 포인트 보상""을 획득하는 경우도 있습니다.
+이벤트 포인트는 다른 이벤트로 이월되지 않으니 주의하시기 바랍니다.
+
+■이벤트 보너스
+이벤트 보너스가 포함된 코스튬과 서포트 카드를 소지하면
+이벤트 포인트 획득량이 증가합니다.
+이벤트 보너스의 상세 정보는 이벤트 페이지에서 확인할 수 있습니다.
+
+■AP 2배 설정
+캠프 시작 전 화면에서 """"소비하는 AP를 2배로 설정""""이 사용 가능합니다.
+이 설정을 사용하면 캠프 종료 시 획득할 수 있는 """"이벤트 포인트""""의 획득량이 2배가 됩니다.
+단, 이벤트 포인트의 보상에는 영향이 없습니다.
+
+■이벤트 스토리
+이벤트 포인트 획득량에 따라 해방되는 이벤트 한정 스토리입니다.
+이벤트 스토리를 관람하면 보상을 획득하는 경우도 있습니다.
+
+■이벤트 포인트 보상
+이벤트 포인트를 일정량 이상 획득하면 이벤트 포인트 보상을 수령하는 경우도 있습니다.
+해당 이벤트에서만 입수 가능한 기어와 요리 조각, 유루코인(은), 강화 소재 등
+다양한 아이템을 획득할 수 있습니다.
+
+■스토리 캠프 박스
+이벤트 기간 중에는 이벤트 연동식으로 할일 리스트가 추가됩니다.
+할일 리스트를 달성하면 기어 조각과 이벤트 전용 칭호 등의 다양한 아이템을 획득할 수 있습니다.
+
+■박스 뽑기 코인
+캠프 종료 시 획득한 이벤트 포인트에 비례하여 스트캠 박스를 획득할 수 있습니다.
+따라서 '이벤트 보너스'나 'AP 2배 설정'으로 이벤트 포인트 획득량이 증가하면
+함께 스트캠 박스의 획득량도 증가하는 형태가 됩니다.
+또한, '유루 패스'를 구입하고 있는 경우, 효과 기간 중 스트캠 박스 획득량이 2배가 됩니다.
+스트캠 박스를 아이템 화면에서 사용하면, 다양한 아이템 중에서 무작위로 아이템을 획득할 수 있습니다.
+
+■용품의 설계도 조각 · 요리의 레시피 조각
+이벤트에서는 이벤트 한정 기어와 요리의 조각을 얻을 수 있습니다.
+이들은 레어리티가 R인 것은 2개, SR인 것은 3개 모으면 크래프트 화면으로 이동했을 때
+기어의 설계도와 요리의 레시피가 완성됩니다."
+7016	遊び方ガイド	遊戲指南	How to Play Guide	게임 방법 가이드
 7017	"イベント開催中にキャンプをプレイするとイベントポイントを獲得できます。
 イベントポイントを集めることでイベント限定ストーリーが開放されたり、
-ここでしか手に入らないイベント限定報酬などが獲得できます。"
+ここでしか手に入らないイベント限定報酬などが獲得できます。"	"在舉辦活動時去露營就能獲得活動點數。
+蒐集到的活動點數可以用來解放活動限定故事，
+或用來獲得活動限定的報酬。"	"Earn event points by camping during the event.
+Collecting event points allows you to unlock stories and rewards
+limited to the event."	"이벤트 개최 중에 캠핑을 완료하여 이벤트 포인트를 획득하세요.
+이벤트 포인트를 모으면 이벤트 한정 스토리를 해방하거나
+이벤트 한정 보상 등을 획득할 수 있습니다."
 7018	"イベントボーナスを持つコスチュームやサポートカードを所持していると、
-キャンプ終了時に獲得できるイベントポイントの獲得量がアップします。"
+キャンプ終了時に獲得できるイベントポイントの獲得量がアップします。"	"只要有附有活動額外效果的服裝和輔助卡，
+在露營結束時獲得的活動點數就會變多。"	"Having costumes or support cards that give event bonuses increases
+the amount of event points earned for camping."	"이벤트 보너스가 포함된 코스튬과 서포트 카드를 소지하면
+캠핑 종료 시에 획득 가능한 이벤트 포인트의 양이 증가합니다."
 7019	"キャンプをプレイするとイベントポイントの他にストキャンボックスが獲得できます。
 使用するとイベント限定報酬や強化素材など様々なアイテムが獲得できます。
-「ゆるパス」を購入しているとストキャンボックス獲得量が2倍になります。"
-70201	夏だ！ビーチだ！海キャンだ！
-70202	夏だ！ビーチだ！海キャンだ！
-70203	ストキャン「夏だ！ビーチだ！海キャンだ！」
-70204	遊び方詳細
+「ゆるパス」を購入しているとストキャンボックス獲得量が2倍になります。"	"在進行露營遊戲時，除了獲得活動點數外，還可以獲得故事露營箱。
+使用它可以獲得活動限定獎勵和強化素材等各種道具。
+購買「搖曳通行證」後，獲得的故事露營箱數量將增加一倍。"	"""When you play camping, you can earn Story camp Box in addition to event points. 
+By using them, you can obtain various items such as event-limited rewards and enhancement materials. 
+If you purchase a """"Yuru Pass"""", the amount of Stocan Boxes you can earn will be doubled."""	"露營遊戲進行時，除了獲得活動點數外，還可以獲得스토리 캠프 박스。
+使用它可以獲得活動限定獎勵和強化材料等各種道具。
+購買「搖曳通行證」後，스토리 캠프 박스的獲得量將增加2倍。"
+70201	夏だ！ビーチだ！海キャンだ！	夏天！沙灘！海邊露營！	Sun, Sand, and Seaside Camp!	여름이다! 해변이다! 바다 캠핑이다!
+70202	夏だ！ビーチだ！海キャンだ！	夏天！沙灘！海邊露營！	Sun, Sand, and Seaside Camp!	여름이다! 해변이다! 바다 캠핑이다!
+70203	ストキャン「夏だ！ビーチだ！海キャンだ！」	故事露營「夏天！沙灘！海邊露營！」	Story Camp: Sun, Sand, and Seaside Camp!	"스토캠 ""여름이다! 해변이다! 바다 캠핑이다!"""
+70204	遊び方詳細	遊戲玩法詳情	How to Play Details	게임 방법 상세
 70205	"■イベント「ストキャン」とは
 ""キャンプ""をプレイしていくことでイベント限定""ストーリー""を楽しむことができるイベントを略して「ストキャン」と呼びます。
 ストキャンではキャンプを完了すると、イベントポイントやボックスガチャコインを獲得できます。
@@ -136,17 +284,215 @@ id	FeatureText
 
 ■色違いのギア・料理とは
 今回のイベントで手に入る「ビーチボール」「トロピカルジュース」は
-クラフトした際に超成功すると、色違いの特別版が入手できます。"
-70206	遊び方ガイド
+クラフトした際に超成功すると、色違いの特別版が入手できます。"	"■「故事露營」活動
+藉由遊玩「露營」來享受活動限定的「故事劇情」的一種活動，簡稱「故事露營」。
+在故事露營時，每當露營結束後可以獲得活動點數跟抽獎箱轉蛋幣。
+透過蒐集活動點數，以及使用抽獎箱轉蛋幣來抽幸運箱轉蛋就能夠獲得各種報酬。
+
+■活動點數
+參照露營結束時獲得的評價分所能獲得的點數。
+並且，活動點數的獲得量會依照「活動額外效果」或「AP2倍設定」而變動。
+獲得活動點數除了能「開放活動故事」之外
+也能用於獲得「活動點數報酬」。
+此外，當下的活動點數無法保存至其他的活動。
+再者，於活動開始前就進行露營，或是活動結束後才結束露營的場合，將不會獲得活動點數。
+■活動額外效果
+當持有附帶活動額外效果的服裝或輔助卡時，
+就能提高活動點數的獲得量。
+從活動頁面能夠確認活動額外效果的詳細內容。
+當持有相同角色的附帶活動額外效果服裝時，
+僅會發揮該角色服裝中附加效果量最高的服裝效果。
+並且，若編入了帶有活動額外效果的好友輔助卡後進行露營時，
+在未持有該輔助卡的狀況下將反映原始效果量的一部分，
+而當玩家自身已持有時則僅反映您擁有的輔助卡的效果量。
+■AP2倍設定
+能夠在前往露營前的畫面設定「消費2倍AP」。
+當啟用這項設定後，當露營結束時所獲得的「活動點數」和「抽獎箱轉蛋幣」就會變成2倍。
+此外，並不影響活動點數的報酬。
+■活動故事
+隨獲得活動點數而逐一開放的活動限定故事。
+觀賞過活動故事後有機會能獲得報酬。
+■活動點數報酬
+當獲得一定程度的活動點數後就能夠拿到報酬。
+其中包含只能在當下活動才能獲得用品、食譜碎片、搖曳幣（銀）、強化素材
+等多種道具。
+■活動排名
+當獲得了活動點數後即會參加活動排名。
+當獲得了大量活動點數，並於活動結束時進入前段名次時，
+就能依照排名來獲得如「活動排名限定稱號」等多種道具。
+排名報酬會在活動結束後的1天之內發送到禮物箱內。
+■活動聯動和要事清單
+在活動期間中會以聯動的形式追加要事清單。
+只要達成清單上的項目，就可以獲得用具的碎片和活動專用稱號以及各種其他道具。
+■抽獎箱轉蛋幣
+當露營結束時會依照獲得的活動點數比例，另外獲得抽獎箱轉蛋幣。
+對此，利用了「活動額外效果」或「AP2倍設定」來提升點數獲得量時，
+所獲得的抽獎箱轉蛋幣也會依照該增加量而變多。
+並且，當免費體驗「搖曳通行證」、或購買了「搖曳通行證（7天）」、「搖曳通行證（30天）」的話，在效果期間中所獲得的抽獎箱轉蛋幣也會變成2倍。
+抽獎箱轉蛋幣可用於抽獎幸運箱轉蛋。
+■幸運箱轉蛋
+可以從活動頁面來前往幸運箱轉蛋頁面。
+從這裡消費抽獎箱轉蛋幣就可以抽幸運箱轉蛋。
+每抽1次幸運箱轉蛋，就能從共30個的獎品中隨機獲得1個。
+「大獎」有像用品設計圖的碎片等貴重的道具，請加油把它們抽出來吧。
+當抽到了大獎後就可以將目前的抽獎箱給重置，換抽新的一個箱子。
+此外，當重置了第4個箱子後，以後的抽獎箱內容都將與第4箱相同。
+■用品設計圖的碎片‧料理食譜的碎片
+在進行活動時，會獲得活動限定的用品和料理的碎片。
+當蒐集到了2個稀有度R，3個稀有度SR的數量後前往製作的畫面
+就能夠完成用品的設計圖以及料理的食譜。
+■異色用品‧料理
+本次活動中能夠獲得的「沙灘排球」「熱帶果汁」
+在製作時若能引發超成功，就能夠獲得不同顏色的特別版本。"	"■ Story Camp Event
+During this event, go camping to unlock an enjoyable limited-time story.
+Every time you finish a camping trip, you can earn event points and Box Gacha Coins.
+Stand to receive all sorts of rewards by collecting events points or playing the Lucky Box Gacha with Box Gacha Coins!
+
+■ Event Points
+Go camping and earn event points according to your rating when you finish.
+Make use of event bonuses and the 2x AP mode to receive even more points!
+Accumulate event points to automatically unlock event story chapters
+and event point rewards.
+You cannot carry over the event points of one event to another.
+Note that if you started a camping session before an event begins, or finished one after an event has ended, you will not receive any event points for them.
+■ Event Bonus
+Having costumes and support cards that give event bonuses
+will increase the amount of event points earned.
+More details on event bonuses can be found on the event page.
+If a character has multiple costumes with event bonuses,
+only the costume with the highest bonus will be applicable.
+Also, when you start the campwith a friend's support card that has an event bonus,
+a portion of the original bonus amount will be reflected if you do not already own one.
+If you do own one, only the bonus amount of the support card you have will be reflected.
+■ 2x AP Mode
+Before you start camping, you'll see a 2x AP button on the screen.
+Turning this on will double the event points and Box Gacha Coins obtained at the end of the camp.
+Rewards other than event points and Box Gacha Coins are not affected.
+■ Event Story
+This is a limited-time story that can only be unlocked by event points.
+Rewards are earned for viewing the event story.
+■ Event Point Rewards
+Earning a certain amount of event points will allow you to get event point rewards.
+Items such as gears, food fragments, YuruCoin (Silver),
+enhancement materials, etc, can be obtained.
+■ Event Ranking
+Earn event points to take part in the event rankings.
+The more points you earn and the higher in the ranks you climb,
+the better items you'll obtain at the end of the event along with a limited time event title.
+Ranking rewards are sent to your Gift Box within 1 day from the end of the event.
+■ Event To-Do List
+During the event, an event to-do list will be added.
+Items such as gear fragments and exclusive titles can be obtained by completing the to-do list.
+■ Box Gacha Coins
+You will receive Box Gacha Coins in proportion to the number of event points earned after camping.
+As such, you'll naturally gain more Box Gacha Coins by increasing
+the number of event points earned through event bonuses or 2x AP mode.
+If you have a trial, 7 Days, or 30 Days Laid-Back Pass, the number of Box Gacha Coins you earn will be doubled.
+Box Gacha Coins can be used in the Lucky Box Gacha.
+■ Lucky Box Gacha
+The Lucky Box Gacha can be accessed from the event page.
+It is played using Box Gacha Coins.
+Each try gets you one prize out of a list of 30 prizes.
+Top prizes contain valuable items such as gear fragments. Aim to collect them all!
+Once you win a top prize, you switch over to playing the next box.
+After the 4th box is cleared, you will keep repeating it instead of switching to a new one.
+■ Gear / Recipe Blueprint Fragments
+You can obtain event-limited gear or recipe fragments during the event.
+After you collect 2 Rare fragments or 3 Super Rare fragments,
+open the Craft screen to automatically complete the blueprint or recipe.
+■ Different-Colored Gear / Recipes
+Getting a Huge Success when crafting this event's Beach Ball or
+Tropical Punch will result in a special color edition of the item."	"■이벤트 스토캠
+캠핑을 플레이하며 이벤트 한정 스토리를 즐길 수 있는 이벤트를 뜻하는 약칭입니다.
+스토캠에서는 캠핑을 완료하여 이벤트 포인트 및 박스 뽑기 코인을 획득할 수 있습니다.
+이벤트 포인트를 최대한 많이 모으고, 박스 뽑기 코인으로 럭키 박스 뽑기를 플레이하며 다양한 보상을 획득하세요.
+
+■이벤트 포인트
+캠핑을 완료한 후의 평가 점수를 기준으로 이벤트 포인트를 획득할 수 있습니다.
+또한, 이벤트 포인트 획득량은 이벤트 보너스 및 AP 2배 설정에 따라 변동됩니다.
+이벤트 포인트 획득량에 따라 이벤트 스토리 해방과 함께
+이벤트 포인트 보상을 획득하는 경우도 있습니다.
+이벤트 포인트는 다른 이벤트로 이월되지 않으니 주의하시기 바랍니다.
+또한, 이벤트 개최 전에 캠핑을 시작했거나, 이벤트 종료 후에 캠핑을 완료하였을 경우에는 이벤트 포인트를 획득하실 수 없습니다.
+■이벤트 보너스
+이벤트 보너스가 포함된 코스튬과 서포트 카드를 소지하면
+이벤트 포인트 획득량이 증가합니다.
+이벤트 보너스의 상세 정보는 이벤트 페이지에서 확인할 수 있습니다.
+같은 캐릭터가 이벤트 보너스를 지닌 코스튬을 여러 개 소지하고 있는 경우,
+해당 캐릭터의 코스튬 중 가장 높은 보너스를 지닌 코스튬의 보너스만 적용됩니다.
+또한, 캠핑 시작 시에 이벤트 보너스를 지닌 친구의 서포트 카드를 편성할 경우,
+해당 서포트 카드를 소지하고 있지 않은 경우에는 원래 보너스량의 일부가 반영되며,
+소지하고 있는 경우에는 소지한 서포트 카드의 보너스량만 반영됩니다.
+■AP 2배 설정
+캠핑 시작 전 화면에서 소비 AP를 2배로 늘리기 설정을 적용할 수 있습니다. 
+해당 설정을 적용하면 캠핑 종료 시에 획득하는 이벤트 포인트 및 박스 뽑기 코인의 양이 2배로 증가합니다.
+이벤트 포인트 보상에는 영향을 주지 않으니 주의하시기 바랍니다.
+■이벤트 스토리
+이벤트 포인트 획득량에 따라 해방되는 이벤트 한정 스토리입니다.
+이벤트 스토리를 관람하면 보상을 획득하는 경우도 있습니다.
+■이벤트 포인트 보상
+이벤트 포인트를 일정량 이상 획득하면 이벤트 포인트 보상을 수령하는 경우도 있습니다.
+해당 이벤트에서만 입수 가능한 기어와 요리 조각, 유루코인(은), 강화 소재 등
+다양한 아이템을 획득할 수 있습니다.
+■이벤트 랭킹
+이벤트 포인트를 획득하여 이벤트 랭킹에 참가할 수 있습니다.
+이벤트 포인트를 최대한 많이 획득하여, 이벤트 종료 시에 상위 랭킹에 입상할 경우
+순위에 따라 이벤트 랭킹 한정 칭호 등의 다양한 아이템을 보상으로 받으실 수 있습니다.
+랭킹 보상은 이벤트 종료 후 1일 이내에 선물 박스로 발송됩니다.
+■이벤트 연동 할일 리스트
+이벤트 기간 중에는 이벤트 연동식으로 할일 리스트가 추가됩니다.
+할일 리스트를 달성하면 기어 조각과 이벤트 전용 칭호 등의 다양한 아이템을 획득할 수 있습니다.
+■박스 뽑기 코인
+캠핑 종료 시에 획득한 이벤트 포인트와 비례하여 박스 뽑기 코인을 획득할 수 있습니다.
+그렇기에 이벤트 보너스 및 AP 2배 설정 적용 여부에 따라 이벤트 포인트 획득량이 증가하면
+그에 따라 박스 뽑기 코인의 획득량도 함께 증가합니다.
+또한, 유루 패스 무료 체험 기간 내, 혹은 유루 패스(7일), 유루 패스(30일) 구매 후 효과 기간 내일 경우에도 박스 뽑기 코인 획득량이 2배로 증가합니다.
+박스 뽑기 코인은 럭키 박스 뽑기에 사용하실 수 있습니다.
+■럭키 박스 뽑기
+이벤트 페이지를 통해 럭키 박스 페이지로 이동할 수 있습니다.
+해당 페이지에서는 박스 뽑기 코인을 소비하여 럭키 박스 뽑기를 플레이할 수 있습니다.
+럭키 박스 뽑기를 플레이할 시 1회 뽑기당 30개의 경품 중 하나를 획득하게 됩니다.
+당첨 품목에는 기어 설계도 조각 등의 귀중한 아이템이 전시되어 있으니, 빠짐없이 모두 획득하시는 것을 권장합니다.
+당첨 품목의 경품을 모두 획득하면 현재 박스를 리셋하고 다음 박스로 교체할 수 있습니다.
+만약 4번째 박스 단계에서 리셋하였을 경우, 5번째 박스부터는 전부 4번째 박스의 구성을 계속 반복하는 식으로 보상이 제공됩니다.
+■기어 설계도 조각・요리 레시피 조각
+이벤트에서는 이벤트 한정 기어 및 요리 조각이 보상으로 제공되는 경우가 있습니다.
+이러한 조각들은 레어리티 R의 경우 2개, SR의 경우 3개를 모으고 제작 화면으로 이동했을 때
+기어 설계도, 요리 레시피가 완성됩니다.
+■다른 색의 기어・요리
+이번 이벤트에서 획득 가능한 비치볼, 트로피컬 주스는
+제작했을 때 초성공이 발생했을 경우, 기존과 다른 색의 특별한 아이템을 입수할 수 있습니다."
+70206	遊び方ガイド	遊戲指南	How to Play Guide	게임 방법 가이드
 70207	"イベント開催中にキャンプをプレイするとイベントポイントを獲得できます。
 イベントポイントを集めることでイベント限定ストーリーが開放されたり、
-ここでしか手に入らないイベント限定報酬などが獲得できます。"
+ここでしか手に入らないイベント限定報酬などが獲得できます。"	"在舉辦活動時去露營就能獲得活動點數。
+蒐集到的活動點數可以用來解放活動限定故事，
+或用來獲得活動限定的報酬。"	"Earn event points by camping during the event.
+Collecting event points allows you to unlock stories and rewards
+limited to the event."	"이벤트 개최 중에 캠핑을 완료하여 이벤트 포인트를 획득하세요.
+이벤트 포인트를 모으면 이벤트 한정 스토리를 해방하거나
+이벤트 한정 보상 등을 획득할 수 있습니다."
 70208	"イベントボーナスを持つコスチュームやサポートカードを所持していると、
 キャンプ終了時に獲得できるイベントポイントの獲得量がアップします。
-さらに「ボックスガチャコイン」の獲得量もアップします。"
+さらに「ボックスガチャコイン」の獲得量もアップします。"	"只要有附有活動額外效果的服裝和輔助卡，
+在露營結束時獲得的活動點數就會變多。"	"Having costumes or support cards that give event bonuses increases
+the amount of event points earned for camping."	"이벤트 보너스가 포함된 코스튬과 서포트 카드를 소지하면
+캠핑 종료 시에 획득 가능한 이벤트 포인트의 양이 증가합니다."
 70209	"キャンプをプレイするとイベントポイントの他にボックスガチャコインが獲得できます。
 「ゆるパス」を購入しているとボックスガチャコイン獲得量が2倍になります。
-ラッキーボックスガチャで使用すると様々なアイテムが獲得できます。"
+ラッキーボックスガチャで使用すると様々なアイテムが獲得できます。"	"露營後除了活動點數之外還能獲得抽獎箱轉蛋幣。
+當有購買「搖曳通行證」時將能夠獲得2倍的抽獎箱轉蛋幣。
+將該幣用來抽幸運箱轉蛋就能獲得各式各樣的道具。"	"When you go camping, you will earn Box Gacha Coins and event points.
+Purchase the Laid-Back Pass to double the Box Gacha Coins earned!
+These coins can be used in the Lucky Box Gacha for all sorts of rewards."	"캠핑을 완료하면 이벤트 포인트 외에도 박스 뽑기 코인을 모을 수 있습니다.
+""유루 패스"" 구매 후 효과 기간 내일 경우 박스 뽑기 코인 획득량이 2배로 증가합니다.
+박스 뽑기 코인을 사용하여 ""럭키 박스 뽑기""를 플레이하고 다양한 아이템을 획득하세요."
 70210	"イベントポイントを獲得するとイベントランキングに参加できます。
 イベントポイントを多く獲得して、イベント終了時に上位に入賞すると
-順次に応じた様々なアイテムが獲得できます。"
+順次に応じた様々なアイテムが獲得できます。"	"可參加能夠獲得活動點數的活動排名。
+當獲得了大量活動點數，並於活動結束時進入前段名次時，
+就能依照排名來獲得多種道具。"	"Earn event points to take part in the event rankings.
+The more points you earn and the higher in the ranks you climb,
+the better items you'll obtain at the end of the event!"	"이벤트 포인트를 획득하여 이벤트 랭킹에 참가할 수 있습니다.
+이벤트 포인트를 최대한 많이 획득하여, 이벤트 종료 시에 상위 랭킹에 입상할 경우
+순위에 따라 다양한 아이템을 보상으로 받으실 수 있습니다."

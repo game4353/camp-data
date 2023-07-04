@@ -1,25 +1,25 @@
-id	GuildText
-1001	リーダー
-1002	サブリーダー
-1003	部長
-1004	副部長
-1005	隊長
-1006	副隊長
-1007	団長
-1008	副団長
-1009	将軍
-1010	副将軍
-1011	daily mission
-1012	weekly mission
-2001	ルーキー
-2002	ブロンズ
-2003	シルバー
-2004	ゴールド
-2005	プラチナ
-2006	ダイアモンド
-2007	マスター
-2008	レジェンド
-5001	グルキャン1
-5002	グルキャン2
-5003	グルキャン3
-5004	グルキャン４
+id	ja	zh-TW	en	ko
+1001	リーダー	隊長	Leader	리더
+1002	サブリーダー	副隊長	Vice Leader	서브 리더
+1003	部長	部長	Chief	부서장
+1004	副部長	副部長	Vice Chief	부부장
+1005	隊長	隊長	Captain	대장
+1006	副隊長	副隊長	Vice Captain	부대장
+1007	団長	團長	Commander	단장
+1008	副団長	副團長	Vice Commander	부단장
+1009	将軍	將軍	General	장군
+1010	副将軍	副將軍	Vice General	부사령관
+1011	daily mission	daily mission	daily mission	daily mission
+1012	weekly mission	weekly mission	weekly mission	weekly mission
+2001	ルーキー	新手	Rookie	루키
+2002	ブロンズ	銅	Bronze	브론즈
+2003	シルバー	銀	Silver	실버
+2004	ゴールド	金	Gold	골드
+2005	プラチナ	鉑金	Platinum	플래티넘
+2006	ダイアモンド	鑽石	Diamond	다이아몬드
+2007	マスター	大師	Master	마스터
+2008	レジェンド	傳奇	Legend	레전드
+5001	グルキャン1	團體露營1	Group Camp1	그룹 캠핑1
+5002	グルキャン2	團體露營2	Group Camp2	그룹 캠핑2
+5003	グルキャン3	團體露營3	Group Camp3	그룹 캠핑3
+5004	グルキャン４	團體露營４	Group Camp4	그룹 캠핑４

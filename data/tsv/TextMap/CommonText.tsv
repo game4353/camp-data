@@ -1,26 +1,26 @@
-id	CommonText
-1	えーっと　今日の予定は…
-2	さて　どれからやろうかな？
-3	どうしよう
-4	なにしよう…
-5	まずは　あれかなぁ
-6	えっと　次にやること…
-7	どうしようかな
-8	何をしようかな…
-9	うーん　何しようかな…
-10	次　どうしよっかな
-11	どうするかな
-12	どうしたもんかなぁ
-13	うーん　次は何をするかだな
-14	どうすっかなー
-15	面白いことねーかなー
-16	どないしよか…
-17	さて　どないしよ
-18	やりたいことは　いろいろあるんよね
-19	んー　何しよかー
-20	迷ってまうなー
-21	どうしよう
-22	どうしようかな
-23	うーん　迷うね
-24	何をしようかなぁ
-25	どうしよっかな～
+id	ja	zh-TW	en	ko
+1	えーっと　今日の予定は…	我看看呐，今天預定要……	Let's see what I have to do today...	음~ 오늘의 일정은…
+2	さて　どれからやろうかな？	好啦，要先從哪邊開始呢？	Now, where should we start?	그럼, 뭐부터 해볼까?
+3	どうしよう	怎麼辦呢。	What should I do?	어떻게 하지
+4	なにしよう…	要做什麼呢……	What should I do...	뭐 하지…
+5	まずは　あれかなぁ	先做那個好了。	First, I should definitely do that...	일단 그거겠지?
+6	えっと　次にやること…	那個，接下來要做的事……	Alright, next is...	그럼 다음에 할 건…
+7	どうしようかな	該選哪個呢。	Which one should we pick?	어떻게 할까
+8	何をしようかな…	該做什麼呢。	What should I do...	뭘 할까…
+9	うーん　何しようかな…	嗯──要做什麼呢……	Hmm, what should we do...	으음~ 뭘 할까…
+10	次　どうしよっかな	再來該做什麼呢。	What should we do next?	다음엔 어떻게 할까
+11	どうするかな	該怎麼辦呢。	Which should we pick?	어떻게 할까
+12	どうしたもんかなぁ	該怎麼辦呢。	What's wrong?	어떤 게 좋으려나~
+13	うーん　次は何をするかだな	嗯──再來該做什麼好呢。	Hmm, what should I do next?	으음… 다음은 뭘 해야 할까
+14	どうすっかなー	要怎麼辦呢──	What should I do?	어떻게 할까~
+15	面白いことねーかなー	有沒有什麼好玩的事啊──	Anything interesting?	재밌는 일 없을까~
+16	どないしよか…	怎麼辦呢……	What should I do...	우쩌노…
+17	さて　どないしよ	好啦，要怎麼辦呢。	What should I do?	그럼 어떻게 할까
+18	やりたいことは　いろいろあるんよね	有很多想做的事耶。	I have a lot of things I want to do.	하고 싶은 건 많은데
+19	んー　何しよかー	嗯──要做什麼呢──	Hmm, what should I do?	음~ 뭐 허지~
+20	迷ってまうなー	好猶豫啊──	I can't decide...	고민된데이~
+21	どうしよう	怎麼辦呢。	What should I do?	어쩌지
+22	どうしようかな	該選哪個呢。	Which one should we pick?	어떻게 할까
+23	うーん　迷うね	嗯──傷腦筋。	Hmm, what should I do...	으음… 고민되네
+24	何をしようかなぁ	要做什麼好呢。	What should I do...	뭘 할까?
+25	どうしよっかな～	要怎麼辦呢～～	What to do next?	어떻게 할까~

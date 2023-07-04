@@ -1,12 +1,12 @@
-id	AttributeText
-1	0
-2	つながり+1
-3	まんぞく+1
-4	いごこち+1
-5	ぬくもり+1
-6	いやし+1
-7	キャンプ開始時のつながりが+1される
-8	キャンプ開始時のまんぞくが+1される
-9	キャンプ開始時のいごこちが+1される
-10	キャンプ開始時のぬくもりが+1される
-11	キャンプ開始時のいやしが+1される
+id	ja	zh-TW	en	ko
+1	0	0	0	0
+2	つながり+1	關係+1	Relationship+1	관계+1
+3	まんぞく+1	滿足+1	Satisfaction+1	만족+1
+4	いごこち+1	舒適+1	Coziness+1	쾌적함+1
+5	ぬくもり+1	溫暖+1	Warmth+1	따뜻함+1
+6	いやし+1	治癒+1	Healing+1	치유+1
+7	キャンプ開始時のつながりが+1される	露營開始時的關係+1	Relationship at camp start increases by +1	캠핑 시작 시 관계 +1 증가
+8	キャンプ開始時のまんぞくが+1される	露營開始時滿足+1	Satisfaction at camp start increases by +1	캠핑 시작 시 만족 +1 증가
+9	キャンプ開始時のいごこちが+1される	露營開始時的舒適+1	Coziness at camp start increases by +1	캠핑 시작 시 편안함+1 증가
+10	キャンプ開始時のぬくもりが+1される	露營開始時的溫暖+1	Warmth at camp start increases by +1	캠핑 시작 시 따뜻함+1 증가
+11	キャンプ開始時のいやしが+1される	露營開始時的治癒+1	Healing at camp start increases by +1	캠핑 시작 시 치유 +1 증가

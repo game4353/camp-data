@@ -1,2960 +1,6704 @@
-id	HomeText
+id	ja	zh-TW	en	ko
 1	"ふぁあ……
-おはよー"
+おはよー"	"呼啊……
+早安──"	"*yawn*
+Gooood morning!"	"흐아암……
+좋은 아침~"
 2	"オムライスって
-日本生まれなんだよね"
-3	えーっと　今日の予定は…
+日本生まれなんだよね"	"蛋包飯啊
+是從日本起源的喔。"	"Omelette rice came from Japan,
+right?"	"오므라이스는
+일본에서 발명한 요리래"
+3	えーっと　今日の予定は…	我看看呐，今天預定要……	Let's see what I have to do today...	음~ 오늘의 일정은…
 4	"お昼ごはん
-おいしかったよー"
+おいしかったよー"	"午餐
+很好吃喔──"	Lunch was so good!	"점심밥
+맛있었어~"
 5	"昔々　あるところに
 なでしこという女の子が
-おったんじゃ…"
+おったんじゃ…"	"很久很久以前，在某個地方
+有個名叫
+撫子的女孩子……"	"A long time ago, in a faraway
+place, there once lived a girl
+named Nadeshiko..."	"옛날 옛날에 어떤 곳에
+나데시코라는 여자애가
+있었지…"
 6	"あれって　もしかして…
-タケノコ！？"
+タケノコ！？"	"那個該不會……
+是竹筍耶！？"	"Hey...
+Are these bamboo shoots?!"	"저거 혹시…
+죽순 아니야!?"
 7	"日が長く
-なりましたなぁ…"
+なりましたなぁ…"	"白天開始
+變長了呢……"	The days are so long...	"날이
+길어졌구만요…"
 8	"春野菜を使った　ごはん
-いかがでしょーか？"
+いかがでしょーか？"	"要不要吃用春天蔬菜
+做的料理啊？"	"I'm making rice with spring
+veggies... Want some?"	"봄 채소로 만든 요리
+어떠신가요~?"
 9	"夕日を見ながら
-まったりしよー"
+まったりしよー"	"一起看著夕陽
+悠閒一下吧──"	"Watching the sunset feels
+so serene."	"노을을 보면서
+느긋하게 있자~"
 10	"まだ　夜は冷えるから…
 じゃーん！
-カイロを持ってきました！"
+カイロを持ってきました！"	"晚上啊，還有一點涼……
+鏘──！
+我有帶暖暖包喔！"	"It's still pretty cold at
+night... Ta-da! I brought heat
+packs!"	"아직 밤에는 쌀쌀하니까…
+짠~!
+핫팩을 가져왔어요!"
 11	"焚き火見てたら
-眠くなってきた…"
+眠くなってきた…"	"盯著篝火看啊
+就開始睏了耶……"	"Staring at the campfire
+makes me sleepy..."	"모닥불을 보고 있으니
+갑자기 잠이 와…"
 12	"ひゃあーっ
-ランタンに　おっきい虫！"
+ランタンに　おっきい虫！"	"呀啊──
+燈上面有好大隻的蟲！"	"Eeeek! There's a gigantic bug
+flying around the lantern!"	"꺄악~!
+랜턴에 큰 벌레가 있어!"
 13	"朝から
-あっつーい…"
-14	日陰に移動しようかな
-15	スイカ冷えてるよー
+あっつーい…"	"一大早而已
+就好熱喔……"	"It's been scorching since
+morning..."	"아침부터
+더워…"
+14	日陰に移動しようかな	我們去樹陰底下吧。	Let's move to the shade...	그늘로 이동할까
+15	スイカ冷えてるよー	西瓜冰涼了喔──	Watermelon is so refreshing!	수박 차갑게 해뒀어~
 16	"流しそうめん
-やってみたいなー"
+やってみたいなー"	"我想試試看
+流水麵線耶──"	"I want to try catching flowing
+noodles!"	"나가시소멘
+하고 싶다~"
 17	"クーラーボックスに
 アイスが入ってるよー
-みんなで食べよう！！"
+みんなで食べよう！！"	"保冷箱裡面
+有放冰淇淋喔──
+大家一起吃吧！！"	"There's ice cream in the
+cooler for everyone!"	"아이스 박스에
+아이스크림이 들어있어~
+다 같이 먹자!!"
 18	"カヌー体験かー
-おもしろそう！"
+おもしろそう！"	"體驗划獨木舟啊──
+好像很好玩耶！"	"Canoeing?
+Sounds fun!"	"카누 체험이라~
+재밌을 거 같아!"
 19	"お待ちかねの晩ごはんは…
-焼肉です！！"
-20	日が傾くと涼しくなるね
+焼肉です！！"	"讓大家久等的晚餐呢……
+是烤肉喔！！"	"The dinner that you've all been
+waiting for... Grilled meat!"	"고대하던 저녁밥은…
+야키니쿠입니다!!"
+20	日が傾くと涼しくなるね	太陽一下山就開始變冷了呢。	"It's much cooler when the sun
+goes down."	날이 저물면 선선해지네~
 21	"温泉でさっぱりしたのに
-また　汗かいてきちゃったよー"
+また　汗かいてきちゃったよー"	"才在溫泉泡得舒舒爽爽而已
+現在又流汗了啦──"	"I just refreshed myself in the
+hot springs, but now I'm sweaty
+again..."	"온천에서 개운하게 씻었는데
+또 땀이 나버렸어~"
 22	"あきちゃんの
 シュワシュワモクテル
-暑い夜にぴったりだねぃ"
-23	星が綺麗に見えるね
-24	あっ　ホタルだー
+暑い夜にぴったりだねぃ"	"小明調的
+氣泡無酒精調酒
+在悶熱的晚上喝最適合了。"	"Aki-chan's Fresh Bubbly Mocktail
+is perfect for hot evenings!"	"아키의 톡톡 쏘는
+무알콜 칵테일은
+더운 밤에 딱이네~"
+23	星が綺麗に見えるね	星星看起來好漂亮喔。	You can see the stars so clearly.	별이 깨끗하게 잘 보여
+24	あっ　ホタルだー	啊，有螢火蟲耶──	Hey look, fireflies!	앗, 반딧불이다~
 25	"炊き立てのご飯って
-いいにおいだよねえ"
+いいにおいだよねえ"	"剛煮好的飯
+聞起來好香喔。"	"The freshly-made rice smells
+so good, right?"	"모닥불로 지은 밥에선
+좋은 냄새가 나"
 26	"コーンスープ
-作っちゃおうかな"
-27	落ち葉　ふみふみ…
+作っちゃおうかな"	"要不要來做
+玉米濃湯呢。"	"Shall I make some cream of
+corn soup?"	"콘 수프를
+만들어볼까"
+27	落ち葉　ふみふみ…	落葉堆，我踩我踩……	"The leaves are fluttering down
+one after the other..."	낙엽을 꾹꾹…
 28	"このきのこ
-食べられるのかな？"
+食べられるのかな？"	"這個香菇
+能不能吃啊？"	"Can you eat this mushroom,
+I wonder?"	"이 버섯
+먹을 수 있을까?"
 29	"オリジナルのランタン
-つくってみようかなぁ"
-30	薪準備　よーし！！
+つくってみようかなぁ"	"我來做看看
+原創的燈好了。"	I'll try making my own lantern!	"오리지널 랜턴을
+만들어 볼까?"
+30	薪準備　よーし！！	柴火準備，完了──！！	Firewood is all ready!	땔감 준비 완료!!
 31	"秋って
 おいしいものが
-いっぱいあるよねー"
+いっぱいあるよねー"	"秋天啊
+會友很多很多
+好吃的東西唷──"	"There are so many delicious
+things to eat during autumn!"	"가을엔
+맛있는 음식이
+잔뜩 있지~"
 32	"黄金色のススキが
-ゆらゆら　揺れてるよー"
+ゆらゆら　揺れてるよー"	"黃金色的芒草
+被風吹得搖啊搖啊的──"	"Isn't it strange how it's called
+silver grass, but looks gold?"	"황금빛 억새가
+하늘하늘 흔들거려~"
 33	"アウトドア実験料理…
-スタート！"
+スタート！"	"戶外活動的實驗料理……
+開始！"	"Experimental outdoor cooking
+commence!"	"아웃도어 실험 요리…
+스타트!"
 34	"見て見て
-大きいお月さまだー"
+大きいお月さまだー"	"快看快看
+月亮好大喔──"	"Look at that!
+The moon is huge!"	"저것 봐
+커다란 달님이야~"
 35	"ああっ！
-もしかしてガス缶　空かも…"
-36	リーンリーン…
+もしかしてガス缶　空かも…"	"糟了！
+瓦斯罐好像是空的……"	"Oh no!
+I think the gas can is empty..."	"앗!
+혹시 가스를 다 썼나…"
+36	リーンリーン…	鈴──鈴──……	Chirp, chirp...	린~ 린…
 37	"おはよー
-朝ごはん　できてるよー"
-38	あっ　しもばしら！
+朝ごはん　できてるよー"	"早安──
+早餐做好了喔──"	"Good morning!
+Breakfast is ready!"	"좋은 아침~
+아침밥 다 됐어~"
+38	あっ　しもばしら！	啊，是霜柱耶！	Whoa, it's frost!	앗, 서릿발이야!
 39	"ハンディカイロ
-借りてよかったー"
+借りてよかったー"	"還好有借
+暖暖包──"	"Glad I brought this portable
+heater!"	"휴대용 손난로
+빌리길 잘했어~"
 40	"ビーフ100％のハンバーグを
-じっくりあっためて…"
+じっくりあっためて…"	"把這個100％牛肉做的漢堡排
+好好地熱一下……"	"Heat up this 100% beef hamburg
+slowly..."	"소고기 100%의 햄버그를
+천천히 데워서…"
 41	"ブランケットは
 ぬくいのう…ほれ
-みんなも包まるのじゃ"
+みんなも包まるのじゃ"	"毛毯實在
+太暖和了……來，
+大家也一起包起來吧。"	"Blankets are warm...
+Here, it wraps everyone up."	"블랭킷은 따뜻하구나…
+자, 얘들아
+너희도 감아보거라~"
 42	"あぶったマシュマロで…
-スモア！"
+スモア！"	"把棉花糖烤一下後……
+就能吃棉花糖餅乾了！"	"Toasted marshmallows
+makes s'mores!"	"구운 마시멜로로…
+스모어!"
 43	"お鍋を作るコツ？
 切って　ぶちこんで
-煮るだけだよ"
+煮るだけだよ"	"煮火鍋的技巧？
+就只是切一切丟進去
+然後煮而已唷。"	"Is there a trick to making
+hotpot? Just cut 'em up and
+boil!"	"전골 만드는 요령?
+자른 뒤 다 넣어서
+끓이기만 하면 돼"
 44	"暗くなってきたから
-ランタンつけようか"
-45	もう　真っ暗だー
+ランタンつけようか"	"開始暗下來了，
+點個燈吧。"	"It's getting pretty dark.
+Shall we light the lantern?"	"어두워졌으니
+랜턴을 켤까?"
+45	もう　真っ暗だー	吼～～四周全黑了──	It's already pitch black.	벌써 새까매졌어
 46	"ランプの灯り
-ずっと見ていられるねぃ"
+ずっと見ていられるねぃ"	"可以這樣盯著露營燈看
+都不會看膩喔。"	"The light of the lantern is
+so mesmerizing."	"램프 불빛은
+계속 바라보게 되네"
 47	"お鍋って
 お野菜もたっぷり摂れて
-栄養満点だね"
-48	星がきれいだなー
+栄養満点だね"	"吃火鍋可以吃到
+很多蔬菜，營養滿分喔。"	"There are tons of veggies in the
+hotpot. It's super healthy!"	"전골은 채소까지 잔뜩
+먹을 수 있으니 영양 만점이지"
+48	星がきれいだなー	星星好漂亮喔──	The stars are so pretty.	별이 예쁘다~
 49	"まったりキャンプ
-たのしいねぃ"
+たのしいねぃ"	"悠閒的露營
+讓人好開心喔。"	Relaxing camp is so lovely.	"느긋한 캠핑
+재밌네~"
 50	"ご当地食材って
 なんでこんなに
-おいしいのかなー"
+おいしいのかなー"	"這些當地食材啊，
+為什麼會
+這麼好吃啊──"	"Local ingredients always
+taste the best!"	"지역 식자재는
+왜 이렇게
+맛있는 걸까~"
 51	"炭火でじっくり焼くと
-なんでも　おいしくなるねー"
+なんでも　おいしくなるねー"	"用炭火慢慢地烤過後，
+不管是什麼都會變得很好吃呢──"	"Grilling anything over charcoal
+makes it instantly delicious!"	"숯불로 천천히 구우면
+뭐든지 맛있어지지~"
 52	"あっちの方
-散策してくるねー"
+散策してくるねー"	"那我就去那邊
+散一下步喔──"	"I'll take a little stroll over
+there."	"저쪽에서
+산책 좀 하고 올게~"
 53	"なんか　おもしろい
-動画あるかなー？"
+動画あるかなー？"	"有沒有什麼
+有趣的影片呢──？"	What's good to watch nowadays?	"뭐 재밌는
+영상 없을까~?"
 54	"お出かけすると
 ついついお土産
-買っちゃうよねえ"
+買っちゃうよねえ"	"每次出門啊，
+都會忍不住
+買一些土產呢。"	"Whenever I go out, I end up
+buying souvenirs."	"외출하면
+나도 모르게 기념품을
+사버리게 돼"
 55	"これから作るごはん
-さらにアレンジしたいな"
-56	いま　何時かな？
+さらにアレンジしたいな"	"以後做料理啊，
+還想再多試一些翻新食譜呢。"	"I'm going to upgrade this
+meal!"	"이제부터 만들 요리를
+더 어레인지 해보고 싶어"
+56	いま　何時かな？	現在幾點了？	What time is it now?	지금 몇 시지?
 57	"もぐもぐ…　はっ！
-最後のいっこになっちゃった！"
-58	-
+最後のいっこになっちゃった！"	"咀嚼咀嚼……啊！
+剩下最後一個了！"	"Nom nom nom...
+Aaah! I'm down to the last one!"	"우물우물… 헉!
+하나 밖에 안 남았어!"
+58	-			
 59	"リンちゃん
 おたんじょうび　おめでとう！
-プレゼントは　何がいいかな"
+プレゼントは　何がいいかな"	"小凜
+祝妳生日快樂！
+妳想要什麼禮物呢？"	"Rin-chan, happiest birthday
+to you! What do you want for
+a present?"	"린
+생일 축하해!
+선물은 뭐가 좋을까?"
 60	"あきちゃん
 おたんじょうび　おめでとう！
-ケーキ　後で食べてね"
+ケーキ　後で食べてね"	"小明
+祝妳生日快樂！
+蛋糕妳待會吃吧。"	"Aki-chan, happy happy birthday!
+I prepared a cake for later!"	"아키
+생일 축하해!
+이따가 케이크 먹어"
 61	"あおいちゃん
 おたんじょうび　おめでとう！
-これからも　よろしくね"
+これからも　よろしくね"	"小葵
+祝妳生日快樂！
+今後也請妳多指教喔。"	"Aoi-chan, happy birthday!
+Best wishes for the year to come!"	"아오이
+생일 축하해!
+앞으로도 잘 부탁해"
 62	"恵那ちゃん
 おたんじょうび　おめでとう！
-これからも　なかよくしてね"
+これからも　なかよくしてね"	"小惠那
+祝妳生日快樂！
+我們之後也是好朋友喔。"	"Ena-chan, happy birthday!
+Hope we can hang out lots
+this coming year!"	"에나
+생일 축하해!
+앞으로도 사이좋게 지내자"
 63	"ハッピーバースデートゥーユー
-おめでとー！"
+おめでとー！"	"Happy Birthday to you
+恭喜妳──！"	"Happy birthday to you!
+Congrats!"	"해피 버스데이 투 유~
+축하해~!"
 64	"あけましておめでとう
 いい年になりますように
-さあ　今年の抱負をどうぞ！"
+さあ　今年の抱負をどうぞ！"	"新年快樂
+希望今年也是個好年
+來，說說妳今年的抱負吧！"	"Happy new year! Wishing for
+a great year ahead. Any new
+year's resolutions?"	"새해 복 많이 받아
+좋은 한 해가 되기를 바라
+자, 올해의 포부는 뭔가요!"
 65	"ハッピーバレンタイン
 今日のキャンプごはんは…
-チョコレートスペシャルです！"
+チョコレートスペシャルです！"	"情人節快樂
+今天的露營餐是……
+特製巧克力哦！"	"Happy Valentine's Day! Today's
+camping meal is...the Chocolate
+Special!"	"해피 발렌타인
+오늘의 캠핑 요리는…
+초콜릿 스페셜입니다!"
 66	"ふじさん
 これからも　ずっと
-だいすきだよ…！"
+だいすきだよ…！"	"富士山
+從今以後我也是
+最喜歡你了唷……！"	"I love you forever and always,
+Mount Fuji!"	"후지산…
+앞으로도 계속
+좋아할 거야…!"
 67	"ホワイトデーといえば
 マシュマロ！
-スモア…また　食べたいな"
+スモア…また　食べたいな"	"說到白色情人節
+就是要吃棉花糖！
+我還想再吃一次棉花糖餅乾呢。"	"Speaking of White Day... Marshmallows.
+I'd love to have some right now."	"화이트데이하면
+마시멜로지!
+스모어… 또 먹고 싶다"
 68	"ハッピーハロウィン！
 今日のごはんは
-ホラーな盛り付けだよ"
+ホラーな盛り付けだよ"	"萬聖節快樂！
+今天的料理
+我裝飾得很嚇人喔。"	"Happy Halloween! Today's dish will
+be horror-themed!"	"해피 할로윈!
+오늘의 식사는
+호러 느낌으로 담아봤어"
 69	"明日はクリスマス！
 スペシャルメニューの仕込み
-がんばるぞー！"
+がんばるぞー！"	"明天是聖誕節！
+現在在準備特別菜色呢
+我要大展身手囉──！"	"Tomorrow is Christmas Day! I'll
+have to give it my all to make a
+special meal!"	"내일은 크리스마스!
+스페셜 메뉴 준비
+힘내야지~!"
 70	"みんなと一緒に
 キャンプしながらの
-クリスマス　たのしいね"
+クリスマス　たのしいね"	"跟大家一起
+出來露營
+一邊慶祝聖誕節，好開心喔。"	"I can't wait to spend Christmas
+camping with everyone!"	"모두와 함께
+캠핑하며 보내는
+크리스마스, 즐거워"
 71	"今年も一年
 お世話になりました
-来年も　よろしくね"
+来年も　よろしくね"	"今年也受妳照顧
+一整年了
+明年也請多指教喔。"	"Thank you for the past year. Looking
+forward to spending the next year
+with you again!"	"올 한 해도
+신세 많이 졌습니다
+내년도 잘 부탁해"
 72	"あっちのほうから
-楽しそうな声がする！"
+楽しそうな声がする！"	"我聽到那邊傳來
+很開心的聲音喔！"	"Sounds like someone's having
+a ton of fun!"	"저쪽에서
+재밌을 것 같은 소리가 나!"
 73	"一周年　おめでとう！
 ぐんぐん　キャンプレベルが
-上がってる気がするよー"
-74	……
-75	むにゃむにゃ…うふふー…
-76	ふー 落ち着くなー
-77	ちょっと ひと息…
-78	よいしょ
-79	うん いい感じだねぃ
-80	おいしくなあれー
-81	よーし！
-82	お茶の時間が楽しみだな
-83	準備おっけー！
-84	お湯を沸かすよ
-85	はー　おいしい！
-86	落ち着くねぃ
-87	ん～　かわいいなぁ
-88	雰囲気出るねぃ
-89	明るいねー
-90	ばっちり！使いやすいねぃ
-91	気をつけて使おう
-92	点火！
-93	ずっと見ていたくなるね
-94	うんうん　いい調子
-95	あったかいねぃ
-96	ぐっすり眠れそうだよー
-97	シュラフむしだよ
-98	ごろごろ…
-99	ん～ しあわせだー
-100	おいしいね
-101	混ぜ混ぜ…
-102	さいっこうにかわいいねぃ！
+上がってる気がするよー"	"一周年快樂！
+感覺露營等級
+成長了很多唷──"	"Happy one-year anniversary! I feel
+like I'm getting better and better
+at camping!"	"1주년 축하해!
+캠핑 레벨이 쑥쑥
+오르는 느낌이야~"
+74	……	……	...	……
+75	むにゃむにゃ…うふふー…	姆拿姆拿……唔呼呼──……	Mmm nom nom... Hahahah...	음냐음냐… 으흐흐~
+76	ふー 落ち着くなー	呼──好放鬆喔──	Ahh, so comfy...	흐아~ 여유롭다~
+77	ちょっと ひと息…	稍微、休息一下……	I'll just take a tiny rest.	잠시 한숨 돌리고…
+78	よいしょ	嘿唷。	Hup!	영차
+79	うん いい感じだねぃ	嗯，感覺不錯唷。	Alright, looks good!	응, 느낌이 좋네
+80	おいしくなあれー	變好吃吧──	I hope this is yummy!	맛있어져라~
+81	よーし！	好──！	Let's do this!	좋~아!
+82	お茶の時間が楽しみだな	好期待下午茶時間喔。	I love tea time!	티타임이 기다려져
+83	準備おっけー！	準備好了──！	Ready!	준비 오케이~!
+84	お湯を沸かすよ	我來燒開水喔。	I'll boil some water.	물을 끓일게
+85	はー　おいしい！	哈──好好吃喔！	Fwah! This tea is so good!	하아~ 맛있다!
+86	落ち着くねぃ	好悠閒喔──	It makes me so relaxed...	노곤하네~
+87	ん～　かわいいなぁ	嗯～～好可愛喔。	Oooh, so cute!	음~ 귀엽다~
+88	雰囲気出るねぃ	有那個氣氛了耶。	It's glowing.	분위기 나네~
+89	明るいねー	好亮喔──	It's so bright.	밝네~
+90	ばっちり！使いやすいねぃ	完美！這好好用喔。	Perfect! This is so easy to use.	완벽해! 쓰기 편하네~
+91	気をつけて使おう	小心點使用吧。	I need to be careful with this.	조심히 쓰자
+92	点火！	點火！	Light it up!	점화!
+93	ずっと見ていたくなるね	好想要一直盯著看喔。	Makes me want to stare at it forever.	계속 보고 있고 싶어
+94	うんうん　いい調子	嗯嗯，狀況不錯呢。	Pretty nice lookin' fire.	응 응, 순조로워
+95	あったかいねぃ	好暖和喔。	So warm!	따뜻하네~
+96	ぐっすり眠れそうだよー	看來可以睡得很沉呢──	I think I'll sleep well tonight.	푹 잘 수 있을 거 같아~
+97	シュラフむしだよ	是睡袋蟲喔。	I'm a burrito.	침낭 애벌레야
+98	ごろごろ…	滾啊滾……	Mmm...	데굴데굴…
+99	ん～ しあわせだー	嗯～～好幸福喔──	Mmm... I'm so happy...	음~ 행복해~
+100	おいしいね	很好吃呢。	So yummy!	맛있네
+101	混ぜ混ぜ…	攪啊攪……	Mix it up, mix it up...	휘릭휘릭…
+102	さいっこうにかわいいねぃ！	真是超級可愛的耶！	Who's the goodest boy?	최~고로 귀엽다~!
 103	"よーし
-一緒に走るよー！"
-104	おいでー！
+一緒に走るよー！"	"好──
+那一起跑吧──！"	"Follow me!
+Let's run!"	"좋아~
+함께 달리자~!"
+104	おいでー！	快過來──！	This way!	이리 와~!
 105	"ローテーブルにぴったりで
-いいチェアだよねぃ"
+いいチェアだよねぃ"	"是能剛好配這張矮桌
+的好椅子唷。"	"This chair is perfect for
+a low table."	"로우 테이블에 딱 맞는
+좋은 의자네~"
 106	"リンちゃんのを見てたら
-私も欲しくなっちゃったんだよー"
+私も欲しくなっちゃったんだよー"	"看了小凜妳的後
+我自己也想要了──"	"When I saw the one Rin-chan had,
+I wanted one too."	"린 걸 보니까
+나도 갖고 싶어졌어~"
 107	"ゆーらゆーら
-きもちいいねぃ"
-108	この形がかわいいんだよねぃ
+きもちいいねぃ"	"搖──來──搖──去──
+好舒服喔。"	"Swaying this way and that...
+Feels nice."	"흔들~ 흔들~
+기분 좋아~"
+108	この形がかわいいんだよねぃ	這個形狀很可愛對不對。	This is pretty cute.	이 모양이 귀엽단 말이지~
 109	"これに入れて煮たら
-なんでもおいしくできるんだよ"
+なんでもおいしくできるんだよ"	"加這個進去煮的話
+不管是什麼都會變很好吃喔。"	"If you add this in to any pot,
+it'll be delicious."	"여기에 넣어서 끓이면
+뭐든지 맛있어져"
 110	"肉まんみたいに
 あんまんを挟んで焼いたら
-どうかなぁ？"
+どうかなぁ？"	"那就像夾肉包一樣
+試著夾豆沙包
+來烤看看怎麼樣？"	"How would it taste if I use red
+bean with meat bun buns?"	"고기만두처럼
+찐빵을 끼워서 구우면
+어떨까?"
 111	"アメリカンワッフルと
 ベルギーワッフルがあるんだ
-今度　食べ比べしよう！"
+今度　食べ比べしよう！"	"有美式鬆餅
+跟比利時鬆餅喔。
+改天一起吃來比較看看吧！"	"Let's eat both American waffles
+and Belgian waffles to compare
+them!"	"아메리칸 와플과
+벨기에 와플이 있어
+다음에 먹으면서 비교해보자!"
 112	"リンちゃんと
 初めて会った時に
-持ってたランタンだね！"
+持ってたランタンだね！"	"這是第一次
+遇到小凜妳的時候
+帶的那個燈對不對！"	"Rin-chan, this is the lantern
+you had when we first met, right?"	"린과
+처음 만났을 때
+갖고 있었던 랜턴이야!"
 113	"夜道を歩くときの
-心強い味方だよ"
+心強い味方だよ"	"走夜路的時候
+有這個就會放心許多喔。"	"This is my best friend when I
+have to walk through the dark."	"밤길을 걸을 때
+든든한 친구야"
 114	"眺めてると
-心がぽかぽかあったかくなるんだよね"
+心がぽかぽかあったかくなるんだよね"	"像這樣子盯著看
+心靈就會變得暖呼呼的唷。"	"Staring at this makes my heart
+feel warm."	"바라보고 있으면
+마음이 훈훈하고 따뜻해져"
 115	"土鍋をのせても大丈夫！
-安定感ばつぐんだよー"
+安定感ばつぐんだよー"	"把陶鍋放上去也沒問題！
+穩定感十足的喔──"	"You can put earthenware pots
+on top too! It's really stable."	"질냄비를 올려도 괜찮아!
+안정감이 뛰어나거든~"
 116	"このグリルで食べた焼肉
-おいしかったねぃ"
+おいしかったねぃ"	"用這個烤肉架烤出來的肉啊，
+會非常好吃呢。"	"The meat you grill with this
+tastes really good."	"이 그릴로 구워 먹은 야키니쿠
+맛있었지~"
 117	"自転車で走りながらの焼肉…
-夢が膨らむねぃ"
+夢が膨らむねぃ"	"邊騎腳踏車邊吃烤肉……
+這畫面好有夢想喔。"	"Having yakiniku while biking...
+Dreams are endless."	"자전거 타고 달리며 먹는 야키니쿠…
+꿈이 부풀어 오르는걸"
 118	"いつか　この上にお鍋を置いて
-料理をしてみたいなー"
+料理をしてみたいなー"	"之後有一天，想把火鍋
+也放在這上面做料理呢──"	"I want to make hotpot with
+this someday."	"언젠가 이 위에 냄비를 올려두고
+요리해 보고 싶어~"
 119	"あきちゃんの焚き火台
-いつも　お世話になってます！"
+いつも　お世話になってます！"	"真的一直以來
+都受到小明搭的篝火台的關照呢！"	"Thanks as always for your
+campfire stand, Aki-chan."	"아키의 모닥불 화로대
+언제나 신세 많이 지고 있어요!"
 120	"刃の部分が大きいから
-気をつけて扱わないとだね"
+気をつけて扱わないとだね"	"刀刃的範圍很大
+要小心用喔。"	"The blade is really big, so you
+need to be careful."	"칼날 부분이 크니까
+조심히 사용해야 해"
 121	"リンちゃんのお団子に
-こっそり装着…できるかなぁ"
+こっそり装着…できるかなぁ"	"能不能在小凜做的糰子上……
+偷偷弄點裝飾呢？"	"Can I secretly put this on Rin-chan's
+dango?"	"린의 경단에
+몰래 장착… 할 수 있을까?"
 122	"こ　これで
 テントの外の様子を知れるなら
-…じゅ…いや　150回払いで！"
+…じゅ…いや　150回払いで！"	"這、這樣子
+知道帳篷外面的狀況的話
+……分十次……不對，分150次分期！"	"I-If you can find out what's going on
+outside the tent, I'll... I'll give you
+ten—no, fifteen dollars!"	"이걸로
+텐트 밖의 상황을 알 수 있다면
+…10…아니, 150개월 할부로!"
 123	"ふはぁ… 硬くて
-割れにくい薪もあるなぁ"
-124	何を燻製しようかなー
-125	カボチャランタン　かわいいねえ
-126	雪だるま　光ってるー
+割れにくい薪もあるなぁ"	"呼啊……有些木柴
+又硬又難劈呢。"	"Phew... Sometimes it can be
+hard to split firewood."	"흐아… 딱딱해서
+쪼개기 힘든 장작도 있어"
+124	何を燻製しようかなー	要來煙燻什麼好呢──	"Should I make some smoked
+bacon?"	뭘 훈제해 볼까~
+125	カボチャランタン　かわいいねえ	南瓜燈好可愛呢。	This pumpkin lantern is so cute!	호박 랜턴 귀여워~
+126	雪だるま　光ってるー	雪人在發光耶──	This little snowman lights up!	눈사람이 빛나고 있어~
 127	"高級なお肉なだけあって
-口の中でさっと溶けてくよー！"
+口の中でさっと溶けてくよー！"	"真不愧是高級肉
+一放到嘴裡就融化掉了耶──！"	"High-grade beef just melts
+in your mouth!"	"고급 고기라서 그런지
+입 속에서 사르르 녹아~!"
 128	"やっぱり
 タコ様ウインナーって
-呼んでもいいくらいですっ！"
+呼んでもいいくらいですっ！"	"果然哪
+這好吃到
+都可以叫它章魚香腸大人了！"	I like to call them octopus wieners.	"역시
+문어 님 비엔나라고
+불러도 괜찮을 정도예요!"
 129	"具だくさんって
-嬉しくなる響きだねぃ"
+嬉しくなる響きだねぃ"	"滿滿的都是料
+這話聽起來讓人好開心喔。"	"Having a lot of ingredients
+makes me happy!"	"건더기가 많다니
+듣기 좋은 말이네~"
 130	"んん～　身がぷりっぷりで
 香ばしさもあって
-口の中がしあわせだー！"
+口の中がしあわせだー！"	"嗯嗯～～這肉好有彈性
+而且充滿香氣
+滿嘴都是幸福呢──！"	"Mmm, it's so plump and juicy!
+I'm so happy!"	"으음~ 통통하고
+향긋해서
+입 안이 행복해~"
 131	"金目鯛のエキスが
-たーっぷり出てて　おいしいよ"
+たーっぷり出てて　おいしいよ"	"紅金眼鯛的精華
+全都煮出來了，很好吃喔。"	"The flavors of the red bream is
+completely seeped in. So yummy!"	"금눈돔의 육즙이
+잔뜩 배어 나와서 맛있어"
 132	"お頭をじっくり炭火焼にすると
-まるごと食べられるんだって！"
+まるごと食べられるんだって！"	"用炭火連頭都仔細烤過的話
+就整隻都可以吃了喔！"	"If you grill the head over charcoal,
+you can eat it!"	"머리를 천천히 숯불에 구우면
+통째로 먹을 수 있대!"
 133	"器にもこだわった
-見た目もおいしいサラダだね"
+見た目もおいしいサラダだね"	"容器也是特別選的
+光看就很好吃的沙拉呢。"	It's a delicious salad in a fancy bowl!	"그릇에도 신경 써서 그런가
+보기만 해도 맛있는 샐러드네"
 134	"あつあつでカリっとジューシー
-…もういっこ　ください！"
+…もういっこ　ください！"	"一口咬下這熱騰騰又滿滿肉汁的
+……我還要再一份！"	"It's hot, crispy, and juicy inside...
+I'll take one more!"	"따끈따끈하고 바삭하고 육즙이 듬뿍
+…하나 더 주세요!"
 135	"素揚げした野菜を煮込んだ
-とびっきりおいしいカレーだよ"
+とびっきりおいしいカレーだよ"	"這是加了裸炸蔬菜下去熬煮出來的
+特級好吃咖哩喔。"	"Adding deep-fried vegetables
+to curry is delicious!"	"튀겨낸 채소를 졸인
+스페셜하게 맛있는 카레야"
 136	"エクストラエビソースで
-口の中がエビ天国だよ～"
+口の中がエビ天国だよ～"	"加了這個特製蝦子醬
+嘴巴裡就是蝦子天國哦。"	"With extra lobster sauce, the flavors
+are heaven!"	"엑스트라 새우 소스로
+입안이 새우 천국이야~"
 137	"やわらかーいお肉…
-すっごくおいしいよ～！"
+すっごくおいしいよ～！"	"煮得軟嫩的肉……
+真的非常好吃喔～～！"	This tender meat...is too delicious!	"부드러운 고기…
+진짜 맛있다~!"
 138	"はわ～…
 トマトとバジルが入ると
-また違ったおいしさだね！"
+また違ったおいしさだね！"	"哈哇……
+加了番茄跟羅勒進去
+美味就又多一層變化了呢！"	"Mmm...
+Adding tomato and basil
+gives it another dimension of flavor!"	"흐아~
+토마토와 바질을 넣으니
+또 색다르게 맛있네!"
 139	"見た目ほどは辛くないんだよ
-どんどん　食べてね！"
+どんどん　食べてね！"	"吃起來沒有看起來那麼辣喔
+多吃一點吧！"	"It's not as spicy as it looks.
+Have some more!"	"이래 봬도 많이 맵진 않으니까
+많이 먹어!"
 140	"さっぱりした味のお鍋だから
 ぽん酢を足して食べても
-おいしいんだよ～"
+おいしいんだよ～"	"這次的火鍋湯底比較清爽
+加點柚子醋進去
+也很好吃喔～～"	"It's hotpot with a refreshing soup
+base, so it tastes good with ponzu
+sauce too."	"담백한 전골이니까
+폰즈랑 곁들여 먹어도
+맛있어~"
 141	"本栖湖でリンちゃんと食べた
 カレーめん…あの時も
-すっごくおいしかったなぁ"
+すっごくおいしかったなぁ"	"跟小凜一起在本栖湖
+吃的咖哩泡麵……那個時候
+也覺得超級好吃的呢。"	"The curry noodles I ate at Motosuko
+with Rin-chan were really yummy."	"모토스호에서 린과 먹었던
+카레면… 그때도
+엄청 맛있었지~"
 142	"手軽にできて
 とってもおいしいし
-栄養も満点だね！"
+栄養も満点だね！"	"作法很簡單
+而且很好吃
+營養也很豐富呢！"	"It's easy to make, delicious,
+and full of nutrition!"	"만들기도 쉽고
+굉장히 맛있는 데다가
+영양까지 만점이야!"
 143	"あきちゃんの作ってくれた
 本場のほうとう…
-また食べたいなー"
+また食べたいなー"	"小明做的
+道地餺飥麵……
+好想再吃一次喔──"	"I want to have more of that authentic
+hoto made by Aki-chan."	"아키가 만들어줬던
+본고장 호토…
+또 먹고 싶다~"
 144	"シメのチーズパスタ
-濃厚とろーり　おいしすぎる～"
+濃厚とろーり　おいしすぎる～"	"收尾的起司義大利麵
+味道香醇濃厚，實在太好吃了～～"	"The cheese pasta at the end was
+so melty and delicious."	"마무리 치즈 파스타
+진하고 걸쭉하고~ 너무 맛있어~"
 145	"しっかりお出汁に
 贅沢トッピング…
-おなかがしあわせだ～！"
+おなかがしあわせだ～！"	"有濃郁高湯
+加上奢侈配料……
+肚子實在太幸福了～～！"	"All these delicious toppings and a
+great soup base...
+My stomach is happy!"	"제대로 낸 국물에
+토핑도 잔뜩…
+뱃속이 행복해~!"
 146	"ほっとひと息
-落ち着くねー"
+落ち着くねー"	"可以鬆一口氣了
+好悠閒喔──"	"I'll just take a breather.
+So relaxing..."	"살짝 한숨 돌리자
+차분해지네~"
 147	"あったまるねぇ…
-ん～　いい香りだー！"
+ん～　いい香りだー！"	"身子都暖起來了……
+嗯～～味道好香喔──！"	"It looks nice and warm...
+Mmm, so aromatic!"	"따뜻하네…
+음~ 향도 좋아~!"
 148	"この甘さとあったかさ
 冬キャンプはもちろん
-夏キャンプにもぴったりだね"
+夏キャンプにもぴったりだね"	"這個溫熱的甜味
+冬天露營就不用說了
+也很適合夏天露營的時候呢。"	"This sweetness and warmth is perfect
+for both winter and summer camping."	"이 달콤함과 따뜻함
+겨울 캠핑은 물론이고
+여름 캠핑에도 제격이네"
 149	"はー　ほうじ茶
-あったまるのぅ…"
+あったまるのぅ…"	"哈──喝焙茶
+身子都暖起來了……"	Ahh, roasted tea warms me up...	"하~ 호지차
+따뜻하구먼…"
 150	"遠火でじっくり焼いたら…
 はふはふっ…
-ん～　とろりしてて甘いねぇ"
+ん～　とろりしてて甘いねぇ"	"用遠火慢慢地烤一下……
+呼～～呼～～……
+嗯～～軟軟黏黏的又好甜喔。"	"Toast it slowly...
+Fwoo fwoo...
+Mmm, gooey and sweet."	"먼 불에서 천천히 구우면…
+하흐하흐…
+음~ 부드럽고 달콤해"
 151	"リンちゃんが作ってくれた
 スモア　おいしかったなぁ…
-ん～これもうま～っ！"
+ん～これもうま～っ！"	"小凜做的
+棉花糖餅乾好好吃喔……
+嗯～～這個也很好吃～～！"	"The s'mores that Rin-chan makes
+are so good...
+Mmm, this one is good too!"	"린이 만들어 줬던
+스모어, 맛있었어…
+음~ 이것도 맛있어~!"
 152	"フルーツとクリームの
 デコレーション
-とってもかわいいね"
-153	デザート　おいし～い！！
-154	スモークの香りがするー
-155	カレーめん鍋　最強だねぃ
+とってもかわいいね"	"水果跟奶油的
+裝飾
+看起來好可愛喔。"	"The fruit and cream decorations
+are so cute."	"과일과 크림으로
+데코레이션
+정말 예쁘다"
+153	デザート　おいし～い！！	甜點好好吃喔～～！！	The dessert is delicious!	디저트 맛있어~!!
+154	スモークの香りがするー	聞得到煙薰的香味呢──	This smoked aroma smells really good.	스모크 향이 나~
+155	カレーめん鍋　最強だねぃ	咖哩泡麵火鍋，這就是最強組合。	Curry noodle stew is amazing.	카레면 전골은 최강이야~
 156	"チーズがとろけて
-おいし～い！！"
+おいし～い！！"	"起司都融化了
+好好吃喔！！"	"The cheese is all melty.
+Yum!"	"치즈가 녹아서
+맛있어~!!"
 157	"ぷはぁ～！！
-おかわりしちゃおうかな"
+おかわりしちゃおうかな"	"呼哈～～！！
+我還想要再來一碗。"	"Phew!
+I'll think I'll have another cup."	"푸하~!!
+한 그릇 더 먹을까?"
 158	"かまぼことチーズ
-相性ばつぐんだよー！！"
+相性ばつぐんだよー！！"	"魚板配起司
+真的是絕配呢──！！"	"Fish cake and cheese is the ultimate
+combination!"	"어묵과 치즈는
+최고의 궁합이지~!!"
 159	"ジェラート　甘くて冷たくて
-うまーだね"
-160	お城の形　かわいいなあ
-161	クリスマスって感じするね！！
+うまーだね"	"義式冰淇淋，又冰又甜
+很好吃唷。"	Cold and sweet gelato is so good.	"젤라토는 달콤하고 차가워서
+맛있지~"
+160	お城の形　かわいいなあ	城堡的形狀好可愛喔。	This castle is so cute.	성의 모양이 귀여워
+161	クリスマスって感じするね！！	這樣好有聖誕節的感覺喔！！	It feels just like Christmas!	크리스마스라는 느낌이 나!!
 162	"ツリーなのに　食べられるなんて…
-ぜいたくだなぁ"
+ぜいたくだなぁ"	"明明是樹但是卻可以吃……
+好奢侈喔。"	"It's a Christmas tree...
+Eating this is a joy."	"트리인데 먹을 수도 있다니…
+사치스러운걸~"
 163	"ふーっ　ふーっ…
-寒い日は　これだね"
-164	ちくわはいつもかわいいねえ！
+寒い日は　これだね"	"呼──呼──……
+天氣冷的時候就要像這樣子呢。"	"Fwoo fwoo...
+This is great on cold days."	"후우~ 후우…
+추운 날에는 이거야"
+164	ちくわはいつもかわいいねえ！	竹輪不管什麼時候都很好吃呢！	Chikuwa is always so cute!	치쿠와는 언제나 귀엽네!
 165	"うさ耳がぴょんぴょんしてて
-かわいいのぅ"
+かわいいのぅ"	"兔耳朵這樣彈啊彈的
+好可愛喔。"	The bunny ears are adorable.	"토끼 귀가 뿅뿅하는 모습이
+귀엽구먼~"
 166	"かわいすぎるよー
-クリスマスだねぇ"
+クリスマスだねぇ"	"真是太可愛了──
+要過聖誕節了呢。"	"This is way too cute!
+Very Christmas-y."	"너무 귀여워~
+딱 크리스마스구나"
 167	"将軍！
-まじうまソーセージをどうぞ！"
+まじうまソーセージをどうぞ！"	"將軍！
+請吃真心好吃香腸吧！"	"Captain! Please have this super
+delicious sausage!"	"장군!
+진짜 맛있는 소시지를 드시지요!"
 168	"霊犬わんこ
-みんなの頼れるヒーローなんだねぇ"
+みんなの頼れるヒーローなんだねぇ"	"靈犬汪汪
+是大家都信賴的英雄喔。"	"The spirit dog is a hero everyone
+can rely on."	"영견 강아지
+모두의 믿음직한 히어로구나"
 169	"あのわんこ
-また会いたいなぁー"
+また会いたいなぁー"	"好想再見
+那隻狗狗一面喔──"	I hope I can see that dog again.	"그 강아지
+또 만나고 싶다~"
 170	"ギアと動物の組み合わせで
 こんなにかわいくなるなんて
-あおいちゃんすごいよ！"
+あおいちゃんすごいよ！"	"把用品跟動物這樣組合起來
+竟然可以變得這麼可愛
+小葵妳好厲害喔！"	"Aoi-chan, you look super cute with
+all these gear and animals!"	"기어와 동물을 조합해서
+이렇게나 귀여워지다니
+아오이, 굉장해!"
 171	"レアものゲットだね！
-サイトに置いてみようよ！！"
-172	サンシェードの下で休憩っと
-173	もうちょっと右かな…？
-174	これで日焼け対策もバッチリ！
-175	魚介のうまみがたまりません！
-176	フルーツいっぱい入ってるよー
-177	カレーめん♪　カレーめん♪
-178	まったりアウトドア…
-179	ラーメン作りたい！
+サイトに置いてみようよ！！"	"拿到稀有的東西了呢！
+快放進場景來看看吧！！"	"I got a rare one!
+Let's add it to the campsite!"	"희귀한 물건을 획득했어!
+사이트에 놓아 보자!!"
+172	サンシェードの下で休憩っと	到遮陽篷下面休息一下好了。	I'll rest under the sun shade...	선셰이드 아래에서 쉬어야지
+173	もうちょっと右かな…？	再往右一點好了……？	Little more to the right?	조금 더 오른쪽…?
+174	これで日焼け対策もバッチリ！	這樣子防曬對策就萬無一失囉！	Now I'm protected against sunburns!	이걸로 자외선 대책도 완벽해!
+175	魚介のうまみがたまりません！	海鮮的美味實在太讚啦！	Who can resist the taste of seafood?!	해산물의 감칠맛이 너무 좋아!
+176	フルーツいっぱい入ってるよー	放了很多水果喔──	That's a lot of fruits.	과일이 잔뜩 들어 있어~
+177	カレーめん♪　カレーめん♪	咖喱泡麵♪、咖喱泡麵♪	Curry noodles! ♪ Curry noodles! ♪	카레면♪ 카레면♪
+178	まったりアウトドア…	悠閒的戶外活動……	The relaxing outdoors...	여유로운 아웃도어…
+179	ラーメン作りたい！	我想要做做看拉麵！	I want to make ramen!	라면 끓이고 싶어!
 180	"ひとりは皆のために
-皆はひとりのために！"
-181	５分だけ横になっていい？
-182	むは――っ！
+皆はひとりのために！"	"我為人人
+人人為我！"	"One for all!
+All for one!"	"한 사람은 모두를 위해
+모두는 한 사람을 위해!"
+181	５分だけ横になっていい？	我可以睡個5分鐘嗎？	Can I lie down for five minutes?	5분만 자도 될까?
+182	むは――っ！	姆哈──！	Ack!	으하앗~~!
 183	"お願いします　今夜は
-でないで下さい　でないで下さい"
+でないで下さい　でないで下さい"	"求求妳了，今晚
+請別出去，拜託不要出去。"	"Please, please, please...
+Don't come out tonight."	"부탁합니다, 오늘 밤에는
+나타나지 말아 주세요, 부탁드립니다"
 184	"おいっちにーさんっしー
-にーにーさんしー"
-185	はぁー　いいところだよねー
-186	年末戦士！
-187	(゜H゜)
-188	寒さ対策もバッチリだよー
-189	ねぇ　今から何しよっか？
+にーにーさんしー"	"一、二、三、四
+二、二、三、四。"	"One, two, three, four!
+Two, two, three, four!"	"하나 둘~ 셋 넷~
+둘~ 둘~ 셋 넷~"
+185	はぁー　いいところだよねー	哈啊──真是好地方呢──	Ahh, what a wonderful place.	우와~ 좋은 곳이네~
+186	年末戦士！	年末戰士！	Year-End Warriors!	연말 전사!
+187	(゜H゜)	(゜H゜)	(゜H゜)	(゜H゜)
+188	寒さ対策もバッチリだよー	抗寒對策也萬無一失喔──	I'm perfectly prepared for the cold!	방한 준비도 완벽해~
+189	ねぇ　今から何しよっか？	欸，接下來要做什麼啊？	Hey, what should we do now?	있지, 지금부터 뭐할까?
 190	"キャンプ飯王目指して
-がんばるぞー！"
+がんばるぞー！"	"目標是當上露營餐之王
+要加油喔──！"	"I'm giving it my all to be the camping
+cooking master girl!"	"캠핑 요리왕을 목표로
+힘내자~!"
 191	"カボチャグラタン
-つくるよー！"
+つくるよー！"	"要來做
+南瓜焗烤囉──！"	I'm making squash gratin!	"호박 그라탕을
+만들 거야~!"
 192	"ホットアップルサイダー
-おいしかったねぇ"
-193	川が流れるサイト　いいねぃ
-194	今年もたくさんキャンプしようね
-195	みんなのパジャマかわいいなぁ
-196	海キャン　わくわくするね
+おいしかったねぇ"	"熱蘋果酒
+很好喝耶。"	The hot apple cider was delicious.	"핫 애플 사이다
+맛있었어~"
+193	川が流れるサイト　いいねぃ	有小河的場景，很不錯耶。	A campsite with a river... How nice.	강이 흐르는 사이트라니, 좋은데~
+194	今年もたくさんキャンプしようね	今年也要常常去露營喔。	Let's go camping a lot this year.	올해도 많이 캠핑하고 싶어
+195	みんなのパジャマかわいいなぁ	大家的睡衣都好可愛喔。	All your pajamas are so cute!	모두들 파자마 차림이 귀엽네
+196	海キャン　わくわくするね	海邊露營，讓人興奮起來了耶。	Seaside camping? Exciting!	"바다 캠핑
+가슴이 두근거려"
 197	"桜餅って 
-葉っぱ食べられるんだっけ？"
+葉っぱ食べられるんだっけ？"	"櫻餅啊，
+上面那個葉子能不能吃啊？"	"Is the leaf on the sakura mochi
+edible?"	"사쿠라모치는
+잎까지 먹을 수 있던가?"
 198	"薪の組み方って
-色々あるんだよな"
+色々あるんだよな"	"柴火可是有
+很多種捆法的呢。"	"There are many steps to building
+a campfire."	"땔감 쌓는 법은
+여러 가지가 있지"
 199	"朝 冷えるなぁ…
-寒いってほどじゃないけど…"
+寒いってほどじゃないけど…"	"早晨有點涼啊……
+雖然不算冷就是了……"	"It's pretty cool in the mornings.
+Though not too cold yet..."	"좀 쌀쌀한 아침이네…
+춥다고 할 정도는 아니지만…"
 200	"…過ごしやすい気温だ
-読書でもするか"
+読書でもするか"	"……現在的氣溫很舒服呢
+來看書好了。"	"The weather is great.
+Maybe I'll read a book."	"…쾌적한 기온이야
+책이라도 읽을까"
 201	"この前本に書いてあった
-都市伝説なんだけど…"
+都市伝説なんだけど…"	"我之前看的書上提到
+有關都市傳說的事啊……"	"I read this in a book. So there's
+an urban legend that goes..."	"지난번 책에 쓰여있었던
+도시전설 말인데…"
 202	"ふわわぁ～　ねみぃ…
-これ１日もつかなぁ"
+これ１日もつかなぁ"	"呼哇啊～～好睏喔……
+這樣能撐過一整天嗎。"	"*yawn* I'm getting sleepy...
+I wonder if this'll take the
+whole day."	"흐아아~ 졸려…
+이거 하루는 버티려나"
 203	"売店に団子…
-みんな食べるかな"
+みんな食べるかな"	"商店在賣糰子……
+大家會想吃嗎。"	"I bought some dango...
+I wonder if they'll like it."	"매점에 경단…
+다들 먹으려나?"
 204	"春野菜のパスタ
-作ってみたけど…食べる？"
-205	夕日の写真撮っとくか
+作ってみたけど…食べる？"	"我做了加了春天蔬菜
+的義大利麵……要吃一些嗎？"	"I tried making pasta with spring
+veggies... Want to try some?"	"봄 채소 파스타를
+만들어 봤는데… 먹을래?"
+205	夕日の写真撮っとくか	來拍夕陽的照片吧。	"I definitely need to take a
+picture of this sunset."	노을 사진 좀 찍어둘까
 206	"ちょっと夜更かししすぎたかも
-春の怪談特集面白すぎた…"
-207	ふぅ　寝る準備終わった
+春の怪談特集面白すぎた…"	"好像有點熬夜熬太晚了
+春天的怪談特輯節目太好看了……"	"I stayed up a little late today.
+The ghost story podcast
+was too interesting..."	"밤에 좀 늦게 잤나 봐
+봄 괴담 특집이 너무 재밌어서 그만…"
+207	ふぅ　寝る準備終わった	呼，準備好可以睡覺了。	Phew, all ready for bed.	후우, 잘 준비는 끝났군
 208	"もうこんな時間か
-そろそろ　寝よっと"
-209	あっつ…夏バテしそう…
-210	水分補給…水分補給っと
+そろそろ　寝よっと"	"已經這麼晚啦
+差不多該睡了。"	"It's already this late...
+Better head to bed."	"벌써 시간이 이렇게나
+슬슬 자야겠다"
+209	あっつ…夏バテしそう…	有夠熱……會不會中暑啊……	"So hot...
+I'm getting heat exhaustion..."	더워… 더위 먹을 거 같아…
+210	水分補給…水分補給っと	補充水分、補充水分。	Must hydrate... Must hydrate...	수분 보충… 수분 보충해야지
 211	"うおっ　陽射しつよ…
-頭焦げそうだ"
+頭焦げそうだ"	"唔哇，太陽光還真毒……
+頭皮都要燒焦了。"	"Ugh, the sun is too strong...
+I think the top of my head is
+burning."	"으앗, 햇볕이 너무 강해…
+머리가 탈 거 같아"
 212	"来る時に見たスイカ
-買えばよかった…"
+買えばよかった…"	"來的路上看到有賣西瓜
+要是買起來就好了……"	"I should have bought that
+watermelon I saw on the way..."	"올 때 봤던 수박
+사올 걸 그랬어…"
 213	"アイス食べるか…
-オレンジ　いちご　キウイ…"
+オレンジ　いちご　キウイ…"	"來吃冰淇淋好了……
+有橘子、草莓、奇異果……"	"Shall we have ice cream?
+There's orange, strawberry, kiwi..."	"아이스크림 먹을까…
+오렌지, 딸기, 키위…"
 214	"わんこはもふもふで
-暑くないのか…？"
+暑くないのか…？"	"狗狗身上毛茸茸的
+都不會熱嗎……？"	"Don't dogs get hot with so
+much fur?"	"멍멍이는 털이 푹신푹신한데
+안 더우려나…?"
 215	"ひぐらしが鳴いてる…
-なんかいい雰囲気だな"
-216	暑さもしずまってきたな
+なんかいい雰囲気だな"	"暮蟬開始叫了耶……
+這樣子的氣氛真不錯。"	"The chirping of the cicadas makes
+for a nice atmosphere."	"저녁매미가 울고 있어…
+왠지 분위기 나고 좋네"
+216	暑さもしずまってきたな	也感覺沒那麼熱了。	The heat has gone down.	더위도 가라앉기 시작했네
 217	"キャンプでそうめん…
-今度やってみるか"
+今度やってみるか"	"露營的時候吃麵線啊……
+改天來試試看好了。"	"Having cold noodles at camp...
+I definitely want to try it."	"캠핑에서 소면이라…
+나중에 해볼까"
 218	"まだまだ暑いなぁ… 
-うう　早く涼しくなれー"
+うう　早く涼しくなれー"	"最近還是挺熱的呢……
+唔唔，拜託快點轉涼啊──"	"It's still so hot. Ugh, please
+cool down soon."	"아직도 덥네…
+으으, 빨리 시원해져라~"
 219	"あの星…
-なんか他のより眩しいな"
+なんか他のより眩しいな"	"那顆星星……
+好像比其他的還要亮耶。"	"That one star sparkles brighter
+than all the others."	"저 별…
+어쩐지 다른 별보다 더 밝아"
 220	"まだセミが鳴いてる…
-疲れ知らずかよ"
+疲れ知らずかよ"	"蟬還在叫啊……
+都不會累的嗎。"	"The cicadas are still chirping...
+They don't seem to tire at all."	"매미가 아직도 울다니…
+지치지도 않나"
 221	"なんか　いい匂いする…
-もしかして　焼き芋？"
-222	カフェオレで一息つくか
+もしかして　焼き芋？"	"有好香的味道喔……
+是不是有人在烤番薯啊？"	"Something smells really good...
+Is it roasted sweet potatoes?"	"어쩐지 좋은 냄새가 나…
+혹시 군고구마인가?"
+222	カフェオレで一息つくか	喝杯咖啡歐蕾休息一下吧。	"Shall we take a break
+and a cafe au lait?"	카페오레 마시면서 한숨 돌릴까
 223	"天高く馬肥ゆる…
-ぷくぷくな馬　かわいい"
+ぷくぷくな馬　かわいい"	"天晴氣爽，馬兒肥壯……
+馬兒圓滾滾的真可愛。"	"The autumn sky is so clear...
+I hear horses have more
+appetite on days like these."	"하늘은 높고 말은 살찌고…
+통통한 말, 귀엽다~"
 224	"読書の季節だし…
 新しいジャンル
-開拓してみるか"
+開拓してみるか"	"剛好是讀書的季節……
+我也找點新類別
+的書來看好了。"	"This is the season for reading...
+Maybe I'll start a new genre."	"독서의 계절이니…
+새로운 장르를
+개척해 볼까"
 225	"ブッシュクラフト
-やってみようかな"
+やってみようかな"	"找機會來試試
+野營好了。"	"Bushcraft...
+I should try it."	"부시크래프트
+나도 도전해 볼까"
 226	"スズメバチって
 実は秋が危ないんだよなー
-気をつけとこ…"
+気をつけとこ…"	"秋天的黃蜂
+其實很危險呢──
+得小心一點哪……"	"A hornet! You can't let your
+guard down even in autumn..."	"땅벌은
+사실 가을에 더 위험하지
+조심해야 돼…"
 227	"この葉っぱ…
-栞に使えるかな？"
+栞に使えるかな？"	"這片葉子……
+能不能拿來當書籤啊？"	"This leaf looks like it would
+make a nice bookmark."	"이 이파리…
+책갈피로 쓸 수 있을까?"
 228	"紅葉も進んできたなー
 こういうのを見るのも
-キャンプの醍醐味だよな"
+キャンプの醍醐味だよな"	"楓葉都開始變紅了耶──
+能像這樣觀賞
+也是來露營的樂趣之一呢。"	"The leaves are almost all red.
+Seeing views like this is why
+camping is worth it."	"단풍도 물들기 시작했네
+이런 걸 보는 것도
+캠핑의 묘미지"
 229	"お　キノコ…
-食べられるのか？"
+食べられるのか？"	"哦，有香菇……
+這能吃嗎？"	"Oh hey, mushrooms...
+Are these edible?"	"오, 버섯이네…
+먹어도 되는 건가?"
 230	"秋の夜長には
-カレーめんですわ"
+カレーめんですわ"	"在秋季長夜裡
+就是要配咖哩泡麵啦。"	"Long autumn evenings means
+curry noodles."	"가을의 긴 밤에는
+카레면이랍니다"
 231	"げっ
-化粧水　なくなった…"
+化粧水　なくなった…"	"呃
+化妝水用完了……"	I... I'm out of moisturizer...	"이런
+스킨이 다 떨어졌잖아…"
 232	"秋冬用のアウター
-新しいのほしいな"
-233	冬キャンのシーズン到来だな
+新しいのほしいな"	"開始想要新的
+秋冬用的外套了耶。"	"I want a new coat for autumn
+and winter."	"추동계용 아우터
+새로 사고 싶네"
+233	冬キャンのシーズン到来だな	差不多是冬天露營的季節了呢。	"The winter camping season
+is finally here."	겨울 캠핑 시즌이 왔군
 234	"吐く息が
-まっしろだ…！"
+まっしろだ…！"	"吹的氣
+都變白霧了……！"	I can see my breath!	"입김이
+새하얘…!"
 235	"薪を使う量が
 増える季節だよな
-寒いから仕方ないけど"
+寒いから仕方ないけど"	"這個季節裡
+都得用上不少木材耶
+但是沒辦法，實在太冷了。"	"I have to use a lot of firewood
+since it's so cold. No way around
+it."	"장작의 사용량이
+늘어나는 계절이지
+추우니까 어쩔 수 없지만"
 236	"さ　寒い……
-カイロ　カイロ"
+カイロ　カイロ"	"冷、冷死了……
+暖暖包、暖暖包。"	"C-Cold...
+I need a heat pack..."	"추, 추워……
+핫팩, 핫팩"
 237	"あったかいものでも飲むか
-…人数分　いれるよ"
+…人数分　いれるよ"	"煮點熱的來喝好了
+……那我就煮每個人都份囉。"	"Anyone want something warm to
+drink? I'll make a batch."	"따뜻한 음료라도 마실까
+…인원수만큼 끓을게"
 238	"空気が冷たい…
-落ち着くな"
+落ち着くな"	"空氣好冰……
+好放鬆喔。"	"The air is really cold...
+I wonder if it will snow."	"공기가 차가워…
+마음이 차분해지는걸"
 239	"冬の夕焼け空
-めっちゃきれいだなー"
+めっちゃきれいだなー"	"冬天的傍晚天空
+真的好漂亮喔──"	Winter sunsets are so beautiful.	"겨울의 해질녘 하늘은
+정말 아름답지…"
 240	"そろそろ
 晩ごはんの準備
-始めるとするか"
+始めるとするか"	"差不多
+可以開始
+準備晚餐了。"	"It's about time we started
+preparing dinner."	"슬슬
+저녁 식사 준비를
+시작해 볼까"
 241	"お　一番星
-…写真に映るかな？"
+…写真に映るかな？"	"哦，是一等星耶
+……拍起來看得到嗎？"	"Oh, it's the Evening Star.
+I wonder if it will show up in
+the photo?"	"아, 저기 별이 보이네
+…사진에 담을 수 있을까?"
 242	"冬に入る温泉…
-マッチポンプマッチポンプ"
+マッチポンプマッチポンプ"	"冬天時泡溫泉……
+那就得經歷寒徹骨，方得溫泉暖了。"	"Hot springs in freezing weather
+turns into a vicious cycle."	"겨울에 들어가는 온천…
+매치 펌프, 매치 펌프"
 243	"鍋にいろんな調味料を
 ちょい足しか…
-試す価値　ありだな"
+試す価値　ありだな"	"火鍋裡每種調味料
+都稍微加一點點啊……
+似乎值得試試看呢。"	"Adding a little bit of anything
+into the hotpot could turn out
+delicious."	"전골에 여러 조미료를
+조금씩 더한다라…
+시도해 볼 가치는 있겠는데"
 244	"冬はモフモフの
-ありがたみが増すな"
+ありがたみが増すな"	"冬天裡的毛茸茸
+摸起來感動加倍啊。"	Scarves are lifesavers in the winter.	"겨울에는 푹신한 것에 대한
+고마움이 더 늘어나지"
 245	"この前買った
-新しいギア…使ってみるか"
+新しいギア…使ってみるか"	"來用用看……
+上次新買的用品好了。"	"I recently bought some new
+gear. Time to try it out."	"지난번에 샀던
+새로운 기어… 써볼까?"
 246	"UFOって本当にいるのか？
-まさかなぁ…"
-247	カフェオレ淹れるけど…飲む？
-248	向こうってどうなってるんだ？
+まさかなぁ…"	"世上真的有飛碟嗎？
+不可能吧……"	"Are UFOs real?
+No chance, right?"	"UFO가 진짜 있는 건가?
+설마 그럴 리가…"
+247	カフェオレ淹れるけど…飲む？	我想來泡咖啡歐蕾……要喝嗎？	"I'm making cafe au lait.
+Want a cup?"	카페오레 끓였는데… 마실래?
+248	向こうってどうなってるんだ？	對面會是什麼樣子啊？	"I wonder if there's anything
+over there?"	저쪽에 뭐가 있나?
 249	"動画でも見て
-ゆっくりするか…"
-250	家族にお土産…何にしよう
+ゆっくりするか…"	"來找些影片看
+悠哉一下吧……"	"I'll just relax while watching
+some shows."	"영상이나 보면서
+느긋하게 쉴까…"
+250	家族にお土産…何にしよう	給家人的土產……要買什麼好呢。	"What kind of souvenirs should
+I get my family?"	가족들에게 줄 선물… 뭐가 좋을까
 251	"ソロキャンもグルキャンも
-どっちもよさがあるよな"
+どっちもよさがあるよな"	"單人露營跟團體露營
+都各有各的優點呢。"	"Both camping solo and with others
+have their own kind of fun."	"솔로 캠핑도 그룹 캠핑도
+둘 다 장점이 있지"
 252	"さっき近くにいたわんこ
-可愛かった…"
-253	今日は何作るかな…
+可愛かった…"	"剛剛看到的那隻狗狗
+好可愛喔……"	"The dog that just passed by was
+really cute..."	"아까 근처에 있던 멍멍이
+귀여웠어…"
+253	今日は何作るかな…	今天要來做什麼呢……	What should I make today?	오늘은 뭘 만들까…
 254	"おめでと　なでしこ
-…って　なんか照れくさいな"
+…って　なんか照れくさいな"	"生日快樂啊，撫子
+……呃，怎麼覺得有點害臊啊。"	"Happy birthday, Nadeshiko...
+Ugh, why am I the one getting
+embarrassed?"	"축하해, 나데시코
+…어쩐지 쑥스럽네"
 255	"千明の誕生日　今日だな
-おめでとう"
+おめでとう"	"千明妳的生日是今天對吧
+生日快樂啊。"	"Chiaki, your birthday is today,
+right? Happy birthday."	"오늘 치아키의 생일이구나
+축하해"
 256	"誕生日おめでとう
-今日はお祝いだな"
+今日はお祝いだな"	"生日快樂
+今天要來慶祝一下呢。"	"Happy birthday.
+Let's celebrate."	"생일 축하해
+오늘은 축하 파티해야겠네"
 257	"斉藤　今日だけは
 ぞんぶんに髪を
-いじらせてやるよ"
+いじらせてやるよ"	"齊藤，今天
+妳想怎麼玩我的頭髮
+都可以喔。"	"Happy birthday, Saito. I'll let
+you do whatever you want to
+my hair just for today."	"사이토, 오늘만은
+내 머리를 마음껏
+만지게 해주지"
 258	"年越しキャンプ
-初日の出も見られて満足満足"
-259	やっぱ　疲れたらチョコだな
-260	今日は富士山　見に行くか
+初日の出も見られて満足満足"	"跨年露營
+像這樣看到元旦日出，真是太滿足了。"	"Camping on New Year's and seeing
+the first sunrise... A good start."	"해넘이 캠핑으로
+첫 해돋이도 보다니 진짜 만족스러워"
+259	やっぱ　疲れたらチョコだな	累了的時候果然就是要吃巧克力啊。	When you're tired, chocolate brings you back to life.	역시 피곤할 땐 초콜릿이지
+260	今日は富士山　見に行くか	今天，來去看富士山好了。	I think I'll go see Mount Fuji.	오늘은 후지산을 보러 가볼까
 261	"ホワイトデー
-…三倍返しは無理だろ"
+…三倍返しは無理だろ"	"白色情人節
+……要回禮三倍根本不可能吧。"	"White Day... How does one even pay
+back three times the favor?"	"화이트데이
+…3배로 갚는 건 무리겠지"
 262	"『ハロウィンの怪奇譚』
-面白そうな本だな…"
+面白そうな本だな…"	"『萬聖節鬼故事』
+這本好像蠻有趣的耶……"	"""Spooky Halloween Tales""...
+Looks like an interesting book."	"""할로윈 괴기담""
+재밌어 보이는 책이네…"
 263	"新しいギア　買っちった…
-クリキャンの準備はバッチリだ"
+クリキャンの準備はバッチリだ"	"新的用品買下去了……
+這樣子聖誕露營的準備就搞定了呢。"	"I bought new gear. I'm ready for
+Christmas camping."	"새로운 기어를 사버렸어…
+이걸로 크리캠 준비는 완벽해"
 264	"クリスマスキャンプって
-結構人気なんだよな…"
+結構人気なんだよな…"	"聖誕節露營
+還挺受歡迎的呢……"	"Seems like a lot of people go
+camping on Christmas."	"크리스마스 캠핑
+꽤 인기 있단 말이지…"
 265	"今日は早めに寝て
-初日の出を見に行かないと"
+初日の出を見に行かないと"	"今天得早點睡
+待會得去看元旦的日出呢。"	"I need to sleep early tonight so I
+can see the first sunrise of the year."	"오늘은 일찍 자고
+첫 해돋이를 보러 가야겠어"
 266	"なんかやってるのか？
-騒がしいけど…"
+騒がしいけど…"	"是在做什麼啊？
+吵吵鬧鬧的……"	"Is something going on?
+It's pretty loud."	"뭔가 하고 있는 건가?
+떠들썩한데…"
 267	"もうこんなに時間が経ったのか…
-光陰矢のごとしだな"
-268	ZZZ....
+光陰矢のごとしだな"	"已經過了這麼久了嗎……
+光陰似箭呢。"	"Has it been a year already?
+Time flies like an arrow."	"벌써 이렇게 시간이 흘렀나…
+세월은 쏜살같다더니"
+268	ZZZ....	ZZZ……	Zzz...	ZZZ…
 269	"わんこがいっぴき
-わんこが二匹…"
-270	ふぅ　落ち着くな…
-271	休憩しよ
-272	はぁ…
-273	次の手順　なんだっけ…
-274	早くできないかな
-275	アレンジしてみるか
-276	あいつらもなんか飲むかな
-277	っとと…あぶなっ
-278	よいしょっと
-279	はー…　もう一杯飲もうかな
-280	うん　うまい
-281	この一杯がたまらない…
-282	この灯り　落ち着くな…
-283	スイッチ・オンっと
-284	お　ついた
-285	さて　何から料理してやろうか
-286	今日はこれ使うか
-287	こいつの出番だ
-288	焚き火はキャンプの醍醐味…か
-289	そろそろ薪　足さないと
-290	準備終わりっと
+わんこが二匹…"	"一隻狗狗
+兩隻狗狗……"	"One doggie...
+Two doggies..."	"멍멍이가 한 마리
+멍멍이가 두 마리…"
+270	ふぅ　落ち着くな…	呼，好愜意喔……	Mhm, it's comfortable.	후우, 마음이 누그러드네…
+271	休憩しよ	來休息吧。	I'll make a pit stop right here.	휴식하자
+272	はぁ…	呼……	Phew...	하아…
+273	次の手順　なんだっけ…	接下來的步驟是……	"The next step is...
+What was it, again?"	다음 순서가 뭐였지…
+274	早くできないかな	能不能再快一點呢。	Can't it cook faster?	더 빨리 되면 좋겠는데
+275	アレンジしてみるか	來試著做點變化吧。	Let's see what I can make with it.	어레인지 해볼까
+276	あいつらもなんか飲むかな	她們會不會也要喝點什麼呢。	Do they want anything to drink?	그 녀석들도 뭐 마시려나
+277	っとと…あぶなっ	喔喔……好危險。	Oops... That was close.	이크… 위험해
+278	よいしょっと	嘿咻。	Umph!	영차
+279	はー…　もう一杯飲もうかな	呼──……再喝一杯好了。	Phew... I'll have another cup.	하아… 한 잔 더 마실까
+280	うん　うまい	嗯，好吃。	This is good.	음, 맛있어
+281	この一杯がたまらない…	這一杯真的是太爽了……	This tastes so good...	이 한 잔이 참 좋단 말이지…
+282	この灯り　落ち着くな…	這一杯真的是太爽了……	This tastes so good...	이 한 잔이 참 좋단 말이지…
+283	スイッチ・オンっと	按下開關	Switch it on...	스위치 온
+284	お　ついた	喔，燈亮了。	Nice, it's on.	오, 됐다
+285	さて　何から料理してやろうか	好啦，要先從什麼開始呢？	Now, what should I make?	그럼 어떤 것부터 요리해 볼까
+286	今日はこれ使うか	今天來用這個吧。	I think I'll use this today.	오늘은 이걸 써볼까
+287	こいつの出番だ	輪到用這個的時候了。	It's this guy's turn.	이 녀석의 차례야
+288	焚き火はキャンプの醍醐味…か	升營火才是露營的樂趣……嗎。	"Campfires are what camping
+is all about."	모닥불은 캠핑의 진미… 인가
+289	そろそろ薪　足さないと	差不多該補柴火了。	I should add more firewood.	슬슬 땔감을 더 넣어야겠어
+290	準備終わりっと	準備完囉。	Everything is ready to go.	준비 끝
 291	"今　何時だ…？
-よし　まだ寝れる"
-292	すー…すー…
-293	ふぁあ…
-294	うまいな　これ
-295	もぐもぐ…
-296	いい感じだ
-297	うおおっ　わんこ…！！
-298	可愛い奴め
-299	よしよし
+よし　まだ寝れる"	"現在幾點啊……？
+好，還能再睡一下。"	"What time's it? 'Kay, I can sleep
+in a bit more."	"지금 몇 시지…?
+좋아, 아직 더 자도 돼"
+292	すー…すー…	呼──……呼──……	Zzz... Zzz...	쿨… 쿨…
+293	ふぁあ…	呼哈……	*yawn*...	흐아아…
+294	うまいな　これ	這好好吃喔。	Tastes really good.	이거 맛있다
+295	もぐもぐ…	嚼嚼……	Yum...	우물우물…
+296	いい感じだ	感覺不錯喔。	Looks good.	느낌이 좋아
+297	うおおっ　わんこ…！！	唔喔喔，是狗狗……！！	Ooh, a dog!	우오오, 멍멍이…!!
+298	可愛い奴め	真是可愛的傢伙。	Cute.	귀여운 녀석
+299	よしよし	很好很好。	Let me pat you.	옳지옳지
 300	"やっぱこの椅子
-座り心地良いな"
+座り心地良いな"	"這把椅子坐起來
+果然很舒服呢。"	This chair is really comfortable.	"역시 이 의자
+사용감이 좋네"
 301	"なでしこの椅子
-いいじゃん"
+いいじゃん"	"這把椅子坐起來
+果然很舒服呢。"	This chair is really comfortable.	"역시 이 의자
+사용감이 좋네"
 302	"ハンモック
-ゆらゆらしてやがる…快適だー"
+ゆらゆらしてやがる…快適だー"	"吊床
+像這樣晃啊晃的……太舒服啦。"	"The way the hammocks sways is
+so comfortable."	"해먹이
+흔들거리니… 쾌적하다"
 303	"さすがおじいちゃんが
-選んだ椅子…いい感じだ"
+選んだ椅子…いい感じだ"	"真不愧是外公
+選的椅子……很好坐呢。"	"Of course the chair my grandpa
+chooses would be good."	"역시 할아버지가
+골라주신 의자야… 꽤 좋은데"
 304	"やっぱこのスキレットなら
-肉焼かなきゃな"
+肉焼かなきゃな"	"用這把鑄鐵鍋
+果然就是要煎肉呢。"	"Skillets definitely mean pan-seared
+meat."	"역시 이 스킬렛으로는
+고기를 구워야지"
 305	"すすで色が変わってる…
-歴史を感じるな"
+歴史を感じるな"	"被煤煙薰到都變色了……
+感覺得出用很久了呢。"	"It's blackened with soot... You can
+feel the history."	"검댕 때문에 색이 변했어…
+역사가 느껴지네"
 306	"スープパスタ…　いや
-今日は違うメニューに…"
-307	思い出すなー　餃子鍋
+今日は違うメニューに…"	"義大利湯麵……
+不，今天做其他料理好了……"	"Soup pasta, again? Nah, I'll try
+something else..."	"수프 파스타… 아니
+오늘은 다른 메뉴로…"
+307	思い出すなー　餃子鍋	好懷念呢──餃子火鍋。	It reminds me of the gyoza hotpot.	만두전골이 생각나네~
 308	"焼豚まん
-今度また作ってみるか"
+今度また作ってみるか"	"烤肉包
+改天來做做看好了。"	"I'll try making pan-fried pork
+buns next time."	"구운 고기만두
+다음에 또 만들어 볼까"
 309	"これ見てると　なでしこと
 初めて会った時のこと
-思い出すな…"
+思い出すな…"	"看著這個啊，
+就會想起
+第一次見到撫子的時候呢……"	"Seeing this reminds me of the
+first time I met Nadeshiko..."	"이걸 보고 있으면 나데시코와
+처음 만났을 때가
+생각나네…"
 310	"このランタン
-手軽で可愛いよな"
-311	光が揺らめいて…きれいだな
+手軽で可愛いよな"	"這個露營燈
+輕便又可愛呢。"	"This lantern is pretty simple
+and cute."	"이 랜턴
+가볍고 귀엽지"
+311	光が揺らめいて…きれいだな	火光這樣左右搖擺……好美喔。	"When the light flickers, it's kind
+of pretty."	빛이 흔들려서… 아름다워
 312	"持ち運びやすくて
-便利なんだよなーこれ"
+便利なんだよなーこれ"	"這個很容易攜帶
+好方便喔──"	"This is really portable and
+convenient."	"이거, 휴대성이 좋아서
+편리하단 말이지"
 313	"重いけど　安定感
-あっていいよな"
-314	これで　肉を焼くぞ…！！
+あっていいよな"	"雖然有點重，但是很穩固
+真是好東西呢。"	"It's a bit heavy, but it feels
+pretty stable."	"무겁지만 안정감이
+있어서 좋아"
+314	これで　肉を焼くぞ…！！	用這個來烤肉啦……！！	I'll use this to grill some meat!	이걸로 고기를 굽는 거야…!!
 315	"薪が爆ぜるから
-気をつけろよ"
-316	いいなこれ　すごい軽くて
-317	刀の錆にしてやるぜ
-318	フェザースティック作るかぁ
+気をつけろよ"	"柴火有時候會爆出碎片
+要小心喔。"	The firewood will pop, so be careful.	"장작이 터질 수도 있으니
+조심하라구"
+316	いいなこれ　すごい軽くて	這個好棒喔，超級輕的。	This is pretty nice. Very light.	이거 괜찮은걸, 진짜 가볍기도 하고
+317	刀の錆にしてやるぜ	就拿你來祭刀吧。	I'll turn you into rust on my sword.	칼로 썰어주마
+318	フェザースティック作るかぁ	來削羽毛棍好了。	I'll make a feather stick.	페더 스틱을 만들어 볼까
 319	"これがあれば
-なんでも燻製できるぞ"
+なんでも燻製できるぞ"	"只要有這個
+什麼都可以拿來煙燻喔。"	"If you have this, you can make
+smoked foods."	"이게 있으면
+뭐든지 훈제할 수 있어"
 320	"かわいいけど…
-暗がりにあったら　怖いやつだ"
-321	なんていうか　ファンシーだな
+暗がりにあったら　怖いやつだ"	"雖然很可愛……
+但是在陰暗處碰到的話可是很嚇人的唷。"	"It's pretty cute, but might be
+scary in the dark."	"귀엽지만…
+어둑한 데 있으면 무서운 녀석이야"
+321	なんていうか　ファンシーだな	怎麼說呢，挺花俏的。	Hmm, it's kind of fancy.	뭐라 할까, 팬시하네
 322	"じっくり焼いたベーコン…
-食欲をそそるぜ"
+食欲をそそるぜ"	"煎到熟透的培根……
+真的很勾人食慾耶。"	"Slow-cooked bacon...
+Yummy..."	"잘 구운 베이컨…
+식욕이 돋네"
 323	"はぁ　牛肉の旨味が
-身にしみる…"
-324	ほくほくでうまいな　これ
-325	伊勢エビ　最高…！！
-326	うまそう…　早く食べたいな
+身にしみる…"	"呼啊……牛肉的美味
+傳到全身上下了……"	"Mmm, there's so much umami
+from the beef..."	"하아, 쇠고기의 감칠맛이
+온몸에 퍼져…"
+324	ほくほくでうまいな　これ	這個好鬆好好吃喔。	It's delicious when hot.	이거 따끈따끈하고 맛있네
+325	伊勢エビ　最高…！！	日本龍蝦，讚……！！	Spiny lobster is the best!	닭새우, 최고야…!!
+326	うまそう…　早く食べたいな	好像很好吃……真想趕快吃到。	Looks really good... I can't wait.	맛있어 보여… 빨리 먹고 싶다
 327	"骨まで食べられるなんて
-ムダがなくていいな"
-328	野菜もとんないとな
+ムダがなくていいな"	"沒想到連骨頭都可以吃
+一點都不浪費，真棒。"	"You can even eat the bones.
+Waste not want not."	"뼈까지 먹을 수 있다니
+버리는 게 없어서 좋은데"
+328	野菜もとんないとな	也得多吃點蔬菜呢。	There's no room for the veggies.	채소도 먹어야겠지
 329	"今日はちゃんと
-二個買っといたぞ"
+二個買っといたぞ"	"今天我有記得
+要買兩個喔。"	I made sure to buy two today.	"오늘은 제대로
+2개를 사뒀어"
 330	"エビの殻でダシを取ると
-いいんだよな"
+いいんだよな"	"蝦子的殼拿來熬湯
+會很好喝喔。"	"Lobster shells are great for making
+stock."	"새우 껍데기로 국물을 내면
+맛이 좋단 말이지"
 331	"いい肉のすき焼き…
-最高だ"
+最高だ"	"拿這麼好的肉來煮壽喜燒……
+讚啦。"	"Using good quality meat for sukiyaki...
+The best."	"질 좋은 고기로 만든 스키야키…
+최고야"
 332	"すき焼きが
-クラスチェンジした…！"
-333	餃子何個入ってるんだろ
-334	スープ　ほっとする味だ…
-335	やっぱカレー味だよな
-336	初心に帰って…っと
-337	山梨といえば　ほうとうだな
+クラスチェンジした…！"	"壽喜燒
+竟然升級了……！"	The sukiyaki got a class change!	"스키야키의 클래스가
+바뀌었어…!"
+333	餃子何個入ってるんだろ	放了多少餃子進去啊。	Many many gyoza are in there?	만두 몇 개나 들어있을까
+334	スープ　ほっとする味だ…	這濃湯是讓人放鬆的味道呢……	Soup is so relaxing...	수프, 마음 놓이는 맛이야…
+335	やっぱカレー味だよな	果然就是要咖哩味呢。	It's curry after all.	역시 카레맛이지
+336	初心に帰って…っと	該來……回歸初心一下了。	Going back to the beginning...	초심으로 돌아가야지…
+337	山梨といえば　ほうとうだな	說到山梨縣，就會想到餺飥麵。	If we think about Yamanashi, then hoto.	야마나시라고 하면 호토지
 338	"締めまでうまい…
-まいったぜ"
-339	辛めの汁物で　ぽかぽかだ
-340	口の中がエビだ…
-341	ココア　落ち着く…
-342	料理に合うな　これ
+まいったぜ"	"連收尾都這麼好吃……
+天哪我不行了。"	"The whole meal was delicious.
+I'm stuffed."	"마무리까지 맛있다니…
+두말할 수가 없네"
+339	辛めの汁物で　ぽかぽかだ	湯有點小辣，暖呼呼的呢。	The soup is warm and spicy.	매운 국물 덕분에 후끈후끈해
+340	口の中がエビだ…	嘴裡滿滿的蝦子呢……	There's so much lobster flavor...	입 안이 온통 새우야…
+341	ココア　落ち着く…	可可喝起來好放鬆喔……	Hot chocolate calms you...	코코아, 누그러지는 맛이야…
+342	料理に合うな　これ	這跟料理好搭喔。	This goes well.	이거 요리랑 어울리는걸
 343	"キャンプの定番おやつといえば
-これだな"
+これだな"	"來露營吃的招牌零嘴
+那就是這個啦。"	"Standard camping snacks
+are these, right?"	"캠핑의 단골 간식은
+역시 이거지"
 344	"チョコがちょっと溶けて
-うまー"
+うまー"	"讓巧克力稍微融化
+好好吃啊──"	"When the chocolate is a bit melted,
+it's delicious."	"초콜릿을 조금 녹이고
+맛있네~"
 345	"ホットケーキでも
-ケーキっぽくなるもんだな"
-346	甘くて…うまっ
+ケーキっぽくなるもんだな"	"鬆餅也是能做成
+吃起來像蛋糕一樣呢。"	Pancakes are cakes, too, right?	"핫케이크라도
+케이크처럼 꾸밀 수 있구나"
+346	甘くて…うまっ	好甜……好好吃。	So sweet... Yum.	달콤하고… 맛있어
 347	"スモークの加減が絶妙だ
-…噛めば噛むほど　うまいぞ"
-348	ポテンシャルを引き出せたな
-349	ヤケドに気をつけて…あつっ
-350	シュワシュワ　うまー
+…噛めば噛むほど　うまいぞ"	"這煙燻的程度真是抓得太妙了
+……越咬會越好吃喔。"	"The smokey taste is exquisite!
+The more you chew, the better it gets."	"스모크를 절묘하게 조절했어
+…씹으면 씹을수록 맛있는데"
+348	ポテンシャルを引き出せたな	完全發揮出潛能了呢。	It draws out it's full potential.	가능성을 끌어냈구나
+349	ヤケドに気をつけて…あつっ	小心別燙傷……好燙。	"I need to be careful of burns...
+It's hot."	화상 조심하면서… 앗 뜨거
+350	シュワシュワ　うまー	好多氣泡好好喝喔──	It's really bubbly. Very good.	치익치익, 맛있어~
 351	"これは…
-最強の組み合わせだ…！"
+最強の組み合わせだ…！"	"這個是……
+最厲害的組合啦……！"	"This is...
+The ultimate combination!"	"이건…
+최강의 조합이야…!"
 352	"さっぱりしてるのに
-濃厚でうまいぞ"
-353	細かいとこまでちゃんとお城だ
-354	ジューシーでうまい…
+濃厚でうまいぞ"	"明明吃起來很爽口
+但是口味好濃好好吃喔。"	"It tastes refreshing, but also rich
+at the same time."	"분명 담백한데
+진하고 맛있어"
+353	細かいとこまでちゃんとお城だ	這個連城堡細部都有好好做出來耶。	The castle is so detailed.	세세한 부분까지 제대로 된 성이야
+354	ジューシーでうまい…	又多吃又好吃……	Juicy and delicious...	육즙도 풍부하고 맛있어…
 355	"ちゃんとツリーだ…
-遊び心があるな"
+遊び心があるな"	"真的像樹一樣耶……
+很會玩嘛。"	"It's an actual Christmas tree.
+Looks playful."	"제대로 된 트리야…
+재치가 느껴지는데"
 356	"ふー…
-あったまる優しい味だ"
-357	ちくわ　一緒に遊ぶぞー
-358	わんこ…いやウサギだ…！
-359	かわええ　角生えてる
-360	ちくわ将軍　毛布をどうぞ
+あったまる優しい味だ"	"呼──……
+是溫暖又溫柔的味道呢──"	"Phew...
+It's warm and soothing."	"후우…
+따뜻해지는 부드러운 맛이야"
+357	ちくわ　一緒に遊ぶぞー	竹輪，過來一起玩──	Chikuwa, let's play.	치쿠와, 같이 놀자~
+358	わんこ…いやウサギだ…！	狗狗……不對是兔子……！	A dog... No, that's a rabbit!	멍멍이… 아니, 토끼다…!
+359	かわええ　角生えてる	好可愛喔，還長角耶。	The horns are so cute.	귀여워, 뿔도 났네
+360	ちくわ将軍　毛布をどうぞ	竹輪將軍，請用毛巾吧。	"General Chikuwa, please take
+this blanket."	치쿠와 장군, 여기 담요입니다
 361	"いかつい系だけど
-これはこれで…"
+これはこれで…"	"雖然有點兇悍
+不過這樣也不錯耶……"	"The world is cruel.
+But that's just how it is."	"우락부락한 타입이지만
+이건 이것대로…"
 362	"軽トラの乗り心地ってどう？
-…聞いてもわかんないか"
-363	なんだよ　てんしばって…
+…聞いてもわかんないか"	"小貨車搭起來怎麼樣啊？
+……反正問了也不懂吧。"	"What's it like to sit in a pick-up
+truck? It's hard to explain."	"경트럭 승차감은 어때?
+…물어봐도 모르려나?"
+363	なんだよ　てんしばって…	妳們說的天芝是什麼啊……	What's going on here...	뭐야, 텐시바라는 건…
 364	"お　新しいギアじゃん
-せっかくだしサイトに置いてみない？"
-365	サンシェードの下は涼しいかも
-366	スイカ割り　結構難しそうだ…
-367	海でよく見るパラソルだな
-368	エビ　ホタテ…どれもうまいぞ
-369	涼し気でいいよな
+せっかくだしサイトに置いてみない？"	"哦，是新用品耶
+機會難得，要不要放在場景裡看看？"	"Oh, you have new gear.
+Why not add it to the campsite?"	"오 새로운 기어잖아
+모처럼이니 사이트에 놓아볼까?"
+365	サンシェードの下は涼しいかも	遮陽篷下面蠻涼快的耶。	It's cooling under the sun shade.	선셰이드 아래는 좀 선선하네
+366	スイカ割り　結構難しそうだ…	打西瓜還挺難的耶……	This seems like a difficult activity...	"수박 깨기
+꽤 어려워 보이는데…"
+367	海でよく見るパラソルだな	在海邊還挺常見的遮陽傘耶。	A commonly-seen parasol at the beach.	"바다에서 자주 보는
+파라솔이군"
+368	エビ　ホタテ…どれもうまいぞ	蝦子跟扇貝……哪個都很好吃喔。	Shrimps, scallops... They all look good.	"새우, 가리비…
+다 맛있어"
+369	涼し気でいいよな	看起來很涼快，真棒耶。	This looks refreshing.	시원한 느낌이 맘에 들어
 370	"（貸し切り状態……
-　シーズンオフ最高）"
-371	お腹すいた…　なんか作るか
-372	じ――…
+　シーズンオフ最高）"	"（根本包場狀態……
+淡季真是太棒了。）"	"(The whole place for myself.
+Off-season rocks!)"	"(전세 낸 기분……
+역시 비수기가 최고야)"
+371	お腹すいた…　なんか作るか	肚子餓了耶……做點東西來吃好了。	"I'm hungry...
+Guess I'll make something."	배고파… 뭐라도 만들까
+372	じ――…	盯──……	Hmm...	지긋……
 373	"貯金一億円くらい
-あったら　いいのになぁ"
-374	ま　まぁそうなんだけど…
+あったら　いいのになぁ"	"要是有一億日圓的存款
+那該有多好啊。"	"It'd be nice if I had 100,000,000 yen
+in savings."	"저금이 1억 엔 정도
+있으면 좋을 텐데"
+374	ま　まぁそうなんだけど…	是、是那樣沒錯啦……	W-Well, that's true, but...	뭐, 그렇긴 하지만…
 375	"うわなにをする
-くぁwせdrftgyふじこlp"
-376	（寒くなったら寝袋かぶるか…）
+くぁwせdrftgyふじこlp"	"嗚哇妳想幹嘛
+qawsedrftgyHUJIKOlp。"	"Ack, what's going on
+ku wsedrftg fujiko lp"	"으악무슨짓을
+ㅏㅓㄴ으ㅑ히어"
+376	（寒くなったら寝袋かぶるか…）	（冷的話乾脆就套上睡袋吧……）	"(Should I use my sleeping
+bag if it gets cold?)"	(추워지면 그냥 침낭에 들어갈까…)
 377	"豚バラ　カルビ　豚トロ　ホルモン
-ハラミ　タン　ロース…"
-378	なんでだよ
-379	（しかし　すげーいい場所だな　ここ）
-380	あ　流れ星
-381	（本読んで　のんびりしてるか）
-382	たまらん
-383	みんなの仮装…似合ってたな
+ハラミ　タン　ロース…"	"豬五花、肋排肉、豬里肌、內臟
+橫膈膜、舌頭、牛腰肉……"	"Pork belly, ribs, pork jowl, offal,
+skirt, tongue, shoulder..."	"삼겹살, 갈비, 항정살, 곱창
+안창살, 우설, 로스…"
+378	なんでだよ	為什麼啦。	What is it?	어째서야
+379	（しかし　すげーいい場所だな　ここ）	（不過，這裡是超──棒的地方呢）	(This place is actually really nice.)	(그건 그렇고, 여기 정말 좋은 곳인데)
+380	あ　流れ星	啊，有流星。	Oh, a shooting star.	아, 별똥별이다
+381	（本読んで　のんびりしてるか）	（來翻個書悠哉一下好了）	(I'll just relax with my book.)	(책 읽으면서 느긋하게 있을까)
+382	たまらん	太爽了。	I can't get enough.	끝내주는데
+383	みんなの仮装…似合ってたな	大家的變裝打扮……都好適合喔。	Everyone's costumes look great.	전에 했던 변장, 다들 어울렸지…
 384	"クリキャンって賑やかなイメージだ
-…たまにはこういうのも悪くないか"
-385	小田原城　立派だったな
-386	みんなで過ごす正月もいいな
-387	パジャマ姿も　たまにはいいか
-388	海キャン　楽しめたよな
+…たまにはこういうのも悪くないか"	"聖誕露營的氣氛很熱鬧呢
+……偶爾這樣也不錯呢。"	"Christmas camping is pretty lively.
+I enjoy that kind of atmosphere too."	"크리캠은 떠들썩한 이미지네
+…가끔은 이런 것도 나쁘지 않지"
+385	小田原城　立派だったな	小田原城，真是壯觀啊。	Odawara Castle is magnificent.	오다와라성, 훌륭했지
+386	みんなで過ごす正月もいいな	跟大家一起過新年也不錯呢。	"It'd be nice to spend New Year's
+with everyone."	다 같이 보내는 새해 첫날도 좋은걸
+387	パジャマ姿も　たまにはいいか	偶爾換成睡衣也不錯呢。	Pajamas are nice to wear sometimes.	파자마 차림도 가끔은 괜찮네
+388	海キャン　楽しめたよな	充分享受海邊露營了呢。	Seaside camping was fun.	바다 캠핑, 재밌었지
 389	"今日は
-あったかくなりそうだな"
+あったかくなりそうだな"	"今天應該
+會挺溫暖的呢。"	Weather looks warm today.	"오늘은
+따뜻해질 것 같네"
 390	"ハンモックって
 元々は船の上で
-使われたんだとよ"
+使われたんだとよ"	"吊床最一開始
+好像是給
+在船上的人用的耶。"	"Hammocks were originally
+used on ships."	"해먹은
+원래 배 위에서
+쓰던 거라더라"
 391	"つくしって
-食えるんだっけ…"
+食えるんだっけ…"	"衫菜
+可不可以吃啊……"	Can you eat horsetails?	"뱀밥이란 거
+먹을 수 있는 풀이던가…"
 392	"ハンモックがあれば
-最高の昼寝ができる！！"
+最高の昼寝ができる！！"	"要是有吊床的話
+就能睡個舒舒服服的午覺了！！"	"If you have a hammock, you're
+sure to have the best naps!"	"해먹이 있으면
+최고의 낮잠을 잘 수 있지!!"
 393	"あたしの考えた最強キャンプ…
-気になるだろ？"
+気になるだろ？"	"我想像中最強的露營……
+是不是很在意啊？"	"I know the ultimate way to camp...
+Want to hear?"	"내가 생각한 최강의 캠핑…
+궁금하지?"
 394	"ふわぁああ…
-こういうときは…寝る！"
+こういうときは…寝る！"	"呼哇啊啊……
+這種時候就是要……睡！"	"*yawn*
+I guess it's time for a nap!"	"흐아아암…
+이럴 땐… 자자!"
 395	"そろそろ
-焚き火でも始めるか？"
+焚き火でも始めるか？"	"也差不多
+該來生個篝火了吧？"	"It's about time to get a
+campfire going."	"슬슬
+모닥불이라도 피워볼까?"
 396	"今日はあたしが
-キャンプ飯を作るぞ！"
+キャンプ飯を作るぞ！"	"今天是我要來做
+露營餐哦！"	I'll be making the food today!	"오늘은 내가
+캠핑 식사를 만들겠어!"
 397	"ふむふむ…
 後片付けのことまで
-考え抜かれたレシピだな"
-398	温泉行くやつ　手ぇ上げろー！
+考え抜かれたレシピだな"	"嗯嗯……
+這道食譜
+甚至考慮到了善後收拾呢。"	"I see, I see...
+This recipe even considers how
+to easily clean up afterwards."	"흠흠…
+뒷정리까지 확실히
+감안한 레시피군"
+398	温泉行くやつ　手ぇ上げろー！	要去泡溫泉的人，舉手──！	"Who wants to go to the hot
+springs, raise your hands!"	온천 갈 녀석, 손 들어라~!
 399	"そろそろシュラフに入るか
 夜更かしするか…
-それが問題だ"
+それが問題だ"	"目前的問題是
+差不多該鑽睡袋
+還是乾脆熬夜了……"	"To sleep or not to sleep...
+That is the question."	"슬슬 침낭에 들어갈까
+밤을 새울까…
+그게 고민이네"
 400	"今夜も
-動画上映会すっかー"
+動画上映会すっかー"	"今晚也來辦
+影片放映會好了──"	Let's watch some movies tonight!	"오늘 밤도
+영상 상영회할까~"
 401	"あっちー！
-あとで　川遊びでもするか！"
+あとで　川遊びでもするか！"	"熱死了──！
+等等去河邊玩水好了！"	"It's hot out here! Probably a
+good idea to hang out by the
+river!"	"덥다~!
+나중에 강에서 물놀이라도 할까!"
 402	"熱中症予防には
-塩アメだ"
+塩アメだ"	"要預防中暑
+就要吃鹽糖。"	"Salt candy helps to prevent
+heat stroke!"	"열사병 예방에는
+소금 사탕이지"
 403	"ごくごくごく…
-ぷっはー！　炭酸一気飲み！"
+ぷっはー！　炭酸一気飲み！"	"咕嚕咕嚕……
+呼啊──！用碳酸飲料乾杯！"	"*glug glug glug*
+Fwah! I just chugged this soda
+in one go!"	"꿀꺽꿀꺽꿀꺽…
+푸하~! 탄산 원샷하기!"
 404	"きょーうの　おーやつーは
 なーんだーろなー♪
+"	"今天～～的～~零嘴～～
+是～～什麼～～呢～～♪
+"	"Wonder what we have for
+snacks today! ♪"	"오~늘의 간식은~
+뭐얼~ 까아~♪
 "
 405	"糖分補給するか
-ほい　アイス"
+ほい　アイス"	"補充一點糖分好了
+來，冰淇淋。"	"I should replenish my sugar levels.
+With ice cream."	"당분 보급 좀 할까?
+자, 아이스크림"
 406	"なんか
 さっぱりしたモンが
-食べたいかなー"
+食べたいかなー"	"現在啊
+想吃一些
+清爽的東西耶──"	"I want to eat something
+refreshing."	"어쩐지
+상큼한 레몬이
+먹고 싶네~"
 407	"ん？
-どっかから　いい匂いが…"
+どっかから　いい匂いが…"	"嗯？
+從哪飄來這麼香的味道……"	"Hm? Something that smells good
+is wafting over here..."	"응?
+어디선가 좋은 냄새가…"
 408	"夏の夕暮れって
-爽やかだよな"
+爽やかだよな"	"夏天的夕陽啊
+看起來很爽朗對吧。"	"Twilight during the summer
+feels so fresh."	"여름 노을은
+상쾌한 느낌이지"
 409	"夏の薪割り
-汗だくになる…！"
+汗だくになる…！"	"在夏天劈柴
+會滿身大汗耶……！"	"Chopping firewood in the summer
+is sweaty work!"	"여름에 장작을 패면
+땀범벅이 되지…!"
 410	"この暑さだし
-肝試しでもしたいなー"
+肝試しでもしたいなー"	"在這麼悶熱的時候啊
+就會想要去試個膽耶──"	"On hot days like these,
+I want to try a courage test."	"날씨가 이렇게 더우니
+담력 시험도 해보고 싶은걸~"
 411	"星空の下でのんびり…
-最高だな"
+最高だな"	"在星空下悠悠哉哉地……
+真是太棒啦。"	"Relaxing under the starry skies
+feels incredible."	"별빛 하늘 아래에서 느긋하게…
+최고야"
 412	"やっぱ夏は
-スタミナメニューに限るぜ"
+スタミナメニューに限るぜ"	"夏天果然就是要吃
+滋補料理嘛。"	"You definitely need to replenish your
+electrolytes during summer."	"역시 여름에는
+스태미너 메뉴가 최고지"
 413	"よーし
-薪割りするぞー！"
+薪割りするぞー！"	"好──
+要來劈柴囉──！"	"Alright, let's make some
+firewood!"	"좋아,
+장작을 패자~!"
 414	"ハーブティーってのも
-なかなかいいな"
+なかなかいいな"	"香草茶
+其實也不錯喝耶。"	Herbal tea isn't bad at all!	"허브티도
+그럭저럭 괜찮은걸"
 415	"パラコードで
-なんか作るか"
+なんか作るか"	"拿傘繩
+來做點什麼好了。"	"Can I make something with this
+paracord?"	"파라코드로
+뭐 좀 만들까"
 416	"焚き火の中に
 とっておきのものを
-入れておいたぞ"
+入れておいたぞ"	"我在篝火裡
+放了特地準備的
+好東西哦。"	"I put a little special something
+in the fire."	"모닥불 속에
+비장의 음식을
+넣어놨다구"
 417	"たまには　読書でも
-してみるかな"
+してみるかな"	"偶爾我也來
+看點書好了。"	"It's nice to read a book every
+now and then."	"가끔은 책이라도
+읽어볼까"
 418	"トンボの目を
-ぐーるぐる…"
+ぐーるぐる…"	"對蜻蜓眼睛
+轉～～圈圈……"	Dragonfly eyes are so googly.	"잠자리 눈앞에서
+빙글빙글…"
 419	"とっておきの新米で
-おにぎりを作るぞ！"
+おにぎりを作るぞ！"	"用這些特地準備的新米
+要來捏飯糰囉！"	"I'm making rice balls with this
+special first harvest rice!"	"비장의 햅쌀로
+주먹밥을 만들자!"
 420	"夕日が落ちるのって
-何回見ても　感動するよな"
+何回見ても　感動するよな"	"夕陽西下啊
+不管看幾次都會很感動耶。"	"No matter how many times I see
+the sunset, it still leaves me
+in awe."	"해가 지는 풍경은
+몇 번을 봐도 감동적이야"
 421	"きのこのホイル焼き
-うまいよなー"
+うまいよなー"	"鋁箔包烤香菇
+很好吃耶──"	"Foil-roasted mushrooms taste
+so good."	"버섯 포일 구이
+맛있지~"
 422	"過ごしやすいを通り越して
-ちょっと寒いくらいだぞ…！"
+ちょっと寒いくらいだぞ…！"	"這已經不叫舒爽了
+是不是有點太冷了啊……！"	"Rather than comfortable, it's starting
+to get a little cold!"	"쾌적한 수준을 넘어서
+조금 추울 정도인데…!"
 423	"スマホのバッテリー
-どこいったー？"
+どこいったー？"	"手機電池
+放去哪裡了──？"	"Where's my spare battery for
+my phone?"	"스마트폰 배터리
+어디 갔지~?"
 424	"焚き火を囲んで
-のんびり…いいよなぁ"
+のんびり…いいよなぁ"	"圍著篝火
+悠悠哉哉的……真棒啊。"	"Chilling around the campfire...
+This is the life."	"모닥불을 둘러싸고
+느긋하게… 좋지"
 425	"くーっ
 寒さに耐えられん！
-焚き火するぞ！"
+焚き火するぞ！"	"嗚──
+冷到受不了了！
+來生篝火吧！"	"Brrr, I can't stand the cold.
+Let's get a campfire going."	"크으~
+견디기 힘든 추위다!
+모닥불 피우자!"
 426	"くっ…シュラフに
-戻りたくなっちまう"
+戻りたくなっちまう"	"唔……好想鑽回
+睡袋裡去喔。"	"Brrr... I want to crawl back
+into my sleeping bag."	"큭… 침낭으로
+돌아가고 싶어져"
 427	"ちらついてんのは…
-まさか　雪…！？"
+まさか　雪…！？"	"好像有什麼東西在閃……
+難道下雪了……！？"	"Something looks like it's sparkling...
+It's not snow, is it?!"	"뭔가 조금씩 내리는데…
+설마 눈…!?"
 428	"よーし！
-ガンガン焚き火するぞ！"
+ガンガン焚き火するぞ！"	"好──！
+那要來生一個夠大的篝火！"	"Okay!
+Time to get that fire going!"	"좋~아!
+모닥불을 더 많이 피우자!"
 429	"暖をとるために
-薪を割り続けるぜ！"
+薪を割り続けるぜ！"	"繼續劈柴吧
+這樣能保暖喔！"	"I have to keep chopping to keep
+the fire going!"	"열기를 내기 위해
+장작을 계속 쪼개야겠어!"
 430	"おやつは
-あったかーい　お汁粉だ！"
+あったかーい　お汁粉だ！"	"零食就是
+熱呼呼的──紅豆年糕湯！"	"For snacks, we have warm
+red bean soup!"	"간식은
+따끈~한 시루코야!"
 431	"焚き火　あったけー…
 特にこの季節は
-離れらんないな"
+離れらんないな"	"篝火好溫暖啊──……
+尤其是在這種季節
+根本離不開它啊。"	"The fire is so warm...
+This weather makes me want
+to stay here forever."	"모닥불 따뜻하네~
+이 계절에는 특히
+더 벗어날 수 없지"
 432	"ちょっとそこまで
-ライト借りてくぞ"
+ライト借りてくぞ"	"稍微等一下
+手電筒我就借走囉。"	"Hey, can you shine your light
+over here, please?"	"잠깐 저기까지
+라이트 좀 빌릴게"
 433	"おーし
-今からカイロを配るぞー"
+今からカイロを配るぞー"	"好──
+現在來分暖暖包吧──"	"Alright, guys. Anyone who
+needs a heat pack, come get
+one!"	"좋아~
+지금부터 핫팩을 나눠주겠다~"
 434	"星　キレイだなー
 …ん？　なんか動いてるぞ
-流れ星にしちゃー遅いけど"
+流れ星にしちゃー遅いけど"	"星星好漂亮喔──
+……嗯？是不是有東西在動啊？
+那麼慢應該不是流星就是了。"	"The stars are beau—huh?
+Is that a shooting star?
+Too late to make a wish..."	"별이 아름답네~
+…응? 뭔가 움직이잖아
+별똥별이라기엔 느린데"
 435	"今日の鍋も
-めちゃくちゃウマかった…！"
+めちゃくちゃウマかった…！"	"今天的火鍋也
+超級好吃的……！"	Hotpot was delicious today!	"오늘의 전골도
+무진장 맛있었어…!"
 436	"気温がだいぶ
 下がってきたなー
-げっ　水が凍ってる…！"
+げっ　水が凍ってる…！"	"氣溫下降
+不少了呢──
+呃，水結冰了……！"	"The temperature is really coming
+down—ack, the water is starting
+to freeze!"	"기온이 꽤나
+떨어졌구만~
+컥, 물이 얼었어…!"
 437	"なあ　欲しい
-キャンプギアの話しようぜ！"
+キャンプギアの話しようぜ！"	"我說啊，要不要來聊聊
+想要的露營用品啊。"	"Hey, let's talk about the camping
+gear on our wishlists!"	"있잖아, 갖고 싶은
+캠핑 기어 이야기 좀 해보자!"
 438	"山キャンもいいが
 海キャンも捨てがたい
-なんならグランピングも…"
+なんならグランピングも…"	"去山上露營是不錯啦
+但是到海邊露營也很讚耶
+我覺得豪華露營其實也……"	"Camping in the mountains is
+great. By the seaside too.
+Also glamping is fun..."	"산 캠핑도 좋지만
+바다 캠핑도 좋지
+아니면 글램핑도…"
 439	"ノンアルカクテルの
-新レシピでも試してみっか"
+新レシピでも試してみっか"	"來試試看
+無酒精調酒的新酒單吧。"	"I guess I'll try making that new
+mocktail."	"새로운 무알콜 칵테일
+레시피라도 시험해 볼까"
 440	"…向こうになんかある…
-気になるな"
-441	うーん　今日は何見るか…
+気になるな"	"……對面好像有什麼好玩的耶……
+讓人很在意耶。"	"I kind of want to see what's
+over on that side."	"…건너편에 뭔가가 있어…
+신경 쓰이네"
+441	うーん　今日は何見るか…	嗯──今天要看什麼好呢……	Hmmm, what should I watch today?	으음… 오늘은 뭘 볼까…
 442	"たまにはお土産でも
-買って帰るか"
+買って帰るか"	"偶爾也買一點土產
+回去好了。"	"I should bring home a souvenir
+this time."	"가끔은
+기념품이라도 사갈까"
 443	"おっ
 パラコードで作りたいもの
-思いついたぞ！"
+思いついたぞ！"	"哦
+我想到要用傘繩
+做什麼了！"	"Oh! I have a idea for what to
+make with this paracord!"	"오!
+파라코드로 만들고 싶은 게
+생각났어!"
 444	"あー
-大自然って　いいもんだなー"
+大自然って　いいもんだなー"	"啊──
+大自然真棒啊──"	"Ahh... Being surrounded by
+nature feels great."	"아~
+대자연이라는 건 좋구나~"
 445	"さてと
-しばし　のんびりするか"
+しばし　のんびりするか"	"好啦
+稍微來放鬆一下吧。"	"I think I'll just lounge around
+for a bit."	"그럼
+잠시 느긋하게 있어 볼까"
 446	"なでしこ　おめでとう！
 うまいキャンプ飯
-これからも　期待してるぞ！"
+これからも　期待してるぞ！"	"撫子恭喜妳啊！
+今後也很期待
+妳做的好吃露營餐哦！"	"Nadeshiko, have a happy birthday!
+I hope you'll keep making us
+delicious camping meals!"	"나데시코, 축하해!
+맛있는 캠핑 요리
+앞으로도 기대할게!"
 447	"リン　おめでとう！
-これからも　頼りにしてるぜ！"
+これからも　頼りにしてるぜ！"	"澟恭喜妳啊！
+今後也得依靠妳了哦！"	"Happy birthday, Rin!
+I hope we can hang out lots!"	"린, 축하해!
+앞으로도 믿고 있을게!"
 448	"イヌ子　おめでとう！
 ケーキ　用意してるから
-楽しみにしててくれよ！"
+楽しみにしててくれよ！"	"犬子恭喜妳啊！
+我有準備了蛋糕喔
+妳就好好期待一下吧！"	"Happy birthday, Inuko!
+There's cake waiting for you!"	"이누코, 축하해!
+케이크 준비해뒀으니
+기대하라고!"
 449	"恵那　おめでとう！
 後でこのタスキ
-かけてくれな"
+かけてくれな"	"惠那恭喜妳啊！
+等一下記得
+掛這條背帶啊。"	"Happy birthday, Ena!
+Put on this sash later, okay?"	"에나, 축하해!
+이따가 이 어깨띠
+두르고 와줘"
 450	"あけましておめでとう
 ございます！　今年も
-キャンプ　楽しんでいくぞー！"
+キャンプ　楽しんでいくぞー！"	"新年快樂！
+今年也要
+好好享受露營哦──！"	"Happy new year! I hope this
+year will be full of fun camping
+again!"	"새해 복 많이
+받으세요! 올해도
+즐겁게 캠핑하자고~!"
 451	"バレンタインだなー
-チョコでも交換すっか！"
+チョコでも交換すっか！"	"是情人節耶──
+那來交換巧克力吧！"	"It's Valentine's Day, huh?
+Let's give each other chocolate!"	"발렌타인이네~
+초콜릿이라도 교환할까!"
 452	"富士山の日かー
 …って　一体
-何をすればいいんだ？"
+何をすればいいんだ？"	"今天是富士山之日啊──
+……呃，可是啊
+今天要做什麼啊？"	"It's Mount Fuji Day...
+So what do I do exactly?"	"후지산의 날인가~
+…그런데 이 날엔
+뭘 해야 하지?"
 453	"ホワイトデーの
 定番お菓子といえば
-やっぱ　マシュマロだよな！"
+やっぱ　マシュマロだよな！"	"說到白色情人節
+的招牌零嘴啊
+當然就是棉花糖啊！"	"White Day typically means
+marshmallows!"	"화이트데이의
+단골 과자라고 하면
+역시 마시멜로지!"
 454	"お菓子をくれなきゃ
-イタズラするぞぉ～！"
+イタズラするぞぉ～！"	"不給我糖
+就要搗蛋哦～～！"	"If you don't give me candy,
+I'll play a trick on you!"	"과자를 주지 않으면
+장난칠 거야~!"
 455	"クリスマスの
 準備をしないとだよな！
-あー　忙しい忙しい…"
+あー　忙しい忙しい…"	"得開始準備
+聖誕節的事情才行了！
+啊──忙死了忙死了……"	"I have to prepare for Christmas!
+Oh, so much to do..."	"크리스마스
+준비를 해야겠지!
+아~ 바쁘다 바빠…"
 456	"今日のために考えた
 スペシャルモクテルだ！
-メリークリスマス！"
+メリークリスマス！"	"這可是為了今晚所準備的
+特製無酒精調酒哦！
+聖誕快樂！"	"I mixed a special mocktail
+just for today!
+Merry Christmas y'all!"	"오늘을 위해 생각해낸
+스페셜 무알콜 칵테일이다!
+메리 크리스마스!"
 457	"今年ももう　終わりかー
 よーし
-たっぷりのお湯を沸かして…"
+たっぷりのお湯を沸かして…"	"今年馬上要結束啦──
+好啦──
+來煮一大鍋開水……"	"This year is already over, huh.
+Alright, I'll put lots of hot water in..."	"올해도 벌써 끝인가~
+좋~아
+충분히 물을 끓이고…"
 458	"なあ　あっちで
-なんかやってるっぽいぞ"
+なんかやってるっぽいぞ"	"我說啊，那邊
+是不是很熱鬧啊。"	"Hey, looks like they're up to
+something over there."	"있잖아, 저기서
+뭔가 하고 있나 본데?"
 459	"一年　あっという間だったな
 いやー　めでたいめでたい！
-これもみなさんのおかげです！"
-460	すぅ…
+これもみなさんのおかげです！"	"一轉眼就過去一年了呢
+嗯啊──恭喜身體健康發大財
+全都是托大家的福喔！"	"The year is already over...
+No, it flew by because it was
+so much fun!"	"1년, 눈 깜짝할 새였네
+이야~ 무사히 보내서 다행이야!
+이것도 다 여러분 덕분입니다!"
+460	すぅ…	呼……	*snore*...	쿨…
 461	"うっ…ちくわ…
 それだけは…
-やっ…やめろォ…！"
-462	はぁ～…　和むぜぇ…
-463	ちょっと休憩するか
-464	ふぅ…
-465	出来上がりが楽しみだぜ～！
-466	次は…　これだな！
-467	作るぞー
-468	いつかは凝ったコーヒーを…！
-469	スープでも作るか
-470	お湯沸かすぞー
-471	ぷは～～～っ！！
-472	潤うぜー
-473	ごくごく
-474	癒されるな
-475	視界良好！
-476	おぉー
-477	火力は問題ないな
-478	ばっちりだな
-479	火がついたぞ！
-480	炎のゆらぎ…いいな…
-481	お楽しみの時間だぞ
-482	着火！
-483	ん～…　寝心地最高だなぁ…
-484	いい包まれ具合だ…
-485	おやすみー
-486	アウトドア飯　最高だな！
-487	おおー！　これいけるぞ！
-488	うまーっ！
-489	いいこだなーおやつ食うか？
-490	よーしよしよしよし
-491	お手！
+やっ…やめろォ…！"	"嗚……竹輪
+拜託了……
+住……住手啊……！"	"Urgh... Chikuwa, don't eat...
+It's...mine..."	"윽… 치쿠와…
+그것만은…
+머… 멈춰어…!"
+462	はぁ～…　和むぜぇ…	呼～～……真愜意啊……	Ahh... So calming...	하아~ 누그러지는군…
+463	ちょっと休憩するか	休息一下下吧。	Ahh... So relaxing...	조금 쉴까
+464	ふぅ…	呼……	Phew...	후우…
+465	出来上がりが楽しみだぜ～！	太期待完成了呢～～！	I have a good feeling about it!	완성이 기대되는구만~!
+466	次は…　これだな！	再來是這個哦！	Next... I do this!	다음은… 이거겠군!
+467	作るぞー	來做囉──	I'm doing this!	만들어 보자고~
+468	いつかは凝ったコーヒーを…！	以後我要精心地泡一杯咖啡……！	Someday, I'll have some fancy coffee!	언젠가는 공들인 커피를…!
+469	スープでも作るか	來煮濃湯好了。	I guess I'll make soup too.	수프라도 만들까
+470	お湯沸かすぞー	我要燒開水囉──	I'll boil some water.	뜨거운 물 끓인다~
+471	ぷは～～～っ！！	呼啊～～～～！！	I'll just stay here for a bit.	푸핫~~~!!
+472	潤うぜー	喉嚨被滋潤了──	Add water here...	갈증이 풀리네~
+473	ごくごく	咕嚕咕嚕	*sluuuurp*	꿀꺽꿀꺽
+474	癒されるな	真療癒啊。	I'm healed...	치유되는걸
+475	視界良好！	能見度真好！	It lit up the place!	시야 양호!
+476	おぉー	喔喔──	Oooh.	오오~
+477	火力は問題ないな	火力看來沒問題呢。	The fire is perfect.	화력은 문제 없군
+478	ばっちりだな	萬無一失呢。	This is perfect.	완벽한데
+479	火がついたぞ！	火生起來了喔！	The fire is on!	불이 붙었어!
+480	炎のゆらぎ…いいな…	火光搖擺……好棒喔……	"The flames are so relaxing...
+It's great..."	흔들리는 불꽃… 좋은걸…
+481	お楽しみの時間だぞ	這可是快樂時光哦。	This is the time to have fun!	기대하던 시간이야
+482	着火！	點火！	Time to light it!	착화!
+483	ん～…　寝心地最高だなぁ…	嗯～……真是超好睡的啦……	Hmm... This is way too comfortable...	음~ 최고의 잠자리야…
+484	いい包まれ具合だ…	包得恰到好處……	Wrapped up nicely...	잘 포장했군…
+485	おやすみー	晚安──	Good night.	잘 자~
+486	アウトドア飯　最高だな！	戶外料理，讚啦！	Outdoor cooking is the best!	아웃도어 식사, 최고야!
+487	おおー！　これいけるぞ！	喔喔──！這樣就行了啊！	Oooh! This is great!	오오! 이거 괜찮은데!
+488	うまーっ！	好吃──！	Yum!	맛있다~!
+489	いいこだなーおやつ食うか？	真是乖孩子──要不要吃零食？	Good dog! Want some treats?	착하네~ 간식 먹을래?
+490	よーしよしよしよし	好──乖好乖。	Good boy! Who's a good boy?!	옳~지옳지옳지옳지
+491	お手！	握手！	Paw!	손!
 492	"うんうん
-なかなか　快適だぞ"
-493	これはまた格別だなー…
+なかなか　快適だぞ"	"嗯嗯
+這還挺舒適的嘛。"	Mhm. This is quite nice.	"응, 응
+꽤나 쾌적한데"
+493	これはまた格別だなー…	這真是別有一番風味──……	This is also exceptional...	이건 또 각별하네…
 494	"安定感があって
-いい椅子だよなぁ"
+いい椅子だよなぁ"	"坐起來很穩
+真是張好椅子耶。"	This chair feels pretty stable.	"안정감도 있고
+좋은 의자야"
 495	"ご馳走になった肉…
-あの味が忘れられねーぜ"
+あの味が忘れられねーぜ"	"人家招待的那塊肉……
+我一輩子忘不了那味道。"	"That meat Aoi brought...
+I can't forget it."	"대접받은 고기…
+그 맛이 잊히질 않네~"
 496	"これまでも　これからも
-お世話になります！"
-497	ひとつあると便利だよなー
+お世話になります！"	"至今為止，還有從今以後
+都要承蒙妳照顧了！"	Thanks so much for everything!	"지금까지도 앞으로도
+잘 부탁드립니다!"
+497	ひとつあると便利だよなー	有這個的話會很方便喔──	This is convenient to have on hand.	하나 있으면 편리하지~
 498	"こまめに手入れして
-じっくり育てていくぞー"
+じっくり育てていくぞー"	"三不五時就要照顧一下
+要讓它好好發育長大喔ー"	"If you take care of it diligently,
+it's sure to grow."	"수시로 관리하면서
+천천히 키워가자고~"
 499	"挟んで焼いたらウマいもの…
-ありすぎて　困る！"
+ありすぎて　困る！"	"有太多東西夾起來烤會變好吃了……
+真是傷腦筋！"	"It's delicious if you bake it in a
+sandwich... There's too many option!"	"끼워서 구우면 맛있는 게…
+너무 많아서 못 고르겠네!"
 500	"ワッフルメーカーでお好み焼き
-いつの日か　成功させるぞ…！"
+いつの日か　成功させるぞ…！"	"我以後一定要成功用
+鬆餅機做一份御好燒給妳們瞧瞧……！"	"One day I will succeed in making
+okonomiyaki with this waffle iron!"	"와플 메이커로 오코노미야키
+언젠간 성공시키겠어…!"
 501	"アウトドアはもちろん
 インテリアにするのも
-ありだよな"
+ありだよな"	"戶外活動就不用說了
+在室內找事做
+也頗有樂趣的。"	"There's an aesthetic for the outdoors,
+too."	"아웃도어는 물론이고
+인테리어로 즐겨도
+좋단 말이지"
 502	"ちっちゃいのに
-デキるヤツ…リンみたいだな"
+デキるヤツ…リンみたいだな"	"明明小小隻
+卻又很能幹……就像澟一樣呢。"	"It's so small, but it's really
+capable... Exactly like Rin."	"쪼끄만데도
+괜찮은 녀석… 린 같네"
 503	"これからの時代のトレンドは
 自転車で走りながらの
-キャンプだ！"
+キャンプだ！"	"接下來的時代趨勢啊
+就是邊騎腳踏車
+邊露營啦！"	The future is camping while biking!	"다가올 시대의 트렌드는
+자전거로 달리면서
+즐기는 캠핑이다!"
 504	"普通の焚き火とは
 ちょっと違った雰囲気で
-いいよなぁ"
+いいよなぁ"	"跟一般篝火的氛圍
+有些不同呢
+真有意思。"	"It's a different experience from
+a regular campfire."	"평범한 모닥불과는
+조금 다른 분위기라서
+좋지~"
 505	"年末セールでお安くなってた
-焚き火台…大事に使うからな！"
+焚き火台…大事に使うからな！"	"我會好好珍惜地用的……
+這個過年特賣的超便宜篝火台！"	"I got this campfire stand on sale
+during boxing week. Treat it well!"	"연말 세일로 저렴해진
+모닥불 받침대… 소중하게 쓸 거야!"
 506	"ポチろうとしたら
 鼻血が出るなんて…
-畏れ多い逸品だよ"
+畏れ多い逸品だよ"	"就在我想要下標的時候
+竟然開始流鼻血了……
+是個令人生畏的好東西喔。"	"You'll get a nosebleed if you try
+to shop online...
+It's the forbidden click."	"인터넷 주문하려니까
+코피가 나다니…
+황송한 일품이네"
 507	"これさえあれば
-あたしに切れないものはない！"
+あたしに切れないものはない！"	"只要手握這個
+就沒有我切不斷的東西啦！"	If I had this, I could chop anything!	"이것만 있으면
+내가 벨 수 없는 건 없어!"
 508	"確かにテントの外の物音って
 気になるよな…
-需要はありそうだ"
-509	よっと！
+需要はありそうだ"	"帳篷外面的聲響
+確實會讓人很在意呢……
+這種需求看來有市場喔。"	"The sounds outside the tent also bother
+me... Maybe I'll supply an answer to
+the demand."	"확실히 텐트 바깥의 소리는
+신경 쓰이지…
+수요는 있겠는데"
+509	よっと！	唉唷！	Heave-ho!	으쌰!
 510	"ベーコン　ソーセージ
-どんどん燻製するぜー"
-511	ハロウィンって感じするな
+どんどん燻製するぜー"	"培根、香腸
+通通都拿去煙燻吧──"	"Smoked bacon sausage...
+Keep it coming!"	"베이컨, 소시지
+잔뜩 훈제해야지~"
+511	ハロウィンって感じするな	充滿萬聖節的氛圍呢。	It's very Halloween-y.	할로윈 같은 느낌이 나네
 512	"この雪だるまはな…
-光るんだぞ！！"
+光るんだぞ！！"	"這座雪人哪……
+可是會發光的喔！！"	This snowman can light up!	"이 눈사람은 말이다…
+빛이 난다고!!"
 513	"先生のおつまみって
-いつもおいしそうだよなー"
+いつもおいしそうだよなー"	"老師的下酒菜啊
+每次看都覺得好好吃的樣子喔──"	"Our teacher's snacks always
+look delicious."	"선생님의 술안주는
+언제나 맛있어 보이더라~"
 514	"ピリッとしたしょうがが
-いいアクセントになってんなー"
+いいアクセントになってんなー"	"生薑的那個嗆辣味啊
+能多帶來一股層次呢──"	"The pungency of ginger gives
+it a nice kick."	"매콤한 생강이
+알맞은 악센트가 됐는데~"
 515	"やっぱりあたしとしては
 タコ・ウインナーさん
-って呼びたくなるな"
+って呼びたくなるな"	"我果然還是
+會想要叫
+章魚香腸呢。"	"For me, these are more like
+octo-wieners."	"아무래도 나는
+문어 비엔나 씨
+라고 부르고 싶은데"
 516	"うまーっ！
 よし　みなさんご一緒に…
-アヒーッ！"
+アヒーッ！"	"好好吃！
+好，那大家一起來……
+欸嘿──！"	"Yum! Alright, everyone, eat up!
+Myam!"	"맛있다~!
+그럼 여러분도 다 같이…
+아히~!"
 517	"炭火でじっくり焼いた
 伊勢エビ…
-贅沢すぎる味だぜ…！"
+贅沢すぎる味だぜ…！"	"用炭火慢慢烤熟的
+日本龍蝦……
+這滋味真是太奢侈了……！"	"Charcoal-grilled spiny lobster...
+I'm in the lap of luxury!"	"숯불로 천천히 구운
+닭새우…
+너무 호화로운 맛이잖아…!"
 518	"シメのパスタ
 うまみを吸いまくってて
-うますぎるぜ！"
+うますぎるぜ！"	"收尾的義大利麵
+把鮮味都吸得飽飽的
+有夠好吃的啦！"	"Using pasta to soak up all the
+flavors at the end is amazing!"	"마무리 파스타
+감칠맛을 잔뜩 빨아들여서
+너무 맛있어!"
 519	"バリバリバリバリ…
-くーっ　うまいぞ金目鯛！"
+くーっ　うまいぞ金目鯛！"	"脆脆脆……
+天哪，紅金眼鯛真好吃耶！"	"Om nom nom...
+Mmm, red bream supremacy!"	"바삭바삭바삭바삭…
+크으~ 맛있구나, 금눈돔!"
 520	"普通にうまいモンが
 さらにレベルアップするなんて
-驚きだよなぁ"
+驚きだよなぁ"	"本來就很好吃的東西
+美味竟然還能再更上一層樓
+真是太意外了。"	"It's already delicious, but now
+it's on another level."	"그냥 먹어도 맛있는 게
+더 레벨 업 하다니
+놀랍단 말이지"
 521	"隠し味はとんこつラーメンの
 スープだなんて
-なでしこ　すごいよなぁ"
+なでしこ　すごいよなぁ"	"竟然加了豚骨拉麵
+的湯粉當神秘香料
+撫子還真厲害啊。"	"Nadeshiko is amazing for thinking
+of adding tonkotsu soup base as a
+secret ingredient."	"맛의 비결이 돼지뼈
+라면의 스프라니
+나데시코, 굉장한걸"
 522	"伊勢エビのうまみを
 これでもか！　って
-味わえるぞ！"
+味わえるぞ！"	"一吃下去啊
+嘴裡整個就會爆出
+滿滿的日本龍蝦鮮味耶！"	"The umami of spiny lobsters is
+really in your face! You really
+taste it!"	"닭새우의 감칠맛을
+이렇게나! 싶을 정도로
+맛볼 수 있어!"
 523	"いい肉ですき焼き…
 うまい…うまいぞ…！
-はむはむっ…うまぁ…！"
+はむはむっ…うまぁ…！"	"用上等肉煮的壽喜燒……
+好吃……太好吃了……！
+嚼嚼……好吃到不行……！"	"Good quality meat in sukiyaki is so
+so good... So good!
+Hum nyam nyam... Yum!"	"질 좋은 고기로 먹는 스키야키…
+맛있어… 맛있다고…!
+와구와구… 맛있어…!"
 524	"トマト　うまぁ！
 イヌ子の大胆アレンジ
-むちゃくちゃうますぎる！"
+むちゃくちゃうますぎる！"	"番茄好好吃喔！
+犬子這大膽的配方改良
+好吃到亂七八糟啊！"	"Tomatoes are so good!
+Inuko, the way you prepared it is
+genius!"	"토마토 맛있다!
+이누코의 대담한 어레인지
+무지막지 맛있어!"
 525	"ぷりぷりのもつと
 濃い味のスープがマッチして
-うっまー！"
+うっまー！"	"富有彈性的內臟
+跟這鮮濃高湯完美融合
+超好吃的──！"	"The large pieces of offal and thick
+soup go so well together!"	"탱글탱글한 내장과
+진한 맛의 국물이 어울려서
+맛있어!"
 526	"ひとつひとつ
 手作りしたきりたんぽ
-めちゃくちゃうまいぞ！"
+めちゃくちゃうまいぞ！"	"這每一根烤米棒
+都是手工製作的喔
+超級好吃的！"	"Making kiritanpo by hand makes
+them so delicious!"	"하나 하나
+손으로 만든 키리탄포
+무진장 맛있다!"
 527	"お湯を入れて待つだけで
 こんなにおいしくなるなんて
-先人に感謝だな…！"
+先人に感謝だな…！"	"只要倒開水然後等一下
+就會變這麼好吃
+真是太感謝先人們的努力了……！"	"All you do is add hot water and it'll
+be delicious. I must thank our
+ancestors for something so delicious!"	"온수 넣고 기다리기만 해도
+이렇게 맛있어지다니
+조상님께 감사해야겠어…!"
 528	"簡単なのに
 こんなにうまいパスタが
-できるなんてな！"
+できるなんてな！"	"這麼簡單的方法
+竟然可以做出
+這麼好吃的義大利麵！"	"It's so easy, but it makes such
+delicious pasta!"	"간단한데도
+이렇게 맛있는 파스타를
+만들 수 있다니!"
 529	"これが本場の
-激うまほうとうだ！"
+激うまほうとうだ！"	"這就是當地的
+終極好吃餺飥啦！"	This is the real, ultra-delicious hoto!	"이게 본고장의
+진짜 맛있는 호토다!"
 530	"くーっ
-なんて贅沢なシメなんだ！"
+なんて贅沢なシメなんだ！"	"呼──
+這收尾實在太奢侈了！"	"Ngh... What a superb way to
+use up the sauces!"	"크으~
+이 얼마나 사치스러운 마무리인가!"
 531	"さらっと食べれて
-何杯でもイケる味だぜ"
+何杯でもイケる味だぜ"	"這個口味能輕鬆下肚
+不管幾碗都吃得下耶。"	"You won't get tired of this no matter
+how much you eat."	"부드럽게 넘어가는 게
+몇 그릇이든 먹을만한 맛이야"
 532	"木皿のコーティングを
 はがすときには
-くれぐれも気をつけてくれな"
-533	リッチな味の味噌汁だなー
+くれぐれも気をつけてくれな"	"要剝掉木盤
+上的塗層的時候
+千萬要小心哪。"	"You have to be careful when you
+remove the coating on wooden plates."	"나무 그릇의 코팅을
+벗길 때는
+모쪼록 조심하라구"
+533	リッチな味の味噌汁だなー	這味噌湯的味道好高級喔──	This miso soup has a rich broth.	맛이 진한 된장국이네~
 534	"甘すぎないのが
-また　いいんだよなー"
+また　いいんだよなー"	"不會太甜這點
+正是它的厲害之處呢──"	It's not too sweet at all.	"너무 달지 않다는 게
+또 좋은 점이지~"
 535	"あんまり飲まないけど
-いろんな料理に合いそうだよな"
+いろんな料理に合いそうだよな"	"雖然我不太常喝
+但是感覺起來跟很多料理都很搭耶。"	"I don't drink it very often, but it
+seems to go well with many dishes."	"그다지 마시진 않지만
+다양한 요리에 어울릴 거 같은데"
 536	"岬の先で景色を眺めながら
 飲んだときのこと
-思い出すなー"
+思い出すなー"	"會讓人想起
+一邊看著從海角望出去的風景
+然後邊喝一杯的那時候呢──"	"I remember when I drank this while
+looking out at the scenery over the cape."	"곶 위에서 경치를 바라보면서
+마셨을 때가
+생각나네~"
 537	"ザ・キャンプの
-王道スイーツだよな！"
+王道スイーツだよな！"	"是來露營時的
+王道甜點哪！"	The definitive sweets of camping!	"THE 캠핑의
+간판 디저트지!"
 538	"はふっ…んー
 マシュマロとチョコビスが
-合わさったら　敵ナシだ！"
+合わさったら　敵ナシだ！"	"我吞……嗯──
+棉花糖配上巧克力餅乾
+沒什麼比這更好吃了！"	"Nom...
+Marshmallows and chocolate chips
+together have no equal!"	"얌… 음~
+마시멜로와 초코 비스킷이
+함께하니 무적이야!"
 539	"中身はホットケーキだが
 キャンプ場でもできる
-お手軽豪華な逸品だぞ！"
-540	甘くてデザートにぴったりだ
-541	よし　いい感じにできたな
-542	カレーめん鍋　うますぎる！！
-543	かぼちゃの甘味がたまんないぜ
-544	炭酸飲んだらスッキリするな
-545	かまぼことチーズって合うぞ！！
+お手軽豪華な逸品だぞ！"	"裡面雖然只包鬆餅
+但這可是連在露營區
+都能簡單做出來的豪華料理哦！"	"The contents are just pancakes, but
+it's beautiful product that's easy
+to use while camping."	"속은 핫케이크지만
+캠핑장에서도 만들 수 있는
+간단한 호화 일품 요리지!"
+540	甘くてデザートにぴったりだ	這個甜甜的，當甜點剛剛好。	It's sweet and perfect as dessert.	달콤해서 디저트로 딱이야
+541	よし　いい感じにできたな	好，感覺做得很成功喔。	Alright, I think I did good.	좋아, 맛있게 완성됐어
+542	カレーめん鍋　うますぎる！！	咖哩泡麵鍋好吃到爆！！	Curry noodle hotpot is irresistable!	카레면 전골 너무 맛있어!!
+543	かぼちゃの甘味がたまんないぜ	南瓜的甜味太厲害了。	"I can't get enough of the sweetness
+of squash!"	호박의 단맛이 끝내주네
+544	炭酸飲んだらスッキリするな	碳酸飲料喝起來真爽口呢。	I feel refreshed after drinking soda.	탄산 마셨더니 개운하네
+545	かまぼことチーズって合うぞ！！	魚板配起司真的好搭啊！！	Fish cake and cheese go so well!	어묵과 치즈는 어울리지!!
 546	"ジェラート　冷たくって
-おいしいよな"
-547	マジでお城そっくりだ…
-548	丸鶏ってロマンだよななー
+おいしいよな"	"義式冰淇淋冰冰涼涼的
+好好吃喔。"	Gelato is really cold and delicious.	"젤라토, 차갑고
+맛도 좋지"
+547	マジでお城そっくりだ…	真的就像城堡一樣耶……	It's a perfect replica of a castle...	정말 성하고 똑같아…
+548	丸鶏ってロマンだよななー	弄全雞真的是一種浪漫耶──	A whole roast chicken is so romantic.	통닭은 로망이지~
 549	"ポテサラツリー
-みんなで食べるか"
+みんなで食べるか"	"馬鈴薯沙拉樹
+大家一起分著吃吧。"	"A potato salad Christmas tree...
+Let's all eat it together."	"감자 샐러드 트리~
+다 같이 먹어볼까"
 550	"クラムチャウダー
-あったまるなー"
+あったまるなー"	"喝了巧達濃湯
+身子都暖起來了──"	The clam chowder is so warm.	"클램 차우더~
+따뜻해지는걸~"
 551	"おー　ちくわ
-あたしと遊びたいのか？"
+あたしと遊びたいのか？"	"喔──竹輪
+你想要跟我玩嗎？"	Oy, Chikuwa, want to play?	"오~ 치쿠와
+나랑 놀고 싶어?"
 552	"くぅー！　なんてかわいい
-ウサギイヌなんだ！"
+ウサギイヌなんだ！"	"嗯──這隻兔狗狗
+怎麼這麼可愛啊！"	Urk! What a cute rabbit dog!	"크으~! 진짜 귀여운
+토끼 강아지잖아!"
 553	"サンタクロースの遣い
-ちくわトナカイだな！"
+ちくわトナカイだな！"	"是聖誕老人的坐騎
+竹輪馴鹿耶！"	"It's Santa Claus's messenger:
+A Chikuwa reindeer!"	"산타 클로스의 도우미
+치쿠와 순록이군!"
 554	"我々
 秘密結社ブランケットの命運は
-将軍に握られている！"
+将軍に握られている！"	"我們
+秘密結社毛毯的命運
+就掌握在將軍的手上！"	"All of us in Secret Society BLANKET
+place our lives in your hands, General!"	"우리
+비밀결사 블랭킷의 운명은
+장군이 쥐고 있다!"
 555	"化けザルを倒しちまうなんて
-よっぽど強かったんだなぁ"
+よっぽど強かったんだなぁ"	"竟然能把猴子妖怪打倒
+看來不是省油的燈啊。"	"It must have been really strong
+to defeat the demon monkey."	"괴물 원숭이를 쓰러트리다니
+엄청나게 강했나보네"
 556	"お前の事は忘れないよ
-達者でなー！"
+達者でなー！"	"我不會忘記妳的
+要保重啊──！"	"Don't forget your goals!
+Be the best there ever was!"	"널 절대 잊지 않겠어
+잘 지내라고~!"
 557	"テントと柴犬の組み合わせ…
-悪くない…むしろ　いい…！"
+悪くない…むしろ　いい…！"	"帳篷搭柴犬的組合……
+不壞嘛……或著該說很棒啊……！"	"The combination of a tent and Shiba
+inu... Not bad. I like it!"	"텐트와 시바견의 조합…
+나쁘지 않네… 오히려 좋아…!"
 558	"いいもん手に入れたみたいだな
-さっそく使ってみようぜ！"
-559	サンシェードが今日の拠点だ
-560	割って割って割りまくるぞ！
-561	トロピカルジュースでも飲むか
-562	ホイル焼きも直焼きもうまぁー
-563	フルーツたっぷりでおいしいな
-564	まっ　マジで？
-565	クッキーとかくう？
+さっそく使ってみようぜ！"	"聽說拿到好東西了呢
+那就馬上來用用看吧！"	"Looks like you got something
+good. Let's use it right away!"	"괜찮은 걸 얻은 모양이네
+바로 사용해 보자고!"
+559	サンシェードが今日の拠点だ	遮陽篷就是今天的據點喔。	The sun shade is our base for today!	오늘의 거점은 선셰이드다
+560	割って割って割りまくるぞ！	一個兩個還不夠，我要打十個！	Let's smash, smash, smash!	깨고 깨고 또 깨자고!
+561	トロピカルジュースでも飲むか	來喝熱帶果汁好了。	I want a glass of tropical punch.	트로피컬 주스나 마실까
+562	ホイル焼きも直焼きもうまぁー	包鋁箔烤跟直接烤都好好吃喔──	Roast directly or with foil... Yummy!	"포일 구이도 직화 구이도
+다 맛있어~"
+563	フルーツたっぷりでおいしいな	放好多水果，好好吃喔。	It's just bursting with tasty fruits!	과일도 많고 맛있네
+564	まっ　マジで？	真、真假？	S-Seriously?	뭐, 정말?
+565	クッキーとかくう？	要吃餅乾嗎？	Want a cookie or something?	쿠키라도 먹을래?
 566	"でっかい豚足入ってる！！
-磐田名物おもろカレー！！"
-567	よーし　お前らよく聞け
+磐田名物おもろカレー！！"	"放了大塊豬腳！！
+磐田名產趣味咖哩！！"	"There's a giant pork hock in it!
+It's Iwata's specialty curry!"	"커다란 족발이 들어 있는!!
+이와타 명물, 오모로 카레~!!"
+567	よーし　お前らよく聞け	好──妳們給我聽好了。	Alright you guys, listen up!	좋아, 너희들 잘 들으라구
 568	"おい　あれ　シカ注意の看板でねぇか？
-シカ出んの？　シカ出んのここ？？"
+シカ出んの？　シカ出んのここ？？"	"喂，那個不是要小心有鹿出沒的告示嗎？
+有鹿出沒？這裡會有鹿出沒？？"	"Hey, is that a deer warning sign?
+Are we going to see a deer?
+Will it come out?"	"뭐야, 저거 사슴 주의 간판 아니야?
+사슴 나와? 여기 사슴 나와??"
 569	"折角だから
-ウッドキャンドルやろうぜ！"
-570	肉…　食うかい？
+ウッドキャンドルやろうぜ！"	"機會難得，
+我們來做木頭蠟燭吧！"	"Let's go for it and make a
+Swedish torch!"	"모처럼이니
+우드 캔들 만들어 보자!"
+570	肉…　食うかい？	要……吃肉嗎？	Want some steak?	고기… 먹겠니?
 571	"やっぱり日本人なら
-饅頭と　お茶ヅラ"
+饅頭と　お茶ヅラ"	"果然哪，身為日本人啊
+就是要日式饅頭配綠茶的啦。"	"If you're Japanese, you must have
+meat buns and a tea strainer."	"역시 일본인이라면
+만쥬와 차의 조합이지"
 572	"むぅーっ　だって　はやくふじさん
-見たかったんだもーん！"
+見たかったんだもーん！"	"唔──因為啊，人家啊，
+想快點去看富士山嘛──！"	Ugh, I wanted to see Mount Fuji soon!	"으으~ 그야 빨리 후지산을
+보고 싶었는걸~!"
 573	"…なんか　仕事終えたサンタが
-打ち上げしてるみてーだな"
+打ち上げしてるみてーだな"	"……總覺得有點像上完班的聖誕老人
+下班後去喝一杯一樣耶。"	It looks like Santa is lifting off.	"…어째, 일 끝낸 산타가
+마무리 회식하는 느낌인데"
 574	"今日は　のんびり
-まったり行こうぜー"
+まったり行こうぜー"	"今天就悠哉一點
+輕鬆地渡過吧──"	Let's take it easy today.	"오늘은 느긋하게
+천천히 해보자고~"
 575	"人が働いてる時にする
-キャンプほど　楽しいもんはねーぜ"
-576	たまらんな～
-577	あきちゃん特製パン　食べるか？
-578	我が名はヴァンパイア千明！
+キャンプほど　楽しいもんはねーぜ"	"沒什麼比得上別人還在上班，
+我們卻在露營還爽了耶──"	"There is nothing more fun than
+going camping when others are working!"	"남이 일할 때 즐기는
+캠핑만큼 즐거운 것도 없지~"
+576	たまらんな～	讚啦～～	I can't get enough!	끝내주네~
+577	あきちゃん特製パン　食べるか？	要不要吃小明我特製麵包啊？	"This is Aki-chan's Handmade Bread!
+Want to try it?"	아키 특제 빵, 먹어볼래?
+578	我が名はヴァンパイア千明！	我名為吸血鬼千明！	My name is Count Chiaki!	나의 이름은 뱀파이어 치아키!
 579	"イルミネーションって
-奥が深いなー"
-580	しいたけピザ　食うかい？
-581	晴れ着姿　いい思い出になったな！
-582	このパジャマ　いい感じだろ！
-583	海があたしを呼んでいる…！！
+奥が深いなー"	"燈光秀啊
+好深奧喔──"	The illumination is really profound...	"일루미네이션이란 건
+심오하단 말이지~"
+580	しいたけピザ　食うかい？	要吃香菇披薩嗎？	Want some shiitake pizza?	표고버섯 피자, 먹겠니?
+581	晴れ着姿　いい思い出になったな！	穿這件盛裝和服，是個很棒的回憶呢！	Dressing up is pretty memorable!	나들이 옷차림, 좋은 추억이 됐어!
+582	このパジャマ　いい感じだろ！	這件睡衣很棒對吧！	Those pajamas look great!	이 파자마, 느낌 괜찮지!
+583	海があたしを呼んでいる…！！	大海在呼喚我了……！！	The sea is calling out to me!	바다가 나를 부른다…!!
 584	"ぽかぽか陽気で
-気持ちええわぁ～"
+気持ちええわぁ～"	"暖呼呼的太陽光
+好舒服喔～～"	The warm weather is so nice...	"날씨도 따뜻해가
+기분이 좋데이~"
 585	"テントって昔は
 獣の皮で作ってたんやって
-…これはほんまやで"
+…これはほんまやで"	"以前的帳篷啊，
+聽說是用獸皮做的喔
+……這是真的唷。"	"Tents were made with animals
+skin back in the day... It's true."	"옛날에는 텐트를
+동물 가죽으로다 맹글었다카대
+…요거는 참말이다"
 586	"あっ
-テントウムシや"
+テントウムシや"	"啊，
+有瓢蟲耶。"	Oh, ladybugs	"앗
+무당벌레데이"
 587	"けっこう
-日差しが強いもんやなぁ"
+日差しが強いもんやなぁ"	"太陽光
+有點太強了呢。"	The sun is out strong today.	"햇빛이 꽤나
+센 기 같다"
 588	"このおまんじゅうにはな
-実は秘密があるんよ…"
+実は秘密があるんよ…"	"這個日是饅頭裡啊，
+其實包著秘密喔……"	"You see this bun? There's actually
+a secret about it..."	"사실 이 만쥬에는
+숨겨진 비밀이 있제…"
 589	"ふわぁ…
-つい　うとうとしてまうなぁ"
+つい　うとうとしてまうなぁ"	"呼啊……
+不小心就想打瞌睡了。"	"*yawn*
+Oof, I dozed off..."	"흐아암…
+내도 모르게 졸린다 아이가"
 590	"ちょっと体を動かしたら
-お腹が減ってきたわー"
+お腹が減ってきたわー"	"稍微做了點事情，
+肚子就開始叫了耶──"	Just moving a little makes me hungry.	"몸 좀 움직이니께
+배도 꺼져버렸데이~"
 591	"このコロッケ
 来る途中で買うたんよ
-みんなで食べよか"
+みんなで食べよか"	"我在過來的路上
+買了一些可樂餅喔。
+大家一起吃吧。"	"I bought this croquette on the way.
+Want to eat it together?"	"이 고로케
+오다가 산 긴데
+다 같이 무까~"
 592	"さて
-もうひとがんばりしよか！"
+もうひとがんばりしよか！"	"好啦，
+繼續加點油吧！"	"Alright, let's put in a little
+more effort!"	"그라모
+힘 쪼매 더 내보까!"
 593	"今日のごはんも
 絶品やな～
-ほっぺた落っこちそうや"
+ほっぺた落っこちそうや"	"今天的料理
+也好讚喔～～
+好吃到下巴都快掉了。"	"Dinner was delicious today!
+My cheeks are numb from chewing."	"오늘의 밥도
+억수로 맛있네~
+기가 막힌다 아이가"
 594	"みんな
-眠そうな顔しとるなあ"
+眠そうな顔しとるなあ"	"大家看起來
+都一臉睏樣呢。"	Everyone looks sleepy.	"애들 다
+졸린 얼굴이데이~"
 595	"今日もよう動いたし
-ストレッチしとこ…"
+ストレッチしとこ…"	"今天也做了不少事，
+來拉個筋好了……"	"I moved around a lot today.
+Better stretch."	"오늘도 운동 마이 했으니께
+스트레칭 해야제…"
 596	"もう　汗かいてしもうた…
-温泉行って　朝風呂せえへん？"
+温泉行って　朝風呂せえへん？"	"已經開始流汗了……
+要不要洗個晨澡，泡個溫泉呢？"	"I'm already sweating in the morning...
+Maybe I'll pop on down to the
+hot springs."	"벌써 땀 흘리삐따…
+온천 가가 아침 목욕하까?"
 597	"川沿いまで
-涼みに行ってみよう"
-598	ぎゃっ　セミ　生きとる…！
+涼みに行ってみよう"	"到河邊
+去避暑吧。"	"I'm going to go cool off
+by the river."	"강가까지
+바람 쐬러 가보재이"
+598	ぎゃっ　セミ　生きとる…！	呀啊！蟬還活著……！	Eeek! This cicada is still alive!	꺅, 매미가 살아있데이…!
 599	"お昼ごはんは
 さっぱり食べられる
-冷製パスタやでー"
-600	アイス買ってきたでー
+冷製パスタやでー"	"今天午餐是
+吃起來很爽口的
+冷盤義大利麵哦──"	"For lunch, I'll have some refreshing
+cold noodles!"	"점심밥은
+깔끔하게 먹을 수 있는
+콜드 파스타데이~"
+600	アイス買ってきたでー	我有買冰淇淋喔──	I bought some ice cream.	아이스크림 사왔데이~
 601	"この季節にぴったしの
 スパイシーな料理
-考えてみよかー"
+考えてみよかー"	"來想想
+跟這個季節最搭的
+辣味料理好了──"	"This is also the perfect season
+for spicy food."	"요즘 계절에 딱 어울리는
+스파이시한 요리를
+생각해 보까~"
 602	"今日はたっぷりお肉で
-豪華な焼肉ディナーやで！"
+豪華な焼肉ディナーやで！"	"今天的晚餐是超多肉肉的
+豪華烤肉哦！"	"Today we're having tons of meat!
+What a luxurious dinner!"	"오늘은 산더미 같은 고기로다가
+호화 야키니쿠 디너를 즐겨 보재이!"
 603	"そろそろ夕方かー
-涼しくなったなぁ"
+涼しくなったなぁ"	"快要傍晚了耶──
+開始涼爽起來了呢。"	"It's turning into evening...
+The weather is cooling too."	"슬슬 저녁인가~
+선선해졌다~"
 604	"夕日の写真
-めっちゃうまく撮れたわー"
+めっちゃうまく撮れたわー"	"拍到了好漂亮
+的夕陽照片喔──"	"You took a really nice photo
+of the sunset!"	"노을 사진
+참말로 잘 찍었데이~"
 605	"まだ眠たないし
-みんなで　なんかしようや"
+みんなで　なんかしようや"	"現在還不想睡耶，
+大家一起來做點事吧。"	"I'm still awake.
+Let's do something together!"	"아직 잠 안 오니께
+다 같이 뭐 하나 해보까"
 606	"星　めっちゃすごない？
-見とれてまうわ"
+見とれてまうわ"	"星星是不是超漂亮的？
+會讓人看到入迷呀。"	"There are so many stars.
+What a sight to see."	"별 진짜 굉장하지 않나?
+넋을 잃고 보게 된데이"
 607	"夏のこの時間
-間違いなく　出るわ…！"
+間違いなく　出るわ…！"	"夏天的這個時間，
+一定會跑出來的……！"	"At this hour, in this season...
+There is no doubt about it.
+Those things are sure to appear!"	"여름의 이 시간엔
+틀림없이 나올 기라…!"
 608	"おはようさん
-今日は何しよかー"
+今日は何しよかー"	"妳早啊，
+今天要做什麼呢──"	"Good morning!
+What should I do today?"	"좋은 아침이데이
+오늘은 뭐하까~"
 609	"ココアって
-甘くてほっとするなあ"
+甘くてほっとするなあ"	"甜甜的可可亞
+讓人好放鬆喔。"	"Hot chocolate tastes so sweet
+and makes me feel relaxed."	"코코아는
+달달해가 마음이 놓이제"
 610	"過ごしやすい季節に
-なったなぁ"
+なったなぁ"	"來到氣溫舒適
+的季節了呢。"	It's such an easygoing season.	"지내기 편한 계절이
+됐데이"
 611	"お昼ごはんは
-きのこの炊き込みごはんやでー"
+きのこの炊き込みごはんやでー"	"今天午餐是
+香菇炊飯喔──"	"For lunch, let's have some
+mushrooms with rice."	"점심 요리는
+버섯밥이데이~"
 612	"紅葉した景色でも
-描いてみよかな"
+描いてみよかな"	"來畫個紅葉
+風景圖好了。"	"I wonder if I can capture the autumn
+leaves on paper."	"단풍으로 물든 경치 좀
+그려 보까나~"
 613	"赤とんぼや
-のどかやなぁ"
+のどかやなぁ"	"是紅蜻蜓耶，
+好寧靜的環境喔。"	"A red dragonfly...
+Feels so peaceful around here."	"고추잠자리데이
+한가롭네~"
 614	"夕日がめっちゃ
-きれいやねぇ…"
+きれいやねぇ…"	"夕陽真的
+好漂亮喔……"	The sunset is beautiful.	"노을이 억수로
+예쁘네…"
 615	"赤く染まった空
-ほんまに綺麗やなぁ"
+ほんまに綺麗やなぁ"	"染紅一片的天空，
+真是漂亮哪。"	"The sky dyed red looks really
+beautiful."	"붉게 물든 하늘
+참말로 예쁘네~"
 616	"おいしそうな匂いが
-してきたなぁ"
+してきたなぁ"	"開始聞到
+好吃的香味了耶。"	"Mmm, another mouth-watering
+aroma."	"맛나는 냄새가
+난다 아이가~"
 617	"秋の夜長に…
 洋画の鑑賞会でもせん？
-どんなジャンルがええかなぁ"
+どんなジャンルがええかなぁ"	"在秋天的漫長夜晚裡……
+要不要辦洋片欣賞會？
+看什麼類型的好呢。"	"Watching foreign films in the fall
+evening? I wonder what genre..."	"가을의 긴 밤에…
+외화 감상회 어떠나?
+어떤 장르가 좋은지 말해보래이~"
 618	"ありゃ
-お水　飲み終えてしもた"
+お水　飲み終えてしもた"	"哎呀
+水喝完了呢。"	Oh, I'm out of water.	"아이고
+물 다 마셔삐따"
 619	"もうちょっとだけ
-夜更かししても　ええか"
+夜更かししても　ええか"	"要不要
+再稍微熬一下夜啊。"	"It'll be fine if I stay up a
+little longer."	"쪼매만 더
+밤새도 괜찮지 않겠나"
 620	"寒いから
-焚き火の周りに座りー"
-621	靴下　二枚履きしとこ
+焚き火の周りに座りー"	"好冷喔，
+來坐在篝火旁邊吧──"	"It's cold.
+Better sit close to the fire."	"추우니께
+모닥불 주위에 앉으래이~"
+621	靴下　二枚履きしとこ	襪子穿個兩層好了。	I have two pairs of socks on.	양말 두 켤레 신을란다
 622	"はーっ…
-息が真っ白や"
+息が真っ白や"	"哈──……
+吐氣都變白霧了。"	"Fwah!
+Look, you can see my breathe!"	"하앗~
+입김이 새하얗네"
 623	"この時期は
-カイロが手放せんなぁ"
+カイロが手放せんなぁ"	"這個時期
+真的不能沒有暖暖包呢。"	"My hands are busy holding
+heat pads."	"요런 시기에는
+핫팩을 놓을 수가 없네~"
 624	"ほっかほかの
 あったかスイーツ
-作ってみたでー"
-625	ブランケット　あったかぁ
+作ってみたでー"	"我試著做了
+又鬆又暖
+的甜點喔──"	I tried making some warm sweets.	"후끈후끈하고
+따뜻한 디저트를
+만들어 봤다~"
+625	ブランケット　あったかぁ	毛毯好溫暖哦。	The blanket is so warm.	블랭킷 따뜻하네~
 626	"煮炊きしとると
-あったかくてええなぁ"
+あったかくてええなぁ"	"做料理的時候
+會暖呼呼的，很舒服喔。"	"It's so nice and warm when it's
+boiled."	"밥 짓는 동안은
+따뜻해가 좋데이~"
 627	"誰か　玉ねぎ
-炒めといてくれへん？"
-628	北風　ひやーっとするなぁ
+炒めといてくれへん？"	"有人可以幫我
+先把洋蔥炒起來嗎？"	"Can someone roast some
+onions, please?"	"누가 양파 좀
+볶아주면 안 되나?"
+628	北風　ひやーっとするなぁ	北風吹得好大力喔。	The North Wind brings the chill.	북풍이 쌀쌀해가 매섭네~
 629	"今日のレシピ
 初挑戦のわりには
-うまくいって　よかったわぁ"
+うまくいって　よかったわぁ"	"今天的菜單
+雖然是第一次做，
+但是很成功呢。太好了。"	"It was my first time trying this
+recipe today... Glad it turned
+out well."	"오늘 레시피
+첫 도전치고는
+맛있게 잘 되가 다행이네~"
 630	"はー　大満足や…
 お肉もええけど
-お魚のお鍋もありやなぁ"
+お魚のお鍋もありやなぁ"	"呼──大大滿足了……
+放肉肉的雖然很不錯，
+火鍋放魚也很棒耶。"	"Phew, I'm so full. Usually you
+have meat with hotpot, but having
+fish is great too!"	"하~ 대만족이데이…
+고기도 좋지만
+생선 전골도 괜찮제"
 631	"寝る前に
-乾燥対策しとかんとな"
+乾燥対策しとかんとな"	"睡覺前得
+做點防乾燥的準備呢。"	"Before sleeping, I have to make
+sure to moisturize!"	"자기 전에
+건조 방지 좀 해야겄다"
 632	"ブッシュクラフトに
-挑戦してみたいんよね"
+挑戦してみたいんよね"	"想找一天
+來挑戰野營耶。"	I'd like to try bushcraft.	"부시크래프트에
+도전해 보고 싶데이"
 633	"道具を舟に積んで
 川下りしながら
-キャンプする国もあるらしいで"
+キャンプする国もあるらしいで"	"聽說還有些國家
+會把工具都堆在船上，
+順流而下的同時露營哦。"	"It seems in some countries you can
+load your boat with your gear
+and camp down the river."	"도구를 배에다 쌓아가
+급류 타면서
+캠핑하는 나라도 있다카대~"
 634	"グルグルマップで
 気になるキャンプ場を
-見つけたんよ"
-635	散歩行ってくるわあ
-636	新しい動画　発掘したいなあ
+見つけたんよ"	"我在谷鹿地圖上
+找到了讓人
+有點在意的露營區喔。"	"I found a good campsite
+on Google Maps."	"지도 앱으로다가
+관심 가는 캠핑장을
+찾아놨데이~"
+635	散歩行ってくるわあ	我去散個步喔。	I'll go for a walk.	산책 좀 다녀온데이~
+636	新しい動画　発掘したいなあ	好想拓展一下新的影片喔。	I'd like to watch something new.	새로운 영상도 발굴하고 싶다 아이가
 637	"あかりにお土産
-何がええかな？"
+何がええかな？"	"要給朱莉
+買什麼土產好呢？"	"I should get Akari some kind of
+souvenir..."	"아카리 줄 기념품
+뭐 사가야 좋아하까"
 638	"あれっ？
 もうこんな時間や
-あっという間やなぁ"
+あっという間やなぁ"	"不會吧？
+已經到這個時間了。
+時間過得真快呀。"	"Huh? It's already this late all of
+a sudden."	"얼레?
+시간이 벌써 이래 됐나
+순식간이데이"
 639	"昨日見た　キャンプの豆知識
-みんなにも教えたろ"
+みんなにも教えたろ"	"等等也告訴大家
+昨天看到的露營小知識吧。"	"I'm going to share what I learned
+on Camping Trivia last night."	"어제 봤던 캠핑 꿀팁
+애들한테 알려줘야제"
 640	"…あ
-ええ話　思いついた"
+ええ話　思いついた"	"……啊，
+我想到一個笑話了。"	Oh, I just thought of a good story.	"…아
+좋은 얘기 하나 생각났데이"
 641	"なでしこちゃん
 おめでとうやで
-一緒にお祝いできて嬉しいわぁ"
+一緒にお祝いできて嬉しいわぁ"	"小撫子
+恭喜妳呀。
+很高興可以跟妳一起慶祝喔。"	"Happy birthday, Nadeshiko!
+I'm happy we can celebrate together."	"나데시코
+축하한데이
+같이 축하할 수 있어서 기쁘다 아이가"
 642	"リンちゃん　おめでとう
 愛情込めて作った料理
-おなかいっぱい食べてなー"
+おなかいっぱい食べてなー"	"小凜恭喜妳。
+這些料理注滿了我的愛情喔，
+希望妳多吃一點──"	"Happy birthday, Rin.
+I made this just for you, so eat up!"	"린, 축하한데이
+애정 담아가 만든 요리니께
+팍팍 무래이~"
 643	"あき　お誕生日おめでとう
 こんなに大きくなって…
-おかあさん　嬉しいわぁ"
+おかあさん　嬉しいわぁ"	"小明，祝妳生日快樂。
+妳長成這麼大……
+媽媽我好欣慰啊。"	"Happy birthday, Aki.
+You've grown up so healthy...
+I'm so touched I could cry."	"아키, 생일 축하한데이
+이래 쑥쑥 커버렸네…
+엄마는 눈물이 다 난다"
 644	"えなちゃん　おめでとう
 お誕生日やし
-なんでも好きなもん　作るで"
+なんでも好きなもん　作るで"	"小惠那恭喜妳。
+難得過生日，
+愛吃什麼都可以說喔。"	"Ena-chan, happy birthday!
+I'll make anything you want today!"	"에나, 축하한데이
+생일이니께
+묵고 싶은 거 뭐든 말해보래이"
 645	"あけましておめでとう
 今年もたくさん
-キャンプしようなー"
+キャンプしようなー"	"新年快樂。
+今年也要
+去很多次露營哦──"	"Happy new year! I hope we can go
+camping a lot again!"	"새해 복 많이 받으래이
+올해도 실컷
+캠핑 다니자꼬~"
 646	"バレンタインやし
-お菓子の交換会しよかー"
+お菓子の交換会しよかー"	"情人節到了，
+來辦點心交換會吧──"	"It's Valentine's Day. Shall we
+exchange sweets with each other?"	"발렌타인이니께
+과자 교환회라도 해보까~"
 647	"今日は２２３…
 つつみの語呂合わせで
-ふろしきの日なんやでー"
+ふろしきの日なんやでー"	"今天是二月二十三……
+配合發音的雙關，
+所以是包袱布之日喔──"	"Today is February 23rd...
+It's Furoshiki Day today!"	"오늘은 223…
+""츠츠미""라고 해가, 발음이 같은
+""보자기""의 날이데이~"
 648	"いつもお世話になっとるし
 改めて言わせてもらうわ
-いつも　ありがとうな"
+いつも　ありがとうな"	"一直以來都受妳關照了。
+所以想好好地表達一次，
+一直以來都很謝謝妳。"	Thanks for always being with me.	"언제나 신세 지는 몸이니께
+지대로 함 말해 주꾸마
+언제나 고맙데이!"
 649	"ハロウィンやし
-みんなでオバケに変身しよかー"
+みんなでオバケに変身しよかー"	"萬聖節了耶，
+大家都來變身成妖怪吧──"	"Let's dress up in scary costumes
+for Halloween."	"할로윈이니께
+다 같이 귀신으로 변신해보재이~"
 650	"明日はクリスマスやなぁ
 みんな　プレゼント入れる
-靴下の準備はええ？"
+靴下の準備はええ？"	"明天就是聖誕節了耶，
+大家都準備好
+要裝禮物的襪子了嗎？"	"Christmas is tomorrow!
+Did everyone hang up their
+stockings yet?"	"내일은 크리스마스다 아이가
+다들 선물 담을
+양말은 준비 됐나?"
 651	"メリークリスマス！
 すき焼きもええけど
-洋風の料理にも憧れるなぁ"
+洋風の料理にも憧れるなぁ"	"聖誕快樂！
+雖然壽喜燒也很好吃，
+但是西洋料理也很有風味呢。"	"Merry Christmas!
+Usually, I have sukiyaki, but
+Western dishes are lovely too."	"메리 크리스마스!
+스키야키도 좋긴 하지만은
+서양식 요리도 좋다 아이가~"
 652	"今年も一年
 お世話になりました
-どんな年越しにしよか？"
+どんな年越しにしよか？"	"今年也受妳
+關照一整年了。
+想要怎樣跨年呢？"	"I'm looking forward to the coming year.
+What should we do for New Year's?"	"올 한 해도
+신세 많이 졌데이
+새해맞이는 우예 할지 정해보까?"
 653	"あっちのほう
 なんかやってるみたいで
-気になるわぁ"
+気になるわぁ"	"對面好像
+在辦什麼活動呢。
+讓人好在意喔。"	"It looks like they're up to something
+over there. I'm quite curious."	"저쪽에서
+뭐 하는 거 같아가
+신경 쓰인데이"
 654	"一年が経って
-みんな　立派に成長したなぁ"
-655	むにゃ…
+みんな　立派に成長したなぁ"	"過了一年後，
+大家都成長了很多呢。"	"The year is over...
+We all learned a lot."	"1년이 지나니께
+다들 훌륭하게 성장했네~"
+655	むにゃ…	呼嚕……	Mmm...	음냐…
 656	"眉毛　ほんまは
 取り外しできるんよ…
-ふふ…うそやでー"
+ふふ…うそやでー"	"其實我的眉毛
+是可穿戴式的喔……
+呵呵……說笑的啦──"	"I can remove my eyebrows...
+Hehe...kidding..."	"내 눈썹
+실은 뗄 수도 있데이…
+후후… 뻥이래이~"
 657	"座る　て言うより
-埋まる　て感じがええよな"
-658	ちょっと　ひと休みしよか
-659	よいしょっ
-660	味つけ　決まったなぁ
-661	そろそろ　ええ感じやね
-662	つくろかー
-663	お茶いれよかー
-664	沸いたかな？
-665	よっと…
-666	んー　癒されるわぁ
-667	落ち着くなぁ
-668	…ふー
-669	優しい灯りやねぇ
-670	夜も安心やな
-671	スイッチオンや
-672	安定しとるなぁ
-673	これで何しよか
-674	ついたで
-675	心も体もあったまるわぁ
-676	ええ感じの炎やね
-677	パチパチ言うとるわ
-678	包まれとるわー
-679	ぬくいわー
-680	ほっぺた　落っこちそうや
-681	絶品やなぁ
-682	やってこかー
-683	おりこうさんやねぇ　よしよし
-684	ほな　何して遊ぶ？
-685	いいこやねー
+埋まる　て感じがええよな"	"比起說坐著，
+說埋著感覺比較好耶。"	"Rather than sitting down,
+I feel like I've sunken in."	"앉는다기 보다는
+파묻힌다는 느낌이 좋데이"
+658	ちょっと　ひと休みしよか	來小小休息一下吧。	"I guess I'll just stay like this
+for a bit."	쪼매 쉬었다 하까
+659	よいしょっ	嘿唷。	Huff...	영차
+660	味つけ　決まったなぁ	這個調味太剛好了。	I've decided on the seasonings.	양념을 정했데이
+661	そろそろ　ええ感じやね	感覺差不多恰到好處了。	It's looking just about right.	슬슬 다 된 느낌이데이
+662	つくろかー	那來做吧──	Let's make it.	만들어보까~
+663	お茶いれよかー	我來泡茶喔──	I think I'll make some tea.	차 좀 끓여주까~
+664	沸いたかな？	水煮開了嗎？	Is it boiling yet?	다 끓었나?
+665	よっと…	嘿唷……	There we go...	이얍…
+666	んー　癒されるわぁ	嗯──好療癒喔。	Mmm, I'm healed.	음~ 치유된다 아이가~
+667	落ち着くなぁ	好愜意喔。	So relaxing...	느긋해진데이
+668	…ふー	……呼──	Phew...	…후우~
+669	優しい灯りやねぇ	這個火光好溫柔喔。	It gives off such a soft glow.	부드러운 등불이네~
+670	夜も安心やな	這樣晚上也放心了呢。	Definitely feels safe in the dark now.	밤에도 안심이데이
+671	スイッチオンや	按下開關唷。	It's on now.	스위치 온~
+672	安定しとるなぁ	好穩喔。	It's reassuring.	안정감 있네~
+673	これで何しよか	那要做什麼呢。	What should I do with this?	이거 갖다 뭐하제?
+674	ついたで	到了喔。	It's lit.	붙었데이
+675	心も体もあったまるわぁ	身心都暖和起來啦。	Warms both my body and soul.	몸도 마음도 따시다~
+676	ええ感じの炎やね	這火力剛剛好呢。	The fire is perfect.	느낌 좋은 불꽃이데이
+677	パチパチ言うとるわ	燒出啪擦啪擦聲耶。	Listen to that crackling!	딱딱 소리가 난다 아이가
+678	包まれとるわー	被包裹起來了──	I'm a burrito.	감싸여가 푸근하데이~
+679	ぬくいわー	好暖好舒服喔──	So warm...	따뜻하데이~
+680	ほっぺた　落っこちそうや	好吃到下巴都快掉了。	I can't get enough!	기가 막히게 맛나네~
+681	絶品やなぁ	真是絕品啊。	Excellent!	일품이네~
+682	やってこかー	那就去做吧ー	And then we do this.	해보까~
+683	おりこうさんやねぇ　よしよし	很聰明耶，好乖好乖喔。	What a good dog. Belly rub for you.	똑띠네~ 착하다~
+684	ほな　何して遊ぶ？	那要來玩什麼？	What do you want to play?	그라모 뭐하고 놀까?
+685	いいこやねー	真是乖孩子──	Good boy!	착하네~
 686	"この椅子持って
 岬の先でお茶したんやっけ…
-ええ景色やったなぁ"
+ええ景色やったなぁ"	"以前曾經帶著這張椅子，
+在海角前喝茶休息過耶……
+那時候的風景很美呢。"	"I brought this chair with me to the
+cape and chilled with some tea.
+The scenery was amazing."	"이 의자 갖고
+곶 앞에서 차를 마셨제…
+경치 좋았데이"
 687	"先生の椅子
 ゆらゆらできるようになってて
-気持ちええなぁ"
-688	あかん…寝落ちしそうや
+気持ちええなぁ"	"老師的椅子
+現在可以像這樣子搖來搖去的，
+好舒服喔。"	"Ms. Toba's chair can sway back and
+forth. Must be comfortable."	"선생님 의자는
+흔들의자 같아가
+앉으모 기분이 좋데이"
+688	あかん…寝落ちしそうや	糟了……不小心睡著了。	Oh dear... I'm falling asleep.	우야꼬… 잘 뻔했데이
 689	"お茶でも飲みながら
-おしゃべりしようやー"
+おしゃべりしようやー"	"來喝杯茶
+順便聊個天吧──"	Let's chat over a cup of tea.	"차라도 마시면서
+얘기나 해보까~"
 690	"坦々餃子鍋
-私も食べてみたいわぁ"
+私も食べてみたいわぁ"	"我也好想吃吃看
+擔擔煎餃鍋喔。"	"I'd like to try tantan gyoza
+hotpot too."	"탄탄 만두전골
+내도 먹어보고 싶다~"
 691	"持ち手があつーくなるから
-ヤケドには注意やでー"
+ヤケドには注意やでー"	"把手會變得很燙喔，
+要小心不要燙傷喔──"	"You have to be careful because
+the handle gets hot."	"들고 있는 손이 뜨거~워지니께
+화상 조심하래이"
 692	"中がふわもちで
 外がパリっとしたワッフル
-焼いてみたいなぁ"
+焼いてみたいなぁ"	"我好想烤出
+內層又鬆又軟，
+外層又香又脆的鬆餅喔。"	"I want to see if I can make waffles
+that are crispy on the outside, but
+soft on the inside."	"안에는 부드럽고
+밖에는 바삭한 와플을
+구워보고 싶다 아이가"
 693	"ほんまにかわいらしいなぁ
-癒されるわぁ"
+癒されるわぁ"	"真的好可愛喔。
+實在太療癒了。"	"It's really cute.
+It heals my soul."	"참말로 귀엽데이
+치유되네~"
 694	"サイクリングした先で
 さっとお湯沸かして
-お茶してみたいなぁ"
+お茶してみたいなぁ"	"等等騎完腳踏車，
+好想趕快煮個開水
+泡茶來喝喔。"	"After biking, the first thing I want
+to do is to have a cup of hot tea."	"사이클링한 뒤에
+퍼뜩 물 끓여가
+차 마시고 싶데이"
 695	"どこへ行くにも
 連れて行きたくなる
-サイズやね"
+サイズやね"	"這個尺寸
+會讓人不管去哪裡
+都想帶著走呢。"	"It's the perfect size to take
+with you anywhere."	"어디 가든
+데려가고 싶어지는
+사이즈네~"
 696	"焼肉した後のグリルを
 自転車につけたら
-むっちゃええ匂いしそうやな"
+むっちゃええ匂いしそうやな"	"把烤完肉的烤肉架
+裝在腳踏車上啊，
+就會變得好香好香喔。"	"If you put the grill on your bike
+after making yakiniku, it'll smell
+so good..."	"바비큐한 그릴을
+자전거에 실으모
+엄청 좋은 냄새가 날 기 같다"
 697	"おっきい丸太の薪に
 切り込みを入れる方法も
-試してみたいわぁ"
+試してみたいわぁ"	"想要試試看
+能在又粗又大的木柴上
+砍出刀口的方法呢。"	"Take a log of wood and make
+a notch in it...
+I want to try too."	"커다란 통나무 장작에
+칼집을 넣는 방법도
+시도해 보고 싶데이"
 698	"シンプルやけど
 これで十分
-焚き火を楽しめそうやで"
+焚き火を楽しめそうやで"	"雖然很單調，
+但是這樣子要用來
+享受篝火已經很足夠了喔。"	"It's basic, but it's everything you
+need to enjoy a campfire."	"심플해도
+이 정도 되면 충분히
+모닥불을 즐길 만하데이"
 699	"高すぎて
 使う時も値段の事を
-考えてしまいそうやわ"
+考えてしまいそうやわ"	"因為實在太貴了，
+連在使用的時候
+都會不小心去想價格的事情呢。"	"It's too expensive.
+I wouldn't have the heart to
+use it."	"너무 비싸가
+쓸 때마다 가격 생각이
+날 기 같네~"
 700	"トントントン…
 リンちゃんみたいに
-上手く割れるとええんやけど"
+上手く割れるとええんやけど"	"咚咚咚……
+要是能像小凜一樣
+劈得很漂亮就好了。"	"*thump thump thump*...
+It'd be nice if I could split
+these the way Rin-chan does."	"통 통 통…
+린 맨치로
+잘 쪼갤 수 있으면 좋겠다"
 701	"ちょっとずつ木を削って
-フェザースティックに挑戦や！"
+フェザースティックに挑戦や！"	"一點一點切出缺口，
+來挑戰削羽毛棍！"	"Shaving the wood bit by bit...
+I'm going to make a feather stick!"	"나무를 쪼매씩 잘라가
+페더 스틱에 도전하겠데이!"
 702	"今ならなんと
 専用三脚が付いて
-15万3980円！お得やでー"
+15万3980円！お得やでー"	"現在竟然啊，
+附贈專用三腳架，
+只要十五萬三千九百八十日圓！超划算的──"	"Right now, it's on sale for 153,980 yen
+with a complimentary tripod!
+What a good deal."	"지금이라면
+전용 삼각까지 포함해가
+15만 3980엔! 안 사모 손해데이~"
 703	"よいしょっ…
-ふー　まだまだかかりそうやな"
+ふー　まだまだかかりそうやな"	"嘿唷……
+呼──還要再花點時間耶。"	"Hiya! Phew...
+Looks like there's more to go."	"으쌰…
+후~ 쪼매 더 해야겠네~"
 704	"燻製はそのまま食べてもええし
-料理にも使えるな"
+料理にも使えるな"	"煙燻食品可以直接吃，
+還能拿來做料理喔。"	"You can eat smoked foods without
+cooking them again."	"훈제는 그대로 먹어도 좋지만
+요리에도 쓸 수 있제"
 705	"かぼちゃランタン
-力作やー"
-706	雪だるま　光ってかわええなぁ
+力作やー"	"是南瓜燈籠喔。
+是我的渾身力作唷──"	"The pumpkin lantern is really
+well-made."	"호박 랜턴
+역작이데이~"
+706	雪だるま　光ってかわええなぁ	會發光的雪人耶，好可愛喔。	The snowman lights up, how cute.	눈사람, 빛이 나가 귀엽네
 707	"ジュージュー
 香ばしい匂いが
-食欲をそそるわぁ"
+食欲をそそるわぁ"	"滋～～滋～～
+味道好香喔，
+叫人胃口大開呢。"	"The sizzling sound and aroma gives
+me an appetite!"	"치직~ 치직~
+고소한 냄새가
+식욕 돋운데이"
 708	"にっぽんの朝ごはん
-おいしくって幸せやー"
+おいしくって幸せやー"	"日式早餐吃起來
+讓人感覺美味又幸福呢──"	"Japanese breakfasts are delicious.
+I'm in utter bliss."	"일본의 아침밥은
+맛나가 행복하데이~"
 709	"タコ様ウインナー様…
-うん　安定のうまさやな"
+うん　安定のうまさやな"	"章魚香腸大人……
+嗯，不管什麼時候都一樣好吃呢。"	"Octopus or wiener...
+It's good no matter what."	"문어 님 비엔나 님…
+응, 안정된 맛이다 아이가"
 710	"我ながら　具だくさんにしたのは
-ええアイディアやったねぇ"
+ええアイディアやったねぇ"	"我想到要多加一些料
+還真是個好主意耶。"	"Using so many ingredients was
+a great idea."	"내가 했지만서도 재료 많이 넣은 기는
+좋은 아이디어였제"
 711	"殻の部分が
 ほどよく焼けてて
-ええ匂いやわ～"
+ええ匂いやわ～"	"把殼拿去
+稍微烤一下，
+就會變得很香喔～～"	"The shell is a little burnt,
+and it smells delicious."	"껍데기 부분이
+적당히 구워져가
+좋은 냄새가 난데이~"
 712	"アヒージョのうまみが
 金目鯛と絡みあうと
-こんなにおいしくなるんやなぁ"
+こんなにおいしくなるんやなぁ"	"西班牙大蒜蝦的鮮味
+溶入紅金眼鯛後
+竟然會變得這麼好吃呀。"	"The flavors of the alfonsino in
+an ajillo is to die for."	"아히요의 감칠맛이
+금눈돔하고 엉키모
+이래 맛이 좋아지네~"
 713	"余すことなく
 おいしく食べられるって
-ええことやなぁ"
+ええことやなぁ"	"全部都可以吃，
+一點都不會浪費。
+真是好料理呢。"	"It's great that you don't have to
+waste any part of it."	"남김없이
+맛나게 묵을 수 있다니
+참 좋데이"
 714	"盛り付け方を工夫すると
 うーんとオシャレに
-見えるもんやねー"
+見えるもんやねー"	"只要稍微下工夫來裝盤，
+就會一口氣
+看起來變得很高檔哦──"	"If you put in a bit of thought
+for the plating, it can look
+pretty fancy."	"플레이팅 방법을 연구하면
+이래 예쁘게
+보이는 기제~"
 715	"いつもの豚まんもええけど
 ひと工夫でこんなに
-おいしくなるなんて驚きやわ"
+おいしくなるなんて驚きやわ"	"普通的豬肉包雖然就很好吃了，
+但是只要多一道步驟
+就還能變得更好吃，太意外了。"	"Regular pork buns are great, but
+it's amazing how much better
+it can be."	"늘 먹는 돼지고기 만두도 좋지만
+쪼매 바꾸면 이래
+맛있어진다니 놀랍데이"
 716	"手間をかけて　隠し味も入った
 なでしこちゃんの変身カレー
-むっちゃおいしいわぁ"
+むっちゃおいしいわぁ"	"小撫子她的變身咖哩裡
+下了不少工夫，還放了神祕香料
+超超超級好吃的喔。"	"Going the extra mile with the secret
+ingredient... Nadeshiko's custom curry
+is delicious."	"정성 들여가 비결 재료도 넣은
+나데시코의 변신 카레~
+억수로 맛있다"
 717	"エビの味が
-むっちゃする～！"
+むっちゃする～！"	"蝦子的美味
+好濃厚喔～～！"	There's so much lobster flavor!	"새우 맛이
+억수로 나네~!"
 718	"お肉をおいしくいただくには
-やっぱりすき焼きやね"
+やっぱりすき焼きやね"	"想要享受肉質的美味，
+那果然就是要做成壽喜燒啦。"	The best way to eat meat is sukiyaki.	"고기를 맛나게 먹을라모
+역시 스키야키제"
 719	"トマトでお色直しした
-すき焼きも　うまいやろ？"
+すき焼きも　うまいやろ？"	"用番茄來點綴顏色
+的壽喜燒也很好吃對吧？"	"The tomato sukiyaki is delicious,
+right?"	"토마토로 새단장한
+스키야키도 맛나제?"
 720	"ちょっとピリっとしたスープが
-体をあっためてくれるんよね"
+体をあっためてくれるんよね"	"這個有點辣味的湯頭
+可以讓身體整個暖和起來喔。"	"The slightly spicy soup is perfect
+for warming up the body."	"쪼매 매콤한 수프가
+몸을 따뜻하게 해준데이"
 721	"きりたんぽの素朴な感じ…
-ほっとする　田舎の味やわー"
+ほっとする　田舎の味やわー"	"烤米棒這樸素的感覺……
+是會讓人放鬆下來的鄉下口味喔──"	"The rustic feel of kiritanpo...
+What a relaxing, countryside flavor."	"키리탄포의 소박한 느낌…
+편안한 시골의 맛인 기라~"
 722	"設営したあとに食べるカレーめん
-むっちゃおいしいんよね"
+むっちゃおいしいんよね"	"紮營結束後吃的咖哩拉麵，
+真的超級好吃的啦。"	"Having curry noodles after setting
+up tastes so good."	"설영한 뒤에 먹는 카레면
+억수로 맛있다 아이가"
 723	"コッヘルひとつでできるって
-お手軽でええなぁ"
+お手軽でええなぁ"	"用一個鍋子就能做出來
+這麼簡單真是太棒了。"	"You can make this with just one
+pot. It's so easy."	"코펠 하나로 완성이라니
+편해가 좋네~"
 724	"梨っ子にほうとうを語らせたら
 最終的には乱闘に発展するんよ
-…うそやでー"
+…うそやでー"	"要是讓山梨人開始聊餺飥，
+到最後會變成集體互毆的狀況喔。
+……說笑的啦──"	"If Yamanashi people start talking
+about hoto, it'll turn into a fight...
+Just kidding."	"나시코에게 호토 얘기 시키면
+마지막엔 난투로 끝난데이
+…뻥이래이~"
 725	"シメのパスタ
 ひとくちでもいいから
-食べてみー"
+食べてみー"	"收尾的義大利麵，
+要不要吃看看？
+吃一口就好──"	"Pasta to finish off the sauce...
+Even one bite is good enough."	"마무리 파스타
+한 입이라도 좋으니께
+함 무바라~"
 726	"鴨のお出汁って
 独特の風味があって
-おいしいんよね"
+おいしいんよね"	"用鴨熬出來的高湯
+會有獨特的風味，
+很好吃喔。"	"Duck soup has a unique and
+delicious flavor."	"오리 육수는
+독특한 풍미가 있어가
+맛난데이"
 727	"スープを飲むたびに
 あきの木皿の失敗を
-思い出すんよね…"
+思い出すんよね…"	"每次喝湯的時候
+都會想起
+小明的木盤的那場失敗呢……"	"Every time I drink soup, though,
+I think of Aki's failed wooden bowl."	"수프를 마실 때마다
+아키의 나무 그릇 사건이
+떠오른데이…"
 728	"伊勢エビの出汁が入るだけで
 グレードアップするんやなぁ
-ひと手間かけるの　大事やね"
+ひと手間かけるの　大事やね"	"光是加入日本龍蝦的高湯，
+就會上升一個檔次呢。
+像這樣多一道工夫是很重要的唷。"	"Just adding spiny lobster broth
+elevates it."	"닭새우의 국물이 들어가기만 해도
+그레이드가 올라가네~
+번거로운 작업도 중요한 기다"
 729	"ほぁー…
-幸せ感じる味やなぁ"
+幸せ感じる味やなぁ"	"呼啊──……
+好幸福的味道喔。"	"Ah...
+This is the tastes of happiness."	"호오~
+행복한 맛이데이"
 730	"ほっとする
-いい渋みやねぇ"
+いい渋みやねぇ"	"這苦味剛剛好，
+會讓人放下心呢。"	"This is really relaxing.
+The astringency is really calming."	"한숨 놓이는
+씁쓸한 맛이 괜찮네~"
 731	"名前の通り
-ホットする味やなぁ～"
+ホットする味やなぁ～"	"效果就跟它的名字一樣，
+身子都暖起來了呢～～"	It tastes hot!	"이름 그대로
+핫하고 숨 돌아가는 맛이데이~"
 732	"少しずつ色づいてくのも
-見てて楽しいんよね"
+見てて楽しいんよね"	"看著它一點點地變色
+其實也很有趣呢。"	"It's fun to watch the color slowly
+change, right?"	"조금씩 물들어가는 기도
+볼 수 있어가 재미있네~"
 733	"口の中いっぱい
-あまうまとろふわ～やなぁ"
+あまうまとろふわ～やなぁ"	"嘴巴裡充滿了
+又甜又香又濃又軟～～的美味唷。"	"There are so many flavors in my mouth.
+Sweet, savory, melty, soft..."	"입안 가득
+달콤하고 맛있고 부드럽고 폭신~하데이"
 734	"キャンプでケーキが
-食べれるなんて　嬉しいわぁ"
+食べれるなんて　嬉しいわぁ"	"想不到來露營
+還能吃到蛋糕耶，好開心喔。"	"Being able to eat cake while camping
+makes me so happy."	"캠핑에서 케이크를
+먹을 수 있다니, 좋다 아이가~"
 735	"やっぱしめには
-デザートやね"
-736	燻製料理　食べてみよかー
+デザートやね"	"果然收尾
+就是要吃甜點哪。"	"After a meal, you definitely need
+dessert."	"역시 마무리는
+디저트제"
+736	燻製料理　食べてみよかー	來吃吃看煙燻料理吧──	Want to eat smoked foods?	훈제 요리 먹어보까~
 737	"カレーめん鍋
-熱いうちに食べよ"
+熱いうちに食べよ"	"咖哩泡麵鍋
+要趁熱吃唷。"	"Curry noodle hotpot is best when
+it's piping hot."	"카레면 전골
+따뜻할 때 먹어라"
 738	"かぼちゃ　甘くて
-おいしいなぁ"
-739	外で飲むと格別やね
+おいしいなぁ"	"南瓜好甜
+好好吃呢。"	Squash is so sweet and delicious.	"호박이 달아가
+맛나네"
+739	外で飲むと格別やね	在戶外喝別有一番風味呢。	Drinking outside is unparalleled.	밖에서 마시모 각별하제
 740	"かまぼこ
-いい味出しとるわぁ"
+いい味出しとるわぁ"	"魚板真的
+增添了一股美味耶。"	The fish cake tastes really good.	"어묵
+맛이 참말로 좋다"
 741	"ジェラート
-いくらでも食べられそうやなぁ"
-742	お城にそっくりやぁ
+いくらでも食べられそうやなぁ"	"義式冰淇淋
+感覺不管再多都吃得下耶。"	I won't ever get tired of gelato.	"젤라토는
+끝도 없이 드갈 기 같다~"
+742	お城にそっくりやぁ	真的好像城堡耶。	"The details are immaculate
+on this castle."	성하고 똑 닮았네
 743	"クリスマスといえば
-丸鶏やな"
-744	ポテサラツリー　食べるでー
+丸鶏やな"	提到聖誕節就會想到要吃全雞呢。	Christmas means roast chicken.	"크리스마스 하면
+통닭이제"
+744	ポテサラツリー　食べるでー	來開吃馬鈴薯沙拉樹吧。	A potato salad Christmas tree...Let's all eat it together.	감자 샐러드 트리~ 먹어 보재이~
 745	"魚介のダシがきいてて
-おいしいなぁ"
-746	よーしよし　かわいいやつや
+おいしいなぁ"	"有熬出海鮮的高湯，
+好好吃喔。"	It goes so well with seafood stock.	"어패류 국물맛이 나가
+맛있데이"
+746	よーしよし　かわいいやつや	好乖好乖──真是可愛的傢伙。	"Good boy, good boy!
+You're a cutie, aren't you?"	옳지 옳지~ 귀엽다 아이가
 747	"ウサ耳をゆらゆらさせて
-元気いっぱいやねぇ"
+元気いっぱいやねぇ"	"兔耳朵這樣子晃啊晃的，
+好有精神呢。"	"The bunny ears look so cute
+waving around."	"토끼 귀를 흔들흔들~
+기운이 넘치네"
 748	"クリスマスっぽくて
-かわいいちくわやなぁ"
+かわいいちくわやなぁ"	"竹輪這樣很有聖誕氣氛，
+好可愛唷。"	Chikuwa looks so Christmas-y and cute.	"크리스마스 분위기의
+귀여운 치쿠와데이"
 749	"将軍はな
 いくつもの試練を乗り越えて
-この座を手に入れたんよ"
+この座を手に入れたんよ"	"將軍他可是
+闖過好幾道難關後，
+才坐上這個位子的唷。"	"The great general got his position
+after overcoming countless trials."	"장군은 말이제
+수많은 시험을 뛰어넘어가
+이 자리를 얻은 기라"
 750	"むっちゃ強そうな
 エピソードのある
-ベビーフェイス・ワンコなんよ"
+ベビーフェイス・ワンコなんよ"	"他雖然是隻娃娃臉狗狗，
+但是有好幾個
+大顯神威的插曲哦。"	"It has such a cute puppy face,
+but it's crazy strong."	"진짜 강할 거 같은
+에피소드가 있는
+베이비 페이스 멍멍이네"
 751	"ひょいっと顔出してるの
-むっちゃかわええなぁー"
+むっちゃかわええなぁー"	"咻地把臉露出來的樣子
+超超超可愛的──"	"You can only see his face...
+Soooo cute!"	"얼굴 빼꼼 내민 게
+억수로 귀엽지 않나~"
 752	"野クルのゆるキャラ候補
-かわええやろー？"
+かわええやろー？"	"野活組的吉祥物候選人，
+很可愛對不對──？"	"This is a candidate for Outclub's
+mascot. Cute, right?"	"야클의 마스코트 후보데이
+귀엽제~?"
 753	"新しいギア　ゲットしたんやねー
-サイトに置いてみる？"
-754	海にピッタリやね
-755	スイカ割り　夏の定番や
-756	パラソルの下で休憩しよか
-757	海の幸　おいしいなぁ
-758	フルーツいっぱい入っとるよ
-759	うそやでー
+サイトに置いてみる？"	"拿到新用品耶──
+要不要放在場景裡看看？"	"Oh, you have new gear.
+Why not add it to the campsite?"	"새로운 기어를 획득했데이~
+사이트에 놔 보까?"
+754	海にピッタリやね	跟海邊超搭的耶。	A perfect prop for the beach.	바다랑 딱 어울리네~
+755	スイカ割り　夏の定番や	打西瓜可是夏天的經典活動呢。	This is a summer mainstay!	"여름엔 역시
+수박 깨기 아이겠나~"
+756	パラソルの下で休憩しよか	來遮陽傘下休息吧。	I'll rest for a bit under the parasol.	파라솔 밑에서 좀 쉬어 보까
+757	海の幸　おいしいなぁ	海鮮真的好好吃喔。	Seafood tastes amazing.	바다의 은혜는 맛도 좋구마~
+758	フルーツいっぱい入っとるよ	放了很多水果喔。	There are so many fruits in there!	과일이 잔뜩 들어가 있데이
+759	うそやでー	說笑的啦──	Just kidding.	뻥이래이~
 760	"う　うそやないで
-この目をよう見てみ！！"
+この目をよう見てみ！！"	"我、我沒亂說喔，
+自己睜大眼睛看仔細！！"	"I-I'm not lying.
+Look at these eyes!"	"뻐, 뻥 아이다!
+내 눈을 잘 보라꼬!!"
 761	"ふ～んふ～ん　ふふ～んふ～ん
-ふ～んふふ～んふ～ん"
-762	どんな感じ？
-763	まったり行こかー
-764	楽しみにしとってな～
+ふ～んふふ～んふ～ん"	"哼～～哼～～呼呼～～哼～～哼
+哼～～呼呼～～哼～～哼。"	"Dum-di-dum-di-dum.
+Doo-bee-doo-bee-doo."	"흐응~ 흥~ 흐흥~ 흥~
+흐응~ 흐흐응~ 흐응~"
+762	どんな感じ？	感覺如何？	How is it?	뭔 느낌이고?
+763	まったり行こかー	我們慢慢來──	Let's take our time.	천천히 가재이~
+764	楽しみにしとってな～	可以期待一下～～	I'll look forward to it.	기대하고 있으래이~
 765	"「アヒージョ」はうますぎて
-「アヒーと叫ぶ」って意味なんやてー"
-766	あったかうまーやな
+「アヒーと叫ぶ」って意味なんやてー"	"「大蒜蝦」會這麼好吃，
+是因為用了「只吃大蒜」的蝦子哦──"	"""Ajillo"" means so delicious that you
+will shout ""Ahh!"""	"""아히요""는 너무 맛나가
+""아히~라 외친다""는 뜻이라카대~"
+766	あったかうまーやな	又熱又好吃呢。	This is so warm and yum.	따끈해서 맛있데이~
 767	"さて　暗くなる前に
-夕飯の支度始めるで～"
-768	一気にクリスマスムードや～
-769	ほんまええ景色や…
-770	めちゃめちゃええとこやー！
-771	きれいやなぁ
+夕飯の支度始めるで～"	"趁天還沒變黑，
+開始準備做晚餐吧～～"	"About time to prepare dinner before
+it gets dark."	"그럼 어두워지기 전에
+저녁 준비 시작해보까~"
+768	一気にクリスマスムードや～	整個很有聖誕節氣氛呢～～	It turned the Christmas mood right up!	단번에 크리스마스 무드네~
+769	ほんまええ景色や…	景色真的好美呢……	The scenery is truly beautiful...	경치가 억수로 좋다…
+770	めちゃめちゃええとこやー！	這裡真是好地方哪──！	This is a really great place!	억수로 좋은 곳이다~!
+771	きれいやなぁ	好漂亮喔。	It's so pretty.	아름답네~
 772	"みんなで料理するの
-楽しいわぁ"
+楽しいわぁ"	"大家一起做料理
+好開心喔。"	Cooking with friends is fun.	"다 같이 하는 요리도
+재미나네~"
 773	"ジャックオーランタンで
-飾りつけするでー"
+飾りつけするでー"	"我要掛南瓜頭燈籠
+來裝飾囉──"	I'm going to put my jack-'o-lantern up.	"잭 오 랜턴으로
+장식해 보재이~"
 774	"いい写真がいっぱい撮れたわー
-みんな　ええ顔しとるよ"
+みんな　ええ顔しとるよ"	"拍到了好多美美的照片喔──
+大家的表情都好開心喔。"	"I got some great photos.
+Everyone looks like they're having fun."	"좋은 사진 마이 찍었다~
+다들 표정이 좋네"
 775	"いろんな場所でキャンプ
-たのしいなぁ"
-776	今年もよろしくなー
-777	このパジャマ　かわいいやろ？
-778	海といえば水着やね
+たのしいなぁ"	"到處去露營
+好開心喔。"	"Camping in a lot of different places
+is really fun."	"다양한 곳에서 하는 캠핑은
+재미난데이"
+776	今年もよろしくなー	今年也請多指教──	I'm looking forward to the coming year.	올해도 잘 부탁한데이~
+777	このパジャマ　かわいいやろ？	這件睡衣很可愛對不對？	These pajamas are too cute.	이 파자마, 귀엽제?
+778	海といえば水着やね	說到海邊就會想到泳裝耶。	Beaches and swimsuits go hand in hand.	바다라카면 수영복이제
 779	"いやー いつまでも
-春眠したくなっちゃうね"
+春眠したくなっちゃうね"	"真的是喔──不管過多久，
+都會想人想要春眠一下耶。"	"Mmm! Well, this makes me want
+to sleep in till spring."	"정말~ 끝도 없이
+봄 잠을 자고 싶어져"
 780	"犬って　鼻で温度を
 感じ取れるんだって
-不思議だねー"
+不思議だねー"	"聽說狗狗都是用鼻子
+來感覺到溫度的耶，
+好神奇哦──"	"It's amazing how dogs use their
+noses as thermometers."	"개는 코로 온도를
+느낀다고 해
+신기하네~"
 781	"今朝　ちくわが
 くしゃみ連発してたのって…
-もしかして　花粉のせい？"
+もしかして　花粉のせい？"	"今天早上竹輪牠
+一直在打噴嚏耶……
+該不會是因為花粉吧？"	"Chikuwa couldn't stop sneezing
+this morning... Pollen allergies?"	"오늘 아침에 치쿠와가
+재채기를 연발했는데…
+혹시 꽃가루 때문인가?"
 782	"あ　ちょうちょが飛んでる
-春ですなー"
+春ですなー"	"啊，有蝴蝶在飛了耶。
+已經到春天了呢──"	"Oh, look. A butterfly.
+Must be spring!"	"아, 나비가 날아다니네
+봄이 됐네요~"
 783	"キャンプ雑誌って面白いよね
 『この春　おすすめの
-最強テントは…』"
+最強テントは…』"	"露營雜誌都挺有意思的呢。
+『今年春季推薦的
+最強帳篷……』"	"These magazines are pretty fun...
+Says here, ""The best tent to buy this
+spring is..."""	"캠핑 잡지는 읽어 보면 재밌지
+""이번 봄에 추천하는
+최강의 텐트는…"""
 784	"春キャンは温かくて
-過ごしやすいなぁ"
+過ごしやすいなぁ"	"春季露營時都很溫暖，
+其實很舒服呢。"	"Camping in the spring is so warm
+and comfortable."	"봄 캠핑은 따뜻해서
+편하게 지낼 수 있어~"
 785	"ちくわのおやつ
 『まじうまササミソーセージ』
-…私が食べてもおいしいのかな"
-786	はい　お茶を淹れたよ
+…私が食べてもおいしいのかな"	"給竹輪吃的零嘴
+『真心好吃雞柳香腸』
+……我來吃也會覺得好吃嗎？"	"These are Chikuwa's treats, Super
+Hotdogs...
+I wonder if I can eat them too."	"치쿠와의 간식
+""진짜 맛있는 닭가슴살 소시지""
+…내가 먹어도 맛있을까?"
+786	はい　お茶を淹れたよ	來，我泡好茶了喔。	Here you go, I made some tea.	자, 차 끓여 왔어
 787	"今日は風が強いなー
-危うく飛ばされるところだった"
+危うく飛ばされるところだった"	"今天風好大喔──
+差點就被吹倒了。"	"The wind is really strong today...
+I was almost blown away."	"오늘은 바람이 강하네~
+하마터면 날아갈 뻔했어"
 788	"ザ・キャンプめし！って
 感じのご飯が作りたいなー
-調べてみよっと"
+調べてみよっと"	"好想來作個一看就覺得
+這就是露營餐啦！的料理喔──
+來查一下好了。"	"I want to make something that
+screams camping food...
+Let's look up some inspiration."	"THE 캠핑 밥! 같은
+느낌의 식사를 만들고 싶어~
+한번 알아봐야지"
 789	"過ごしやすいし
 夜更かししたいけど…
-ふあ～　眠くなってきた"
+ふあ～　眠くなってきた"	"待起來這麼舒服，
+本來想熬個夜的……
+呼啊～～但是開始睏了。"	"It's so comfortable that I want to
+stay up... But I'm getting sleepy."	"날씨가 좋으니
+밤새우고 싶은데…
+흐아~ 그래도 잠이 와"
 790	"どのテントも明かりがついてて
-きれいだね"
+きれいだね"	"每個帳篷都有點著燈
+看上去很漂亮呢。"	"All the tents are lit up...
+How beautiful."	"모든 텐트에 불빛이 켜져 있어서
+아름다워"
 791	"ちくわは　夏も元気だから
-私も　見習わないとー"
-792	はぁー…暑いねー
+私も　見習わないとー"	"竹輪就算在夏天也一樣很有精神，
+我也得跟牠學習才行耶──"	"The heat doesn't slow down Chikuwa
+at all. So I have to keep up too."	"치쿠와는 여름에도 힘이 넘친다니까
+나도 보고 배워야겠어~"
+792	はぁー…暑いねー	呼──……好熱喔──	Phew... It's hot...	하아~ 날씨 덥지~
 793	"朝は涼しいな
-ずっと朝だったら いいのに"
+ずっと朝だったら いいのに"	"早晨很涼快耶。
+要是整天都是早晨就好了。"	"It's cooler in the mornings...
+I wish it was morning all day."	"아침에는 선선하네
+계속 아침이면 좋을 텐데"
 794	"夏の温泉…今こそ
-チャレンジするべき？"
+チャレンジするべき？"	"夏天泡溫泉……
+就是該現在去挑戰看看嗎？"	"Going to the hot springs in the
+summer... Should I try it?"	"여름 온천… 지금이야말로
+도전해 볼 때일까?"
 795	"みんなー
-アイスだよ"
+アイスだよ"	"大家──
+來吃冰喔。"	Everyone, I have ice cream!	"얘들아~
+아이스크림이야"
 796	"テントの中でまったり…
-これもキャンプの醍醐味だねー"
+これもキャンプの醍醐味だねー"	"待在帳篷裡悠閒地度過……
+這也是露營的樂趣呢──"	"Relaxing in the tent is also a way
+of camping."	"텐트 안에서 느긋하게…
+이것도 캠핑의 묘미지~"
 797	"夏は涼しい部屋で…
 と思ってたけど　日が暮れたら
-外でも涼しいね"
+外でも涼しいね"	"本來想說夏天就是要待在
+涼爽的室內裡……不過等太陽下山後
+外面也挺涼的嘛。"	"I thought a shaded room was best for
+summer, but it gets pretty cold at
+night."	"여름은 시원한 방이 최고…
+라고 생각했지만, 날이 저무니
+바깥도 시원하네"
 798	"日が沈んだら
-ちくわも少しは涼しくなるね"
+ちくわも少しは涼しくなるね"	"太陽下山後
+竹輪也會變涼快一點吧。"	"The sun is almost down, Chikuwa.
+It'll get cooler then."	"날이 저물었더니
+치쿠와도 조금은 시원하겠네"
 799	"みんなは何してるかなー
-様子を見に行ってみよう"
+様子を見に行ってみよう"	"不知道大家在做什麼耶──
+去看看狀況好了。"	"I wonder what everyone is doing.
+Let's go check in on them."	"다들 뭐 하고 있을까~
+한번 보러 가보자"
 800	"暑いから　スッキリした
 髪型はどう？
-お団子職人の 腕が鳴る！"
+お団子職人の 腕が鳴る！"	"天氣這麼熱，
+換個涼快的髮型怎麼樣？
+身為糰子師傅的手在癢了！"	"It's really hot out, so how about a
+cooling hairstyle? I'm good at making
+dango top buns."	"더우니까 시원한 머리로
+바꾸는 건 어때?
+경단 장인의 솜씨를 보여줄게!"
 801	"あ　ちょうど雲が晴れて
-星が見えるよ"
+星が見えるよ"	"啊，剛好雲都散去了，
+看得到星星了喔。"	"Oh, the clouds are gone.
+I can see the stars now."	"아, 마침 구름이 걷혀서
+별이 보여"
 802	"うーん　寝付けないかも…
 仕方ない
-もうちょっとだらだらしますか"
+もうちょっとだらだらしますか"	"嗯──好像睡不太著耶……
+沒辦法，
+那就再隨便打發時間吧。"	"Hmm, I can't sleep...
+Oh well, I guess I will just lounge
+around for a while."	"으음~ 잠이 잘 안 와…
+어쩔 수 없지
+조금 더 뒹굴거려 볼까요~"
 803	"私たち５人にとっては
 秋が 出会いの季節
-なんだよねえ"
+なんだよねえ"	"對我們五人來說，
+秋天是
+與人邂逅的季節呢。"	"Autumn is the season that brought
+the five of us together."	"우리 5명에게는
+가을이 만남의 계절
+이란 말이지~"
 804	"ほうじ茶って
-あったまるよね"
+あったまるよね"	"喝焙茶
+會讓身子都暖起來呢。"	"Roasted green tea warms you
+right up."	"추울 때는 호지차가
+따끈따끈하고 좋지"
 805	"涼しくなってきたねぇ
-目覚めが 気持ちいいかも"
+目覚めが 気持ちいいかも"	"天氣開始變涼了呢，
+可以舒服地起床了。"	"It's a bit cooler now.
+Might be nice to wake up."	"날이 시원해졌네
+일어날 때 기분 좋을 것 같아"
 806	"秋のキャンプが
-リンのおすすめなんだっけ？"
+リンのおすすめなんだっけ？"	"凜妳推薦的
+秋季露營是什麼啊？"	"Rin, you recommend camping in the
+autumn, right?"	"가을 캠핑이
+린의 추천 캠핑이었지?"
 807	"動画で見たレシピ
-再現してみようかな"
-808	秋の風って 気持ちいいね
+再現してみようかな"	"來試著作作看
+影片裡看到的料理好了。"	"Shall we try to follow this
+recipe vlog?"	"영상으로 본 레시피
+재현해 볼까"
+808	秋の風って 気持ちいいね	秋天的風很舒服呢。	The autumn breeze feels really nice.	가을 바람은 기분이 좋아
 809	"この落ち葉で焼き芋したら
-美味しそうだね"
+美味しそうだね"	"用這些落葉來烤地瓜
+一定會很好吃吧。"	"Roasting sweet potatoes with these
+maple leaves sounds delish!"	"이 낙엽으로 군고구마를 만들면
+맛있을 거 같아"
 810	"秋の夕暮れは
-景色が趣深くなりますなー"
+景色が趣深くなりますなー"	"秋天的傍晚景色啊
+特別有股風情呢──"	"When dusk falls, the scenery
+becomes really moody."	"가을의 석양은
+운치 있는 풍경이지~"
 811	"ちくわがすすき畑にいたら
-紛れちゃいそうだなあ"
+紛れちゃいそうだなあ"	"竹輪要是跑進芒草田裡去的話，
+應該會超難找的吧。"	"If Chikuwa played in the silver
+grass, I'm sure he would get lost."	"치쿠와가 억새밭에 있으면
+못 찾을 것 같아"
 812	"リンに　オススメの本
-教えてもらおうかな"
+教えてもらおうかな"	"問問看凜有沒有
+推薦的書吧。"	"I'll ask Rin for some book
+recommendations."	"린에게 추천하는 책
+알려달라고 할까"
 813	"うーん
 カイロ　思ったより
-少ないなぁ"
+少ないなぁ"	"嗯──
+暖暖包
+比想像中的還少耶。"	"Brr... Yep, definitely need a couple
+heat pads."	"으음
+핫팩이 생각보다
+적네"
 814	"お月見　お団子…
-秋ですなあ"
+秋ですなあ"	"賞月吃糰子……
+好有秋天的感覺喔。"	"Eating dango under the moonlight...
+Really feels like autumn."	"츠키미, 경단…
+가을이구만요~"
 815	"絶好のおさんぽ日和
-…よりも　二度寝日和だね"
+…よりも　二度寝日和だね"	"這天氣超適合散步
+……但是更適合睡回籠覺。"	"Perfect day for a walk.
+Even more perfect to go back to bed."	"산책에 어울리는 절호의 날씨
+…보다는, 더 자기 좋은 날씨네"
 816	"この気温…もしかして
-雪　降るのかな"
+雪　降るのかな"	"這個氣溫……該不會
+開始下雪了吧。"	"At this temperature, it could
+even snow."	"이 정도 기온이면…
+혹시 눈 내리려고 하나"
 817	"雪に付く　ちくわの足跡
-かわいいんだよねー"
+かわいいんだよねー"	"竹輪踩在雪上的腳印
+好可愛喔──"	"You can see Chikuwa's footprints
+in the snow. Isn't it cute?"	"눈에 찍힌 치쿠와의 발자국
+귀엽단 말이야~"
 818	"外行くときは厚着厚着〜
-もっと着込もうっと"
+もっと着込もうっと"	"要外出的話就要穿地厚厚的～～
+能多一件就多一件。"	"When you go out, you got to make
+sure to be warm."	"밖에 나갈 때는 옷을 두껍게~
+더 껴입어야겠다"
 819	"焚き火の炎
-もうちょっと大きくしようか"
+もうちょっと大きくしようか"	"篝火的火力
+再加大一點好了。"	"Shall we make the campfire
+a little bigger?"	"모닥불 불꽃
+조금 더 키워볼까"
 820	"ちくわは暖かいから
-外では 君だけが頼りだよー"
+外では 君だけが頼りだよー"	"竹輪身體暖呼呼的，
+到外面就要靠你了喔──"	"You're so warm, Chikuwa. I'm relying
+on you when we go outside."	"치쿠와는 따뜻하니까
+밖에서는 네가 유일한 버팀목이야~"
 821	"うーん
 寒いのは苦手なんだよね〜
-サウナの水風呂は　好きなのに"
+サウナの水風呂は　好きなのに"	"嗯──
+其實我很怕冷呢～～
+明明喜歡在三溫暖的時候去沖冷水。"	"Hmm, I really don't like the cold.
+I like the cold bath in the saunas,
+though."	"으음…
+난 추위에 정말 약해~
+목욕탕의 냉탕은 좋아하는데도"
 822	"テーブル周り
-さっと片づけちゃうね"
+さっと片づけちゃうね"	"稍微收拾一下
+桌子旁邊吧。"	I'll just clean up around the table.	"테이블 주변을
+빨리 정리해둘게"
 823	"ココアでも飲もうかな
-あったまりそうー"
+あったまりそうー"	"泡熱可可來喝吧，
+應該可以暖暖身子──"	"Anyone want hot chocolate?
+It really warms you up."	"코코아라도 마셔볼까
+따뜻해질 거 같아~"
 824	"ぬくぬく　ぽかぽか
 こたつはいいよねえ
-キャンプにも持っていきたいな"
+キャンプにも持っていきたいな"	"溫溫熱熱的，
+被爐真是太棒了。
+露營的時候也想帶去呢。"	"This kotatsu is so warm and fluffy...
+I wish I could take it camping with
+me."	"포근포근 따끈따끈
+코타츠는 좋아~
+캠핑에도 가져가고 싶어"
 825	"お鍋って
 みんなで囲むと
-さらにおいしく感じるよね"
+さらにおいしく感じるよね"	"火鍋啊，
+只要大家一起圍著吃
+就會覺得更美味耶。"	"Hotpot tastes best when you eat
+together with friends."	"전골을 먹을 땐
+모두가 둘러앉으면
+더 맛있는 느낌이야"
 826	"足元が冷える…
-シュラフに入っちゃおうかな"
+シュラフに入っちゃおうかな"	"腳開始變冰了……
+鑽進睡袋裡去好了。"	"My feet are getting cold...
+Maybe I should retreat into
+the sleeping bag."	"발바닥이 추워…
+침낭이 들어가 볼까"
 827	"ちくわと原付とか乗れたらなー
 原付にまたがる　ちくわの腰を
-後ろから抱きしめる私…"
+後ろから抱きしめる私…"	"要是竹輪也會騎輕型機車就好了──
+想像竹輪跨坐在輕型機車上，
+然後我從身後抱住牠的腰……"	"I wish I could ride a moped with
+Chikuwa... I'd sit in the back seat
+and hold onto him while he drives..."	"치쿠와하고 원동기도 타봤으면 좋겠어~
+원동기에 올라탄 치쿠와 뒤에서
+허리를 끌어안는 나…"
 828	"ちくわと新技の練習しようかな
 今日は…
-ゾンビになってよみがえるの術"
+ゾンビになってよみがえるの術"	"來跟竹輪練習新的招式好了。
+今天來練……
+重生變身成殭屍之術。"	"I think I'll teach Chikuwa a new trick.
+How to revive as a zombie!"	"치쿠와랑 새로운 기술을 연습해 볼까
+오늘은…
+좀비로 부활하는 술법!"
 829	"いらっしゃいませー
-…あ　ついバイトのくせが…"
+…あ　ついバイトのくせが…"	"歡迎光臨──
+……啊，一不小心打工的習慣就……"	Welcome!—oops, I was in work mode.	"어서 오세요~
+…아, 나도 모르게 알바 버릇이…"
 830	"あの辺　ちくわが好きそうな
-原っぱだねー　行ってみよう！"
+原っぱだねー　行ってみよう！"	"那附近就是竹輪最愛
+的草原耶，我們也去看看吧！"	"This open space looks like an area
+Chikuwa would like.
+Let's go check it out!"	"저쯤에 치쿠와가 좋아할 만한
+들판이 있어~ 가보자!"
 831	"動画でも見て
-だらだらしますかー"
+だらだらしますかー"	"來看一些片
+消磨時間吧──"	"Let's just laze around streaming
+some videos."	"영상이나 보면서
+뒹굴거릴까요~"
 832	"お父さんにお土産
-何にしよう？"
+何にしよう？"	"給爸爸的土產
+要買什麼好啊？"	"I wonder what my dad would
+like as a souvenir?"	"아버지에게 드릴 기념품
+어떤 게 좋을까?"
 833	"あ　鳥が飛んでる
-何の鳥だろ？"
+何の鳥だろ？"	"啊，有鳥在飛耶
+那是什麼鳥啊？"	"Oh, look at that bird.
+I wonder what it's called."	"아, 새가 날고 있어
+무슨 새지?"
 834	"写真撮って
 お父さんに送ろうかな
-こっちは楽しいよ　っと…"
+こっちは楽しいよ　っと…"	"拍幾張照片
+傳給爸爸看好了。
+我們玩得很開心喔，送信……"	"I'll take a pic and send it to my dad.
+Caption: Having fun here..."	"사진 찍고
+아버지에게 보낼까?
+우린 재미있게 잘 지내…"
 835	"いっぱい遊んで
 いっぱい食べて…
-キャンプって　楽しいね"
+キャンプって　楽しいね"	"可以盡量玩
+又可以盡量吃……
+露營真的好有趣喔。"	"Play hard, eat hard.
+Camping is great."	"실컷 놀고
+실컷 먹고…
+캠핑은 참 재밌어"
 836	"誕生日おめでとう　私から
 『１日ちくわと遊べる券』を
-プレゼントしちゃおう"
+プレゼントしちゃおう"	"生日快樂。
+我就送妳
+『可以跟竹輪玩整天券』當禮物吧。"	"Happy birthday! Here's a present
+from me: It's a ""Play with Chikuwa
+for a day"" ticket."	"생일 축하해! 나는
+""치쿠와랑 하루 종일 놀 수 있는 티켓""
+을 선물할게"
 837	"誕生日のお祝いに 特別製の
-しまリン団子作ったよ"
+しまリン団子作ったよ"	"我做了特製的
+志摩凜糰子來慶祝妳生日喔。"	"To celebrate your birthday, I made
+Shimarin-shaped dango."	"생일 축하 기념으로
+특제 시마링 경단을 만들었어"
 838	"お誕生日おめでとう
-パーティーしなくちゃね"
+パーティーしなくちゃね"	"生日快樂。
+得辦個生日派對來慶祝呢。"	"Happy birthday.
+We have to throw a party!"	"생일 축하해!
+축하 파티 해야겠네!"
 839	"お誕生日おめでとう
 あかりちゃんも祝ってくれるの
-一人っ子には 羨ましいかも"
+一人っ子には 羨ましいかも"	"生日快樂。
+還有朱莉會幫妳慶生耶，
+獨生女的我有點羨慕耶。"	"Happy birthday!
+It's nice you can celebrate with Akari-
+chan. I'm jealous as an only child."	"생일 축하해!
+아카리한테도 축하받을 수 있다니
+외동이라 좀 부럽기도 해"
 840	"あけましておめでとう
-ちくわの干支は　いつかな！？"
+ちくわの干支は　いつかな！？"	"新年快樂。
+竹輪的生肖年是什麼時候啊！？"	"Happy new year! I can't believe
+they still haven't added Chikuwa to
+the Zodiac cycle!"	"새해 복 많이 받아
+치쿠와는 무슨 띠일까!?"
 841	"チョコの用意　ばっちり〜
 あ　ちくわはダメだぞー
-君には　はい　特製クッキー"
+君には　はい　特製クッキー"	"巧克力準備到位～～
+啊，竹輪你不可以吃喔──
+給你吃這個特製的餅乾。"	"All done with the chocolates!
+Oops, Chikuwa, these aren't for you.
+Here—a special cookie."	"초콜릿 준비도 완벽해~
+아, 치쿠와는 먹으면 안 돼
+자, 널 위한 특제 쿠키야"
 842	"富士山　登るのは
 大変そうだけど
-見るのは楽しいよね"
+見るのは楽しいよね"	"要爬上富士山雖然會很辛苦，
+但是只是觀賞的話
+就還挺有意思的。"	"Climbing Mount Fuji looks tough.
+I'm happy to just look at it."	"후지산은 등산하기엔
+힘들지도 모르지만
+보는 건 또 재밌어"
 843	"いっぱい お返し
 もらっちゃったよー
-ちくわという存在がいながら…"
+ちくわという存在がいながら…"	"我收到
+好多回禮喔──
+明明竹輪也在旁邊……"	"I got a lot of gifts in return.
+But I already have Chikuwa!"	"보답을 잔뜩 받았어~
+내겐 치쿠와라는
+존재가 있는데도…"
 844	"ちくわに
-仮装させてみよっかな〜"
+仮装させてみよっかな〜"	"來幫竹輪
+變個裝好了～～"	"Chikuwa, will you let me put a
+costume on you?"	"치쿠와를
+변장시켜 볼까~"
 845	"キャンプのご飯も
 クリスマスバージョンに
-したいよね"
+したいよね"	"露營時做的料理
+也想調整成
+聖誕節版本呢。"	"I want to do a Christmas dinner
+at camp too!"	"캠핑 요리도
+크리스마스 버전으로
+만들고 싶어"
 846	"年末戦士サンタクレンジャー
-再結成だ！"
+再結成だ！"	"年末戰士聖誕戰隊
+再次集結！"	"Reunion of the Year-End Warriors,
+the Santa Claus Rangers!"	"연말 전사 산타크레인저~
+재결성이야!"
 847	"お部屋でまったりもいいけど
 年越しキャンプも
-たまにはいいね"
+たまにはいいね"	"舒服地窩在房間裡雖然也不賴，
+但是偶爾去跨年露營
+好像也不錯耶。"	"Relaxing at home on New Year's
+Eve is nice, but so is camping."	"방에서 뒹구는 것도 좋지만
+새해맞이 캠핑도
+가끔은 괜찮네"
 848	"向こうでなにかやってるみたい
-ちょっと 覗いてみよっか"
+ちょっと 覗いてみよっか"	"對面好像在辦什麼活動耶，
+要不要過去看一下啊。"	"Looks like they're up to something
+over there. Let's drop in for a peek!"	"저쪽에서 뭔가 하는 거 같아
+잠깐 살펴볼까?"
 849	"もう１年 経つんだ
-時の流れは 早いねえ"
-850	うーん…
+時の流れは 早いねえ"	"已經過一年了啊，
+時光的流逝真快呢。"	"It has already been a year...
+Time really flies."	"벌서 1년이 끝나가네
+시간이 참 빠르게 지나가"
+850	うーん…	嗯──……	Hm...	으음…
 851	"ちくわ…カリブーくんは
-敵じゃないよ…吠えちゃダメだぞー…"
-852	一休みしよっと
-853	ふう～
-854	…よいしょ
-855	あれ　レシピどこだっけ
-856	もうすぐ完成だよ
-857	お湯を沸かして　お茶でも飲もう
-858	これを使いますか
-859	ケトル発見ー
-860	ごくごく…　はぁ　おいしいー
-861	おかわり飲もうかな
-862	美味しいなぁ
-863	この灯り　ほっとするね
-864	灯りをつけて…
-865	カチッとね
-866	これならお湯がすぐわくねー
-867	バーナーって便利だなー
-868	火ついたかな？
+敵じゃないよ…吠えちゃダメだぞー…"	"竹輪……卡利布
+不是敵人喔……不可以吼他喔──……"	"Chikuwa... Caribou-kun is our
+friend... No barking..."	"치쿠와… 카리부 군은
+적이 아니야, 짖으면 안 돼…"
+852	一休みしよっと	來休息一下吧。	I'll just rest here for a while.	조금 쉬어야지
+853	ふう～	呼～～	Ahh...	후우~
+854	…よいしょ	……嘿咻。	Okay...	…영차
+855	あれ　レシピどこだっけ	怪了，食譜放去哪了？	Huh? Where did the recipe go?	어라? 레시피를 어디 뒀지?
+856	もうすぐ完成だよ	快要作好了喔。	I'm almost done!	이제 곧 완성이야
+857	お湯を沸かして　お茶でも飲もう	煮個開水來泡茶喝吧。	I'll put on the kettle for some tea.	물을 끓여서 차라도 마시자
+858	これを使いますか	來用這個吧。	Maybe I'll use this?	이걸 써보실까요~
+859	ケトル発見ー	發現熱水壺──	Got a kettle.	주전자 발견~
+860	ごくごく…　はぁ　おいしいー	咕嚕咕嚕……呼啊，真好喝──	*slurp* Ah... Delicious.	꿀꺽꿀꺽… 하아, 맛있어~
+861	おかわり飲もうかな	再喝一杯好了。	I think I'll have one more cup.	한 잔 더 마실까
+862	美味しいなぁ	真好吃啊。	It's delicious.	맛있네~
+863	この灯り　ほっとするね	這盞燈好愜意喔。	The light feels so reassuring.	이 불빛, 마음이 차분해지네
+864	灯りをつけて…	點個燈吧……	Turn on the light...	불을 켜고…
+865	カチッとね	伸指一按。	Took just one click.	딸칵~
+866	これならお湯がすぐわくねー	這樣開水馬上就會煮開了喔──	Water boils really quickly with this.	이거라면 물이 금방 끓을 거야~
+867	バーナーって便利だなー	噴燈好方便喔──	Burners are really convenient.	버너는 편리하구나~
+868	火ついたかな？	火點著了嗎？	Is it on?	불이 붙었으려나?
 869	"火を見ながら
-のんびり…"
+のんびり…"	"一邊看著火光
+一邊放鬆。"	"Staring at the fire is pretty
+relaxing."	"불을 보면서
+여유롭게~"
 870	"焚き火といえば
-フォークダンス？"
-871	そうだ　あれが作れるかも
+フォークダンス？"	"說到篝火就會想到……
+土風舞？"	"When I think of campfires...
+Folk dancing?"	"모닥불이라고 하면…
+포크 댄스일까?"
+871	そうだ　あれが作れるかも	對了，可能可以作那個。	Oh yeah, I might be able use that...	맞다, 그거 만들 수 있겠는데
 872	"シュラフに包まれる感覚…
-いいよねー"
+いいよねー"	"被睡袋包覆著的感覺……
+真舒服啊──"	"Being wrapped up in a sleeping
+bag feels so comfy..."	"침낭에 감싸여 있는 느낌…
+좋지~"
 873	"シュラフに包まれる感覚…
-いいよね"
-874	おやすみ～…
+いいよね"	"被睡袋包覆著的感覺……
+真舒服啊──"	"Being wrapped up in a sleeping
+bag feels so comfy..."	"침낭에 감싸여 있는 느낌…
+좋지~"
+874	おやすみ～…	晚安～～……	Good night...	잘 자~
 875	"どれどれ…
-うん　おいしい！"
-876	外でのご飯は格別だね
-877	これでどうかなー？
+うん　おいしい！"	"我嘗嘗看……
+嗯，很好吃喔！"	Let's see... It's delicious!	"어디 보자…
+응, 맛있어!"
+876	外でのご飯は格別だね	在戶外吃的飯別有一番風味耶。	Eating outside is magical.	밖에서 먹는 밥은 각별하네
+877	これでどうかなー？	這個怎麼樣啊──？	How's this?	이러면 되려나~?
 878	"かわいいねー
-どこから来たの？"
-879	よしよし　君もいい子だね
-880	おやつ食べる？
-881	この椅子　ゆったり過ごせそう
-882	はー…　眠くなってきた
-883	ゆらゆらして最高だね
+どこから来たの？"	"好可愛喔──
+是從哪裡來的啊？"	"It's so cute.
+Where did it come from?"	"귀엽네~
+어디서 왔어?"
+879	よしよし　君もいい子だね	好──乖好乖喔，你也是乖孩子呢。	Good boy! You're such a good dog!	옳지, 착하다~ 너도 착한 아이구나
+880	おやつ食べる？	要吃零食嗎？	Want a treat?	간식 먹을래?
+881	この椅子　ゆったり過ごせそう	這張椅子坐起來一定很愜意。	This chair looks pretty comfortable.	이 의자, 편할 거 같아
+882	はー…　眠くなってきた	呼啊──……開始睏了呢。	Phew... I could sleep here.	하아… 잠이 솔솔 와
+883	ゆらゆらして最高だね	搖來搖去，真是太棒了。	Swinging back and forth is the best.	흔들거리는 느낌이 최고야
 884	"これならみんなの分も
-お湯が沸かせるね"
-885	なんか料理しちゃう？
+お湯が沸かせるね"	"這樣的話就一起
+煮所有人份量的開水囉。"	I'll boil some water for everyone.	"이거라면 모두가 마실 물도
+끓일 수 있을 거야"
+885	なんか料理しちゃう？	要不要來做什麼料理呢？	"Should I make a little something
+to eat?"	뭔가 요리할까?
 886	"このスキレットで目玉焼き…
-おいしくなりそう"
+おいしくなりそう"	"用這個鑄鐵鍋煎荷包蛋……
+應該會很好吃喔。"	"This skillet looks like it could
+make excellent fried eggs."	"이 스킬렛으로 달걀프라이…
+더 맛있을 거 같아"
 887	"なでしこちゃんのランタン
-つい見ちゃうよねえ"
+つい見ちゃうよねえ"	"不知不覺就會盯著
+撫子的露營燈看耶。"	"I finally get to see
+Nadeshiko-chan's lantern."	"나데시코의 랜턴
+나도 모르게 보게 돼~"
 888	"リンのバーナー
-借りちゃった"
-889	メタル賽銭箱だー！
+借りちゃった"	"我跟凜借了
+噴燈了。"	I borrowed Rin's burner.	"린의 버너를
+빌렸어"
+889	メタル賽銭箱だー！	是鋼鐵賽錢箱哦──！	It's the metal offering box!	메탈 세전함이다~!
 890	"キャンドルっていうには
-大きいよねえ"
+大きいよねえ"	"說是蠟燭
+有點太大了耶。"	That's a giant candle.	"캔들이라고 하기엔
+좀 크지~"
 891	"かっこいいなー
-この焚き火台"
-892	やっぱり　炎が違いますなあ
-893	これで薪を…えいっ
+この焚き火台"	"這個篝火台
+好帥喔──"	This campfire stand is pretty cool.	"멋있다~
+이 모닥불 받침대"
+892	やっぱり　炎が違いますなあ	這火光果然很不一樣哪。	The fire is really different.	역시 불꽃이 다르구만요~
+893	これで薪を…えいっ	用這個來劈柴……嘿！	Use this to cut firewood... Ha!	이걸로 장작을… 에잇!
 894	"これなら
-真夜中でも安心だね"
+真夜中でも安心だね"	"有這個的話
+在半夜也不用怕了耶。"	"If I have this, I'd be safe even in
+the middle of the night."	"이거라면
+한밤중에도 안심이야"
 895	"料理だけじゃなくて
-木を削ることもできるんだー"
-896	よっと…えいっ
+木を削ることもできるんだー"	"這不只拿來做料理，
+還能用來切木頭喔──"	"This is not just for cooking.
+You can use it on wood too."	"요리뿐만 아니라
+나무를 자를 수도 있어~"
+896	よっと…えいっ	嘿唷……嘿！	Oof...hup!	으쌰… 에잇
 897	"いろんなチップ
-試してみようっと"
-898	ハロウィンっぽくていいね
+試してみようっと"	"來試著用看看
+各種木屑的差異吧。"	"Let's try all the different kinds
+of chips."	"다양한 칩을
+시험해 볼까"
+898	ハロウィンっぽくていいね	很有萬聖節氣氛耶！	"It really gives off the spirit of
+Halloween!"	할로윈 같아서 좋다!
 899	"ふふっ
-まんまるでかわいいね"
+まんまるでかわいいね"	"呵呵。
+圓滾滾的好可愛喔。"	Hehe. It's so round and cute.	"후훗
+동그랗고 귀여워"
 900	"残り物で作ったとは思えない
-美味しさだよー"
+美味しさだよー"	"這好吃到一點都不覺得
+是用剩菜作的耶──"	"To think something this good
+was made with leftovers!"	"남은 것으로 만들었다고는
+생각 못 할 맛이야~"
 901	"アヒージョ見ると
-叫びたくなっちゃうなあ"
+叫びたくなっちゃうなあ"	"看著大蒜蝦
+就會想要大叫一下耶。"	"Seeing ajillo makes me want to
+go ahhhh!"	"아히요를 보면
+외치고 싶어져"
 902	"殻は残しておいて
-ダシをとろうっと"
-903	これは　絶対おいしいやつ…！
-904	炭火のいい香りー
+ダシをとろうっと"	"殼都留下來
+下次熬湯用吧。"	Throw in the shells to make stock.	"껍데기는 남겨서
+국물을 내자"
+903	これは　絶対おいしいやつ…！	這肯定好吃到不行啊……！	This is sure to be delicious!	이건 무조건 맛있을 거야…!
+904	炭火のいい香りー	炭火的味道好香喔──	The smell of charcoal is so exciting.	숯불 향기가 좋네~
 905	"食べごたえがあって
-おいしそうだなあ"
+おいしそうだなあ"	"份量很充足，
+看起來很好吃呢。"	Looks incredibly delicious.	"씹는 맛도 있어서
+참 맛있겠다"
 906	"いいチーズと伊勢エビのダシで
-最高の一品だね"
+最高の一品だね"	"上等的起司配上日本龍蝦的高湯，
+真是最厲害的一道料理啊。"	"Pairing a good cheese with spiny
+lobster makes for an amazing dish."	"좋은 치즈와 닭새우 국물
+최고의 일품이네"
 907	"キャンプですき焼き
-ぜいたくだねえ"
+ぜいたくだねえ"	"露營的時候吃壽喜燒，
+好奢侈喔──"	"Having sukiyaki while camping is
+such a luxury."	"캠핑에서 스키야키라니
+호화로운걸~"
 908	"トマトを入れると
-こんなに味が変わるんだぁ"
+こんなに味が変わるんだぁ"	"只是加了番茄
+味道竟然會變這麼多喔。"	"Who knew adding tomatoes would
+change the taste so much?"	"토마토를 넣으면
+이렇게 맛이 변하는구나"
 909	"もつ鍋…鍋パーティーを
-思い出すなあ"
+思い出すなあ"	"大腸鍋……會讓人想起
+辦火鍋趴的時候耶。"	"Motsunabe... Reminds me of the
+hotpot party."	"모츠나베… 전골 파티가
+생각나네"
 910	"鍋パーティーには
-きりたんぽだね"
-911	カレーの匂いが食欲をそそるー
+きりたんぽだね"	"辦火鍋趴就是
+要加烤米棒啊。"	"We had kiritanpo at the hotpot
+party, right?"	"전골 파티에는
+키리탄포지"
+911	カレーの匂いが食欲をそそるー	咖哩的味道叫人胃口大開呢──	The smell of curry makes me hungry.	카레 냄새가 식욕을 돋우고 있어
 912	"スープパスタなら
-お腹もいっぱいになりそうだね"
+お腹もいっぱいになりそうだね"	"吃義大利湯麵的話
+應該就會吃得很飽呢。"	Soup pasta seems really filling.	"수프 파스타라면
+배도 가득 찰 거 같아"
 913	"あきちゃん手作りのほうとう
-食べてみたいなあ"
+食べてみたいなあ"	"好想吃吃看
+小明親手作的餺飥喔。"	I want to try Aki-chan's hoto too.	"아키가 직접 만든 호토
+먹어보고 싶어"
 914	"すき焼きのシメのパスタ…
-大満足だよー"
-915	リンの年越しそばだー
-916	伊勢エビのダシ　おいしいなー
+大満足だよー"	"壽喜燒居然用義大利麵來收尾……
+太滿足了──"	"I'm so full after having pasta to
+finish off the sukiyaki broth."	"스키야키의 마무리 파스타…
+완전 만족스러워~"
+915	リンの年越しそばだー	是凜的跨年蕎麥麵耶──	Here's your New Year's Eve soba, Rin.	린의 해넘이 소바야~
+916	伊勢エビのダシ　おいしいなー	日本龍蝦熬的高湯太讚了──	"Stock made from spiny lobster
+is amazing."	닭새우 국물, 맛있네~
 917	"ココアを飲むと
-ほっとするー"
+ほっとするー"	"喝熱可可
+讓人好放鬆喔──"	"After drinking hot chocolate,
+I feel so relaxed."	"코코아를 마시면
+차분해져~"
 918	"このお茶　リンが
-持ってきてくれたやつかな？"
+持ってきてくれたやつかな？"	"這個茶是凜她
+帶來的那種對吧？"	Did Rin bring this tea?	"이 차, 린이
+가져다준 건가?"
 919	"落ち着く味だね
-シナモンが決め手かな"
+シナモンが決め手かな"	"這味道讓人好放鬆喔──
+是肉桂的功勞嗎？"	"It's very calming.
+Is it because of the cinnamon?"	"차분해지는 맛이네~
+시나몬이 비결일까?"
 920	"マシュマロって　結構
-焦げやすいんだなあ"
-921	この甘さがしみるー
+焦げやすいんだなあ"	"棉花糖
+還挺容易烤焦的耶。"	Marshmallows burn pretty easily.	"마시멜로는 생각보다
+쉽게 탄단 말이지~"
+921	この甘さがしみるー	這個甜味真能滋潤全身耶──	The sweetness is soaking into my body.	이 달콤함이 스며들어~
 922	"ホットケーキだけど
-結構うまくできたなぁ"
+結構うまくできたなぁ"	"這個鬆餅
+煎得還挺成功的喔。"	"It's just pancakes, but it's made
+pretty well."	"전의 핫케이크 말인데
+꽤 맛있게 만들어졌었지~"
 923	"これ…
-いくらでも食べられそう！"
-924	うん　うまく燻製できたみたい
+いくらでも食べられそう！"	"這個……
+感覺不管再多都吃得下！"	I can eat this infinitely!	"이거…
+얼마든지 먹을 수 있겠어!"
+924	うん　うまく燻製できたみたい	嗯，這個煙燻得很成功喔。	Mm, looks like it was well smoked.	응, 잘 훈제된 거 같아
 925	"お手軽でおいしいって
-最高だよね"
+最高だよね"	"做法簡單又好吃
+真是太棒了──"	"It's easy and delicious.
+Simply the best."	"만들기 쉽고 맛있다니
+최고네~"
 926	"うん
-ほんのり甘くておいしい！"
+ほんのり甘くておいしい！"	"嗯，帶有微微甜味
+很好吃喔──"	"Mmm.
+It's so sweet and yummy."	"응
+약간 달고도 맛있어~"
 927	"ぷはー
-すっきりした味だね"
+すっきりした味だね"	"呼哇──
+這味道好清爽喔──"	"Fwah!
+How refreshing!"	"푸하~
+깔끔한 맛이야~"
 928	"とろーり　あつあつだよ
-はふはふっ…"
-929	んー　冷たくておいしーい！
+はふはふっ…"	"香濃淳，而且熱呼呼的喔。
+好燙好燙……"	"It's hot and melty!
+Fwoo fwoo..."	"진득하면서도 따끈따끈해
+후하후하…"
+929	んー　冷たくておいしーい！	嗯──冰冰涼涼的好好吃──！	Mmm, it's cold and delicious!	음~ 차갑고 맛있어~!
 930	"たしか
-いろんな味があるんだよね"
+いろんな味があるんだよね"	"我記得
+有很多種口味呢。"	There really are a lot of flavors.	"아마
+여러 가지 맛이 있었지"
 931	"お祝いっぽくて
-ザ・クリスマスだね！"
+ザ・クリスマスだね！"	"很有要慶祝的樣子，
+正宗的聖誕節感覺喔！"	"It's so festive.
+Very Christmas-y indeed!"	"축하 느낌도 나서 그런가
+THE 크리스마스 같아!"
 932	"食べるのがもったいないくらい
-かわいいねー"
+かわいいねー"	"這可愛到吃了
+會覺得可惜耶──"	"It seems such a shame to eat.
+It's so cute!"	"먹는 게 아까울 정도로
+예뻐~"
 933	"ミルクの風味で
-優しい味だー"
-934	ちくわ　行くよー
-935	ちくわうさぎ　こっちおいでー
+優しい味だー"	"帶有牛奶風味
+是很溫柔的口味呢──"	It has a milky and subtle flavor.	"우유의 풍미가 감도는
+부드러운 맛이야~"
+934	ちくわ　行くよー	竹輪，要走囉──	Chikuwa, let's go!	치쿠와, 간다~
+935	ちくわうさぎ　こっちおいでー	竹輪兔兔，過來這邊──	Come here, Rabbit Chikuwa!	치쿠와 토끼, 이리 와~
 936	"ちくわがトナカイなら
-私はサンタかな？"
-937	ちくわ将軍ー！！
-938	ご利益ありそうなワンちゃんだー
+私はサンタかな？"	"如果竹輪是馴鹿的話
+我就是聖誕老人了吧？"	"If Chikuwa is a reindeer,
+then does that make me Santa?"	"치쿠와가 순록이라면
+나는 산타일까?"
+937	ちくわ将軍ー！！	竹輪將軍──！！	General Chikuwa!	치쿠와 장군~!!
+938	ご利益ありそうなワンちゃんだー	看起來很有福氣的狗狗喔──	You're a dog with a good life.	영물의 기운이 느껴지는 멍멍이야~
 939	"ちくわよりおっきいねー
-かわいいなあ"
-940	君も一緒にキャンプする？
+かわいいなあ"	"比竹輪還要大隻呢。
+好可愛喔。"	"He's bigger than Chikuwa.
+How cute."	"치쿠와보다 크네~
+귀여워~"
+940	君も一緒にキャンプする？	妳也要一起露營嗎？	Want to come camping with us?	너도 같이 캠핑할래?
 941	"いいのをゲットしたみたいだねー
-どうやって使うのかな？"
-942	サンシェードでお昼寝だー
-943	スイカ割りやってみよっと
-944	パラソルで南国気分だね
-945	海の幸に感謝しなくちゃ
-946	スイカの器が涼しげだね
+どうやって使うのかな？"	"妳好像拿到不錯的東西了呢──
+這要怎麼用啊？"	"Looks like you got something good.
+How do you use it?"	"좋은 걸 얻은 모양이네~
+어떻게 쓰는 걸까?"
+942	サンシェードでお昼寝だー	在遮陽篷下睡個午覺吧──	Dibs on napping under the sun shade!	선셰이드에서 낮잠 자자~
+943	スイカ割りやってみよっと	來試試看玩打西瓜吧	I'm gonna try to split a watermelon!	수박 깨기 해봐야지
+944	パラソルで南国気分だね	遮陽傘一撐起來就有南島風情耶。	It's like I'm on a tropical island!	"파라솔이 있으니
+남국 느낌이 나"
+945	海の幸に感謝しなくちゃ	得好好感謝這些海鮮呢。	We should be grateful to the sea.	"바다의 은혜에
+감사해야겠는걸"
+946	スイカの器が涼しげだね	用西瓜皮當容器，看起來很涼爽呢。	The watermelon rind looks cooling...	"수박 그릇을 보니
+더 시원한 느낌이야"
 947	"海に憧れるのは
-梨っ子の習性なんだよ"
+梨っ子の習性なんだよ"	"海に憧れるのは
+梨っ子の習性なんだよ(TW)"	"海に憧れるのは
+梨っ子の習性なんだよ(EN)"	"海に憧れるのは
+梨っ子の習性なんだよ(KO)"
 948	"アウトドアレシピの本
-リンに借りてみようかな"
-949	へぇー　いいねコレ
-950	まあまあ　よいではないか
-951	ねえ　次はどこ行くの？
+リンに借りてみようかな"	"跟凜借一些
+戶外食譜的書好了。"	"I'll borrow an outdoor cookbook
+from Rin."	"아웃도어 레시피 책을
+린에게 빌려볼까"
+949	へぇー　いいねコレ	哦──這個很不錯耶。	Oh, pretty cool.	와~ 이거 괜찮다
+950	まあまあ　よいではないか	哎唷，沒關係啦。	Come on, it was no big deal.	에이~ 좋지 아니한가~
+951	ねえ　次はどこ行くの？	欸，下次妳想去哪？	Where's your next destination?	있지, 다음엔 어디 갈 거야?
 952	"近くに温泉もあると
-いいなぁ(´エ`)"
+いいなぁ(´エ`)"	"要是附近有溫泉的話
+那不知道有多好(´エ`)"	"There's a hot spring nearby.
+So jelly (´n`)"	"근처에 온천도 있으면
+좋겠다(´エ`)"
 953	"そういえば私
-最近キャンプ動画見まくっててさ"
+最近キャンプ動画見まくっててさ"	"話說我最近啊
+整天都在看露營的影片耶。"	"Speaking of which,
+I've been watching camping vids."	"그러고 보니 나
+요즘 캠핑 영상을 많이 보거든"
 954	"はー　やっぱり
-来て良かったぁ"
-955	誘ってくれて　ありがとう
+来て良かったぁ"	"呼──今天
+有來真是太好了。"	"Ah...
+I should have gone."	"하아~ 역시
+오길 잘했어"
+955	誘ってくれて　ありがとう	謝謝妳邀我一起參加。	Thanks for inviting me.	같이 오자고 해줘서 고마워
 956	"志摩リン　島根で　島キャンプ
-しましましまキャン"
-957	パーティーは・・・お開きだ！！
+しましましまキャン"	"SHIMA凜，在SHIMA根，SHIMA露營。
+真是三重SHIMA露營呢。"	"Rin Shima went to Shimane to
+Shima-camp. Shima shima shima."	"시마 린, 시마네에서, 시마 캠핑
+시마시마시마캠"
+957	パーティーは・・・お開きだ！！	派對……結束了！！	Let's get this party...started!	파티는… 끝이다!!
 958	"いっぱい遊んで
-いっぱい食べたねぇ…"
-959	いいキャンプ場だよね
-960	ここからはどうするの？
+いっぱい食べたねぇ…"	"玩得超嗨
+吃得超飽耶……"	"We had a lot of fun.
+And we ate a lot..."	"실컷 놀고
+실컷 먹었네…"
+959	いいキャンプ場だよね	真是個好露營區呢。	This is a really nice campsite.	좋은 캠핑장이야
+960	ここからはどうするの？	接下來要做什麼呢？	What are you going to do now?	이제부터 뭐 할 거야?
 961	"起こされなかったら
-昼まで寝てたかも"
+昼まで寝てたかも"	"要是沒人叫我
+就可能直接睡到中午了。"	"If I didn't wake up, I might have
+slept till noon."	"깨워주지 않았다면
+낮까지 잤을지도 몰라"
 962	"犬用のハロウィン衣装
-かわいいのいっぱいあるなー"
+かわいいのいっぱいあるなー"	"狗狗用的萬聖節服飾
+有好多好可愛的喔──"	"There are so many Halloween costumes
+for dogs to choose from."	"견용 할로윈 의상
+귀여운 게 잔뜩 있어~"
 963	"ちくわサンタの写真
-みんなにも見せてあげようっと"
-964	素敵なキャンプ場だー
+みんなにも見せてあげようっと"	"我也要讓大家看看
+竹輪聖誕裝的照片。"	"I'll have to show this photo of
+Santa Chikuwa to everyone."	"치쿠와 산타의 사진
+애들한테도 보여줘야지"
+964	素敵なキャンプ場だー	超棒的露營區耶──	What a beautiful campsite.	멋진 캠핑장이야~
 965	"新年初キャンプ
-幸先よさそうだね"
-966	ちくわになりきりパジャマだよ
-967	海キャンの準備万端だよ
-10001	おはよー！
-10002	ちょっと眠い～
-10003	おはよう
-10004	ねむー…
+幸先よさそうだね"	"新年第一次的露營
+真是好兆頭呢。"	"This is the first camping trip of the
+year. Looks like a good start."	"새해 첫 캠핑
+운수도 좋아질 것 같아"
+966	ちくわになりきりパジャマだよ	這是完全化身成竹輪的睡衣喔。	These are Chikuwa pajamas.	치쿠와가 될 수 있는 파자마야
+967	海キャンの準備万端だよ	海邊露營準備OK囉。	Ready for seaside camping!	"바다 캠핑
+완벽히 준비했어!"
+10001	おはよー！	おはよー！(TW)	おはよー！(EN)	おはよー！(KO)
+10002	ちょっと眠い～	ちょっと眠い～(TW)	ちょっと眠い～(EN)	ちょっと眠い～(KO)
+10003	おはよう	おはよう(TW)	おはよう(EN)	おはよう(KO)
+10004	ねむー…	ねむー…(TW)	ねむー…(EN)	ねむー…(KO)
 10005	"絶好の
-キャンプ日和だな！"
-10006	おーす！
-10007	おはよ
-10008	春やな～
-10009	おはよぉ～
-10010	ぽかぽかだね～
-10011	ちょっと落ち着け
-10012	なでしこは元気だな
-10013	しまりん～！
-10014	リンちゃんこんにちはー
-10015	千明何やってんの…
-10016	ふふっ…
-10017	おーい
-10018	あおいちゃーんっ！
-10019	えへへ…
-10020	ん、ありがと
-10021	お　ようやく起きたか
+キャンプ日和だな！"	"絶好の
+キャンプ日和だな！(TW)"	"絶好の
+キャンプ日和だな！(EN)"	"絶好の
+キャンプ日和だな！(KO)"
+10006	おーす！	おーす！(TW)	おーす！(EN)	おーす！(KO)
+10007	おはよ	おはよ(TW)	おはよ(EN)	おはよ(KO)
+10008	春やな～	春やな～(TW)	春やな～(EN)	春やな～(KO)
+10009	おはよぉ～	おはよぉ～(TW)	おはよぉ～(EN)	おはよぉ～(KO)
+10010	ぽかぽかだね～	ぽかぽかだね～(TW)	ぽかぽかだね～(EN)	ぽかぽかだね～(KO)
+10011	ちょっと落ち着け	ちょっと落ち着け(TW)	ちょっと落ち着け(EN)	ちょっと落ち着け(KO)
+10012	なでしこは元気だな	なでしこは元気だな(TW)	なでしこは元気だな(EN)	なでしこは元気だな(KO)
+10013	しまりん～！	しまりん～！(TW)	しまりん～！(EN)	しまりん～！(KO)
+10014	リンちゃんこんにちはー	リンちゃんこんにちはー(TW)	リンちゃんこんにちはー(EN)	リンちゃんこんにちはー(KO)
+10015	千明何やってんの…	千明何やってんの…(TW)	千明何やってんの…(EN)	千明何やってんの…(KO)
+10016	ふふっ…	ふふっ…(TW)	ふふっ…(EN)	ふふっ…(KO)
+10017	おーい	おーい(TW)	おーい(EN)	おーい(KO)
+10018	あおいちゃーんっ！	あおいちゃーんっ！(TW)	あおいちゃーんっ！(EN)	あおいちゃーんっ！(KO)
+10019	えへへ…	えへへ…(TW)	えへへ…(EN)	えへへ…(KO)
+10020	ん、ありがと	ん、ありがと(TW)	ん、ありがと(EN)	ん、ありがと(KO)
+10021	お　ようやく起きたか	哦，妳終於起來了。	Oh, you finally awake?	오, 이제 일어났구나
 10022	"なでしこちゃん
-よお寝てたなぁ～"
+よお寝てたなぁ～"	"小撫子
+睡得很香呢～～"	"Nadeshiko-chan, you look like
+you slept well!"	"나데시코
+참말로 잘도 자대~"
 10023	"いつまでも寝れるよねー
-わかるよー"
+わかるよー"	"可以就這樣一直睡下去對吧──
+我也懂喔──"	"It's like you can keep sleeping.
+I know very well."	"계속 잘 수 있을 느낌이지~
+그 마음 알아~"
 10024	"そうだったのか
 …てっきり海外のものかと
-思ってたけど　違うんだな"
+思ってたけど　違うんだな"	"原來是這樣喔
+……還以為這是外國的東西
+原來不是啊。"	"Really? I thought it was definitely
+from overseas, but I guess not."	"그랬구나
+…난 그저 외국 요리라고만
+생각했는데, 아니었네"
 10025	"エビフライとか
 ナポリタンも
-日本生まれらしいよー"
+日本生まれらしいよー"	"聽說炸蝦跟
+拿坡里義大利麵
+也都是日本發祥的喔──"	"Ebi-fry and Neapolitan pasta are also
+from Japan."	"새우튀김이나
+나폴리탄도
+일본에서 생겨났다더라~"
 10026	"うんうん
-おいしかったねー"
+おいしかったねー"	"嗯嗯
+真的很好吃呢──"	"Mmm.
+It was really good."	"응, 응
+맛있었지~"
 10027	"お湯を入れて
 混ぜるだけだったけど…
-お粗末様でした"
+お粗末様でした"	"只有倒熱水後
+攪拌一下而已……
+獻醜了。"	"All I did was add hot water...
+Sorry about that."	"뜨거운 물을 끓여서
+섞기만 했을 뿐…
+별것 아닙니다"
 10028	"野に出て　友と楽しむ集い
 「のくる」で
-大活躍をおさめたそうじゃ"
+大活躍をおさめたそうじゃ"	"她在會前往野外
+和朋友們聚集玩樂的「野活組」裡
+大展了一番身手呢。"	"A place to enjoy the outdoors with
+friends—Outclub is a great success!"	"야외에서 친구와 함께 즐기는
+모임인 ""야클""에서
+대활약을 했다고 하지"
 10029	"おいしいキャンプごはんを
 たくさん作って
-みんなを肥えさせたそうじゃ"
-10030	そうですなぁ…
-10031	もうすっかり　春ですなぁ…
+みんなを肥えさせたそうじゃ"	"作了很多很多
+好吃的露營餐，
+把大家都養胖了呢。"	"I'm going to make a lot of delicious
+camping food, and make everyone fat."	"맛있는 캠핑 식사를
+잔뜩 만들어서
+모두를 살찌웠다고 하지~"
+10030	そうですなぁ…	這樣子啊……	Right...	그렇구만요…
+10031	もうすっかり　春ですなぁ…	已經完全變春天了呢……	It's already spring in full bloom...	벌써 봄이 다 됐구만요…
 10032	"山菜の天ぷら
 ほろ苦で大人の味やねー
-クセになるわぁ"
+クセになるわぁ"	"山菜天婦羅那淡淡的苦味
+真是大人的滋味啊──
+會讓人上癮呢。"	"Fiddlehead fern tempura has an
+addictive bitter taste."	"산나물 튀김은
+씁쓸해가 어른의 맛이제
+자꾸 생각날 기 같다~"
 10033	"ふきのとうって
 こんな味なんだねー
-ぱくぱく食べちゃったよ"
+ぱくぱく食べちゃったよ"	"原來蜂斗菜
+是這種味道啊──
+忍不住一口接一口了。"	"I didn't know butterbur tastes like
+this. It's so crunchy."	"머위는
+이런 맛이구나~
+와구와구 먹어버렸어"
 10034	"ほー
-あったかぁ…"
+あったかぁ…"	"呼──
+好暖和……"	"Ah.
+So warm..."	"호오~
+따뜻해…"
 10035	"さすがやね
-なでしこちゃん"
+なでしこちゃん"	"真不愧是
+小撫子呢。"	As expected, Nadeshiko-chan.	"역시
+나데시코데이"
 10036	"おなじく…
 ゆらゆら揺れる炎を見てると
-気持ちよくなるんだよな"
+気持ちよくなるんだよな"	"我懂……
+看著搖擺不定的火光啊，
+會覺得心情很舒服喔。"	"Same here.
+The flickering flames is just so
+soothing."	"나도… 하늘하늘
+흔들리는 불꽃을 보고 있으면
+기분이 좋아지더라고"
 10037	"そうだね…
 そろそろ火を消して
-テントに戻る準備しよっか"
+テントに戻る準備しよっか"	"說得也是……
+差不多該把火熄掉
+準備回帳篷了。"	"Right...
+It's about time to put out the
+fire and head to bed."	"그렇지…
+슬슬 불을 끄고
+텐트로 돌아갈 준비를 할까"
 10038	"汗がじんわり
-浮き出てくる…"
-10039	熱中症に注意だね
+浮き出てくる…"	"汗水慢慢地
+冒了出來……"	You gradually start sweating...	"땀이 천천히
+맺히는데…"
+10039	熱中症に注意だね	要小心中暑哦。	Be careful of heat stroke.	열사병 조심해야겠네
 10040	"賛成
-…椅子持って　あっち集合な"
+…椅子持って　あっち集合な"	"贊成
+……帶上椅子，到那邊去集合。"	"Agreed.
+Let's bring our chairs over there."	"찬성
+…의자 들고 저쪽에서 모이자"
 10041	"それがよさそうやね…
 おっきい木があって
-助かったわ"
+助かったわ"	"那樣好像比較好耶……
+還好有
+夠大棵的樹。"	"Seems to be the case...
+It'd be great if there was a big tree."	"그래야 할 기 같데이…
+커다란 나무가 있어가
+다행이데이"
 10042	"いいね　今度みんなで
-やってみようよ"
+やってみようよ"	"好主意耶。下次大家
+一起試試看吧。"	"Looks fun.
+Let's try it together next time."	"좋은데~ 나중에
+다 같이 한번 해보자"
 10043	"夏の風物詩やねぇ
 盛り上がること
-間違いなしやで"
+間違いなしやで"	"這可是夏季風情呢。
+到時候氣氛
+一定會很熱烈的。"	"Everyone gets excited for summer
+traditions."	"여름의 상징물이네
+틀림없이
+분위기가 한층 달아오를 기라"
 10044	"おっ
-シャーベットいただき"
+シャーベットいただき"	"哦
+雪酪我收下了。"	"Ohh.
+I'll have a sorbet."	"오
+셔벗 잘 먹을게"
 10045	"くぅー
 夏キャンには
-アイス必須…だな！"
-10046	タン塩～ハラミ～
-10047	カルビ～トントロ～
-10048	ホルモン～ロース～
-10049	豚バラ～牛モモ～
+アイス必須…だな！"	"嗯──
+夏天露營
+果然……必帶冰淇淋！"	"Ugh...
+Ice cream is essential for camping
+in the summer!"	"크으…
+여름 캠핑에는 역시
+아이스크림이 필수지…!"
+10046	タン塩～ハラミ～	鹽味舌頭～～橫膈膜～～	Salted tongue! Skirt steak!	우설 소금구이~ 안창살~
+10047	カルビ～トントロ～	肋排肉～～豬里肌～～	Marinated beef! Pork jowl!	갈비~ 항정살~
+10048	ホルモン～ロース～	內臟～～牛腰肉～～	Offal! Shoulder steak!	곱창~ 등심~
+10049	豚バラ～牛モモ～	豬五花～～牛腿肉～～	Pork belly! Beef medallions!	삼겹살~ 쇠고기 사태~
 10050	"でも　蒸し暑さは続くから
 熱中症対策　万全にして
-油断せずに過ごそうなー"
+油断せずに過ごそうなー"	"但是還會持續悶熱一陣子，
+別掉以輕心
+要做好預防中暑的對策喔──"	"The hot weather is still continuing,
+so make sure to prevent
+heat stroke."	"그래도 찌는 더위가 이어질 테니
+열사병 대책에 만전을 기하며
+방심하지 말자고~"
 10051	"ほんとだね
-あ…いい風だー"
+あ…いい風だー"	"真的耶
+啊……好舒服的風喔──"	"You're right.
+Ah... Such a nice breeze."	"정말이네
+아… 좋은 바람이야~"
 10052	"うん
-スッキリして　うまい"
+スッキリして　うまい"	"嗯
+很爽口又好吃。"	"Mm.
+It's refreshing and delicious."	"응
+깔끔하고 맛있네"
 10053	"サンキュー！
 我ながら　上出来だなって
-思ってたんだ！"
+思ってたんだ！"	"謝謝！
+我自己也覺得
+這做得很成功哦！"	"Thanks!
+Though I thought it was pretty
+good myself!"	"땡큐~!
+나로서는 참 잘했다고
+생각했었어!"
 10054	"すごいなぁ…
 あ　夏の大三角形
-探してみようや"
+探してみようや"	"太厲害了……
+啊，來找看看
+夏季大三角吧。"	"Amazing...
+Hey, how about we look for the
+Summer Triangle?"	"굉장하데이…
+아, 여름의 대삼각형
+찾아보까?"
 10055	"いつまでも見ていたくなる
-天然のプラネタリウムだね"
+天然のプラネタリウムだね"	"這是會讓人想一直觀賞下去的
+天然天文館呢。"	"The sky is like a natural planetarium.
+I would stay here forever if I could."	"한없이 바라보고 싶어지는
+천연 플라네타리움이네"
 10056	"ご飯のお供は
-なんにしよか～"
+なんにしよか～"	"要拿什麼
+來拌飯呢～～"	What should I pair with my rice?	"밥도둑은
+뭘로 할까~"
 10057	"にっぽんの心！
-漬物　佃煮　お味噌汁～！"
+漬物　佃煮　お味噌汁～！"	"日本的心靈料理！
+醬菜、佃煮、味噌湯～～！"	"The essence of Japan!
+Tsukemono, tsukudani, and miso soup!"	"일본의 마음!
+절임, 조림, 된장국~!"
 10058	"クルトンのせてくれたら嬉しい
-…あれ　うまいよな"
+…あれ　うまいよな"	"要是能撒一些麵包酥我會很高興的
+……那個好好吃喔。"	"I'd like some croutons in it.
+Those are good."	"크루통을 곁들여주면 좋겠어
+…그게 맛있거든"
 10059	"パンにつけて食べたら
-すっごくおいしいだろうなぁ"
+すっごくおいしいだろうなぁ"	"這沾在麵包上吃
+肯定會超好吃的吧──"	It's delicious if you eat it with bread.	"빵에 찍어 먹으면
+진짜 맛있을 것 같아~"
 10060	"いっちょ
-調べてみっかー"
+調べてみっかー"	"哪不然
+稍微調查一下吧──"	Well, let's just look it up.	"한번
+찾아볼까~"
 10061	"…鮮やかな色のきのこ
-ダメ　ゼッタイ！！"
+ダメ　ゼッタイ！！"	"……色彩鮮豔的香菇
+絕對、不能吃！！"	"Brightly-colored mushrooms are
+forbidden!"	"…화려한 색의 버섯
+안 돼, 절대!!"
 10062	"手軽にできるんやったら
-私もやりたーい"
+私もやりたーい"	"簡單料理一下就能作成這樣的話，
+我也想作作看──"	If it's that easy, I want to try too.	"간단히 되는 거라모
+내도 해보고 싶다~"
 10063	"うんうん
-どんなデザインにするの？"
+どんなデザインにするの？"	"嗯嗯
+要做怎樣的設計啊？"	"Mhm.
+What kind of design are you doing?"	"응, 응
+어떤 디자인으로 할 거야?"
 10064	"おいもさんやろ～
 あとは　サンマとか
-ジビエもええなぁ～"
+ジビエもええなぁ～"	"首先要有地瓜～～
+再來是，秋刀魚
+或野味也不錯耶～～"	"Maybe sweet potato?
+Or saury?
+Or game meats?"	"고구마 좋제~
+꽁치도 좋고
+지비에도 괜찮데이~"
 10065	"モンブランに
 かぼちゃのババロア…
-秋スイーツ　食べたいなぁ"
+秋スイーツ　食べたいなぁ"	"好想吃秋天的甜點喔，
+像是蒙布朗
+還有巴伐利亞南瓜奶凍……"	"Mont blanc... Pumpkin baravois...
+I want to eat all the autumn desserts."	"몽블랑하고
+호박 바바루아…
+가을 디저트 먹고 싶다"
 10066	"綺麗だな
-いつまでも眺めてられる"
+いつまでも眺めてられる"	"好漂亮喔
+可以就這樣子一直盯著看呢。"	"It's so beautiful.
+I can stay staring forever."	"예쁘네
+한없이 바라보고 싶어진다"
 10067	"おぉー！
 このススキが揺れる音も
-いいんだよなぁ"
+いいんだよなぁ"	"哦哦──！
+芒草在搖晃的聲音
+聽起來也很感性嘛。"	"Listen to that!
+The sound of the silver grass
+is so nice."	"오오~!
+억새가 흔들리는 소리도
+꽤 좋은걸"
 10068	"こんな夜にぴったりの
-みたらし団子をどうぞー"
+みたらし団子をどうぞー"	"請吃跟這種夜晚最搭的
+甜醬油糰子吧──"	"Soy-glazed dango is perfect for
+a night like this."	"이런 밤에 딱 어울리는
+미타라시 당고를 드세요~"
 10069	"お月見しながら
 あったかい
-お茶で　ひと息つくか"
+お茶で　ひと息つくか"	"一邊賞月
+一邊喝杯熱茶
+休息一下吧。"	"I'll rest with a cup of tea
+under the moon."	"달구경 하면서
+따뜻한 차를
+마시고 한숨 돌릴까"
 10070	"ほんとにでかいな
-落ちてきそうだ"
+落ちてきそうだ"	"真的好大喔
+感覺會掉下來耶。"	"It's gigantic.
+Feels like it'll fall..."	"진짜 크네
+떨어질 거 같다"
 10071	"…なんや　月見うどんに
-見えてきたわ"
+見えてきたわ"	"……總覺得，
+越看越像月見烏龍麵了。"	"What's that? I see poached egg
+udon."	"…뭐꼬, 츠키미 우동처럼
+보인다 아이가"
 10072	"ほんまやね
-ストック　持ってこよかー"
+ストック　持ってこよかー"	"真的耶，
+那我再拿一些庫存過來吧──"	"It's true.
+Should I bring the stock?"	"참말이네
+비축품 갖고 오까~"
 10073	"もしなさそうなら
 店までひとっ走りするぜ！
-…リンがな"
+…リンがな"	"要是沒有的話
+就跑一趟商店吧！
+……我是說澟。"	"If we don't have it, we can run
+to the store! Well, Rin can."	"혹시 없을 거 같으면
+가게까지 한걸음에 달려갔다 오지!
+…린이"
 10074	"味噌汁が
-冷えた体に　染みわたる…！"
-10075	幸せやなぁ
+冷えた体に　染みわたる…！"	"味噌湯讓冰冷的身子
+都暖起來了……！"	(Miso soup warms my cold body.)	"된장국이
+차가운 몸속으로 퍼지고 있어…!"
+10075	幸せやなぁ	好幸福喔。	I'm so happy.	행복하다~
 10076	"おっしゃ　踏みに行こうぜ！
-サクサクサクサクサクサク…"
+サクサクサクサクサクサク…"	"好耶，我們也快去踩吧！
+沙沙沙沙……"	"Awesome, let's step in them!
+The crunching sound is so fun!"	"좋았어, 밟으러 가보자고!
+사박사박사박사박사박사박…"
 10077	"ほんとだー
-冷え込んでる証拠だねぇ"
+冷え込んでる証拠だねぇ"	"真的耶──
+這表示真的冷到不行了。"	"It's true.
+It's proof of how cold it is."	"정말이네~
+날씨가 춥다는 증거구나"
 10078	"とろーり半熟
 目玉焼きを添えたら
-パワーアップしそうだな"
+パワーアップしそうだな"	"加上滑順半熟
+荷包蛋的話
+感覺變得更厲害了呢。"	"Soft boiled egg and a fried egg
+together looks like a power couple."	"진득한 반숙
+달걀프라이를 곁들이면
+파워 업 할 것같은데"
 10079	"アツアツほかほか
 ごはんの上にのっけて
-いただきまーす"
+いただきまーす"	"把這個熱騰騰的
+淋在白飯上，
+我要開動了──"	"I'll put it on my rice while it's
+still piping hot. Time to eat!"	"김이 모락모락 나는
+따끈한 밥 위에 얹어
+잘 먹겠습니다~"
 10080	"チーズ乗せたら
-罪の味だな"
+罪の味だな"	"要是再放上起司的話
+這味道可就犯罪了耶。"	"Putting cheese on it is
+sinfully good..."	"치즈를 올리면
+죄악감마저 드는 맛이지"
 10081	"付け合せはマッシュポテトとか
-よさそうやね"
+よさそうやね"	"準備一些馬鈴薯泥當配菜
+好像不錯呢。"	"Looks like it comes with mashed
+potatoes or something."	"매시 포테이토도 곁들여 묵으면
+좋을 기 같네"
 10082	"はー　ぬっくぬくで
 きもちええなぁ
-これさえあれば　無敵やー"
+これさえあれば　無敵やー"	"呼──好熱好暖和，
+太舒服了。
+只要有這個我就什麼都不怕了──"	"Ahh, it's so warm.
+As long as you have this,
+you're good to go."	"하~ 푹신해가
+기분이 좋네
+요거만 있으면 무적이다~"
 10083	"あったけー！
 肌ざわりがいいのも
-たまらーん！"
+たまらーん！"	"好暖和──！
+摸起來又滑又順
+真叫人受不了──！"	"So warm!
+It feels amazing on my skin!"	"따뜻하네~!
+촉감이 좋은 점도
+아주 끝내줘~!"
 10084	"それだけで
 あんなにおいしいお鍋が
-作れちゃうなんて　さすがだね"
+作れちゃうなんて　さすがだね"	"只用那些東西
+就能做出這麼好吃的火鍋啊。
+真厲害耶。"	"I'm impressed you can make such
+delicious hotpot with only that."	"그것만으로도
+그렇게 맛있는 전골을
+만들 수 있다니, 역시 대단해"
 10085	"いやいや
-なんか　もっとあんだろ！"
+なんか　もっとあんだろ！"	"不不不，
+還有其他的吧！"	No, it's like more like this, right?	"그거 말고
+뭔가 더 좋은 그런 거 있잖아!"
 10086	"足元　気をつけろよ
-コケたら大変だからな"
+コケたら大変だからな"	"要小心腳踩的地方喔
+在這裡滑倒那可就麻煩了。"	"Watch your step.
+It'll hurt if you trip."	"발밑 조심해
+그을리면 큰일이니까"
 10087	"ありがとう
-灯りがあると　ほっとするわぁ"
-10088	いい買い物したなー
+灯りがあると　ほっとするわぁ"	"謝謝妳。
+有燈光就會安心很多呢。"	"Thanks.
+I feel better with the light."	"고맙데이
+등불이 있으니께 마음도 놓이네"
+10088	いい買い物したなー	買到了挺划算的東西呢──	That was some productive shopping.	쇼핑 한번 잘했네~
 10089	"また　カリブー
-行こうなー"
+行こうなー"	"以後還要再去
+卡利布哦──"	Let's go to Caribou again.	"카리부
+담에 또 가재이~"
 10090	"〆の雑炊とか
 ラーメン　うどんも
-おいしいし　いいよねー"
+おいしいし　いいよねー"	"收尾像是稀飯、
+拉麵或烏龍麵
+也都很好吃耶──"	"Rice is great for finishing sauces.
+Udon and ramen noodles are good too."	"마무리는 죽도 좋고
+라면이나 우동도
+맛있어서 참 좋아~"
 10091	"ピリ辛の餃子坦々鍋…
-また　食べたいな"
+また　食べたいな"	"辣味煎餃擔擔鍋……
+好想再吃一次喔。"	"Spicy gyoza hotpot...
+I want to eat that again."	"살짝 매운 탄탄 만두전골…
+또 먹고 싶다"
 10092	"サバイバルキャンプにも
 興味あるけどな
-今度　やってみっか"
+今度　やってみっか"	"我對求生露營
+也有點興趣呢
+改天試試看好了。"	"I'm also interested in survival
+camping. Maybe I'll try it next time."	"서바이벌 캠핑에도
+관심 있는데
+다음에 해볼까"
 10093	"やがて　旅立ちの時…
 野クルの運命や
-いかに…！"
+いかに…！"	"終將迎來踏上旅程之時……
+野活組的命運
+究竟會如何……！"	"They began their journey...
+What will be the Outclub's fate?!"	"머지않아 여행을 떠날 때…
+야클의 운명은
+어찌 될 것인가…!"
 10094	"おいしいよねー
 やっぱり
-新鮮だからかな？"
+新鮮だからかな？"	"好好吃喔──
+果然重點是
+因為很新鮮嗎？"	Fresh seafood is so delicious.	"맛있네~
+역시
+신선해서 그런가?"
 10095	"これからも
 いろんな食材と
-出会いたいもんやなぁ"
-10096	匂いが　たまらん…！
+出会いたいもんやなぁ"	"以後還想要
+認識更多種
+食材呢。"	"It seems I'm going to become
+familiar with a lot of different
+ingredients."	"앞으로도
+다양한 식자재를
+만나보고 싶다 아이가~"
+10096	匂いが　たまらん…！	味道有夠香的……！	The smell is addicting!	냄새가 끝내주네…!
 10097	"いつもより
-たくさん食べられちゃうね"
+たくさん食べられちゃうね"	"這時候會吃得
+比平常還要多耶。"	You can eat more than usual, right?	"평소보다
+많이 먹게 되더라"
 10098	"あっ
-あたしも行く！"
+あたしも行く！"	"啊，
+我也要去！"	Oh, I want to go too!	"앗
+나도 갈래!"
 10099	"一緒に
-考えてみよかー"
-10100	じゃあ　お茶いれるね
+考えてみよかー"	"一起來
+想想看吧──"	Let's think together.	"같이
+생각해보까~"
+10100	じゃあ　お茶いれるね	那我來泡茶喔。	I'll put in the tea now.	그럼 차를 끓일게
 10101	"ありがとう
 プレゼントは…また一緒に
-キャンプしたい…かも…"
+キャンプしたい…かも…"	"謝謝妳
+禮物嘛……希望下次還能
+一起去露營……"	"Thanks.
+For a present, I want...
+To camp together again, I guess."	"고마워
+선물은… 또 같이
+하는 캠핑… 일 거 같아…"
 10102	"ありがとな！
-ケーキ　楽しみー"
+ケーキ　楽しみー"	"謝謝啦！
+好期待蛋糕喔──"	"Thanks!
+I'm looking forward to the cake."	"고맙다!
+케이크 기대되네~"
 10103	"ありがとう
 なでしこちゃんも
-おめでとうやで"
+おめでとうやで"	"謝謝妳。
+小撫子
+也恭喜喔。"	"Thanks, Nadeshiko-chan.
+Happy new year to you, too."	"고맙데이
+나데시코도
+축하한데이~"
 10104	"ありがとう
-こちらこそ　よろしくね"
+こちらこそ　よろしくね"	"謝謝啦。
+麻煩多多關照哦。"	"Thanks.
+I'm looking forward to the year too."	"고마워
+나야말로 잘 부탁해"
 10105	"おめでとう
 今年もいろんなキャンプが
-できるといいな"
+できるといいな"	"恭喜啊
+希望今年也能
+到處去露營呢。"	"Happy new year.
+Where will I go camping this year,
+I wonder?"	"축하해
+올해도 다양한 캠핑을
+할 수 있으면 좋겠네"
 10106	"よっしゃ
 そんじゃ　新年早々
-やりたいことまとめるぞ！"
+やりたいことまとめるぞ！"	"好耶，
+那就趁才剛新年，
+來整合一下今年的抱負吧！"	"Alright! I'm going to write down
+the things I want to do this year!"	"좋았어
+그럼 새해에 뭐 하고 싶은지
+바로 궁리해 보자고!"
 10107	"えっ
 料理にチョコを入れるのか？
-斬新だけど…チャレンジするぜ！"
+斬新だけど…チャレンジするぜ！"	"什麼？
+料理裡面加巧克力？
+雖然很前衛……但是來挑戰看看吧！"	"Huh? You use chocolate for cooking?
+That's new...and worthy of a challenge!"	"어?
+요리에 초콜릿을 넣는다고?
+참신한데… 도전해 봐야겠어!"
 10108	"チョコが入ってる
 ステーキソース
-めちゃウマや～"
+めちゃウマや～"	"加了巧克力
+的牛排醬
+超級好吃的～～"	"The steak sauce with chocolate in
+it is really delicious."	"초콜릿 들어간
+스테이크 소스
+억수로 맛난다~"
 10109	"今度　富士山グッズ
-見に行くツアーしよか"
+見に行くツアーしよか"	"我們下次選去看
+富士山周邊的行程吧。"	"Next time, let's go around to see
+if we can find Mount Fuji merch."	"다음에 후지산 굿즈를
+보러 가는 투어도 해보까~"
 10110	"おそろいの富士山グッズ
-買っちゃおうよ"
+買っちゃおうよ"	"跟我一起買可以湊一對的
+富士山周邊嘛。"	Let's buy matching Mount Fuji merch!	"후지산 굿즈를
+같은 걸로 맞춰보자"
 10111	"あぶって　挟んで
 アツアツのを
-いただきたいねー"
+いただきたいねー"	"稍微烤過後夾起來
+想趁熱呼呼
+的時候吃呢──"	"I want to eat it hot right off
+the fire."	"굽고 끼워놓은
+따끈따끈한 그걸
+먹고 싶어~"
 10112	"そんなことだろうと思って…
 ほら　マシュマロと
-チョコビス　用意してあるぞ"
+チョコビス　用意してあるぞ"	"早就料到會這樣……
+來，我有準備棉花糖
+跟巧克力餅乾哦。"	"I expected this.
+Here, I have marshmallows and chocolate chips."	"그럴 줄 알고…
+자, 마시멜로랑
+초코 비스킷 준비해뒀어"
 10113	"ウィンナ―に
-目と手足がついてるぞ！"
+目と手足がついてるぞ！"	"香腸上
+長出眼睛跟手腳了！"	The wieners have eyes and legs!	"비엔나에
+눈하고 손발이 달렸어!"
 10114	"おにぎりには
 海苔でオバケの顔が
-かいてあるんだねー"
+かいてあるんだねー"	"飯糰上有用
+海苔畫的
+鬼臉耶──"	"The rice ball has a monster's face
+made from the seaweed."	"주먹밥에는
+김으로 귀신 얼굴이
+그려져 있구나~"
 10115	"クリスマス
 どんなご飯なんやろ
-期待しとるでー"
+期待しとるでー"	"聖誕節的時候
+會準備什麼料理啊。
+我很期待喔──"	"What are we going to eat for Christmas?
+I'm really looking forward to it."	"크리스마스 때
+어떤 요리가 나올지
+기대된데이~"
 10116	"なでしこスペシャル
-楽しみにしてるよ"
+楽しみにしてるよ"	"我很期待
+撫子特餐喔。"	"Nadeshiko special?
+I'm looking forward to it."	"나데시코 스페셜
+기대하고 있을게"
 10117	"ほんとだね！
 じゃあ　そろそろ
-変身しよっか！"
+変身しよっか！"	"真的耶！
+那我們也差不多
+來變裝吧！"	"It's true!
+Then how about we all
+dress up soon!"	"정말이네!
+그럼 슬슬
+변신해 볼까!"
 10118	"我ら　年末戦士
-サンタクレンジャー！"
+サンタクレンジャー！"	"我們是年末戰士
+聖誕戰隊！"	"We are the Year-End Warriors,
+Santa Claus Rangers!"	"우리는 연말 전사
+산타크레인저!"
 10119	"こちらこそやで～
 楽しい思い出
-いっぱい　作ろうなー"
+いっぱい　作ろうなー"	"不客氣喔～～
+我們一起創造
+很多美好回憶吧──"	"Same here.
+Let's make lots of fun memories."	"내가 할말이데이~
+즐거운 추억을
+잔뜩 만들재이~"
 10120	"うんうん
 来年もその次も…
-ずっとずっと　よろしくね"
+ずっとずっと　よろしくね"	"嗯嗯，
+明年還有後年甚至更以後……
+都要一直一直請多指教哦。"	"Right. Next year, too...
+I look forward to every year 
+together from now on."	"응, 응
+내년에도 그다음에도…
+쭈욱~ 잘 부탁해"
 10121	"いっちょ
-見に行ってみるか！"
+見に行ってみるか！"	"哪不然
+就去看看吧！"	Well, let's just check it out.	"한번
+보러 가볼까!"
 10122	"あっ
-私も行くー"
+私も行くー"	"啊，
+我也要去──"	Oh, I'm going too!	"앗
+내도 갈란다~"
 10123	"やがて　なでしこは
 キャンプの達人として
-世界に名を馳せるのであった…"
+世界に名を馳せるのであった…"	"不久後，撫子
+她成為了露營的高手
+揚名國際……"	"Nadeshiko has made a name for herself
+globally as a camping cooking
+master..."	"머지않아 나데시코는
+캠핑 달인으로서
+전 세계에 이름을 알리게 되었다…"
 10124	"後に　各地のキャンプ場には
 キャンプマスターなでしこの
-銅像が乱立するのであった…"
-10125	いけんじゃね？
-10126	しょっぱ甘い言うやつやな
+銅像が乱立するのであった…"	"日後，各地的露營區裡
+到處豎立著
+露營大師撫子的銅像……"	"After, bronze statues of the Camping
+Master Extraordinaire Nadeshiko
+appeared in campsites across Japan..."	"이후 각지의 캠핑장에는
+캠핑 마스터 나데시코의
+동상이 난립하게 되었다…"
+10125	いけんじゃね？	這樣應該可以吧？	It's fine, right?	될 거 같은데?
+10126	しょっぱ甘い言うやつやな	這就是又鹹又甜的味道吧。	It's salty and sweet.	단짠이라카는 그거 말이제~
 10127	"キャンプっていろんな知識が
-必要なんだね"
+必要なんだね"	"要露營會需要
+很多方面的知識呢。"	"You need to know a lot of stuff
+for camping."	"캠핑에는 다양한 지식이
+필요하구나"
 10128	"そうなんだ　リンってば
-キャンプ博士だー"
+キャンプ博士だー"	"原來如此。
+凜妳真是露營博士耶──"	"I see. Rin, you're like a camping
+professor."	"그렇구나, 린은 역시
+캠핑 박사야~"
 10129	"リン
-今日は何の本持ってきたの？"
+今日は何の本持ってきたの？"	"凜妳今天
+帶了什麼書啊？"	What book did you bring today, Rin?	"린
+오늘은 무슨 책을 가져왔어?"
 10130	"私はこの前調べた料理
-作ってみるよ"
-10131	うんうん　続きは？
-10132	私もとっておきの話あるでー
+作ってみるよ"	"我要做做看
+上次查到的料理喔。"	"I'll try making that recipe that
+I looked up before."	"나는 지난번에 찾아본 요리를
+만들어 볼게"
+10131	うんうん　続きは？	嗯嗯，然後呢？	Uh huh, what's next?	응 응, 그 다음엔?
+10132	私もとっておきの話あるでー	我也有重大的事情要宣布喔──	I also have a good story.	내도 비장의 이야기가 있다~
 10133	"食べるー！
-私は三つでお願いします"
+私は三つでお願いします"	"我要吃──！
+請給我三個。"	"I'll have some!
+Three for me, please!"	"먹을래~!
+저는 3개 부탁드립니다"
 10134	"お　しまりん団子か？
-…え　違う？"
+…え　違う？"	"哦，是志摩凜糰子嗎？
+……咦，不是？"	"Oh, are these Shimarin dango?
+Huh? They're not?"	"오, 시마린 경단인가?
+…어라, 아니야?"
 10135	"ええの？
-ちょうどお腹すいてたんよ"
-10136	わーい　いただきまーす
+ちょうどお腹すいてたんよ"	"可以嗎？
+剛好肚子開始餓了耶。"	"Can I?
+I was just feeling hungry too."	"괘안나?
+마침 배고팠다 아이가"
+10136	わーい　いただきまーす	哇──我開動了──	Yay! I'll dig in!	와아~ 잘 먹겠습니다~
 10137	"ううっ
-一人で寝れないよお…！！"
+一人で寝れないよお…！！"	"嗚嗚
+我一個人睡不著啦……！！"	"Urgh...
+I can't sleep by myself!"	"으으
+혼자서 못 자겠어…!!"
 10138	"なんだよ　ビビってんのか？
-…うおっ　風の音か…"
-10139	…あれ　なんか一人多くない？
+…うおっ　風の音か…"	"什麼啦，妳會怕嗎？
+……唔喔，是風聲啊……"	"What, are you scared?
+Whoa—oh, it's the wind..."	"뭐야, 쫄았어?
+…으헉, 바람 소리였나…"
+10139	…あれ　なんか一人多くない？	……怪了，是不是多一個人？	Huh? Did we increased our head count?	…어라, 어쩐지 한 명 더 많지 않아?
 10140	"わぁ～！！
-…なんてな　ビックリした？"
-10141	眠くなってきちゃったねー
+…なんてな　ビックリした？"	"哇～～！！
+……開玩笑的，嚇到了嗎？"	"Boo!
+Just kidding. Did I scare you?"	"와아~!!
+…장난이데이, 깜짝 놀랐나?"
+10141	眠くなってきちゃったねー	開始想睡覺了呢──	I'm sleepy now...	잠 오는 날씨네~
 10142	"じゃあ　眠くなるまで
-ゴロゴロタイムだね"
-10143	ほんま　溶けてまうわー
+ゴロゴロタイムだね"	"那在冒出睡意之前
+就來耍廢耗時間吧。"	"I'll just lounge around until I fall
+asleep."	"그럼 졸릴 때까지
+뒹굴뒹굴 타임이네"
+10143	ほんま　溶けてまうわー	真的要融化了──	It's really melting.	참말로 녹아버리네~
 10144	"こういう時は
-日陰でまったりだねー"
-10145	太陽がジリジリしてる…！！
+日陰でまったりだねー"	"這種時候啊，
+就是要待在樹蔭下悠哉一下呢──"	"At times like these, you should
+relax in the shade."	"이럴 때는
+그늘에서 느긋하게 있어야지~"
+10145	太陽がジリジリしてる…！！	太陽光好毒喔……！！	The sun is shining!	햇볕이 쨍쨍해…!!
 10146	"これは…ちょっと休めって
-太陽が言ってるな"
-10147	水あるぞー　飲むか？
-10148	こまめに水分とらんとね
-10149	川で冷やすとうまいよなー
-10150	私　買ってこようか？
-10151	ソーダ　チョコ　あずき…
+太陽が言ってるな"	"看起來……太陽在叫我們
+要休息一下了。"	"This is the sun telling you to
+take a break."	"이건… 잠깐 쉬라고
+태양이 말하는 거네"
+10147	水あるぞー　飲むか？	這裡有水喔，要喝嗎？	I have water, want some?	물 있어~ 마실래?
+10148	こまめに水分とらんとね	要記得多補充水分喔。	Make sure to hydrate often.	수분은 수시로 섭취해야 한데이
+10149	川で冷やすとうまいよなー	用河水來沖涼就會變很好吃喔──	It's great to cool off in the river.	강에 차갑게 담가두면 맛있지~
+10150	私　買ってこようか？	要我去買嗎？	Shall I buy it for you?	내가 사 올까?
+10151	ソーダ　チョコ　あずき…	汽水、巧克力、紅豆……	Soda, chocolate, red bean...	소다, 초코, 팥…
 10152	"チョコチップ　ラムレーズン
-キャラメル…"
-10153	ほんまやあ　カナカナ聞こえるな
-10154	いい夕暮れじゃねーか
-10155	涼しくって過ごしやすいね
+キャラメル…"	"巧克力脆片、葡萄乾、
+牛奶糖……"	Chocolate chip, rum raisin, caramel...	"초코칩, 럼레이즌
+캐러멜…"
+10153	ほんまやあ　カナカナ聞こえるな	真的耶，聽得到寒蟬在叫耶。	The cicadas are really loud.	참말이네, 저녁매미 소리가 들린다카이
+10154	いい夕暮れじゃねーか	這夕陽挺漂亮的嘛──	It's a pleasant evening.	멋진 노을이구만~
+10155	涼しくって過ごしやすいね	又涼快又舒適呢。	It's really cool and comfortable.	날씨가 선선해서 좋다
 10156	"ちょっと散歩にでも
-行ってみる？"
+行ってみる？"	"要不要
+去散步一下？"	Want to take a short stroll?	"잠깐 산책이라도
+다녀올까?"
 10157	"よーしよーし　あおいであげるよー
-うちわ持ってきたんだ"
-10158	かき氷とか食べたいですなあ
+うちわ持ってきたんだ"	"好啊好啊，我來幫妳搧風──
+我有帶扇子過來喔。"	"Okay, I'll give you the blue one.
+I brought some fans."	"옳지 옳지~ 부채질해줄게~
+부채 가져왔거든"
+10158	かき氷とか食べたいですなあ	好想吃刨冰喔。	I wish I had shaved ice right now.	빙수 같은 게 먹고 싶구만요~
 10159	"あの星はあたしを照らすために
-輝いてるんだ…なんてな"
+輝いてるんだ…なんてな"	"那顆星星是為了要照亮我
+才會發光的喔……開玩笑的啦。"	"That star is shining down on me...
+Just kidding."	"저 별은 나를 비추기 위해
+빛나는 거야… 막 이러고"
 10160	"ほんまやあ
-なんていう星やろ？"
+なんていう星やろ？"	"真的耶，
+那顆星星叫什麼名字啊？"	"It really is.
+What's that star called?"	"참말이네
+저 별을 뭐라카더라?"
 10161	"匂いにつられて
-食べたくなるね"
-10162	こっちでも焼き芋やろかー
-10163	ミルクたっぷりで作ろっか
+食べたくなるね"	"每次都會被
+當季的美食吸引耶。"	Smelling it make me crave it.	"냄새에 이끌려
+먹고 싶어지지"
+10162	こっちでも焼き芋やろかー	我們也來烤地瓜吧──	I'll roast some sweet potatoes, too.	이쪽에서도 군고구마 맹글까~
+10163	ミルクたっぷりで作ろっか	這次加多一點牛奶吧。	Let's make a ton of milk.	우유를 듬뿍 넣어서 만들까
 10164	"ティーパックも
-色々持ってきてるぞー"
+色々持ってきてるぞー"	"我也有準備
+很多種茶包喔──"	I brought a lot of tea bags too!	"티백도
+여러 가지 가져왔다고~"
 10165	"都市伝説の本とかな！
-…え　もう読んだ？"
+…え　もう読んだ？"	"或是像介紹都市傳說之類的書啊！
+……欸，妳已經看過了？"	"It's the urban legends book!
+Have you read it yet?"	"도시전설 책이려나!
+…뭐야, 벌써 읽었어?"
 10166	"レシピ本とか
 見てるだけでも
-楽しいよねえ"
-10167	楽しそうやなあ
+楽しいよねえ"	"就算只是
+翻翻食譜而已
+也會很開心呢。"	"Just flipping through cookbooks
+is so much fun."	"레시피 책 같은 건
+보기만 해도
+재미있지~"
+10167	楽しそうやなあ	感覺很有趣呢。	Looks fun.	재미나 보이네
 10168	"雑誌で見たよー
-森リンって感じだね"
+森リンって感じだね"	"我也有在雜誌上看到──
+很有森林版凜的感覺。"	"I saw this in a magazine!
+It's like a forest."	"잡지에서 봤어~
+숲의 린 같은 느낌이야"
 10169	"落ち葉の栞…いいねえ
-きれいな葉っぱ探そう！！"
-10170	文学少女みたいだね　リン
+きれいな葉っぱ探そう！！"	"枯葉做的書籤……很棒耶
+我們來找漂亮的葉子吧！！"	"A bookmark made of a fallen leaf
+sounds nice. I'll look for a good one!"	"낙엽 책갈피… 좋다
+예쁜 낙엽을 찾아보자!!"
+10170	文学少女みたいだね　リン	凜妳好像文學少女喔。	You look like an academic, Rin.	문학소녀 같네, 린
 10171	"ああ　季節が感じられるって
-いいよな"
+いいよな"	"對啊，感覺得到季節變化
+真的是件好事呢。"	"Having four distinct seasons is such
+a luxury."	"그래, 계절을 느낄 수 있다는 건
+좋은 것이지"
 10172	"向こうの木　めっちゃキレイや
-見に行かん？"
+見に行かん？"	"對面的樹好漂亮唷。
+要不要去看看？"	"The tree over there is really pretty.
+Shall we go take a look?"	"저쪽에 있는 나무, 진짜 예쁘데이
+보러 가까?"
 10173	"ちょうど小腹がすいてきたしな
-みんな集合ー！！"
+みんな集合ー！！"	"剛好肚子開始有點餓了
+大家集合──！！"	"I'm starting to get a little hungry.
+Everyone, gather 'round!"	"마침 출출하기도 하니
+모두 집합~!!"
 10174	"あかん　カレーめんの匂い…
-これには逆らえへん"
-10175	せ　せんごひゃくえん…？
-10176	リン　私も食べたいなあ
+これには逆らえへん"	"不妙，咖哩拉麵太香了……
+這個實在抵抗不了。"	"Oh dear, I smell curry noodles...
+I can't resist."	"우야꼬, 카레면 냄새…
+요 냄새는 거스를 수가 없다"
+10175	せ　せんごひゃくえん…？	一、一千五百元……？	A-A thousand five hundred yen...?	처, 천오백 엔…?
+10176	リン　私も食べたいなあ	凜，我也想吃吃看。	I want some too, Rin.	린, 나도 먹어보고 싶어
 10177	"私の貸してあげるー
-はいっ"
+はいっ"	"我的借妳──
+來"	"I'll lend this to you.
+Here you go."	"내 거 빌려줄게~
+자!"
 10178	"焚き火で肌がカサついちゃうよね
-はいどうぞ"
+はいどうぞ"	"待在篝火旁皮膚就會變很乾嘛。
+來，這給妳用。"	"The fire makes your skin dry, right?
+Here, use this."	"모닥불에 피부가 건조해지지?
+자, 이거"
 10179	"寒いけど　人少なくて
-過ごしやすいんだっけ"
+過ごしやすいんだっけ"	"雖然會很冷，但是人少
+所以待起來會很舒適呢。"	"It's cold, but having less people
+around is pretty comfortable."	"춥지만 사람이 적어서
+편하게 지낼 수 있다고 했지"
 10180	"冬用のギア
-いつか全部集めてみたいもんだぜ"
+いつか全部集めてみたいもんだぜ"	"未來有一天會想把這些
+冬天的用品全部都湊齊耶。"	"I want to collect all the winter
+gear someday."	"겨울용 기어
+언젠가 전부 모아보고 싶군"
 10181	"はー…
-ほんとだー！！"
-10182	冬本番って感じやな
-10183	貼るカイロもあるよ！！
+ほんとだー！！"	"哈──……
+真的耶──！！"	"Ah...
+It's true!"	"와…
+진짜네~!!"
+10182	冬本番って感じやな	感覺冬天正式到來了呢。	It really feels like winter now.	한겨울이라는 느낌이제
+10183	貼るカイロもあるよ！！	我還有用貼的暖暖包喔！！	I have adhesive heat pads!	붙이는 핫팩도 있어!!
 10184	"シャカシャカするの大変やな
 …なでしこちゃんに
-くくりつけてみよか？"
+くくりつけてみよか？"	"要這樣子一直搖太麻煩了，
+……要不乾脆
+綁在小撫子身上好了？"	"Shaking it is hard work.
+Should I just tie it to Nadeshiko-chan?"	"부스럭거리는 게 큰일이다
+나데시코에게
+동여매 볼까?"
 10185	"サンキュー
-あたしは紅茶にしよっかな"
+あたしは紅茶にしよっかな"	"謝囉，
+那我選紅茶吧。"	"Thanks.
+I'll take black tea."	"땡큐~
+나는 홍차 마실까"
 10186	"じゃあ　私が買ってきた
-お菓子も一緒に食べよう！"
+お菓子も一緒に食べよう！"	"那就一起來吃
+我買來的零食吧！"	"Let's eat the sweets I brought
+together!"	"그럼 내가 사 온
+과자도 같이 먹자!"
 10187	"あっという間に暗くなるから
-見れてラッキーだね"
+見れてラッキーだね"	"天色一下就變暗了
+很幸運有看到呢。"	"It's dark so quickly.
+It'd be lucky to see it."	"눈 깜짝할 새에 어두워지니까
+보게 돼서 다행이야"
 10188	"おっといけねえ
 つい感傷に浸っちまいそうに
-なったぜ"
-10189	日が沈むの　早くなったなあ
-10190	ずっと見ていられそうだね
+なったぜ"	"哎呀，不能這樣子
+一不小心就沉浸在
+感傷的情緒裡了。"	"Oops, excuse me.
+I got lost in my thoughts there."	"어이쿠, 이런
+나도 모르게 감상에
+젖을 뻔했다고"
+10189	日が沈むの　早くなったなあ	太陽下山的時間變早了呢。	The sun is starting to set early.	해 떨어지는 기 빨라졌네
+10190	ずっと見ていられそうだね	這都不會看膩耶。	I could look at it endlessly.	계속 바라볼 수 있을 거 같아
 10191	"手伝うぜー
-何からやる？"
-10192	材料切ってこようか？
-10193	近くの温泉　探してみる？
+何からやる？"	"我也來幫忙──
+要先從哪開始？"	"I can help.
+What should I do?"	"도와주지~
+뭐부터 하면 돼?"
+10192	材料切ってこようか？	要我把材料切一切嗎？	Shall I cut the ingredients?	재료 잘라둘까?
+10193	近くの温泉　探してみる？	要找個附近的溫泉嗎？	Shall we look for a hot spring nearby?	근처에 있는 온천, 찾아볼래?
 10194	"想像したら
-入りたくなってきたわぁ"
+入りたくなってきたわぁ"	"一想像後
+就也想進去看看了。"	Thinking about it makes me want to go.	"상상해보니
+들어가 보고 싶어졌다"
 10195	"ひと手間ですっごく
-おいしくなったりするんだよねー"
+おいしくなったりするんだよねー"	"只要多一點點步驟
+就會變得更好吃呢──"	"With a little effort, it'll be
+absolutely delicious."	"조금만 신경 쓰면 진짜
+맛있어지기도 하지~"
 10196	"ラー油とかハチミツとかな
-今度試してみるか"
-10197	道具が増えるとワクワクするよね
-10198	それ　どうやって使うん？
+今度試してみるか"	"下次來試試看
+加一點辣油或蜂蜜調味好了。"	"Like chili oil or honey...
+I'll try those next time."	"라유나 꿀 정도려나
+다음에 한번 써볼까"
+10197	道具が増えるとワクワクするよね	道具變多真的很令人興奮耶。	Buying more tools is so exciting.	도구가 늘어나면 마음이 설레어
+10198	それ　どうやって使うん？	那個要怎麼用啊？	How do I use this again?	그거, 우예 쓰는 기가?
 10199	"おい　う　後ろ…！！
-なんてなー"
+なんてなー"	"喂，妳、妳背後……！！
+騙妳的──"	"Oh my god, behind you!
+Just kidding."	"야, 뒤, 뒤에…!!
+막 이래~"
 10200	"信じるものは救われる　だよ
-リンちゃん"
+リンちゃん"	"凡事都是誠信者才有回報喔
+小凜。"	"Those who believe will be
+saved, Rin-chan."	"""믿는 자는 구원을 받으리라""야
+린"
 10201	"わあー　飲む飲む！！
 えへへ
-ティータイムだねっ"
+ティータイムだねっ"	"哇──我要喝我要喝！！
+耶嘿嘿
+是下午茶時光耶。"	"Yay, I'll have a cup!
+Hehehe.
+Tea time!"	"와아~ 마실래 마실래!!
+에헤헤
+티타임이네"
 10202	"いいねー
 チョコシロップ入れて
-カフェモカにしようかな"
-10203	
+カフェモカにしようかな"	"不錯耶──
+來加一些巧克力醬
+做成咖啡摩卡好了。"	"Looks good.
+Should I add chocolate syrup
+to make a mocha?"	"좋다~
+초코 시럽을 넣어
+카페모카를 만들까"
+10203				
 10204	"ありがとう　リンちゃん
-一緒に過ごせて嬉しいよ"
+一緒に過ごせて嬉しいよ"	"小凜謝謝妳
+我很高興能跟妳一起渡過喔。"	"Thanks, Rin-chan!
+It was fun hanging out together."	"고마워 린
+함께할 수 있어서 기뻐"
 10205	"よせやい　照れるだろ
-ま　ありがとな"
+ま　ありがとな"	"別啦，我會害羞耶
+不過還是謝啦。"	"Don't be shy!
+Thanks, though."	"그러지 마, 쑥스럽잖아
+뭐어, 고마워"
 10206	"ありがとう　なでしこちゃんと
 二人分
-みんなでお祝いしてな"
+みんなでお祝いしてな"	"謝謝妳。和小撫子
+一起的兩人份，
+大家一起來慶祝吧。"	"Thanks, Nadeshiko-chan.
+Let's celebrate enough for everyone."	"고맙데이, 나데시코하고
+두 명 몫으로
+다 같이 축하하재이"
 10207	"本当！？
 じゃあ　新しいデザインに
-挑戦してみるよ"
-10208	うん　今年もよろしくお願いしますー
-10209	いい年になるとええなあ
+挑戦してみるよ"	"真的嗎！？
+那我就來挑戰看看
+新的設計案吧。"	"Really?!
+Then I'll try making a new design."	"정말!?
+그럼 새로운 디자인에
+도전해 볼게"
+10208	うん　今年もよろしくお願いしますー	嗯，今年也請妳多指教喔──	I look forward to the coming year too.	응, 올해도 잘 부탁드립니다~
+10209	いい年になるとええなあ	希望今年會是個好年呢。	I hope this will be a good year.	좋은 한 해가 되면 좋겠데이
 10210	"ちゃんと用意してあるよ
-はい　あげる！！"
+はい　あげる！！"	"我有做好準備喔
+來，這給妳！！"	"I came prepared!
+Here, for you!"	"제대로 준비해뒀어
+자, 줄게!!"
 10211	"あたしからもやるよ
-…お返し楽しみだなー"
+…お返し楽しみだなー"	"那我也給妳吧
+……回禮我很期待喔──"	"Here's one from me. I'm looking
+forward to your return gift!"	"나도 줄게
+…보답이 기대되네~"
 10212	"リンちゃん
-一緒に行こう！！"
-10213	お菓子はいつでも募集中やでー
+一緒に行こう！！"	"小凜
+我們一起走吧！！"	Rin-chan, let's go together!	"린
+같이 가자!!"
+10213	お菓子はいつでも募集中やでー	隨時都在募集零食喔──	I'm always looking for sweets.	과자는 언제든지 모집 중이래이~
 10214	"三倍と言わず
-十倍返しでもいいぞ！！"
+十倍返しでもいいぞ！！"	"別說三倍奉還，
+就算是十倍我也收哦！！"	"You say three times... But you are
+free to give me back ten times too!"	"3배 말고
+10배로 갚아줘도 돼!!"
 10215	"じゃあ私は　本を読んでる
-リンにいたずらしようかな"
+リンにいたずらしようかな"	"那我就來對
+在看書的凜惡作劇吧。"	"I should play a prank on Rin who's
+immersed in her book right now."	"그럼 나는 책 읽고 있는
+린에게 장난을 쳐볼까"
 10216	"も　もしかして…
-怖い本？"
+怖い本？"	"該、該不會是……
+可怕的書？"	"I-Is that...
+A scary book?"	"호, 혹시…
+무서운 책이야?"
 10217	"あたしも新アイテム用意したぜ！
-早く使いたいなー"
+早く使いたいなー"	"我也準備了新的道具喔！
+好想快點用用看喔──"	"I also have a new item prepared!
+I can't wait to use it."	"나도 새로운 아이템을 준비했다고!
+빨리 써보고 싶다~"
 10218	"クリキャン楽しいもん
-気持ちわかるよ～"
+気持ちわかるよ～"	"聖誕露營很開心啊，
+妳的心情我懂喔～～"	"Christmas camping was really fun,
+so I understand completely."	"크리스마스 캠핑은 재밌는걸
+그 마음 이해돼~"
 10219	"一味違うクリスマスって
-やつやな"
+やつやな"	"是一個別有風味的
+聖誕節哪。"	"It's a slightly different kind of
+Christmas."	"한층 다른 크리스마스
+아이겠나~"
 10220	"初日の出！！
-よーし寝る準備だっ"
-10221	ついつい夜更かししちゃうよね
-10222	祭りがあたしを呼んでる…！
+よーし寝る準備だっ"	"是元旦的日出！！
+好啦──準備睡覺了。"	"It's the first sunrise of the year!
+Alright, now I'm ready to sleep."	"새해 첫 해돋이!!
+좋아~ 잘 준비해야지!"
+10221	ついつい夜更かししちゃうよね	忍不住就熬夜了呢。	I can't help staying up late.	나도 모르게 밤을 새우게 돼
+10222	祭りがあたしを呼んでる…！	祭典在呼喚我了……！	The festival is calling me!	축제가 나를 부른다…!
 10223	"楽しそうやなぁ
-行ってみよか"
+行ってみよか"	"感覺很有趣耶，
+那就去看看吧。"	"Sounds fun.
+Let's go!"	"재미나 보인다
+갔다 와보까"
 10224	"あっという間だねえ
 これからもいっぱい
-キャンプしたいな"
+キャンプしたいな"	"時間過得好快喔
+希望我們以後
+也能常常來露營喔。"	"It all passed by so quickly.
+I hope I can camp a lot more."	"순식간에 지나갔네
+앞으로도 잔뜩
+캠핑해 보고 싶어"
 10225	"なんか　いつもより大人に
 見えるな…まさか　未来の
-しまりん…！？"
+しまりん…！？"	"總覺得她看起來
+比平常還要成熟耶……
+難道她是未來的志摩凜……！？"	"You seem more mature than usual...
+Could you be the Shimarin of the future?!"	"어쩐지 평소보다 어른처럼
+보이는데… 설마 미래의
+시마린…!?"
 10226	"もうちょっとしたら
-散策にでも　行こかー"
+散策にでも　行こかー"	"再等一下
+就去附近散個步吧──"	Maybe I'll go for a walk in a bit.	"쪼매 더 있다가
+산책이나 갔다오까~"
 10227	"それじゃ
-おやつとお茶の準備をするね"
+おやつとお茶の準備をするね"	"那麼
+我來準備泡茶跟茶點喔。"	"Alright. I'm going to prepare
+some snacks and tea."	"그럼
+간식과 차를 준비할게"
 10228	"それ　めちゃくちゃ
-揺れそうだな…"
+揺れそうだな…"	"那個，感覺好像
+會晃得很厲害啊……"	Looks very swingable.	"그러면 엄청나게
+흔들릴 것 같은데…"
 10229	"波の音を聞きながら
 ゆーらゆら…
-気持ちよさそうだね"
+気持ちよさそうだね"	"聽著海浪的聲音
+搖──來晃去……
+好像很舒服耶。"	"Listening to the sounds of waves
+is just so soothing..."	"파도 소리를 들으며
+흔들흔들~
+기분 좋을 거 같아"
 10230	"ゆらゆらするの
-いいよねえ"
+いいよねえ"	"像這樣搖來搖去的
+真不錯耶。"	The swaying is nice.	"흔들거리는 거
+좋지~"
 10231	"木とかに
-結びつけるんだよな"
+結びつけるんだよな"	"這應該
+能綁在樹上吧。"	Tie it to a tree or something.	"나무 같은 데에
+묶는 거였지"
 10232	"ハンモックでお昼寝…
-キャンプって感じだね"
+キャンプって感じだね"	"在吊床上睡午覺……
+這很有露營的感覺耶。"	"Napping in a hammock...
+Sounds like a camp thing."	"해먹에서 낮잠…
+딱 캠핑이라는 느낌이네~"
 10233	"ずっとそこに
-居てまいそうやー"
+居てまいそうやー"	"讓人好想一直
+待在這裡喔──"	I guess I'll just stay here forever.	"계속 그곳에
+있을 수 없을 거 같은데~"
 10234	"ほな　私の考えた
 最強キャンプとの勝負…
-はじめるでー！"
+はじめるでー！"	"那麼，跟我想像中
+最強露營的勝負……
+現在正式開始──！"	"The best camping trip you can
+think of contest... Start!"	"그라모, 내가 생각한
+최강 캠핑과의 승부…
+시작한데이~!"
 10235	"野クルの部長である
 あきちゃんの考え…
-じっくり聞かせてもらうよ！"
+じっくり聞かせてもらうよ！"	"那就讓我仔細聽聽
+身為野活組社長……
+小明妳的想法吧！"	"What the captain of Outclub thinks?
+I'm listening!"	"야클 부장인
+아키의 생각이라…
+천천히 들어보겠어!"
 10236	"ウッドキャンドル
-やりたいなー"
-10237	薪　持ってくるよ
+やりたいなー"	"好想來做做看
+木頭蠟燭耶。"	I want to try a Swedish torch.	"우드 캔들
+해보고 싶다~"
+10237	薪　持ってくるよ	我再搬一些木柴過來。	I'll bring the firewood.	땔감 가져올게
 10238	"おおっ
 どんな料理になるのか
-楽しみにしてるよーっ"
+楽しみにしてるよーっ"	"哦哦
+會變成怎麼樣的料理呢
+我好期待喔──"	"Oooh, I wonder what kind of food
+it will be. I'm excited!"	"오오
+어떤 요리가 될지
+기대할게~"
 10239	"アシスタントが
 必要な時は
-声かけてなー"
+声かけてなー"	"等妳需要人
+幫忙的時候，
+再叫我一聲啊──"	"If you need someone to assist,
+just call loudly."	"어시스턴트가
+필요할 때는
+말해라~"
 10240	"はーい　行く行く！
-連れてってー"
+連れてってー"	"要──我要去我要去！
+帶我一起去──"	"Me! I want to go!
+Take me!"	"저요~ 나도 갈래!
+데려가 줘~"
 10241	"私も行きたい！
-で　帰りにアイス食べへん？"
+で　帰りにアイス食べへん？"	"我也想去！！
+然後啊，回程路上要不要吃冰淇淋？"	"I want to go too! Shall we have ice
+cream on the way back?"	"나도 가고 싶데이!
+갔다 오면서 아이스크림 무까?"
 10242	"大げさな…
 まあ　夜更かしするなら
-ほどほどに…な"
+ほどほどに…な"	"也太誇張了……
+算了，就算要熬夜
+也不要太過頭喔……"	"You're exaggerating.
+If you want to stay up, don't
+stay up too late."	"뭘 거창하게 그래…
+뭐, 밤 새울 생각이면
+적당히 새라구…"
 10243	"夜更かしするなら
 付き合うよー
-静かに　おしゃべりしよう"
+静かに　おしゃべりしよう"	"要熬夜的話
+我陪妳喔──
+我們小聲聊天吧。"	"If you're staying up, I'll keep you
+company. We can chat quietly."	"밤을 새울 거면
+같이 샐게~
+조용히 수다 떨자"
 10244	"楽しそうやなぁ
 けど　足すべらせんように
-気をつけな　あかんで"
+気をつけな　あかんで"	"好像很好玩耶。
+但是要小心
+別滑倒了喔。"	"Looks like fun, but you better
+take care not to slip."	"재미나 보인데이
+그케도 발 안 미끄러지게
+조심해야 된데이"
 10245	"怪我しないように
-みんなで気をつけあおう"
+みんなで気をつけあおう"	"大家要小心
+別受傷了喔。"	"Be careful. Make sure you don't
+hurt yourselves."	"다치지 않도록
+모두 조심하자"
 10246	"みんなの心配を
 してくれるなんて
-さすがです　ぶちょー！"
+さすがです　ぶちょー！"	"會這樣子
+擔心其他人
+真不愧是社長呢──！"	"It's amazing how you can look after
+everyone, Captain!"	"멤버 모두를
+걱정해 주다니
+역시 부장이야~!"
 10247	"いろんな種類があるんだな
-ひとつ　もらっとくよ"
+ひとつ　もらっとくよ"	"有很多不同的種類呢
+那我就拿一個啦。"	"There are all sorts of different ones.
+Here, I'll give you one."	"여러 종류가 있구나
+하나 가져갈게"
 10248	"フライパンでやーいたー
-クッキー　だよー♪"
+クッキー　だよー♪"	"這是我用平底鍋
+烤出來的餅乾喔──♪"	"I made this with a frying pan.
+It's a cookie! ♪"	"프라이팬으로 구운~
+쿠키야~♪"
 10249	"つーめたーい
-紅茶も　めーしあーがれー♪"
+紅茶も　めーしあーがれー♪"	"請──用──
+冰──紅茶──喔──♪"	"So cold!
+Thanks for the iced tea! ♪"	"차~가~운
+홍차도 드~세~요~♪"
 10250	"おぉ…　暑い中での
-この冷たさ　ありがたい…！"
+この冷たさ　ありがたい…！"	"哦哦……在這麼熱的時候
+這份冰涼感真是太舒服了……！"	"Oooh... This coldness is heaven-sent
+in this heat!"	"오오… 더위 속의 이 시원함
+고마울 지경인데…!"
 10251	"おぉー　これ
 今話題の新商品やん
-ありがとうなぁ"
+ありがとうなぁ"	"哦哦──這個不就是
+現在最有話題的新商品嗎。
+謝謝妳啊。"	"Ooh, this is the hot, new item.
+Thanks!"	"오오~ 이거
+지금 화제인 신상품이잖어
+고맙데이"
 10252	"ふっふっふ
 小腹が空いたから
-焼肉してるんだ"
+焼肉してるんだ"	"呵呵呵
+因為我肚子有點餓
+所以在烤肉喔。"	"Hehehe.
+I'm feeling a bit peckish,
+so yakiniku for me."	"후후훗
+살짝 출출해서
+고기 좀 구웠어"
 10253	"千明も
-好きな肉を焼いていいぞ"
+好きな肉を焼いていいぞ"	"千明妳也可以
+烤妳喜歡的肉喔。"	"Chiaki, you can grill whatever
+you want too."	"치아키도
+원하는 고기를 구워도 돼"
 10254	"時折吹く　涼しい風が
-そう思わせるんかもなぁ"
+そう思わせるんかもなぁ"	"可能是因為偶爾吹來的涼風
+讓我這樣想的吧。"	"You'd think so with the occasional
+breeze."	"때때로 부는 선선한 바람 때문에
+그렇게 생각할지도 모른다"
 10255	"なんだか
 センチメンタルな気分にも
-なっちゃうよねー"
+なっちゃうよねー"	"總覺得啊
+變得有點感傷的情緒了呢。"	It feels somehow sentimental...	"왠지 모르게
+센티멘탈한 기분이 드는 거 있지"
 10256	"じゃあ　あきのために
 みんなで幽霊とか妖怪に
-変身しよかー"
+変身しよかー"	"那就當是為了小明，
+大家一起裝扮成
+幽靈或妖怪吧──"	"Let's do this for Aki. We'll all
+dress up as ghosts and stuff."	"그라모 아키를 위해
+다 같이 유령이라든가 요괴로
+변신해 보까~"
 10257	"寝られなくなるほど
 たっぷり
-ビビらせてやろう"
-10258	肝試し　ダメ　絶対！！
-10259	怪談とかもいいんじゃない？
+ビビらせてやろう"	"來好好地
+嚇嚇她們吧
+怕到不敢睡的程度。"	I'll scare you so much you can't sleep.	"잠이 안 올 정도로
+잔뜩
+쫄게 만들어주마~"
+10258	肝試し　ダメ　絶対！！	試膽、不行、絕對！！	Courage tests are a huge no!	담력 시험! 안 돼! 절대!!
+10259	怪談とかもいいんじゃない？	鬼故事什麼的也不錯啊？	Ghost stories are fun, right?	괴담 같은 것도 괜찮지 않아?
 10260	"ねえねえ
 星座を見つけてみない？
-いいアプリがあるんだよー"
+いいアプリがあるんだよー"	"欸欸，要不要
+來找星座啊？
+我剛好有不錯用的程式喔──"	"Hey, want to try finding
+constellations? I have an app for it."	"있잖아
+별자리 찾아볼래?
+좋은 앱이 있어~"
 10261	"…あっ　流れ星だっ
 みんなでキャンプ！
-いっぱいキャンプ…！"
+いっぱいキャンプ…！"	"……啊，是流星
+要跟大家一起露營！
+要去更多地方露營……！"	"Oh, a shooting star!
+I want to camp with everyone!
+I want to camp lots!"	"…앗, 별똥별이다!
+다 같이 캠핑하기를!
+잔뜩 캠핑하기를…!"
 10262	"はーい
-じゃんじゃん　割ろう"
+じゃんじゃん　割ろう"	"好的──
+繼續多砍一點吧。"	"Here you go.
+Ta-da! All chopped."	"네~
+팍팍 쪼개야지~"
 10263	"みんなでやれば
 あっという間に
-終わりそうだね"
+終わりそうだね"	"欸欸，要不要
+來找星座啊？
+我剛好有不錯用的程式喔──"	"Hey, want to try finding
+constellations? I have an app for it."	"있잖아
+별자리 찾아볼래?
+좋은 앱이 있어~"
 10264	"飛び散るから
-周り気をつけてな"
-10265	手伝うでー
+周り気をつけてな"	"這會到處噴
+在旁邊要小心喔。"	It'll go everywhere, so be careful.	"사방에 흩날리니까
+주위를 조심해"
+10265	手伝うでー	我也來幫忙──	I'll help.	내도 도와주께
 10266	"種類がたくさんあるみたいやし
-いろいろ試してみたいわぁ"
+いろいろ試してみたいわぁ"	"有好多好多種類耶，
+想要各種都來試試看呢。"	"There are a lot of different kinds.
+I want to try them all."	"종류가 많은 거 같으니
+여러 가지 시도해보고 싶다"
 10267	"香りに癒されるな
-…おかわり　ある？"
+…おかわり　ある？"	"這香氣好療癒喔
+……我可以續碗嗎？"	"The aroma heals my soul...
+Is there any more?"	"향기에 치유되는걸
+…한 잔 더 괜찮을까?"
 10268	"わかった
-おいもさんやろ"
+おいもさんやろ"	"我知道了，
+是地瓜對吧。"	"I know.
+I'll have sweet potato."	"알았데이
+고구마 말이제?"
 10269	"ほっくほくに
-仕上がってるといいねー"
+仕上がってるといいねー"	"要是可以
+弄得剛好又鬆又軟就好了──"	I hope it's roasted nicely!	"먹음직스럽게
+완성되면 좋겠다~"
 10270	"意外といい本揃ってるから
-今度　図書室に来てみれば？"
+今度　図書室に来てみれば？"	"其實意外地有不少好書呢
+下次要不要來圖書館看看？"	"There are a lot of really good books.
+Why not check them out at the library
+next time?"	"의외로 좋은 책들이 갖춰져 있으니
+다음에 도서실에 와보는 건 어때?"
 10271	"うんうん　いいんじゃないかな
-読書のあき…　ちゃんだね？"
+読書のあき…　ちゃんだね？"	"嗯嗯，我覺得很不錯啊。
+讀書之……小明？"	"Mhm, looks good.
+It's the Aki the...academic, I guess?"	"응 응, 괜찮지 않을까?
+독서의 가을… 이잖아?"
 10272	"ふっくらツヤツヤ
 おこめが　かがやいてる
-やつだね"
+やつだね"	"圓潤飽滿晶瑩剔透
+米飯散發出光芒
+就是指這個呢。"	"It's plump and glossy.
+The rice looks like it's sparkling."	"몽실몽실 반들반들
+반짝이는
+쌀이네"
 10273	"これは…　ついつい
-食べ過ぎちゃいそうだな"
-10274	ずーっと眺めてたくなるなぁ
+食べ過ぎちゃいそうだな"	"這個……好像會讓人一不小心
+就吃太多了呢。"	"Oh my god... I think I'm going
+to eat too much."	"이건… 나도 모르게
+과식해버릴 거 같아"
+10274	ずーっと眺めてたくなるなぁ	讓人好想一～～直看下去喔。	I want to keep staring at it.	계속 바라보고 싶어진데이
 10275	"空の色が変わっていくのって
-神秘的だよね"
+神秘的だよね"	"天空逐漸變化的顏色，
+看起來好有神秘色彩喔。"	"The changing colors of the sky looks
+pretty magical, right?"	"하늘 색이 변해가는 풍경이
+왠지 신비로워"
 10276	"寒暖差があるから
-気をつけないとな"
+気をつけないとな"	"溫差挺大的
+得注意一下喔。"	"The temperature will drop,
+so I should be prepared."	"일교차가 있으니까
+조심해야 해"
 10277	"余分にブランケット
-持ってきたから　使ってね"
+持ってきたから　使ってね"	"我有多帶毛毯過來喔，
+拿去用吧。"	"I brought an extra blanket,
+feel free to use it."	"남는 블랭킷도
+가져왔으니까 편하게 써"
 10278	"もしよかったら　貸すよー
-遠慮しないで　言ってね"
+遠慮しないで　言ってね"	"如果不在意的話我可以借妳喔──
+不要客氣喔。"	"If you want, I can lend it to you.
+Don't be shy and just let me know."	"괜찮다면 내 거 빌려줄게~
+사양할 필요 없어!"
 10279	"さっき　リュックのポケットに
 入れてた気ぃするから
-見てみー"
+見てみー"	"剛剛好像記得有放到
+背包的口袋裡面。
+妳看一下──"	"I think I just put it into my backpack.
+Let's check..."	"아까 배낭 주머니에
+넣은 거 같은데
+살펴볼게~"
 10280	"薪が…
-朝露に濡れてる…だと…？"
+朝露に濡れてる…だと…？"	"木柴……
+竟然被露水弄濕了……？"	"The firewood...
+It's wet with morning dew?"	"장작이…
+아침 이슬에 젖었… 다고…?"
 10281	"細かく割って
-できるだけ　乾かそう！"
+できるだけ　乾かそう！"	"把它切細切碎
+然後盡可能曬乾！"	"Break it up, and dry it as much as
+possible!"	"가늘게 쪼개고
+최대한 바짝 말리자!"
 10282	"もうちょっとだけ
-このまま…スヤァ…"
+このまま…スヤァ…"	"再一下下
+保持這樣……呼嚕……"	"Just going to stay up a bit more...
+Zzz..."	"조금만 더
+이대로… 쿠울…"
 10283	"それが人間の
-サガっちゅーもんやな"
+サガっちゅーもんやな"	"這個就是
+人的本性嘛。"	That's the saga of the humans...	"그게 인간의
+본성이라는 기다"
 10284	"キャンプファイヤーに
-ならんようになー"
+ならんようになー"	"要注意不要變成
+營火喔──"	I hope this catches fire.	"캠프파이어가
+되지 않게 조심하래이~"
 10285	"安定した炎を育てるのも
 焚き火の醍醐味…って
-雑誌に書いてあったっけ"
+雑誌に書いてあったっけ"	"搭建出可以穩定燃燒
+的篝火也是一種樂趣……
+沒啦，雜誌上寫的啦。"	"I read in a magazine that raising
+a stable campfire is one of the pleasures
+of camping."	"안정된 불꽃을 만드는 것도
+모닥불의 묘미… 라고
+잡지에 쓰여있었지"
 10286	"へぇ　さまになってるな
-…明日の分まで　頼むぞ"
+…明日の分まで　頼むぞ"	"嘿，還挺不賴的嘛
+……那明天的分也拜託妳囉。"	"Hey, that looks better than I thought.
+I'm relying on this for tomorrow."	"오, 각이 잘 잡혀있네
+…내일 몫까지 부탁해"
 10287	"はいはーい
-あきちゃん　私も手伝うよ！"
+あきちゃん　私も手伝うよ！"	"我來我來──
+小明，我也會幫忙喔！"	"Me!
+I'll help out, Aki-chan!"	"네, 네~
+아키, 나도 도와줄게!"
 10288	"顔が乾燥するから
-これ　塗ったほうがいいぞ"
-10289	足が根張りそうやあ
-10290	持って歩ければいいのにねえ
-10291	焚き火はキャンプの醍醐味だね
+これ　塗ったほうがいいぞ"	"臉會變得很乾燥
+塗一些這個會比較好喔。"	"It will dry out your face,
+so use this."	"얼굴이 건조해지니까
+이걸 바르는 게 좋을 거야"
+10289	足が根張りそうやあ	都開始想在這裡住下來了呢。	I can't move.	발이 꿈쩍도 안 할 기 같다
+10290	持って歩ければいいのにねえ	要是可以帶著走就好了呢。	I wish I could carry it around.	들고 다닐 수 있으면 좋을 텐데
+10291	焚き火はキャンプの醍醐味だね	升營火才是露營的樂趣呢。	Campfires are the best part of camping.	모닥불은 캠핑의 진미구나
 10292	"どうぞどうぞー
-暗くなってきたから　気をつけてね"
+暗くなってきたから　気をつけてね"	"請吧請吧──
+現在天色變暗了，要小心一點喔。"	"Take it, take it!
+It's getting dark so you need to
+be careful."	"마음껏 쓰세요~
+어두워졌으니 조심해"
 10293	"ヘッドライトもあるけど
-よかったら使う？"
-10294	ゆっくりＵＦＯだ！
+よかったら使う？"	"我還有頭燈喔，
+妳要用嗎？"	"I have a headlight too.
+Feel free to use it."	"헤드라이트도 있긴 한데
+괜찮으면 이거 쓸래?"
+10294	ゆっくりＵＦＯだ！	是慢吞吞飛碟！	A laid-back UFO!	느긋한 UFO다!
 10295	"たぶんだけど
-人工衛星だろ"
+人工衛星だろ"	"我猜可能是
+人工衛星吧。"	"I'm not sure, but I think it's
+just a satellite."	"내 추측이지만
+인공위성이겠지"
 10296	"おいしかったねー
-ぽっかぽか　あったまったよ"
+ぽっかぽか　あったまったよ"	"很好吃耶──
+熱騰騰的，身子都暖起來了。"	"It was so good.
+It warmed me right up."	"맛있었어~
+몸도 따끈따끈해졌어"
 10297	"まだ終わりじゃないで！
-今日の〆はなんと…お餅やー！"
+今日の〆はなんと…お餅やー！"	"還沒完呢！
+今天的收尾……是年糕喔──！"	"We're not done yet! To use up
+the sauce, we have...mochi!"	"아직 안 끝났다!
+오늘의 마무리는 바로바로… 떡이데이!"
 10298	"気になっとるのがあるで
 こないだ見た
-雑誌に載ってて…"
+雑誌に載ってて…"	"有個讓我很在意的。
+前陣子
+刊在雜誌上的啊……"	"I saw something I was interested
+in the other day in a magazine..."	"관심 가는 거 하나 있대이
+지난번에 봤던
+잡지에 실린 긴데…"
 10299	"なになに
-気になるー教えて教えて！"
+気になるー教えて教えて！"	"什麼什麼
+很讓人在意耶──跟我說跟我說！"	"What is it?
+Tell me! I want to know!"	"뭐야 뭐야~
+궁금해~ 알려줘 알려줘!"
 10300	"やればやるほど
 いろんなところで
-キャンプしてみたくなるよな"
+キャンプしてみたくなるよな"	"露營過幾次後啊
+反而會更想
+到更多地方去露營呢。"	"The more I camp, the more places
+I want to go."	"하면 할수록
+다양한 곳에서
+캠핑해보고 싶어지는걸"
 10301	"いつか
 全世界を股にかけて
-キャンプしてみたいものだね"
+キャンプしてみたいものだね"	"總有一天
+想要到世界各地
+去露營看看呢。"	"Someday, I want to travel around the
+world and go camping."	"언젠가
+전 세계를 돌아다니며
+캠핑해 보고 싶어"
 10302	"わぁー！
-試飲させてほしいなー"
+試飲させてほしいなー"	"哇──！
+好想試喝看看喔──"	Wow! I want to taste it!	"와아~!
+나도 시음해 보고 싶어~"
 10303	"私もー
-ちょうど喉乾いてたんだ"
+ちょうど喉乾いてたんだ"	"剛好──
+我也有點口渴了。"	"For me too, please.
+I was just getting thirsty."	"나도~
+마침 목이 말랐어"
 10304	"ありがとう！
 私も食べてもらえるのを
-楽しみにしてるよー"
+楽しみにしてるよー"	"謝謝！
+我也很期待
+能讓妳吃吃看喔──"	"Thank you! I'm looking forward to
+eating this!"	"고마워!
+나도 맛있게 먹어주는 모습
+기대하고 있을게~"
 10305	"ありがとう
 千明のことも
-実は　頼りにしてんだぞ"
+実は　頼りにしてんだぞ"	"謝謝妳。
+其實我也很
+依賴千明的幫忙喔。"	"Thanks.
+You've been a great help, too,
+Chiaki."	"고마워
+실은 나도
+치아키를 믿고 있었어"
 10306	"ありがとう
 祝ってくれて　嬉しいわぁ
-みんなで切り分けて　食べよか"
+みんなで切り分けて　食べよか"	"謝謝，
+很高興能幫我慶祝呢。
+大家一起切來吃吧。"	"Thank you!
+I'm happy you're celebrating with
+me. Let's cut the cake!"	"고맙데이
+축하해줘서 기쁘다
+다 같이 노나묵자"
 10307	"どれどれ…
 『本日の主役』だって！
-あははー　ありがとう！"
+あははー　ありがとう！"	"我看看喔……
+竟然是『今天的主角』耶！
+啊哈哈──謝謝啦！"	"Let's see what it is...
+""Today's Leading Role""!
+Ahaha, thanks!"	"어디 보자…
+""오늘의 주역""이래!
+아하하~ 고마워!"
 10308	"せやな
 キャンプ運に恵まれるように…
-って　初詣でお願いしよか"
+って　初詣でお願いしよか"	"對了，
+去新年參拜的時候……
+就許希望露營的運氣能變好吧。"	"Yup. I hope we're blessed with lots
+of camping... Maybe I should go
+ask for that at the shrine?"	"그렇제
+캠핑 운이 좋기를…
+라고 첫 참배 때 기도해 보재이"
 10309	"今年は
 どんなキャンプができるかな？
-たのしみだねぃ"
+たのしみだねぃ"	"今年啊
+不知道能去怎麼樣的露營耶？
+好讓人期待喔。"	"I wonder what kind of camping I'll
+do this year? I can't wait."	"올해는
+어떤 캠핑을 할 수 있을까?
+기대돼~"
 10310	"板チョコを溶かして
 パンとカットフルーツにつけて
-チョコフォンデュしよう！"
+チョコフォンデュしよう！"	"把巧克力融化，
+然後準備麵包跟水果切片，
+就可以吃巧克力鍋囉！"	"Melt the chocolate, cut up bread and
+fruit, and now we have our chocolate
+fondue!"	"판초콜릿을 녹여서
+빵과 자른 과일에 묻히고
+초코 퐁듀로 먹자!"
 10311	"私は懐かしい感じの
-コインチョコを配るよ"
+コインチョコを配るよ"	"我打算發會讓人
+覺得懷念的金幣巧克力。"	"I'll give out these nostalgic
+coin chocolates."	"나는 그리운 느낌이 드는
+동전 초콜릿을 나눠줄게"
 10312	"…とりあえず
 スマホの待ち受けを
-富士山にしてみるか"
+富士山にしてみるか"	"……總之啊
+智慧手機的待機畫面
+就先放富士山好了。"	"For now, I'll just put this picture
+of Mount Fuji as my wallpaper."	"…일단
+스마트폰 대기 화면을
+후지산으로 해볼까"
 10313	"みんなが
 ふじさんへの愛を
-再確認する日なんだよー"
+再確認する日なんだよー"	"這是個讓大家
+再度確認對富士山的愛
+的日子唷──"	"Today is for reaffirming your love
+for Mount Fuji!"	"모두가
+후지산을 향한 사랑을
+다시 확인하는 날이야~"
 10314	"ピザシートの上に
 チョコソースを塗って
-マシュマロをのせて焼こう！"
+マシュマロをのせて焼こう！"	"在披薩餅皮上
+塗滿巧克力醬
+再放棉花糖後拿去烤！"	"I'm going to spread chocolate sauce
+on this pizza dough and sprinkle
+it with marshmallows!"	"피자 생지 위에
+초코 소스를 바르고
+마시멜로를 올려서 굽자!"
 10315	"あったかいココアに浮かべると
-ふわふわ幸せの味だよねー"
+ふわふわ幸せの味だよねー"	"把這放到熱可可上
+那可是能讓人飄浮起來的幸福口味啊──"	"If you put it in hot chocolate, it
+tastes like fluffy happiness."	"따뜻한 코코아에 띄웠더니
+폭신폭신한 행복의 맛이 느껴져~"
 10316	"ちゃんと用意しとるでー
 はい　アメちゃん
-みんなも　食べてなー"
+みんなも　食べてなー"	"我有準備了喔──
+妳看，是糖果，
+大家也來吃吧──"	"I prepared lots of candy.
+Please have some, everyone."	"제대로 준비했데이
+자, 사탕이다
+니들도 무라~"
 10317	"いろんな味のグミを
 持ってきたから
-食べ比べできるぞ"
+食べ比べできるぞ"	"我帶了很多種口味
+的軟糖過來了
+可以邊吃邊比較喔。"	"I brought a lot of different gummy
+flavors. You can try them to see which
+one you like."	"다양한 맛의 젤리를
+가져왔으니
+먹으면서 비교해볼 수 있어"
 10318	"ツリー飾るの？
-…手伝うよ"
+…手伝うよ"	"妳要裝飾聖誕樹？
+……那我也來幫忙吧。"	"You want to decorate the tree?
+I can help."	"트리 장식하게?
+…도와줄게"
 10319	"あきちゃん
 気合が入ってるねぃ
-私も準備　がんばるよー"
+私も準備　がんばるよー"	"小明她
+很有幹勁呢
+我也要加油做準備囉──"	"Aki-chan is raring to go.
+Alright, I'll give it my all too!"	"아키
+기합이 들어갔네~
+나도 열심히 준비할게~"
 10320	"メリークリスマス！
-モクテル　私も飲みたいな"
+モクテル　私も飲みたいな"	"聖誕快樂！
+我也想喝無酒精調酒耶。"	"Merry Christmas!
+I'd love one of your mocktails!"	"메리 크리스마스!
+나도 무알콜 칵테일 마시고 싶다"
 10321	"クリスマスの雰囲気に
-合いそうやね"
+合いそうやね"	"好像會跟聖誕節
+的氣氛很搭呢。"	It really fits the Christmas theme.	"크리스마스 분위기에
+어울려 보인데이"
 10322	"年越しそばだね！
-天ぷらも作っちゃおう"
+天ぷらも作っちゃおう"	"是跨年蕎麥麵哦！
+我還要做一些天婦羅。"	"We have to have soba on New Year's Eve!
+I'll make tempura to go with it."	"해넘이 소바구나!
+튀김도 만들자"
 10323	"キャンプを長く楽しめるように
 …って祈りを込めての
-年越しそばやなぁ"
+年越しそばやなぁ"	"這個跨年蕎麥麵裡可是注入了
+希望能長長久久地享受
+露營樂趣的願望哦。"	"I prayed to the New Year's Ever soba...
+Please bless me with a lot of
+fun camping trips for years to come."	"캠핑을 오래 즐길 수 있기를
+…이라는 기원을 담은
+해넘이 소바다 아이가"
 10324	"ほんまや
-みんなで見に行こー"
-10325	楽しみだねー
+みんなで見に行こー"	"真的耶，
+大家一起去看吧──"	Yeah, let's all go together.	"참말이가
+다 같이 보러가재이~"
+10325	楽しみだねー	好期待喔──	I can't wait.	기대된다~
 10326	"誰に言ってるんだ？
 でもまぁ…キャンプ三昧
-楽しい一年だったよな"
+楽しい一年だったよな"	"妳以為我是誰啊？
+不過也是啦……時不時就去露營
+今年過得很開心呢。"	"You're saying that about who?
+But camping was a lot of fun
+this year."	"누구한테 하는 말이야?
+뭐 그래도… 캠핑 삼매경으로
+재밌는 일 년이었어"
 10327	"私　もっともっと
-キャンプが好きになったよ"
+キャンプが好きになったよ"	"我又更加更加
+愛上露營了耶。"	"I'm falling more and more
+in love with camping."	"나, 캠핑이
+더더욱 좋아졌어"
 10328	"ほんとだねぃ
 ひなたぼっこ
-いやされるなー"
+いやされるなー"	"真的耶
+曬太陽好舒服喔──"	"It's really true.
+Basking in the sun is healing."	"진짜네~
+일광욕, 마음까지 치유돼~"
 10329	"はあー
 リラックスして
-のんびりしようぜ"
+のんびりしようぜ"	"呼啊──
+一起放輕鬆
+悠哉一下吧。"	"Ah...
+Let's relax and take it easy."	"하아~
+마음 푹 놓고
+느긋하게 지내자고"
 10330	"どんな獣の皮だろう…
 結構な大きさが必要だよな
-…もしかして　クマとか？"
+…もしかして　クマとか？"	"這是什麼動物的皮啊……
+需要挺大一片的話
+……該不會是熊吧？"	"I wonder what kind of animal was used?
+It needs to be pretty big, so
+maybe a bear or something?"	"어떤 동물의 가죽일까…
+만들려면 꽤나 커야 할 텐데
+…설마 곰인가?"
 10331	"支柱にはマンモスの骨を
 使ってたとかって
-聞いたことある気がするよ"
+聞いたことある気がするよ"	"我好像聽說
+這些支柱裡面
+有用猛瑪象的化石喔。"	"I heard they used to use mammoth
+bones as the poles."	"버팀목으로는 매머드의
+뼈를 사용했다고
+들은 적이 있는 거 같아"
 10332	"はい　日焼け止め
-きちんと対策しないとな"
+きちんと対策しないとな"	"來，防曬乳給妳
+要確實做好防曬才行哪。"	"Here. You have to protect yourself
+properly against the sun."	"자, 자외선 차단제
+대비도 제대로 해야지"
 10333	"どんどん
-気温も上がりそうだね"
+気温も上がりそうだね"	"氣溫也開始
+漸漸升高了耶。"	It's getting warmer.	"점점
+기온도 오르는 거 같네"
 10334	"なんだろう…
 あっ　もしかして
-あんこが変わった味なの？"
+あんこが変わった味なの？"	"怎麼說呢……
+啊，該不會這裡面
+包的是很怪的餡吧？"	"I wonder what it is...
+Oh, maybe it's the red bean
+that changes the flavor?"	"뭐지…
+앗, 혹시
+팥소가 특이한 맛이야?"
 10335	"わかった！　実は
 イヌ子んちのおばあちゃんの
-手作り…　なわけないかー"
+手作り…　なわけないかー"	"我知道了！其實是
+犬子的奶奶
+親手做的……應該不可能啦──"	"I know! We can get your grandma to
+make it, Inuko! Just kidding.
+Of course not."	"알았다! 사실은
+이누코네 할머니가
+손수 만드신… 건 아니겠지~"
 10336	"今日は晩ごはん
-ちょっと多めに食べられそうかも"
+ちょっと多めに食べられそうかも"	"今天感覺晚餐
+可以吃得比平常還要多喔。"	"I think I can eat more than usual
+tonight."	"오늘은 저녁밥을 조금 더
+많이 먹을 수 있을 것 같아"
 10337	"シメの無限アレンジ
-いろいろ試せそうだねぃ"
+いろいろ試せそうだねぃ"	"收尾的無限種翻新食譜
+還有很多東西可以試試看呢。"	"Using up the remaining sauce at
+the end of a meal create infinite
+possibilities."	"마무리 무한 어레인지
+이것저것 해볼 만할 것 같아"
 10338	"ちょうどいいや
-試したい料理あるんだよ"
-10339	そろそろ夕飯の準備するか
+試したい料理あるんだよ"	"剛剛好，
+我有想試著做做看的料理喔。"	"Perfect.
+There's a dish I want to try."	"마침 잘 됐어
+시도해 보고 싶은 요리가 있거든"
+10339	そろそろ夕飯の準備するか	差不多該準備晚飯了吧。	I guess I'll start making dinner.	슬슬 저녁 식사를 준비해볼까
 10340	"まだ衣がサクサクで…
-…めちゃくちゃ…うまい…！"
+…めちゃくちゃ…うまい…！"	"麵衣炸得又酥又脆……
+……真的是有夠……好吃的啦……！"	"The batter is still crispy...
+It's so good!"	"아직 튀김옷이 바삭바삭해서…
+…진짜… 맛있어…!"
 10341	"んま～！
 この素朴な甘さが
-めちゃくちゃ　うまい！"
+めちゃくちゃ　うまい！"	"好好吃～～！
+這股天然的甜味
+真的是有夠好吃！"	"Yum! This kind of sweetness is
+really good!"	"맛있다~!
+이 소박한 단맛이
+엄청나게 좋네!"
 10342	"そう言ってもらえると
-嬉しいよ"
+嬉しいよ"	"能聽到妳那樣說
+我好高興喔。"	"Hearing you say that makes me
+happy."	"그렇게 말해주니
+기쁜걸"
 10343	"おかわり
-まだまだ　あるからな！"
+まだまだ　あるからな！"	"還有很多，
+想要多吃幾碗都可以喔！"	"Seconds!
+There's lots more left!"	"더 먹을 양도
+아직 많이 있다구!"
 10344	"いっぱい動いて
 疲れたもんねー
-私もぐっすり　眠れそうだよ"
+私もぐっすり　眠れそうだよ"	"今天活動了一整天
+應該很累了吧──
+我應該也可以睡得很沉耶。"	"I moved around a lot, so now I'm
+pooped. I think I will sleep
+really well tonight."	"잔뜩 움직였더니
+피곤해졌어~
+나도 푹 잘 수 있을 거 같아"
 10345	"ふわぁぁあ…
 ひと足お先に
-シュラフに潜り込もうかな"
-10346	行って　さっぱりしたい…！
+シュラフに潜り込もうかな"	"呼哇啊啊啊……
+那我就先一步
+鑽回睡袋裡面去啦。"	"*yawn*...
+I think I'll turn myself in early."	"후와아암…
+조금 일찍
+침낭 속에 들어갈까"
+10346	行って　さっぱりしたい…！	好想去泡溫泉洗個清爽喔……！	I want to go refresh myself!	가서 개운해지고 싶어…!
 10347	"お風呂の帰りに
-かき氷食べたいなー"
+かき氷食べたいなー"	"洗完澡回家路上啊
+會想要吃刨冰呢──"	"I want to eat shaved ice after
+a nice, hot bath."	"목욕하고 오는 길에
+빙수도 먹고 싶다~"
 10348	"おっ　賛成！
 マイナスイオンが
-出てるといいな"
+出てるといいな"	"哦，我贊成！
+要是會釋放
+負離子就好了耶。"	"Agreed!
+I hope all the toxins come out."	"오, 찬성!
+음이온이
+나오면 좋겠는데"
 10349	"タオルとサンダルと…
-うん　準備ばっちりだよ！"
+うん　準備ばっちりだよ！"	"毛巾跟拖鞋和……
+嗯，我準備好了！"	"Towel, sandals...
+I'm all ready!"	"수건하고 샌들하고…
+응, 준비는 완벽해!"
 10350	"うはー
-めっちゃうめぇ！"
+めっちゃうめぇ！"	"唔哇──
+超好吃的！"	Wow, this is way too good!	"으하~
+완전 맛있네!"
 10351	"レモンの香り…
-食べやすくて助かる"
+食べやすくて助かる"	"檸檬的香氣……
+能讓人增添食慾呢。"	"The fragrance of lemon makes eating
+much easier."	"레몬 향기…
+먹기도 편하고 좋네"
 10352	"わぁー　ありがとう！
 いろんな味があって
-迷っちゃうねぃ"
+迷っちゃうねぃ"	"哇──謝謝妳！
+有好多種口味喔
+好難選耶。"	"Yay, thanks!
+There's so many flavors, I can't
+decide!"	"와~ 고마워!
+맛이 다양해서
+고민되네~"
 10353	"あっついから　助かるよー
 私　このレモン味
-もらってもいいかな？"
+もらってもいいかな？"	"實在太熱了呢，謝謝啦──
+那我可以選
+這個檸檬口味的嗎？"	"Thanks, it's so hot out here.
+Can I get the lemon flavor?"	"마침 더웠는데 고마워~
+나는 이 레몬맛을
+가져가도 될까?"
 10354	"おっしゃー　肉　肉♪
-何焼こっかなー"
-10355	腹減ったー…
+何焼こっかなー"	"好耶，是肉肉♪
+要烤什麼好呢──"	"Alright! All the meat, meat, meat! ♪
+What should we grill?"	"으쌰~ 고기 고기♪
+뭘 구워볼까~"
+10355	腹減ったー…	肚子餓了──……	I'm hungry...	배고파…
 10356	"風が少し出てきたみたいだね
 念のため　羽織るものも
-用意しておかなくちゃ"
+用意しておかなくちゃ"	"風開始大起來了
+得準備一些可以披搭的
+以防萬一呢。"	"It looks like it's getting windier.
+I need to prepare some appropriate
+clothing."	"바람이 조금 부는 거 같아
+혹시 모르니 겉옷도
+준비해야겠어"
 10357	"これくらいの気温が
-過ごしやすいよね"
-10358	ゲームとかどうかな？
-10359	はいっ　トランプあります！！
-10360	いいよ　何する？
+過ごしやすいよね"	"這個氣溫
+待起來好舒服喔。"	"This kind of temperature is quite
+comfortable."	"이 정도 기온이
+지내기가 좋지~"
+10358	ゲームとかどうかな？	那要不要玩遊戲啊？	Want to play some games?	게임 같은 건 어때?
+10359	はいっ　トランプあります！！	有，我有帶撲克牌來！！	I have cards!	자, 트럼프가 있습니다!!
+10360	いいよ　何する？	好啊，要做什麼？	Sure, what should I do?	좋아, 뭘 할까?
 10361	"あたし　この前おもしろそうなの
-見つけたんだよ"
+見つけたんだよ"	"我啊，之前找到了
+很有趣的東西喔。"	"I found something interesting
+the other day."	"나, 지난 번에 재밌어 보이는 걸
+발견했거든"
 10362	"首が痛くならないように
 あとでみんなで
-寝っ転がって見てみない？"
+寝っ転がって見てみない？"	"等等大家要不要
+一起躺著看啊？
+這樣脖子才不會痠呢。"	"Shall we look at it together later so
+you don't strain your neck?"	"목 안 아프게 나중에
+다 같이 누워서
+올려다볼까?"
 10363	"流れ星こないかなー
 お願いしたいこと
-いっぱいあるから　頼む…！"
+いっぱいあるから　頼む…！"	"天上有沒有流星啊──
+我有好多願望想要許耶
+拜託了啦……！"	"I wonder if I will see a shooting
+star... I have tons of wishes to make!"	"별똥별 안 쏟아질까~
+빌고 싶은 소원이
+잔뜩 있으니 좀 부탁할게…!"
 10364	"紅葉がきれいだから
-写真撮りに行きたいな"
+写真撮りに行きたいな"	"現在楓葉很漂亮呢，
+好想去拍照喔。"	"The changing leaves are so beautiful.
+I want to go take some photos."	"단풍이 예뻐서
+사진 찍으러 가고 싶어"
 10365	"ちょっと遠くまで
 みんなでハイキング…
-ってのもいいな！"
-10366	じっくり料理も楽しそう
-10367	任せるよ
+ってのもいいな！"	"大家一起健行
+到遠一點的地方……
+好像也不錯呢！"	"It's a bit far, but it'd be fun to
+go hiking with everyone!"	"조금 먼 곳까지
+다 같이 하이킹…
+그것도 좋겠는데!"
+10366	じっくり料理も楽しそう	好好地來享受這些料理吧。	Slow-cooking seems fun.	여유로운 요리도 재밌겠다
+10367	任せるよ	交給妳啦。	Leave it to me.	맡겨 달라고
 10368	"だねぇ…はい　マシュマロ
 トッピングすると
-さらにおいしくなるよ！"
+さらにおいしくなるよ！"	"對啊……來
+只要加上棉花糖
+就會變得更好吃喔！"	"Right? Here, if you add this on top
+of the marshmallow, it'll be
+even more delicious!"	"그러게… 자, 마시멜로
+토핑하면
+더 맛있어질 거야!"
 10369	"はちみつを入れたり
 スパイスを足したりしても
-おいしいらしいぞ"
-10370	おぉ…これは…！
+おいしいらしいぞ"	"看是要加蜂蜜
+或是加一些香料
+都會變得更美味喔。"	"It's good even if you add honey or
+spices to it."	"꿀을 넣거나
+향신료를 더해도
+맛있다고 하더라"
+10370	おぉ…これは…！	哦哦……這個是……！	Oooh, this!	오오… 이건…!
 10371	"きのこのお出汁が出てて
-すっごくおいしいよー！"
+すっごくおいしいよー！"	"把香菇的高湯都煮出來了
+真的非常好吃喔──！"	"The juice that comes out of mushrooms
+is so delicious!"	"버섯 육수가 우러나서
+진짜 맛있어~!"
 10372	"芸術の秋ってやつかー
-あたしは写真に挑戦すっかな"
+あたしは写真に挑戦すっかな"	"原來這就是藝術之秋的含意啊──
+那我來試試看拍照好了。"	"Autumn is for art!
+Maybe I'll try photography."	"예술의 가을인가~
+나는 사진에 도전해 볼까?"
 10373	"じゃあ　私も
 スマホのアプリで
-チャレンジしてみるよー"
-10374	ほんと　きれい…！
+チャレンジしてみるよー"	"那我也拿
+手機軟體
+挑戰看看吧──"	"Then, I'll try it with the smartphone
+app."	"그럼 나도
+스마트폰 앱으로
+도전해 볼게~"
+10374	ほんと　きれい…！	真的好漂亮喔……！	So pretty!	정말 아름다워…!
 10375	"いつまでも
-眺めていたくなるよね"
+眺めていたくなるよね"	"這能讓人
+一直看下去呢。"	I can stare at this endlessly.	"그저 한없이
+바라보고 싶어져"
 10376	"渡り鳥も飛んでる…
-なんだか　一枚の絵みたいだな"
+なんだか　一枚の絵みたいだな"	"候鳥在空中飛著……
+這景色感覺好像是一幅畫喔。"	"There are some migrating birds too...
+It's like a painting."	"철새도 날고 있어…
+어쩐지 한 장의 그림 같네"
 10377	"あの形に　あの色…
 卵の黄身の醤油漬けに
-見えてきた…！"
+見えてきた…！"	"那個外型跟顏色……
+加上醬油醃蛋黃，
+我知道了……！"	"That shape and that color...
+This is no doubt yolk pickled in
+soy sauce!"	"저 모양, 저 색깔…
+달걀 노른자 간장 절임처럼
+보이기 시작했어…!"
 10378	"ホラーが定番だけど
-コメディもいいなぁ"
+コメディもいいなぁ"	"鐵板雖然是恐怖片，
+但是喜劇片也不錯耶。"	"People usually watch horror, right?
+Comedy is also good, though."	"호러가 단골이지만
+코미디도 좋네"
 10379	"ここはあえて
 ロマンチックなやつで！
-たまには　悪くないだろ"
+たまには　悪くないだろ"	"這次就特地選
+特別浪漫的吧！
+偶爾一次也不壞吧。"	"This here is pretty romantic!
+Not bad every now and then."	"여기선 오히려
+로맨틱한 걸로!
+가끔은 그래도 괜찮잖아?"
 10380	"お茶でいいなら
-たくさんあるから　飲んでー"
+たくさんあるから　飲んでー"	"要是想喝茶的話
+還有很多喔，多喝一點吧──"	"If you're fine with tea, I have
+a lot, so drink up."	"차라도 괜찮다면
+많이 있으니까 마셔~"
 10381	"大きいペットボトル
 開けちゃおうか
-…コップ　貸して"
+…コップ　貸して"	"來開大瓶的
+寶特瓶吧
+……妳的杯子給我一下。"	"I'll open the large bottle.
+Can you pass me a cup?"	"큰 페트병
+하나 딸까
+…컵 이리 줘"
 10382	"はぁー
-あったかいねぃ"
+あったかいねぃ"	哈啊──真是好地方呢──	Ahh, what a wonderful place.	우와~ 좋은 곳이네~
 10383	"しばらくこのまま
-おしゃべりしてようよ"
+おしゃべりしてようよ"	"我們一起
+聊一下天吧。"	Let's chat here like this for a while.	"잠시 이대로
+같이 얘기나 하자"
 10384	"足元から冷えてくるから
 あったかくしとくといいよね
-…私もやろうかな"
+…私もやろうかな"	"會先從腳開始變冰冷
+弄暖一點會比較舒服喔
+……我也弄一下好了。"	"It'll start getting cold from the
+feet. It's a good idea to warm them up.
+I'll do it too."	"발밑부터 차가워지니까
+따뜻하게 해두는 게 좋지
+…나도 할까"
 10385	"ふっ　あたしなんか
 三枚履きに挑戦中だ！
-…くっ　はいらない　だと…？"
+…くっ　はいらない　だと…？"	"呵，我現在啊，
+正在挑戰穿三件呢！
+……唔，竟然穿不下了……？"	"Phew, I'm trying to wear three
+layers of socks!
+Urk, I don't need to?!"	"훗, 나는
+3켤레 신기에 도전 중이다!
+…큭, 안 들어가잖아…?"
 10386	"あたしも　体中に
-張りまくってるぞ！"
+張りまくってるぞ！"	"我身上也
+貼得到處都是喔！"	I'm covered head to toe, too!	"나도 온몸에
+붙여놨다고!"
 10387	"必需品だよな
-はー　あったかい…"
+はー　あったかい…"	"這可是必需品呢
+哈啊──好溫暖喔……"	"This is definitely a necessity.
+Ah, so warm..."	"필수품이지
+하아~ 따뜻해…"
 10388	"んん～…　やさしい甘さで
 ほっこりしあわせな
-気持ちになるねぇ"
+気持ちになるねぇ"	"嗯嗯～～……溫和的甜味
+會讓心情
+感到很放鬆呢。"	"Mmm... It's subtly sweet and warm.
+Feels so relaxing."	"으음~ 부드러운 단맛 덕분에
+따끈따끈하고
+행복해"
 10389	"待ってました～！
 …冬のあったかスイーツ
-最高だー！"
-10390	たしかに！
+最高だー！"	"終於等到了～～！
+……冬天吃熱呼呼的甜點
+真是太棒啦──！"	"I've waited for this!
+Warm sweets are so good in the
+winter!"	"많이 기다리셨습니다~!
+…겨울의 따뜻한 디저트
+최고야~!"
+10390	たしかに！	有道理！	That's true!	확실히 그러네!
 10391	"この時期は
-ここが　特等席だね"
+ここが　特等席だね"	"在這個時期裡
+這裡就是特等席喔。"	"This is the VIP seat around this
+time of year."	"이런 시기에는
+여기가 특등석이지~"
 10392	"熱したスキレットに
 オリーブオイルをしいて…
-きれいな飴色にしてやるぜ！"
+きれいな飴色にしてやるぜ！"	"在燒燙燙的鑄鐵鍋上
+倒上橄欖油……
+變成漂亮的麥芽糖色了！"	"Put olive oil in the hot skillet...
+It turns into a beautiful amber color!"	"뜨거워진 스킬렛에
+올리브 오일을 두르고…
+예쁜 황갈색으로 만들어 주지!"
 10393	"辛抱強く　ていねいに炒めると
 甘さが出てくるんだよな
-じっくりやるとするか"
+じっくりやるとするか"	"花點耐心仔細地炒
+那個甜味就會跑出來喔
+來試著慢慢做看看吧。"	"Stir it gently and patiently.
+The sweetness will come out."	"참을성 있게 정성스레 볶으면
+단맛이 나는구나
+천천히 해볼까"
 10394	"そうだったのか
-マジでうまかったぞ！"
+マジでうまかったぞ！"	"是這樣喔，
+真的很好吃耶！"	"Was it really?
+It was seriously delicious!"	"그랬구나
+진짜로 맛있었어!"
 10395	"何度も食べたくなるくらい
-めちゃうまだった…！"
+めちゃうまだった…！"	"讓人想再多吃好幾次
+真的超級好吃的……！"	"No matter how many times I eat this,
+it's still delicious!"	"계속 먹고 싶어질 만큼
+진짜 맛있었어…!"
 10396	"あとでレシピ教えて
-あおいちゃん！！"
+あおいちゃん！！"	"等等教我怎麼做吧
+小葵！！"	"Aoi-chan, share your recipe with me
+later!"	"나중에 레시피 알려줘
+아오이!!"
 10397	"おいしかったよー
-私も今度作ってみようっと"
+私も今度作ってみようっと"	"真的很好吃耶──
+下次我也試著做做看吧。"	"It was really good.
+I'll try making it too."	"맛있었어~
+나도 다음에 만들어 봐야지"
 10398	"おだしがたっぷり出て
 おいしいよねぇ
-〆は雑炊がおすすめだよ！"
+〆は雑炊がおすすめだよ！"	"煮出滿滿的高湯
+味道真的很棒呢
+我推薦煮成稀飯做收尾喔！"	"There's a lot of delicious broth.
+I propose we use it up with rice!"	"국물이 진하게 우러나
+맛있지?
+마무리는 죽탕을 추천할게!"
 10399	"お魚のうまみが凝縮されてたねー
-ごちそうさまでしたー"
+ごちそうさまでしたー"	"整尾魚的精華都濃縮起來了呢──
+我吃飽了──"	"The flavor of the fish was so rich.
+Thanks for the meal!"	"생선의 감칠맛이 응축된 느낌이었지~
+잘 먹었습니다~"
 10400	"おもしろそう！
 自分の手で作り出すと
-愛着がわきそうだよね"
+愛着がわきそうだよね"	"好像很好玩耶！
+特別是自己親手做的話
+會更能投入感情呢。"	"Good idea!
+If it's handmade, it's more
+meaningful."	"재밌어 보여!
+내 손으로 만들어내면
+더 애착이 갈 것 같아"
 10401	"それなら今度
-みんなでやってみっか！"
+みんなでやってみっか！"	"既然這樣，
+下次大家一起試試看吧！"	Want to try it all together next time?	"그거라면 다음에
+다 같이 해볼까!"
 10402	"そ…そうなのか…？
-ところ変われば…だな"
+ところ変われば…だな"	"是、是這樣嗎……？
+地方不同叫法也不同哪……"	"I-Is that so?
+It has changed..."	"그… 그런가…?
+나라마다 다르긴… 하겠지"
 10403	"…騙されないぞ！
 これは　ホラ吹いてる時の
-イヌ子の目だ！"
+イヌ子の目だ！"	"……我不會上當的喔！
+犬子現在的眼神
+是她在吹牛時候的眼神！"	"Don't be fooled!
+These are how Inuko's eyes look
+when she's lying!"	"…속지 않겠어!
+이건 허풍 떨 때의
+이누코의 눈이잖아!"
 10404	"どんなところなのかな
-行ってみたくなるねぃ"
+行ってみたくなるねぃ"	"不知道是什麼樣的地方耶
+讓人好想去看看耶。"	"I wonder what kind of place it is.
+I want to go check it out."	"어떤 곳일까?
+가보고 싶어져~"
 10405	"それなら
 今度みんなで
-グルキャンしに行く？"
+グルキャンしに行く？"	"既然這樣啊
+要不要下次
+大家一起去團體露營呢？"	"Then how about we all go camping
+together next time?"	"그러면
+다음에 다 같이
+그룹 캠핑하러 갈까?"
 10406	"おめでとう　私たち
 …だね！
-ケーキ　一緒に食べようよ！"
+ケーキ　一緒に食べようよ！"	"恭喜
+……我們自己！
+一起來吃蛋糕吧！"	"Congrats to us! Right?
+Let's all eat some cake!"	"축하해!
+우리, 였지…!
+다 같이 케이크 먹자!"
 10407	"ありがとう
 こうやって祝われるの…
-照れくさいけど　嬉しいよ"
+照れくさいけど　嬉しいよ"	"謝謝妳。
+其實我也很
+依賴千明的幫忙喔。"	"Thanks.
+You've been a great help, too,
+Chiaki."	"고마워
+실은 나도
+치아키를 믿고 있었어"
 10408	"育てられた覚えはねぇ…が
 ありがとな
-プレゼント　期待してるぞ！"
+プレゼント　期待してるぞ！"	"雖然我這樣可不是妳教的……
+但是謝啦。
+禮物我會很期待哦！"	"You're not my mom.
+Thanks for the present, though!"	"키워줬던 기억은 없는데…
+아무튼 고맙다
+선물 기대할게!"
 10409	"ありがとう！
 そうだなー　じゃあケーキ
-お願いしちゃおうかな"
+お願いしちゃおうかな"	"謝謝！
+那這樣的話，
+蛋糕就拜託妳啦。"	"Thank you!
+Right, then can I ask you to
+order a cake?"	"고마워!
+그렇지~ 그럼 케이크를
+부탁해 볼까"
 10410	"あけましておめでとう
-もちろんだよー"
+もちろんだよー"	"新年快樂
+當然啦──"	"Happy new year!
+Of course!"	"새해 복 많이 받아
+물론이지~"
 10411	"さっそく
-次のキャンプ場　決めようぜ！"
+次のキャンプ場　決めようぜ！"	"那就馬上來決定
+下次要去的露營區吧！"	Let's decide on our next campsite now!	"바로
+다음 캠핑장을 정하자고!"
 10412	"ありがとう…
-うん　甘くておいしい！"
+うん　甘くておいしい！"	"謝謝妳……
+嗯，很甜很好吃喔！"	"Thanks...
+Mm, it's sweet and delicious!"	"고마워…
+응, 달고 맛있어!"
 10413	"ありがとな
 …って　何でこれだけ
-リアルな虫の形なんだ！？"
+リアルな虫の形なんだ！？"	"謝啦
+……喂，為什麼只有這個
+跟真的蟲一樣啊！？"	"Thanks...
+Ugh, why is this one so realistic?!"	"고맙다
+…근데 왜 이것만
+리얼한 곤충 모양이야!?"
 10414	"出たな　ホラ吹きイヌ子！
 今日は富士山の日だぞ
-…え　ふろしきの日でもある？"
+…え　ふろしきの日でもある？"	"愛吹牛的犬子妳現身了！
+今天可是富士山之日哦
+……咦，妳說也是包袱布之日？"	"It's you, lying Inuko!
+Today is Mount Fuji Day!
+Wait, does Furoshiki Day exist?"	"나왔군, 허풍쟁이 이누코!
+오늘은 후지산의 날이라고
+…어, 보자기의 날도 맞다고?"
 10415	"ふむふむ…
 今日はふろしきの日でもあり
-富士山の日でもあるんだって！"
+富士山の日でもあるんだって！"	"嗯嗯……
+聽說今天既是包袱布之日
+也是富士山之日哦！"	"Hmm...
+Today is Mount Fuji Day, but it's
+also Furoshiki Day!"	"흠 흠…
+오늘은 보자기의 날이자
+후지산의 날이래!"
 10416	"こちらこそだよー
-いつもありがとう"
+いつもありがとう"	"那是我要說的──
+一直以來都很謝謝妳呢。"	Same here. Thanks for everything.	"내가 할 말이야~
+언제나 고마워"
 10417	"私からも　ありがとう
 …えへへ
-なんだか　はずかしいねぃ"
+なんだか　はずかしいねぃ"	"我也要跟妳道謝喔
+……耶嘿嘿
+總覺得有點不好意思耶。"	"It's a thank you from me.
+Heheh...
+It's somehow embarrassing."	"나도 고마워
+…에헤헤
+어쩐지 쑥스럽네"
 10418	"いいねー
-どんな仮装がいいかなぁー？"
-10419	…私は　遠慮しとく
+どんな仮装がいいかなぁー？"	"好像不錯耶──
+要做什麼變裝好呢──？"	"I like it.
+Which costume would be good?"	"좋다~
+어떤 변장이 좋을까~?"
+10419	…私は　遠慮しとく	……我就算了吧。	I'm fine, thanks.	…나는 사양할게
 10420	"神様！
 どうかプレゼントが
-入ってますように…！"
+入ってますように…！"	"天公伯啊！
+請保佑裡面
+有放禮物……！"	Please, God! Send me presents!	"신이시여!
+부디 선물이
+들어있기를…!"
 10421	"たくさん入るように
 おっきい靴下を
-準備しないとだね"
+準備しないとだね"	"得準備
+很大的襪子
+這樣才裝得下很多禮物呢。"	"I bought some thick socks, so I bought
+a larger shoe size for it."	"많이 들어가도록
+커다란 양말을
+준비해야겠네"
 10422	"和と洋のあいだをとって
-中華もありじゃないか？"
+中華もありじゃないか？"	"不然取和風和洋式的中間
+中華是不是也不錯啊？"	"Is there anything in between Japanese
+cuisine and Chinese cuisine?"	"일식과 양식의 중간점으로
+중식도 좋지 않을까?"
 10423	"多国籍な料理が並ぶ
 クリスマスパーティーも
-楽しそうだねぃ"
+楽しそうだねぃ"	"桌上擺上各國料理的
+聖誕節派對
+也很有趣啊。"	"A Christmas party with food from
+all over the world sounds fun."	"다국적 요리가 함께하는
+크리스마스 파티도
+기대된다~"
 10424	"年明けの瞬間に
-ジャンプするのはどう？"
+ジャンプするのはどう？"	"要不要在跨年的瞬間
+一起用力跳起來啊？"	"Want to jump when the countdown
+reaches zero?"	"해가 바뀌는 순간에
+점프하는 건 어때?"
 10425	"カウントダウンして
-盛り上がろうよ！"
+盛り上がろうよ！"	"一起來倒數
+熱鬧一下吧！"	"Let's count down together.
+Get ready!"	"카운트다운을 세면서
+분위기 띄워보자!"
 10426	"私も気になってた…
-行ってみる？"
+行ってみる？"	"我也開始在意了……
+要不要去看看？"	"I want to find out too...
+Shall we go?"	"나도 궁금했어…
+가볼래?"
 10427	"いいねぇ
-行こう　行こう！"
+行こう　行こう！"	"不錯耶，
+走吧走吧！"	"Sounds great.
+I want to go too!"	"좋은데~
+가자, 가자!"
 10428	"だよな！　このままいけば
 10年後には　立派な
-キャンプ王になれるはず…！"
+キャンプ王になれるはず…！"	"就是啊！這樣子下去
+只要再過差不多十年左右，
+應該就會變成偉大的露營之王了……！"	"Right! At this pace, you should be a
+camping master in about ten years."	"그렇지! 이대로 가면
+10년 후에는 훌륭한
+캠핑왕이 될 수 있을 거야…!"
 10429	"キャンプ王への道…
 みんな　これからも
-一緒に歩いていこうね！"
-10430	ううーん　むにゃむにゃ…
+一緒に歩いていこうね！"	"今後大家也朝
+當上露營之王的路
+一起走下去吧！"	"The road to becoming the Camping
+King is just beginning for us!"	"캠핑왕이 되는 길…
+앞으로도 모두
+함께 걸어가자!"
+10430	ううーん　むにゃむにゃ…	唔唔──姆拿姆拿……	Nnngh...nyam...nya....	으음~ 음냐음냐…
 10431	"さっき起きたのに
-また眠たくなるなあ"
-10432	やるな　わんこ…
+また眠たくなるなあ"	"明明剛剛才睡醒，
+現在就又睏了耶。"	"I just woke up, but I feel like
+sleeping again."	"방금 일어났는데
+또 졸린데이"
+10432	やるな　わんこ…	狗狗，厲害喔……	You're good, little doggy...	멍멍이, 좀 하는데…
 10433	"じゃあ今は　ぽかぽかだーって
-思ってんだろうなー"
-10434	なんか　目で追っちゃうな
+思ってんだろうなー"	"那現在應該在想
+變得好溫暖喔──吧。"	"Now you're thinking about
+how warm it is, right?"	"그럼 지금은 따뜻하다~
+라고 생각하겠네~"
+10434	なんか　目で追っちゃうな	總覺得，會不自覺地盯著看呢。	It's staring at me.	왠지 눈으로 좇게 되네
 10435	"あっち行って　こっち行って…
-気ままなもんだ"
+気ままなもんだ"	"去那邊，再去這邊……
+還真是隨興呢。"	"I'll go here and there...
+Without a care in the world."	"이리 갔다 저리 갔다…
+제멋대로군"
 10436	"あれって
-何ていう名前なんだろ？"
-10437	自由でええなあ
-10438	あ　私も読みたーい！！
+何ていう名前なんだろ？"	"那個是
+叫什麼名字啊？"	"Huh?
+What's the name again?"	"저건
+이름이 뭘까?"
+10437	自由でええなあ	自由太棒了。	Feels so free.	자유로워가 부럽네
+10438	あ　私も読みたーい！！	啊，我也想看──！！	Oh, I want to read it too!	앗, 나도 읽고 싶어~!!
 10439	"恵那ちゃん
-次私にも読ませてや"
+次私にも読ませてや"	"小惠那
+下次也借我看嘛。"	Ena-chan, can you lend it to me to read?	"에나
+다음엔 내한테도 보여도"
 10440	"まじうま　言うくらいやから
-おいしいんちゃう？"
+おいしいんちゃう？"	"都說是真心好吃了
+那應該是很好吃吧？"	Is it as delicious as it sounds?	"진짜 맛있다 써있으니께
+맛나지 않겠나?"
 10441	"まじうま…
-おいしそうな響き…"
+おいしそうな響き…"	"真心好吃……
+這名號聽起來就很好吃……"	"It's seriously delicious...
+Sounds delicious too..."	"진짜 맛있다니…
+말 그대로 맛있을 듯한 단어야…"
 10442	"ちょうど喉乾いてたんだ
-ありがと"
+ありがと"	"剛好我有點口渴了
+謝啦。"	"I was getting thirsty.
+Thanks."	"마침 목이 말랐어
+고마워"
 10443	"あたしもいいのか？
-いただきまーす"
+いただきまーす"	"也要給我嗎？
+那就不客氣了──"	"I can have some too?
+Thanks!"	"나도 먹어도 돼?
+잘 먹겠습니다~"
 10444	"煮たり　焼いたり　蒸したり…
-どれも楽しそうだねぃ"
+どれも楽しそうだねぃ"	"看是要煮、要烤、還是要蒸……
+哪種都很有趣耶。"	"Boil, grill, steam...
+Everything looks fun to do."	"끓이고 굽고 찌고…
+모두 재밌을 거 같아"
 10445	"王道もいいけど　ここは
-冒険するのも一つの手だな！！"
-10446	無理しないで　寝たら？
+冒険するのも一つの手だな！！"	"走常套路是也不錯啦，
+但是冒個險也是一種選項啊！！"	"The definitive path is great, but
+here's another way to camp!"	"익숙한 것도 좋지만 이럴 땐
+모험도 하나의 방법이지!!"
+10446	無理しないで　寝たら？	別再撐了，睡覺吧？	Don't push yourself. Want to sleep?	무리하지 말고 자는 게 어때?
 10447	"うとうとする　この時間が
-ええよなー"
+ええよなー"	"這個讓人開始起睡意的時間
+最棒了耶──"	"That moment when you're just about
+to doze off is so nice."	"꾸벅꾸벅 조는 이 시간이
+좋데이"
 10448	"見習いたいけど
-暑さには勝てない…"
+暑さには勝てない…"	"雖然我也想向她學習
+但是那麼熱我受不了……"	"I want to learn, but I don't
+think I can take the heat."	"본받고 싶지만
+더위를 배겨낼 순 없어…"
 10449	"ちくわに夏バテ
 知らずの秘密
-教えてもらおうかな"
+教えてもらおうかな"	"看來該向竹輪請教
+怎麼都不會
+中暑的秘密了。"	"Chikuwa, tell me your secret to
+fending off the summer heat."	"치쿠와에게 더위
+안 타는 비결을
+배워보까"
 10450	"もふもふなのに
-すごいねー"
-10451	涼しい場所知ってそうだよな
-10452	うん…　汗かいてきちゃったよ
+すごいねー"	"明明毛茸茸的
+好厲害喔──"	"I'm impressed...
+I mean, you're so fluffy."	"폭신폭신한데
+굉장하네~"
+10451	涼しい場所知ってそうだよな	我知道哪裡很涼快喔。	You know a shady place, don't you?	시원한 곳을 잘 알 것 같단 말이지
+10452	うん…　汗かいてきちゃったよ	嗯……我流了好多汗呢。	Yup... I'm all sweaty now.	으음… 땀 흘려 버렸어
 10453	"アイスみたいに
-溶けちまいそうだぜ"
-10454	温泉行くん？　ほな私もー
+溶けちまいそうだぜ"	"快要像冰淇淋一樣
+融化掉了啦。"	It's going to melt like ice cream.	"아이스크림처럼
+녹아버릴 것 같네"
+10454	温泉行くん？　ほな私もー	要去泡溫泉？那我也要去──	"You're going to the hot springs?
+I'll join too."	온천 갈 기가? 그럼 내도 간다~
 10455	"私も行きたい！！
 お風呂上がりに
-アイス食べるんだー"
-10456	やった…！　斉藤　ありがと
+アイス食べるんだー"	"我也想去！！
+我也要洗完澡後
+馬上吃冰淇淋──"	"I want to go too!
+After the baths is ice cream!"	"나도 가고 싶어!!
+목욕을 끝낸 뒤
+아이스크림을 먹는 거야~"
+10456	やった…！　斉藤　ありがと	好耶……！齊藤謝謝妳。	Awesome! Saito, Thanks!	와…! 사이토, 고마워
 10457	"よし　これ食べて
-体力回復だ！！"
-10458	このくらいなら過ごしやすいよな
+体力回復だ！！"	"好，吃這個
+來恢復體力吧！！"	"Alright, once I eat this, I'll recover
+my strength!"	"좋아, 이거 먹고
+체력 회복이다!!"
+10458	このくらいなら過ごしやすいよな	這個程度的話還挺舒適的呢。	This much should be fine.	이 정도라면 지내기 편하지
 10459	"こっからが
-あたしのゴールデンタイムだ！！"
-10460	お散歩もできそうだねっ
-10461	ここから活動時間やな
-10462	普通のにしろ　普通のに
+あたしのゴールデンタイムだ！！"	"接下來就是
+我的黃金時段啦！！"	This is my golden time!	"이제부터가
+내 골든 타임이다!!"
+10460	お散歩もできそうだねっ	還可以去散步呢。	Seems like it'd be good for a walk.	산책도 할 수 있겠는걸
+10461	ここから活動時間やな	接下來就是活動時間了。	I should do the activities.	이제부터는 활동 시간이다
+10462	普通のにしろ　普通のに	用普通的就好，普通的。	Do it normally.	평범한 머리로 해, 평범한 거 말이야
 10463	"私もお団子にしてもらおうかなー
-しまりん団子！！"
-10464	あの星　点滅してるように見えるな
-10465	あの星座　なんやろ？
+しまりん団子！！"	"那我也來點糰子好了──
+志摩凜糰子！！"	"Maybe I should make some
+dango. Shimarin-shaped ones!"	"나도 경단으로 만들어 달라고 할까~
+시마린 경단!!"
+10464	あの星　点滅してるように見えるな	那顆星星看起來在閃耶。	That star is blinking!	저 별, 깜빡이는 것처럼 보이네
+10465	あの星座　なんやろ？	那是什麼星座啊？	What was that constellation again?	저 별자리 뭐였지?
 10466	"…そう言われれば
-そうだな"
+そうだな"	"……妳這樣一說
+好像對耶。"	"Now that you mention it.
+I guess."	"…그러고 보니
+그렇네"
 10467	"俺たちの物語は
 ここから始まった…
-みたいな？"
-10468	わかるよ　ホッとする味だよね
-10469	飲みやすくてええなぁ
-10470	うん　一番過ごしやすいし
+みたいな？"	"是要像
+我們的故事
+現在才要開始呢……這種嗎？"	Our story started here, seems like?	"우리의 이야기는
+여기서부터 시작됐다…
+같은 건가?"
+10468	わかるよ　ホッとする味だよね	我懂喔，是會讓人放鬆的味道呢。	Right? It's a relaxing flavor.	맞아, 느긋해지는 맛이야
+10469	飲みやすくてええなぁ	喝起來很順口，好棒喔。	It's really easy to drink.	잘 넘어가서 좋다
+10470	うん　一番過ごしやすいし	嗯，這樣子最舒服了。	This one's the most comfortable.	맞아, 제일 쾌적하거든
 10471	"秋キャンは食べ物も
-おいしいしなあ"
+おいしいしなあ"	"秋季露營的時候
+東西都很好吃耶。"	Autumn camping food is delicious.	"가을 캠핑은 음식도
+맛나니 말이제"
 10472	"そのレシピ　私も気になってたんだ
-一緒に作ろ！！"
+一緒に作ろ！！"	"那個食譜我也很在意呢。
+我們一起做吧！！"	"I'm interested in this recipe too.
+Let's make it together!"	"그 레시피, 나도 궁금했었어
+같이 만들자!!"
 10473	"どれどれ？　へー
-おいしそうだな"
-10474	おやつにちょうどいいな
-10475	ジャガイモも焼きたいなあ
-10476	校庭でもよくやるよね
-10477	焼き芋…いいな
-10478	なんか　詩人みたいだね
+おいしそうだな"	"我看看喔。喔──
+看起來很好吃耶。"	Which one? Oooh, that looks good.	"어디 보자? 오~
+맛있겠는데"
+10474	おやつにちょうどいいな	當點心正好。	These snacks are perfect.	간식으로 딱이겠다
+10475	ジャガイモも焼きたいなあ	也想烤個馬鈴薯來吃耶。	I want to roast some potatoes.	감자도 구워 보고 싶데이
+10476	校庭でもよくやるよね	在操場上也常常做呢。	I do in the schoolyard often.	학교 안뜰에서도 종종 하지
+10477	焼き芋…いいな	烤番薯……讚耶。	Roasted sweet potatoes are so good.	군고구마… 좋네
+10478	なんか　詩人みたいだね	這樣子好像是詩人喔。	Reminds me of a poet.	어쩐지 시인 같네
 10479	"だんだん暗くなるのが
-いいよな"
+いいよな"	"我好喜歡這種
+一點一點變暗的感覺喔。"	"It's getting dark.
+Are we still good?"	"점점 어두워지는
+풍경이 좋지"
 10480	"うーん…都市伝説　埋蔵金
-…超古代文明とか？"
+…超古代文明とか？"	"嗯──……都市傳說、埋藏金
+……還有超古代文明等等吧？"	"Hmm... Urban legend about buried
+gold...and super civilizations?"	"음… 도시전설이라, 매장금이나
+…초고대문명 같은 거?"
 10481	"リンちゃん　いつも
-面白い本読んでるよね"
-10482	恵那　こっちにもあるぞ
+面白い本読んでるよね"	"小凜總是
+在看一些很有趣的書耶。"	"Rin-chan, you're always reading
+interesting-looking books."	"린은 언제나
+재밌는 책을 읽고 있네"
+10482	恵那　こっちにもあるぞ	惠那，這邊也有喔。	Ena, there's some here too.	에나, 이쪽에도 있어
 10483	"私も持ってきてるから
-分けよか？"
+分けよか？"	"我也有帶哦，
+要分妳嗎？"	"I brought some, too.
+I'll pass them around?"	"나도 가져왔으니까
+나눠줄까?"
 10484	"こら寝るな
-朝飯作るって言ってただろ"
+朝飯作るって言ってただろ"	"喂，別回去睡啊。
+我不是說正要做早餐了嗎。"	"Hey, don't sleep in!
+Didn't you say you'll make breakfast?"	"이 녀석, 자지 마
+아침밥 만든다고 했잖아"
 10485	"おはよー！！
 …あれ　恵那ちゃん
-まだ寝てる？"
-10486	ほんとだ　空気が冷たいな
+まだ寝てる？"	"早安──！！
+……奇怪，小惠那
+還在睡覺嗎？"	"Good morning!
+Huh? Ena-chan is still asleep?"	"좋은 아침~!!
+…어라, 에나
+아직도 자?"
+10486	ほんとだ　空気が冷たいな	真的耶，空氣好冰喔。	You're right, the temperature dropped.	정말이네, 공기가 차다
 10487	"天気予報でも
-雪降るかもって言うてたで"
-10488	さすがに着すぎじゃ…
+雪降るかもって言うてたで"	"氣象預報也說
+可能會下雪喔。"	"The weather forecast said
+it would snow."	"날씨 예보에서도
+눈이 내릴 수도 있다고 했다"
+10488	さすがに着すぎじゃ…	也穿太多件了吧……	I'm wearing too many layers...	너무 과하게 껴입는 거 같은데…
 10489	"重ね着しまくったら苦しいぞ…
-経験者が言うんだから間違いない"
-10490	はいっ　追加の薪だよ
-10491	せやな　寒くなってきたし
+経験者が言うんだから間違いない"	"衣服一直搭上去會很不舒服喔……
+聽過來人的話準沒錯的。"	"It'll be a pain to wear too many
+layers... That's what an expert says."	"왕창 껴입으면 답답하지…
+경험자가 하는 말이니 틀림없다고"
+10490	はいっ　追加の薪だよ	來，這是追加的柴火喔。	Here, more firewood.	자, 추가 땔감이야
+10491	せやな　寒くなってきたし	對啊，開始變冷了。	Right? It's getting cold too.	그렇제 추워졌으니께
 10492	"水風呂は冷たいって
-感じやしなあ"
+感じやしなあ"	"洗冷水澡
+光聽就覺得很冰耶。"	The cold bath is so refreshing.	"냉탕은 차다는 느낌이
+워낙 세니 말이제"
 10493	"焚き火に近づくと暖かいぞ
-…顔が乾くけど"
-10494	じゃあ私は　ゴミ捨てしてくる！
-10495	手伝うぞ　あたしこっちやるな
-10496	やっぱ　こたつテントじゃね？
+…顔が乾くけど"	"靠篝火近一點會很溫暖喔
+……雖然臉會變很乾。"	"If you sit close to the campfire,
+your face will become dry."	"모닥불에 가까이 가면 따뜻해
+…얼굴이 건조해지지만"
+10494	じゃあ私は　ゴミ捨てしてくる！	那我就拿垃圾去丟囉！	I'm going to throw the garbage out!	그럼 나는 쓰레기 버리고 올게!
+10495	手伝うぞ　あたしこっちやるな	我來幫忙吧，這邊交給我。	I'll help with these over here.	도와주지, 나는 이쪽을 맡겠어
+10496	やっぱ　こたつテントじゃね？	果然哪，就是要被爐帳篷吧？	Is it a kotatsu tent?	역시 코타츠 텐트 아닐까?
 10497	"いつか　こたつキャンプ
-やりたいねえ"
+やりたいねえ"	"以後找一天啊
+也想試試看被爐露營呢。"	"One day, I want to try camping with
+a kotatsu."	"언젠가 코타츠 캠핑을
+해보고 싶어"
 10498	"車があれば
-持ってこれる…かも？"
-10499	夢のある話やあ
+持ってこれる…かも？"	"要是有車的話
+應該就帶得過來吧……我猜？"	"If I had a car, I would bring this...
+maybe?"	"차가 있으면
+들고 올 수 있을… 지도?"
+10499	夢のある話やあ	這話題好有夢想喔。	Just talking about dreams.	꿈이 있는 이야기네
 10500	"だな　おいしすぎて
-ついおかわりしちまう"
+ついおかわりしちまう"	"對啊，實在是太好吃了，
+都會不自覺地就續碗。"	"Right? It's just so good, I can't
+help but have seconds."	"그렇지, 너무 맛있어서
+나도 모르게 더 먹게 돼"
 10501	"わかるでー
-おいしさ倍増やな"
-10502	お前が後ろかよ
-10503	ちくわライダー　だね！！
+おいしさ倍増やな"	"我懂喔──
+美味度會加倍呢。"	"Yup.
+It doubles the deliciousness."	"안다~
+맛이 몇 배나 늘었다"
+10502	お前が後ろかよ	竟然是妳在後面喔。	Are you behind me?	네가 뒤에 타는 거냐
+10503	ちくわライダー　だね！！	是竹輪騎士哦！！	It's the Chikuwa Rider!	치쿠와 라이더구나!!
 10504	"ゾンビ…！？
-あたしも負けてられないぜ"
+あたしも負けてられないぜ"	"殭屍……！？
+我可不能輸人啊。"	"A zombie?!
+I'm not going to lose!"	"좀비…!?
+나도 질 수 없지"
 10505	"ゾンビ犬…ホラー映画の
-定番やなぁ"
-10506	バイト帰りとか　たまになるな
-10507	体に染み付いてやがる
+定番やなぁ"	"殭屍狗……可是恐怖電影
+的招牌要素呢。"	"A zombie dog... It's like a
+blockbuster classic."	"좀비 개… 호러 영화의
+단골이제"
+10506	バイト帰りとか　たまになるな	打完工回家時偶爾會耶。	"Sometimes it happens on my
+way home from work."	알바 갔다 오는 길에 가끔씩 그러제
+10507	体に染み付いてやがる	已經變成身體反射了。	It's ingrained in my body.	이미 몸에 뱄구나
 10508	"ありがとう　恵那ちゃん！！
-いつ使おうかなぁ"
+いつ使おうかなぁ"	"謝謝妳，小惠那！！
+要什麼時候拿來用呢。"	"Thanks, Ena-chan!
+When should I use this?"	"고마워, 에나!!
+언제 써볼까~?"
 10509	"ん　まぁ…
-もらっとく"
+もらっとく"	"嗯，啊……
+我收下了。"	"Hmm, well...
+I'll take it."	"음, 뭐어…
+받아둘게"
 10510	"よっしゃ　いっちょ
-ど派手なやつ行くか！！"
+ど派手なやつ行くか！！"	"好呀！那就來
+大鬧一番吧！！"	Alright, let's do something flashier!	"좋았어, 어디 한번
+화려한 걸로 가볼까!!"
 10511	"ありがとうな
 恵那ちゃんの誕生日は
-ちくわと一緒にお祝いやね"
+ちくわと一緒にお祝いやね"	"謝謝妳啊。
+等小惠那妳生日的時候，
+我會和竹輪一起幫妳慶祝的。"	"Thanks.
+You celebrate your birthday
+with Chikuwa, right, Ena-chan?"	"고맙데이
+에나 생일은
+치쿠와랑 같이 축하하재이"
 10512	"やっぱ戌か？
-いや違う可能性も…？"
+いや違う可能性も…？"	"果然是狗嗎？
+不對，也可能不是吧……？"	"Is it a dog?
+Or something different?"	"역시 개띠일까?
+아니, 아닐 가능성도…?"
 10513	"いや　飼い主なら
-生まれた年分かってるだろ"
+生まれた年分かってるだろ"	"飼主的話
+應該知道是哪年出生的不是嗎。"	"Well, owners should know the
+year their dog is born, right?"	"뭐야, 주인이면
+태어난 해 정도는 알 거 아니야"
 10514	"私も作ってきたよ！！
-交換しようー"
+交換しようー"	"我也有做喔！！
+來交換吧──"	"I made some too!
+Let's exchange!"	"나도 만들어 왔어!!
+교환하자~"
 10515	"みんなで交換すれば
-当分おやつに困らんな"
-10516	だな
+当分おやつに困らんな"	"大家一起交換的話，
+就暫時不缺零食啦。"	"If we all give each other sweets,
+we won't have to worry about snacks
+for a while."	"다 같이 교환하모
+당분간 간식 걱정은 없겠데이"
+10516	だな	是啊。	Right?	그러게
 10517	"遠くから見てるだけでも
-満足だよねえ"
+満足だよねえ"	"就算只是從遠遠地看
+也很滿足呢。"	"I'm happy just looking at it
+from afar."	"먼 곳에서 보는 것만으로도
+만족스러워"
 10518	"この浮気者！！
-ちくわにチクってやる！！"
-10519	昼ドラみたいなセリフやなぁ
+ちくわにチクってやる！！"	"妳這個花心的！！
+我要去跟竹輪打小報告！！
+"	"You trickster!
+I'll tickle you, Chikuwa!"	"이 바람둥이!!
+치쿠와에게 이를 거야!!
+"
+10519	昼ドラみたいなセリフやなぁ	好像連續劇裡的台詞喔。	"Sounds like something you hear
+in a day time drama."	낮 드라마 같은 대사네~
 10520	"吸血鬼とか似合いそうだな
-ドラキュラちくわ…"
+ドラキュラちくわ…"	"吸血鬼好像挺適合的
+德古拉竹輪……"	"He looks like a vampire.
+Dracula Chikuwa..."	"흡혈귀도 잘 어울리겠는데
+드라큘라 치쿠와…"
 10521	"ここはあえて
-和風でどうよ？"
+和風でどうよ？"	"這次不如選和風
+怎麼樣啊？"	"How about we go with something
+Japanese here?"	"이럴 땐 오히려
+일식도 괜찮아 보이는데?"
 10522	"せっかくのクリスマスやから
-美味しいもん食べんとな"
+美味しいもん食べんとな"	"難得過聖誕節嘛，
+當然得吃一些好吃的。"	"Since it's Christmas, we should
+have a lot of yummy food."	"모처럼 크리스마스니께
+맛나는 거 무야제"
 10523	"ターキーとか　ケーキとか？
-夢が広がるねー"
+夢が広がるねー"	"像是有烤火雞或是蛋糕之類的？
+真像是在做美夢呢──"	"Turkey or cake
+It could be anything."	"터키나 케이크 같은 건?
+꿈이 커지는데~"
 10524	"おおっ
-待ってたぜこの時を！！"
+待ってたぜこの時を！！"	"哦哦！
+終於讓我等到這個時候了！！"	Oooh! I've been waiting for this!	"오오
+이때를 기다렸다고!!"
 10525	"えっと　ポーズ…
-こうだっけ？"
-10526	初日の出も見れるしな
+こうだっけ？"	"呃、姿勢是……
+這樣子嗎？"	"Uhhh, a pose...
+How about this one?"	"어 그러니까, 포즈가…
+이거였나?"
+10526	初日の出も見れるしな	還能看到元旦的日出嘛。	I saw the first sunrise of the year.	첫 해돋이도 볼 수 있으니까
 10527	"みんなで
-カウントダウンせんと"
-10528	なんや　賑わっとるなあ
-10529	私　先に行ってるね！！
+カウントダウンせんと"	"得要大家一起
+來倒數啊。"	Let's count down together.	"다 같이
+카운트다운 하재이"
+10528	なんや　賑わっとるなあ	怎麼啦，怎麼這麼熱鬧。	It's so busy.	뭐꼬, 시끌시끌하네
+10529	私　先に行ってるね！！	我先走了喔！！	I'm going to go ahead!	나 먼저 가 있을게!!
 10530	"今年は
 特に早かった気がする
-…気のせいか？"
+…気のせいか？"	"總覺得今年
+好像特別早耶
+……我的錯覺嗎？"	"This year seemed to go by fast...
+Or is it just me?"	"올해는
+특히 더 빨랐던 거 같아
+…기분 탓인가?"
 10531	"そんなに経つのか
-結構キャンプしたなー"
-10532	じゃあ　一緒につくろうよ！！
-10533	今度持ってくるよ
+結構キャンプしたなー"	"已經過那麼久了啊。
+也露營過不少次了呢──"	"Has it been that long that I've
+been camping?"	"그렇게나 지났나
+꽤 많이 캠핑했네~"
+10532	じゃあ　一緒につくろうよ！！	那我們一起做啊！！	Then let's make it together!	그럼 같이 만들자!!
+10533	今度持ってくるよ	我改天再帶過來吧。	I'll bring it next time.	다음에 가져올게
 10534	"放課後クッキング
-がんばろうね！"
+がんばろうね！"	"放學後做料理
+要加油喔！"	"I'm cooking after school today.
+I'll do my best!"	"방과 후 쿠킹
+열심히 하자!"
 10535	"ほんまやね…
-ぽっかぽかやー"
-10536	水の流れる音に癒されたよねー
+ぽっかぽかやー"	"真的耶……
+暖呼呼的耶──"	"Yeah...
+It's so warm."	"정말 그렇네…
+반짝반짝하다~"
+10536	水の流れる音に癒されたよねー	流水聲聽起來真的好療癒喔──	"I'm healed by the sound of
+flowing water."	물 흐르는 소리에 치유되더라~
 10537	"もちろんだ！
-楽しみにしてるぞ"
+楽しみにしてるぞ"	"當然啦！
+我很期待喔。"	"Of course!
+I'm looking forward to it."	"물론이지!
+기대하고 있을게"
 10538	"なでしこちゃんも
-かわいいでー"
+かわいいでー"	"小撫子
+也很可愛喔──"	You look cute too, Nadeshiko-chan.	"나데시코도
+귀엽네~"
 10539	"ほんまやねぇ
-…にしても　最中ソックリや"
+…にしても　最中ソックリや"	"真的耶
+……只是跟最中好像喔。"	"It's true...
+Still, it's right in the middle."	"진짜네
+…그렇다 쳐도 모나카하고 똑같다"
 10540	"だねぇ
-さっ　おせち食べよう！"
+さっ　おせち食べよう！"	"對啊，
+那就來吃年菜吧！"	"Right.
+Let's have some osechi!"	"그렇지~
+그럼 새해 음식 먹자!"
 10541	"うんうん
-リラックスキャンプだからね"
-10542	ほんとにそれでいいのかよ…
+リラックスキャンプだからね"	"嗯嗯
+因為這是放鬆露營啊。"	Yup. That's why it's relaxing camp.	"응, 응
+마음 푹 놓는 캠핑이니까"
+10542	ほんとにそれでいいのかよ…	那樣子真的沒問題嗎……	Is this really okay?	정말 그걸로 괜찮을까…
 10543	"こっちにも
-一個　ちょうだい"
+一個　ちょうだい"	"也給我
+一個吧。"	"Over here, too.
+Pass one to me, please."	"나도
+하나 줘"
 10544	"せやなー
-たまにはこういうのもアリやな"
-10545	うんうん　似合ってるよー
+たまにはこういうのもアリやな"	"就是啊──
+偶爾像這樣子很不錯耶。"	"Right?
+Sometimes it happens."	"맞다~
+가끔은 이런 일도 있제"
+10545	うんうん　似合ってるよー	對啊對啊，妳穿這樣很搭哦──	Yeah, it suits you!	응 응, 잘 어울려~
 10546	"いつの間に…！
-ちょっと恥ずかしいな"
+ちょっと恥ずかしいな"	"是什麼時候……！
+這樣子好像有點丟臉耶。"	"When did—
+It's a little embarrassing."	"어느 틈에…!
+조금 부끄러운걸"
 10547	"うん…楽しかった
-誘ってくれてありがとう"
+誘ってくれてありがとう"	"嗯……很開心喔
+謝謝妳邀我一起參加。"	"Yeah, it was fun.
+Thanks for inviting me."	"응… 재밌었어
+같이 오자고 해줘서 고마워"
 10548	"おう
-野クルの活動もたくさんやろうな"
+野クルの活動もたくさんやろうな"	"當然。
+野活組也要常辦活動啊。"	"Yeah!
+Let's do a lot of club activities!"	"그래
+야클 활동도 잔뜩 하자구"
 10549	"うんっ　似合ってるよ
-あおいちゃん！"
-10550	来てよかったなあ
+あおいちゃん！"	"嗯，跟妳很搭喔
+小葵！"	It looks good on you, Aoi-chan!	"오, 아오이
+잘 어울린다!"
+10550	来てよかったなあ	有來真是太好了。	I'm glad I came.	와서 다행이다
 10551	"今年もたくさん
-キャンプしような"
+キャンプしような"	"今年也要
+常常去露營喔。"	Let's go camping a lot this year.	"올해도 실컷
+캠핑하자"
 10552	"でっかいちくわだな
-…結構似合ってる"
-10553	行ってらっしゃい
-10554	あたしも行く！！
-10555	行ってみよか
-10556	一緒に行こうよ
-10557	洋画
+…結構似合ってる"	"好大隻的竹輪喔
+……還挺搭的耶。"	"It's a giant Chikuwa.
+Pretty fitting."	"커다란 치쿠와네
+…꽤 잘 어울려"
+10553	行ってらっしゃい	路上小心。	I'm heading out.	다녀와
+10554	あたしも行く！！	我也要去！！	I want to go too!	나도 갈래!!
+10555	行ってみよか	那就去看看吧。	Let's go see.	가보까
+10556	一緒に行こうよ	我們一起走吧。	Let's all go.	같이 가보자
+10557	洋画	洋片。	A foreign film.	외화
 10558	"任せろ　タブレットで
-動画見放題だ！！"
+動画見放題だ！！"	"交給我吧，用平板
+看片看到飽！！"	"We can watch all of them on
+my tablet!"	"맡겨 달라고, 태블릿으로
+영상 무제한 감상이다!!"
 10559	"ホラー…は苦手な子も
-おるしなあ"
-10560	お笑い動画はどう？
-10561	食べ物が定番だな
+おるしなあ"	"也是有些人……
+會怕看恐怖片嘛。"	"How about a scary movie...or maybe
+not?"	"호러… 는 싫어하는 애도
+있겠제"
+10560	お笑い動画はどう？	那要不要看搞笑影片？	How about a comedy?	웃긴 영상은 어때?
+10561	食べ物が定番だな	通常都是吃的吧。	Usually it's food for souvenirs.	보통은 음식을 사지
 10562	"地名とか書いてるやつ
-どうよ？"
+どうよ？"	"那種上面有寫地名的東西
+怎麼樣啊？"	"Maybe something that has the
+place name written on it?"	"지명 같은 게 쓰여 있는 건
+어때?"
 10563	"キャンプ中になんか
-作るのもええね"
+作るのもええね"	"在露營的時候做點什麼
+好像也不錯耶。"	"Something made while camping
+could be nice."	"캠핑 중에 뭐 만들고
+그라는 것도 좋네"
 10564	"キャンプ場オリジナル
-グッズとかもあるんだね"
-10565	私もー！！
-10566	アニメがいいな
+グッズとかもあるんだね"	"也有露營區自家
+周邊商品耶。"	"I wonder if the campsite has
+any merch?"	"캠핑장 오리지널
+굿즈 같은 것도 있어"
+10565	私もー！！	我也要──！！	Me too!	나도~!!
+10566	アニメがいいな	我想看動畫呢。	I want to watch anime!	애니메이션이 좋겠어
 10567	"ご当地キャラのぬいぐるみ
-かわいいよー"
-10568	はしゃぐと転ぶぞ
-10569	海、満喫しちゃったね
-10570	呼んだのは私や
-10571	今日のために用意しましたっ
-10572	いっちょ泳ぎに行くか！
-20001	カラオケ村
-20002	本栖湖キャンプ場
-20003	麓キャンプ場
-20004	なでしこの家の庭
-20005	高ボッチ高原
-20006	イーストウッドオートキャンプ場
-20007	校庭中庭
-20008	甲府のキャンプ場
-20009	四尾連湖キャンプ場木明荘
-20010	陣馬型山キャンプ場
-20011	朝霧高原キャンプ場
-20012	RECAMPおだわら
-20013	海辺のキャンプ場
-20014	本栖湖キャンプ場（デバッグ用）
-30001	サバキャン服
-30002	夏服（オレンジ）
-30003	夏服（ブルー）
-30004	夏服（ベージュ）
-30005	夏服（カーキ）
-30006	夏服（ブラウン）
-30007	夏服（ウッドランド）
-30008	夏服（マルチカム）
-30009	夏服（ホワイト）
-30010	夏服（ブラック）
-30011	イーストウッド薄着
-30012	麓キャンプ薄着
-30013	伊豆キャン薄着
-30014	冬服A（オレンジ）
-30015	冬服A（ブルー）
-30016	冬服A（ベージュ）
-30017	冬服A（カーキ）
-30018	クリキャン薄着
-30019	冬服B（ウッドランド）
-30020	冬服B（マルチカム）
-30021	冬服B（ホワイト）
-30022	冬服B（ブラック）
-30023	本栖湖キャンプ服
-30024	ゆるキャン△④服
-30025	ゆるキャン△③服
-30026	ゆるキャン△⑤服
-30027	本栖高校制服＆コート
-30028	本栖高校制服
-30029	本栖高校ジャージ
-30030	麓キャンプ服
-30031	伊豆キャン服
-30032	イーストウッド服
-30033	バイト普段着
-30034	麓キャンプ厚着
-30035	山中湖キャンプ服
-30036	四尾連湖キャンプ服
-30037	甲府キャンプ普段着
-30038	買い物普段着
-30039	はるキャン服
-30040	カリブーキャンプ服
-30041	クリキャン服
-30042	サンタクレンジャー
-30043	サバキャン水着
-30044	四尾連湖ブランケット
-30045	山中湖ブランケット
-30046	秘密結社ブランケット
-30047	お料理キャンプ（仮）
-30048	ハロウィン（仮）
-30049	小田原キャンプ服
-30050	『ゆるキャン△②服』
-30051	『ゆるキャン△①服』
-30052	パジャマ（仮）
-30053	6月森パーティ（仮）
-30054	海キャン水着
-30055	バレンタイン（仮）
-40001	○○
-50001	なつキャン服
-50049	11月旅キャン（仮）
-50052	7月海キャン（仮）
-50054	クリスマス（仮）
-50055	1月お正月（仮）
+かわいいよー"	"當地吉祥物娃娃，
+很可愛喔──"	"The stuffed toy of the local
+mascot is adorable."	"지역 마스코트 인형
+귀여워~"
+10568	はしゃぐと転ぶぞ	跑跑跳跳的話小心跌倒喔。	Calm down before you trip and fall.	너무 뛰다가 넘어지진 마
+10569	海、満喫しちゃったね	好好享受海邊活動了呢。	We really enjoyed ourselves to the full.	바다를 잔뜩 만끽했어
+10570	呼んだのは私や	是我在叫妳啦。	No, me!	부른 건 내다~
+10571	今日のために用意しましたっ	為了今天準備好的。	I got one especially for today!	오늘을 위해 준비해 왔습니다!
+10572	いっちょ泳ぎに行くか！	那就來游個泳吧！	Well then, let's swim!	수영이나 한번 해볼까!
+20001	カラオケ村	カラオケ村(TW)	カラオケ村(EN)	カラオケ村(KO)
+20002	本栖湖キャンプ場	本栖湖露營地	Lake Motosu Campground	본스이 호수 캠핑장
+20003	麓キャンプ場	山麓露營地	Foothill Campground	산기슭 캠핑장
+20004	なでしこの家の庭	撫子家的庭院	Nadeshiko's Home Garden	나데시코의 집의 정원
+20005	高ボッチ高原	高ボッチ高原	High Bocchi Plateau	고 보치 고원
+20006	イーストウッドオートキャンプ場	伊斯特伍德汽車露營地	Eastwood Auto Campsite	이스트우드 오토 캠핑장
+20007	校庭中庭	校園中庭	Schoolyard Courtyard	학교 중정
+20008	甲府のキャンプ場	甲府的露營地	Kofu Campsite	코후의 캠핑장
+20009	四尾連湖キャンプ場木明荘	四尾連湖露營場木明莊	Shiobi Lake Campground Kimeisho	사오렌코 캠핑장 목명장
+20010	陣馬型山キャンプ場	陣馬型山露營場	Jinba Kogen Mountain Campground	진마형산 캠핑장
+20011	朝霧高原キャンプ場	朝霧高原露營場	Asagiri Highlands Campground	아사기리 고원 캠핑장
+20012	RECAMPおだわら	RECAMP小田原	RECAMP Odawara	RECAMP 오다와라
+20013	海辺のキャンプ場	海邊的露營地	Seaside Campsite	해변의 캠핑장
+20014	本栖湖キャンプ場（デバッグ用）	本栖湖キャンプ場（デバッグ用）(TW)	本栖湖キャンプ場（デバッグ用）(EN)	本栖湖キャンプ場（デバッグ用）(KO)
+30001	サバキャン服	夏季露營服	Summer Camping Clothes	여름 캠핑복
+30002	夏服（オレンジ）	夏季服裝（橘色）	Orange Summer Clothes	하복(오렌지)
+30003	夏服（ブルー）	夏季服裝（藍色）	Blue Summer Clothes	하복(블루)
+30004	夏服（ベージュ）	夏季服裝（米色）	Beige Summer Clothes	하복(베이지)
+30005	夏服（カーキ）	夏季服裝（卡其色）	Khaki Summer Clothes	하복(카키)
+30006	夏服（ブラウン）	夏季服裝（褐色）	Brown Summer Clothes	하복(브라운)
+30007	夏服（ウッドランド）	夏季服裝（林地迷彩）	Woodland Summer Clothes	하복(우드랜드)
+30008	夏服（マルチカム）	夏季服裝（多地形迷彩）	MultiCam Summer Clothes	하복(멀티캠)
+30009	夏服（ホワイト）	夏季服裝（白色）	White Summer Clothes	하복(화이트)
+30010	夏服（ブラック）	夏季服裝（黑色）	Black Summer Clothes	하복(블랙)
+30011	イーストウッド薄着	EAST WOOD薄衣服	Eastwood Cozy Casual	이스트우드 캐주얼
+30012	麓キャンプ薄着	麓露營地薄衣服	Fumoto Camp Cozy Casual	후모토 캠핑 캐주얼
+30013	伊豆キャン薄着	伊豆營地薄外套	Izu Camp Cozy Casual	이즈 캠핑 캐주얼
+30014	冬服A（オレンジ）	冬季服裝A（橘色）	Orange Winter Clothes A	동복 A(오렌지)
+30015	冬服A（ブルー）	冬季服裝A（藍色）	Blue Winter Clothes A	동복 A(블루)
+30016	冬服A（ベージュ）	冬季服裝A（米色）	Beige Winter Clothes A	동복 A(베이지)
+30017	冬服A（カーキ）	冬季服裝A（卡其色）	Khaki Winter Clothes A	동복 A(카키)
+30018	クリキャン薄着	聖誕露營長袖	Xmas Camp Long Sleeves	크리캠 롱 슬리브
+30019	冬服B（ウッドランド）	冬季服裝B（林地迷彩）	Woodland Winter Clothes B	동복 B(우드랜드)
+30020	冬服B（マルチカム）	冬季服裝B（多地形迷彩）	Multicam Winter Clothes B	동복 B(멀티캠)
+30021	冬服B（ホワイト）	冬季服裝B（白色）	White Winter Clothes B	동복 B(화이트)
+30022	冬服B（ブラック）	冬季服裝B（黑色）	Black Winter Clothes B	동복 B(블랙)
+30023	本栖湖キャンプ服	本栖湖露營服裝	Lake Motosu Camp Clothes	모토스호 캠핑복
+30024	ゆるキャン△④服	搖曳露營△④服裝	Laid-Back Camp ④ Clothes	유루캠△ 4권 복장
+30025	ゆるキャン△③服	搖曳露營△③服裝	Laid-Back Camp ③ Clothes	유루캠△ 3권 복장
+30026	ゆるキャン△⑤服	搖曳露營△⑤服裝	Laid-Back Camp ⑤ Clothes	유루캠△ 5권 복장
+30027	本栖高校制服＆コート	本栖湖高中制服＆外套	Motosu HS Uniform & Coat	모토스고 교복&코트
+30028	本栖高校制服	本栖湖高中制服	Motosu HS Uniform	모토스고 교복
+30029	本栖高校ジャージ	本栖湖高中運動服	Motosu HS Jersey	모토스고 저지
+30030	麓キャンプ服	麓露營地服裝	Fumoto Camp Clothes	후모토 캠핑복
+30031	伊豆キャン服	伊豆營地服裝	Izu Camp Clothes	이즈 캠핑복
+30032	イーストウッド服	EAST WOOD服裝	Eastwood Clothes	이스트우드 복장
+30033	バイト普段着	打工便服	Informal Work Wear	알바 평상복
+30034	麓キャンプ厚着	麓露營地厚衣服	Fumoto Camp Thick Wear	후모토 캠핑복(커버드)
+30035	山中湖キャンプ服	山中湖露營服裝	Lake Yamanaka Camp Clothes	야마나카호 캠핑복
+30036	四尾連湖キャンプ服	四尾連湖露營服裝	Lake Shibire Camp Clothes	시비레호 캠핑복
+30037	甲府キャンプ普段着	甲府露營便服	Kofu Camp Informal Wear	고후 캠핑 평상복
+30038	買い物普段着	購物便服	Informal Shopping Wear	쇼핑 평상복
+30039	はるキャン服	春季露營服裝	Spring Camping Clothes	봄 캠핑복
+30040	カリブーキャンプ服	卡力布露營服	Caribou Camping Clothes	카리부 캠핑복
+30041	クリキャン服	聖誕露營服裝	Christmas Camp Clothes	크리캠 복장
+30042	サンタクレンジャー	聖誕戰隊	Santa Claus Rangers	산타크레인저
+30043	サバキャン水着	求生露營泳裝	Survival Camp Swimsuit	서바캠 수영복
+30044	四尾連湖ブランケット	四尾連湖毛毯	Lake Shibire Blanket	시비레호 블랭킷
+30045	山中湖ブランケット	山中湖毛毯	Lake Yamanaka Blanket	야마나카호 블랭킷
+30046	秘密結社ブランケット	秘密結社毛毯	Secret Society Blanket	비밀결사 블랭킷
+30047	お料理キャンプ（仮）	お料理キャンプ（仮）(TW)	お料理キャンプ（仮）(EN)	お料理キャンプ（仮）(KO)
+30048	ハロウィン（仮）	ハロウィン（仮）(TW)	ハロウィン（仮）(EN)	ハロウィン（仮）(KO)
+30049	小田原キャンプ服	小田原露營服裝	Odawara Camp Clothes	오다와라 캠핑복
+30050	『ゆるキャン△②服』	搖曳露營△②服裝	Laid-Back Camp ② Clothes	유루캠△ 2권 복장
+30051	『ゆるキャン△①服』	搖曳露營△①服裝	Laid-Back Camp ① Clothes	유루캠△ 1권 복장
+30052	パジャマ（仮）	パジャマ（仮）(TW)	パジャマ（仮）(EN)	パジャマ（仮）(KO)
+30053	6月森パーティ（仮）	6月森パーティ	6月森パーティ	6月森パーティ
+30054	海キャン水着	海邊露營泳裝	Seaside Camp Swimsuit	바다 캠핑 수영복
+30055	バレンタイン（仮）	バレンタイン（仮）(TW)	バレンタイン（仮）(EN)	バレンタイン（仮）(KO)
+40001	○○	○○(TW)	○○(EN)	○○(KO)
+50001	なつキャン服	なつキャン服(TW)	なつキャン服(EN)	なつキャン服(KO)
+50049	11月旅キャン（仮）	11月旅キャン（仮）(TW)	11月旅キャン（仮）(EN)	11月旅キャン（仮）(KO)
+50052	7月海キャン（仮）	7月海キャン（仮）	7月海キャン（仮）	7月海キャン（仮）
+50054	クリスマス（仮）	クリスマス（仮）(TW)	クリスマス（仮）(EN)	クリスマス（仮）(KO)
+50055	1月お正月（仮）	1月お正月（仮）(TW)	1月お正月（仮）(EN)	1月お正月（仮）(KO)

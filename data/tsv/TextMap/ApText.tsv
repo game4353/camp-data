@@ -1,7 +1,7 @@
-id	ApText
-6030	AP回復30
-6060	AP回復60
-6090	AP回復90
-6130	AP(SL)回復30
-6160	AP(SL)回復60
-6190	AP(SL)回復90
+id	ja	zh-TW	en	ko
+6030	AP回復30	AP恢復30	AP Recovery 30	AP 회복 30
+6060	AP回復60	AP恢復60	AP Recovery 60	AP 회복 60
+6090	AP回復90	AP恢復90	AP Recovery 90	AP 회복 90
+6130	AP(SL)回復30	AP(SL)恢復30	AP (SL) Recovery 30	AP(SL)회복 30
+6160	AP(SL)回復60	AP(SL)恢復60	AP (SL) Recovery 60	AP(SL) 회복 60
+6190	AP(SL)回復90	AP(SL)恢復90	AP (SL) Recovery 90	AP(SL) 회복 90

@@ -1,55 +1,55 @@
-id	ShopTabText
-10	ゆるコイン
-20	ゆるパス
-21	会員
-22	ゆるパス
-30	交換所
-31	フレンドP
-32	ゆるすたP
-33	ふじさん
-34	松ぼっくり
-35	虹のツカぽん
-36	金のツカぽん
-37	銀のツカぽん
-38	おでかけコイン
-39	一旦なし
-40	リサイクル
-41	カリブー君
-42	スキルアップ
-50	特別セール
-51	特別セール
-52	プライムセール
-60	イベント
-70	AP
-71	AP
-72	YP
-80	ガチャメダル
-81	コスチューム
-82	サポート
-83	野外活動
-84	小田原キャンプ
-85	旅キャン
-86	小田原キャンプ②
-87	旅キャン②
-88	海キャン水着
-89	夏だ！ビーチだ！
-90	カケラ
-100	クラブギフト
-110	ゆるすたP
-111	テント/タープ
-112	チェア/テーブル
-113	クッカー
-114	照明/焚火
-115	焚火
-116	シュラフ
-117	フィールドギア
-118	ペットギア
-119	料理
-120	素材/食材
-121	食材
-150	フレンド
-160	スタンプ
-170	AP
-171	AP
-172	YP
-180	フレーム
+id	ja	zh-TW	en	ko
+10	ゆるコイン	搖曳幣	YuruCoin	유루코인
+20	ゆるパス	通行證	Season Pass	패스
+21	会員	會員	Member	회원
+22	ゆるパス	通行證	Season Pass	패스
+30	交換所	兌換所	Exchange	교환소
+31	フレンドP	好友P	Friend Points	친구 Pt
+32	ゆるすたP	YG P	Yurusta Points	유르스타 Pt
+33	ふじさん	富士山	Mt.Fuji	후지산
+34	松ぼっくり	松果	Pinecone	솔방울
+35	虹のツカぽん	彩虹TUKAPON	Rainbow Tsukapon	무지개빛 츠카퐁
+36	金のツカぽん	金色TUKAPON	Gold Tsukapon	금빛 츠카퐁
+37	銀のツカぽん	銀色TUKAPON	Silver Tsukapon	은빛 츠카퐁
+38	おでかけコイン	外出幣	Outing Coin	외출 코인
+39	一旦なし	一旦なし	一旦なし	一旦なし
+40	リサイクル	回收	Recycle	리사이클
+41	カリブー君	卡力布君	Caribou	카리부 군
+42	スキルアップ	技能提升	Skill Up	스킬 업
+50	特別セール	特價拍賣	Special Sale	특별 세일
+51	特別セール	特價拍賣	Special Sale	특별 세일
+52	プライムセール	頂級促銷	Prime Sale	프라임 세일
+60	イベント	活動	Events	이벤트
+70	AP	AP	AP	AP
+71	AP	AP	AP	AP
+72	YP	YP	YP	YP
+80	ガチャメダル	遊戲幣	Medals	메달
+81	コスチューム	服裝	Costumes	코스튬
+82	サポート	輔助	Support	서포트
+83	野外活動	野外活動	Outdoor Activity	야외활동
+84	小田原キャンプ	小田原露營	Odawara Camp	오다와라 캠프
+85	旅キャン	旅露營	Travel Camp	여행캠프
+86	小田原キャンプ②	小田原露營②	Odawara Camp ②	오다와라 캠프 ②
+87	旅キャン②	旅露營②	Travel Camp ②	여행캠프②
+88	海キャン水着	海邊露營	Seaside Camp	바다 캠핑
+89	夏だ！ビーチだ！	夏天！沙灘！	Sun, Sand!	여름이다!
+90	カケラ	碎片	Fragment	조각
+100	クラブギフト	俱樂部	Club	클럽
+110	ゆるすたP	YG P	Yurusta Points	유르스타 Pt
+111	テント/タープ	帳篷/遮陽篷	Tent/Tarp	텐트/타프
+112	チェア/テーブル	椅子/桌子	Chair/Table	체어/테이블
+113	クッカー	炊具	Cooker	쿠커
+114	照明/焚火	照明/升火	Lighting/Bonfire	조명/모닥불
+115	焚火	升火	Bonfire	모닥불
+116	シュラフ	睡袋	Sleeping Bag	슬리핑백
+117	フィールドギア	戶外用品	Field Gear	필드 기어
+118	ペットギア	寵物用品	Pet Gear	펫 기어
+119	料理	料理	Food	요리
+120	素材/食材	素材/食材	Materials/Ingredients	소재/식자재
+121	食材	食材	Ingredients	식자재
+150	フレンド	好友	Friend	친구
+160	スタンプ	印章	Stamp	스탬프
+170	AP	AP	AP	AP
+171	AP	AP	AP	AP
+172	YP	YP	YP	YP
+180	フレーム	框架	Frame	프레임
