@@ -1830,7 +1830,10 @@ Falling Leaves Sticker Set"	"만주와
 1808	★3『海キャン水着』大垣千明	★3『海邊露營泳裝』大垣千明	★3『Seaside Camp Swimsuit』Chiaki Ogaki	★3『바다 캠핑 수영복』오가키 치아키
 1809	SR『海キャンの楽しみ方』	SR『海邊露營的樂趣』	SR『Seaside Camping Fun』	SR『바다 캠핑을 즐기는 방법』
 1810	SR『めちゃうまバーベキュー』	SR『超級好吃的烤肉』	SR『Delish BBQ』	SR『완전 맛있는 바비큐』
-1811		翻訳入力エラー	翻訳入力エラー	翻訳入力エラー
+1811	★3『海キャン水着』志摩リン	★3『海邊露營泳裝』志摩凜	★3『Seaside Camp Swimsuit』Rin Shima	★3『바다 캠핑 수영복』시마 린
+1812	★3『海キャン水着』斉藤恵那	★3『海邊露營泳裝』齊藤惠那	★3『Seaside Camp Swimsuit』Ena Saito	★3『바다 캠핑 수영복』사이토 에나
+1813	SR『夏の思い出』	SR『夏天的回憶』	SR『Summer Memories』	SR『여름의 추억』
+1814		翻訳入力エラー	翻訳入力エラー	翻訳入力エラー
 20001	お助けアイテム	"指定したパズル玉スキル玉
 仕掛けを壊すことができる
 ※仕掛けは1段階下げる効果(TW)"	"指定したパズル玉スキル玉
@@ -2361,7 +2364,47 @@ Bonus 119 YuruCoin (Silver)!"	"2회 한정! 유루코인이 혜택!
 ※2023/7/15まで交換可能"	您可以在2023/7/15之前用1個轉蛋幣（輔助）進行兌換。	"Exchange with Gacha Medal (Support) 1
 *Exchangeable until 7/15/2023"	"뽑기 메달(서포트) 1개로 교환 가능
 ※2023/7/15까지 교환 가능"
-20094		翻訳入力エラー	翻訳入力エラー	翻訳入力エラー
+20094	"ガチャメダル（海キャン水着②）250と交換できる
+※2023/7/28まで交換可能
+<color=""red"">※未所持のコスチュームと交換した場合は、コスチュームそのものに交換されます。</color>
+<color=""red"">※所持済みのコスチュームと交換した場合は、そのコスチュームのカケラに交換されます。</color>
+<color=""red"">ピックアップ対象の場合はカケラ40個、ピックアップ対象外の場合はカケラ25個です。</color>"	"您可以在2023/7/28之前用250個轉蛋幣（海邊露營②）進行兌換。
+<color=""red"">※如果兌換您已經擁有的服裝，它將自動轉換為碎片。 </color>"	"Exchange for 250 Gacha Medals (Seaside Camp ②)
+*Until 7/28/2023
+<color=""red"">*Owned Seaside Camp ②s will be automatically converted to Fragments upon exchange.</color>"	"뽑기 메달(바다 캠핑②) 250개로 교환 가능
+※2023/7/28까지 교환 가능
+<color=""red"">※소지하고 있는 코스튬을 교환하면 자동으로 조각으로 변환됩니다. </color>"
+20095	"ガチャメダル（海キャン水着②）1と交換できる
+※2023/7/28まで交換可能"	您可以在2023/7/28之前用1個轉蛋幣（海邊露營②）進行兌換。	"Exchange with Gacha Medal (Custome) 1
+*Exchangeable until 7/28/2023"	"뽑기 메달(바다 캠핑②) 1개로 교환 가능
+※2023/7/28까지 교환 가능"
+20096	"ガチャメダル（人気サポートカード）250と交換できる
+※2023/7/31まで交換可能
+<color=""red"">※未所持のサポートカードと交換した場合は、サポートカードそのものに交換されます。</color>
+<color=""red"">※所持済みのサポートカードと交換した場合は、そのサポートのカケラ50個に交換されます。</color>"	"您可以在2023/7/15之前用250個轉蛋幣（輔助）進行兌換。
+<color=""red"">※如果兌換您已經擁有的輔助卡，它將自動轉換為碎片。 </color>"	"Exchange for 250 Gacha Medals (Support)
+*Until 7/15/2023
+<color=""red"">*Owned Support Cards will be automatically converted to Fragments upon exchange.</color>"	"뽑기 메달(서포트) 250개로 교환 가능
+※2023/7/15까지 교환 가능
+<color=""red"">※소지하고 있는 서포트 카드을 교환하면 자동으로 조각으로 변환됩니다. </color>"
+20097	"ガチャメダル（人気サポートカード）1と交換できる
+※2023/7/31まで交換可能"	您可以在2023/7/15之前用1個轉蛋幣（輔助）進行兌換。	"Exchange with Gacha Medal (Support) 1
+*Exchangeable until 7/15/2023"	"뽑기 메달(서포트) 1개로 교환 가능
+※2023/7/15까지 교환 가능"
+20098	"ガチャメダル（夏だ！ビーチだ！②）250と交換できる
+※2023/7/28まで交換可能
+<color=""red"">※未所持のサポートカードと交換した場合は、サポートカードそのものに交換されます。</color>
+<color=""red"">※所持済みのサポートカードと交換した場合は、そのサポートのカケラ50個に交換されます。</color>"	"您可以在2023/7/28之前用250個轉蛋幣（夏天！沙灘！②）進行兌換。
+<color=""red"">※如果兌換您已經擁有的輔助卡，它將自動轉換為碎片。 </color>"	"Exchange for 250 Gacha Medals (Sun, Sand! ②)
+*Until 7/28/2023
+<color=""red"">*Owned Support Cards will be automatically converted to Fragments upon exchange.</color>"	"뽑기 메달(여름이다! ②) 250개로 교환 가능
+※2023/7/28까지 교환 가능
+<color=""red"">※소지하고 있는 서포트 카드을 교환하면 자동으로 조각으로 변환됩니다. </color>"
+20099	"ガチャメダル（夏だ！ビーチだ！②）1と交換できる
+※2023/7/28まで交換可能"	您可以在2023/7/28之前用1個轉蛋幣（夏天！沙灘！②）進行兌換。	"Exchange with Gacha Medal (Sun, Sand! ②) 1
+*Exchangeable until 7/28/2023"	"뽑기 메달(여름이다! ②) 1개로 교환 가능
+※2023/7/28까지 교환 가능"
+20100		翻訳入力エラー	翻訳入力エラー	翻訳入力エラー
 40001	"パズルに詰まった時に使ってみると案外クリアできるかも！？
 
 ・風太郎×3"	"パズルに詰まった時に使ってみると案外クリアできるかも！？
@@ -2879,7 +2922,47 @@ up to a maximum of 99."	"YP는 5 초과로 소지할 수 있으며,
 ※2023/7/15まで交換可能"	您可以在2023/7/15之前用1個轉蛋幣（輔助）進行兌換。	"Exchange with Gacha Medal (Support) 1
 *Exchangeable until 7/15/2023"	"뽑기 메달(서포트) 1개로 교환 가능
 ※2023/7/15까지 교환 가능"
-40082		翻訳入力エラー	翻訳入力エラー	翻訳入力エラー
+40082	"ガチャメダル（海キャン水着②）250と交換できる
+※2023/7/28まで交換可能
+<color=""red"">※未所持のコスチュームと交換した場合は、コスチュームそのものに交換されます。</color>
+<color=""red"">※所持済みのコスチュームと交換した場合は、そのコスチュームのカケラに交換されます。</color>
+<color=""red"">ピックアップ対象の場合はカケラ40個、ピックアップ対象外の場合はカケラ25個です。</color>"	"您可以在2023/7/28之前用250個轉蛋幣（海邊露營②）進行兌換。
+<color=""red"">※如果兌換您已經擁有的服裝，它將自動轉換為碎片。 </color>"	"Exchange for 250 Gacha Medals (Seaside Camp ②)
+*Until 7/28/2023
+<color=""red"">*Owned Seaside Camp ②s will be automatically converted to Fragments upon exchange.</color>"	"뽑기 메달(바다 캠핑②) 250개로 교환 가능
+※2023/7/28까지 교환 가능
+<color=""red"">※소지하고 있는 코스튬을 교환하면 자동으로 조각으로 변환됩니다. </color>"
+40083	"ガチャメダル（海キャン水着②）1と交換できる
+※2023/7/28まで交換可能"	您可以在2023/7/28之前用1個轉蛋幣（海邊露營②）進行兌換。	"Exchange with Gacha Medal (Custome) 1
+*Exchangeable until 7/28/2023"	"뽑기 메달(바다 캠핑②) 1개로 교환 가능
+※2023/7/28까지 교환 가능"
+40084	"ガチャメダル（人気サポートカード）250と交換できる
+※2023/7/31まで交換可能
+<color=""red"">※未所持のサポートカードと交換した場合は、サポートカードそのものに交換されます。</color>
+<color=""red"">※所持済みのサポートカードと交換した場合は、そのサポートのカケラ50個に交換されます。</color>"	"您可以在2023/7/15之前用250個轉蛋幣（輔助）進行兌換。
+<color=""red"">※如果兌換您已經擁有的輔助卡，它將自動轉換為碎片。 </color>"	"Exchange for 250 Gacha Medals (Support)
+*Until 7/15/2023
+<color=""red"">*Owned Support Cards will be automatically converted to Fragments upon exchange.</color>"	"뽑기 메달(서포트) 250개로 교환 가능
+※2023/7/15까지 교환 가능
+<color=""red"">※소지하고 있는 서포트 카드을 교환하면 자동으로 조각으로 변환됩니다. </color>"
+40085	"ガチャメダル（人気サポートカード）1と交換できる
+※2023/7/31まで交換可能"	您可以在2023/7/15之前用1個轉蛋幣（輔助）進行兌換。	"Exchange with Gacha Medal (Support) 1
+*Exchangeable until 7/15/2023"	"뽑기 메달(서포트) 1개로 교환 가능
+※2023/7/15까지 교환 가능"
+40086	"ガチャメダル（夏だ！ビーチだ！②）250と交換できる
+※2023/7/28まで交換可能
+<color=""red"">※未所持のサポートカードと交換した場合は、サポートカードそのものに交換されます。</color>
+<color=""red"">※所持済みのサポートカードと交換した場合は、そのサポートのカケラ50個に交換されます。</color>"	"您可以在2023/7/28之前用250個轉蛋幣（夏天！沙灘！②）進行兌換。
+<color=""red"">※如果兌換您已經擁有的輔助卡，它將自動轉換為碎片。 </color>"	"Exchange for 250 Gacha Medals (Sun, Sand! ②)
+*Until 7/28/2023
+<color=""red"">*Owned Support Cards will be automatically converted to Fragments upon exchange.</color>"	"뽑기 메달(여름이다! ②) 250개로 교환 가능
+※2023/7/28까지 교환 가능
+<color=""red"">※소지하고 있는 서포트 카드을 교환하면 자동으로 조각으로 변환됩니다. </color>"
+40087	"ガチャメダル（夏だ！ビーチだ！②）1と交換できる
+※2023/7/28まで交換可能"	您可以在2023/7/28之前用1個轉蛋幣（夏天！沙灘！②）進行兌換。	"Exchange with Gacha Medal (Sun, Sand! ②) 1
+*Exchangeable until 7/28/2023"	"뽑기 메달(여름이다! ②) 1개로 교환 가능
+※2023/7/28까지 교환 가능"
+40088		翻訳入力エラー	翻訳入力エラー	翻訳入力エラー
 100001	親密度S	親密度S	Intimacy S	친밀도 S
 100002	親密度M	親密度M	Intimacy M	친밀도 M
 100003	親密度L	親密度L	Intimacy L	친밀도 L

@@ -43,8 +43,9 @@ id	ja	zh-TW	en	ko
 1042	★2以上確定チケットガチャ	★2或以上必出抽獎券轉蛋	★2 or Higher Ensured Ticket Gacha	★2 이상 확정 티켓 뽑기
 1043	海キャン水着コスチュームガチャ	海邊露營泳裝服裝轉蛋	Seaside Camp Swimsuit Costume Gacha	바다 캠핑 수영복 코스튬 뽑기
 1044	夏だ！ビーチだ！海キャンだ！サポートカードガチャ	夏天！沙灘！海邊露營！輔助卡轉蛋	Sun, Sand, and Seaside Camp! Support Card Gacha	여름이다! 해변이다! 바다 캠핑이다! 서포트 카드 뽑기
-1045	海キャン水着コスチュームガチャ第2弾	海邊露營泳裝服裝轉蛋	Seaside Camp Swimsuit Costume Gacha	바다 캠핑 수영복 코스튬 뽑기
+1045	海キャン水着コスチュームガチャ第2弾	第2彈海邊露營泳裝服裝轉蛋	Part2 Seaside Camp Swimsuit Costume Gacha	제2탄 바다 캠핑 수영복 코스튬 뽑기
 1046	人気サポートカードピックアップガチャ	夏天！沙灘！海邊露營！輔助卡轉蛋	Sun, Sand, and Seaside Camp! Support Card Gacha	여름이다! 해변이다! 바다 캠핑이다! 서포트 카드 뽑기
+1047	夏だ！ビーチだ！海キャンだ！サポートカードガチャ第2弾	第2彈夏天！沙灘！海邊露營！輔助卡轉蛋	Part2 Sun, Sand, and Seaside Camp! Support Card Gacha	제2탄 여름이다! 해변이다! 바다 캠핑이다! 서포트 카드 뽑기
 2001	0	0(TW)	0(EN)	0(KO)
 3002	チュートリアル中専用のガチャです。	這是教學期間專用的轉蛋。	This is a Gacha exclusively for use during the tutorial.	이것은 튜토리얼 중 전용 뽑기입니다.
 3003	有償ガチャのテンプレです	有償ガチャのテンプレです(TW)	有償ガチャのテンプレです(EN)	有償ガチャのテンプレです(KO)
@@ -148,6 +149,24 @@ This Gacha is exclusive for
 ★2 or higher Guaranteed Gacha Tickets!"	"<color=""red"">★2 이상 코스튬을 획득합니다</color>
 ★2 이상 확정 뽑기 티켓 전용
 뽑기입니다!"
+3032	"ガチャ50回100回200回で
+<color=""red"">★3確定！ガチャメダル250枚</color>
+で<color=""red"">ピックアップ★3交換可能！</color>"	"在轉蛋50次、100次、200次時
+<color=""red"">★3確定！轉蛋獎牌250枚</color>
+可以<color=""red"">兌換你喜歡的★3！</color>"	"At 50, 100, and 200 gacha pulls
+<color=""red"">★3 Guaranteed! 250 Gacha Medals</color>
+which can be <color=""red"">exchanged for a ★3 of your choice!</color>"	"가챠 50회, 100회, 200회에서
+<color=""red"">★3 확정! 가챠 메달 250개</color>
+으로 <color=""red"">원하는 ★3을 교환 가능!</color>"
+3033	"ガチャ50回100回200回で
+<color=""red"">SR確定！ガチャメダル250枚</color>
+で<color=""red"">ピックアップSR交換可能！</color>"	"轉蛋50次，100次，200次
+<color=""red"">SR確定！轉蛋獎牌250枚</color>
+可以<color=""red"">兌換喜歡的SR！</color>"	"Gacha 50 times, 100 times, 200 times to get
+<color=""red"">SR Guaranteed! 250 Gacha Medals</color>
+which you can use to <color=""red"">exchange for an SR of your choice!</color>"	"가챠 50회, 100회, 200회로
+<color=""red"">SR 확정! 가챠 메달 250개</color>
+<color=""red"">원하는 SR을 교환 가능!</color>"
 4002	中野 二乃★4カード	中野 二乃★4カード(TW)	中野 二乃★4カード(EN)	中野 二乃★4カード(KO)
 4003	中野 二乃★3カード	中野 二乃★3カード(TW)	中野 二乃★3カード(EN)	中野 二乃★3カード(KO)
 5002	"・ごとぱずリリース記念♪一花の★5五つ子カードが必ず手に入る！
@@ -452,32 +471,32 @@ This Gacha is exclusive for
 ・픽업 카드는 이벤트 '여름이다! 해변이다! 바다 캠핑이다!'에서 포인트 보너스 효과가 부여됩니다!
 ・'서포트 카드 가챠 티켓'으로도 가챠를 할 수 있습니다!"
 5025	"・「ガチャメダル(海キャン水着②)」のおまけつき！1回ガチャで「1枚」、10回ガチャで「10枚」メダルがもらえる！
-・「ガチャメダル(海キャン水着②)」を規定数集めると好きな★3コスチュームと交換できる！
-・『つなキャン△』オリジナルのキャンプ衣装が手に入るチャンス！『海キャン水着』のリンがピックアップ！
+・「ガチャメダル(海キャン水着②)」を規定数集めるとピックアップ★3コスチュームと交換できる！
+・『つなキャン△』オリジナルのキャンプ衣装が手に入るチャンス！『海キャン水着』のリン、恵那がピックアップ！
 ・50回目、100回目、200回目のガチャでは★3コスチュームが必ずGETできる！さらにピックアップコスチュームの出現率もアップ♪
 ・登場するコスチュームはすべて着せ替え衣装付き！ホームや記念撮影で撮影したり、キャンプに連れて行ったりしましょう♪
-・『海キャン水着』はすべてイベント「レッツクラフト！海キャン」でポイントボーナス効果付き！
-・「コスチュームガチャチケ」でもガチャができる！"	"・附送「轉蛋獎牌(海邊露營泳裝)」！單次轉蛋可得到「1枚」獎牌，十次轉蛋可得到「10枚」獎牌！
-・當收集到一定數量的「轉蛋獎牌(海邊露營泳裝)」時，可以兌換喜歡的★3服裝！
-・有機會獲得「相約露營」原創的露營服裝！皮克上有穿著「海邊露營泳裝」的撫子和千明！
-・在第50次、第100次和第200次轉蛋時，必定可以獲得★3服裝！此外，皮克服裝的出現率也提高♪
-・出場的服裝都附有換裝衣服！在家裡拍照或作為紀念品，並帶到露營去♪
-・「海邊露營泳裝」的所有服裝都在「夏天！沙灘！海邊露營！」活動中附帶點數獎勵效果！
-・也可以使用「服裝轉蛋券」進行轉蛋！"	"・Bonus ""Gacha Medals (Seaside Camp Swimsuit)"" included! Get ""1"" medal for a single gacha roll, and ""10"" medals for ten gacha rolls!
-・Collect a certain number of ""Gacha Medals (Seaside Camp Swimsuit)"" to exchange for your favorite ★3 costume!
-・Chance to get original camping outfits from ""Camp Together""! Nadeshiko and Chiaki in ""Seaside Camp Swimsuit"" are featured!
-・On your 50th, 100th, and 200th gacha roll, you're guaranteed to GET a ★3 costume! Plus, the appearance rate of featured costumes increases♪
-・All the costumes that appear come with dress-up outfits! Take photos at home or as souvenirs, and take them to the camp♪
-・""Seaside Camp Swimsuit"" costumes all come with point bonus effects in the ""Sun, Sand, and Seaside Camp!"" event!
-・You can also use ""Costume Gacha Tickets"" for the gacha!"	"・'가챠 메달 (바다 캠핑 수영복)'이 포함된 보너스! 1회 가챠로 '1개', 10회 가챠로 '10개'의 메달을 받을 수 있습니다!
-・'가챠 메달 (바다 캠핑 수영복)'을 일정 수량 모으면 좋아하는 ★3 코스튬과 교환할 수 있습니다!
-・'츠나캠' 오리지널 캠핑 의상을 얻을 수 있는 기회! '바다 캠핑 수영복'의 나데시코, 치아키가 픽업!
-・50회, 100회, 200회 가챠에서는 ★3 코스튬을 반드시 GET 할 수 있습니다! 또한 픽업 코스튬의 출현률도 상승♪
-・등장하는 코스튬은 모두 의상 바꾸기가 가능! 집에서 사진을 찍거나 기념으로 찍고, 캠프에 가져 가 보세요♪
-・'바다 캠핑 수영복'은 모두 이벤트 '여름이다! 해변이다! 바다 캠핑이다!'에서 포인트 보너스 효과가 있습니다!
-・'코스튬 가챠 티켓'으로도 가챠를 할 수 있습니다!"
+・『海キャン水着』のリン、恵那はイベント「レッツクラフト！at海キャン」でポイントボーナス効果付き！
+・「コスチュームガチャチケ」でもガチャができる！"	"・獲得附贈的「轉蛋獎章(海邊露營泳裝②)」！單次轉蛋可以得到「1張」，10次轉蛋可以得到「10張」獎章！
+・集齊一定數量的「轉蛋獎章(海邊露營泳裝②)」，就可以將它們兌換成頭牌3星級服裝！
+・有機會獲得《連營△》原創的露營服裝！「海邊露營泳裝」的凛和惠奈被挑選出來！
+・在第50次、第100次、第200次轉蛋時，一定能得到3星級的服裝！此外，頭牌服裝的出現率也會增加♪
+・所有出現的服裝都附帶著換裝功能！帶它們回家或者帶去露營拍紀念照吧♪
+・「海邊露營泳裝」的凛和惠奈在「讓我們來手工製作！在海邊露營」活動中都帶有點數獎勵效果！
+・也可以使用「服裝轉蛋券」來轉蛋！"	"・Get bonus ""Gacha Medals (Sea Camp Swimsuits ②)""! You get ""1"" medal for a single pull, and ""10"" medals for a 10-pull!
+・Collect a certain number of ""Gacha Medals (Sea Camp Swimsuits ②)"" and you can exchange them for a featured 3-star costume!
+・A chance to get original camping outfits from ""Tie Up Camp△""! ""Sea Camp Swimsuits"" Rin, and Ena are featured!
+・On the 50th, 100th, and 200th pull, you're guaranteed to get a 3-star costume! Additionally, the appearance rate of featured costumes also increases♪
+・All the costumes that appear come with a dress-up feature! Take them home or to camp for commemorative photos♪
+・""Sea Camp Swimsuits"" Rin, and Ena come with point bonus effects in the event ""Let's Craft! at Sea Camp""!
+・You can also do a gacha with ""Costume Gacha Tickets""!"	"・""가차 메달(해캠프 수영복②)"" 보너스 획득! 1회 가차에서 ""1장"", 10회 가차에서 ""10장""의 메달을 받을 수 있습니다!
+・""가차 메달(해캠프 수영복②)""을 정해진 수량 모으면 픽업 3성 코스튬으로 교환할 수 있습니다!
+・""연결 캠프△""의 오리지널 캠핑 의상을 얻을 수 있는 기회! ""해캠프 수영복"" 린과 에나가 픽업되었습니다!
+・50회차, 100회차, 200회차 가차에서는 3성 코스튬을 반드시 GET할 수 있습니다! 게다가 픽업 코스튬의 등장률도 업♪
+・등장하는 코스튬은 모두 드레스업 의상이 포함되어 있습니다! 홈이나 기념 촬영에서 촬영하거나, 캠프에 데려가 봅시다♪
+・""해캠프 수영복""의 린과 에나는 이벤트 '렛츠 크래프트! at 바다 캠프'에서 포인트 보너스 효과가 부여됩니다!
+・'코스튬 가차 티켓'으로도 가차를 할 수 있습니다!"
 5026	"・「ガチャメダル(人気サポートカード）」のおまけつき！1回ガチャで「1枚」、10回ガチャで「10枚」メダルがもらえる！
-・「ガチャメダル(人気サポートカード)」を規定数集めると好きなSRサポートカードと交換できる！
+・「ガチャメダル(人気サポートカード)」を規定数集めるとピックアップSRサポートカードと交換できる！
 ・『つなキャン△』オリジナルのカードやアニメ『ゆるキャン△』の印象的なシーンを使用したカードが手に入るチャンス！『夜のふじさんやっぱりいいねぇ』『温まるキャンプごはん作るぞ―っ！』がピックアップ！
 ・50回目、100回目、200回目のガチャではSRサポートカードが必ずGETできる！さらにピックアップカードの出現率もアップ♪
 ・ピックアップカードはイベント「レッツクラフト！海キャン」でポイントボーナス効果付き！
@@ -497,6 +516,27 @@ This Gacha is exclusive for
 ・50회, 100회, 200회 가챠에서는 SR 서포트 카드를 반드시 GET 할 수 있습니다! 또한 픽업 카드의 등장률도 상승♪
 ・픽업 카드는 이벤트 '여름이다! 해변이다! 바다 캠핑이다!'에서 포인트 보너스 효과가 부여됩니다!
 ・'서포트 카드 가챠 티켓'으로도 가챠를 할 수 있습니다!"
+5027	"・「ガチャメダル(夏だ！ビーチだ！②）」のおまけつき！1回ガチャで「1枚」、10回ガチャで「10枚」メダルがもらえる！
+・「ガチャメダル(夏だ！ビーチだ！②)」を規定数集めるとピックアップSRサポートカードと交換できる！
+・『つなキャン△』オリジナルのカードやアニメ『ゆるキャン△』の印象的なシーンを使用したカードが手に入るチャンス！『夏の思い出』『キャンプで使うのが楽しみ』『キンキンしまりんだんごアイス』がピックアップ！
+・50回目、100回目、200回目のガチャではSRサポートカードが必ずGETできる！さらにピックアップカードの出現率もアップ♪
+・ピックアップカードはイベント「レッツクラフト！at海キャン」でポイントボーナス効果付き！
+・「サポートカードガチャチケ」でもガチャができる！"	"・獲得附贈的「轉蛋獎章(夏天來了！海灘來了！②)」！單次轉蛋可以得到「1張」，10次轉蛋可以得到「10張」獎章！
+・集齊一定數量的「轉蛋獎章(夏天來了！海灘來了！②)」，就可以將它們兌換成頭牌SR支援卡！
+・有機會獲得《連營△》原創的卡牌或《輕鬆露營△》動畫中印象深刻場景的卡牌！「夏天的回憶」、「太期待下次去露營的時候用這個了。」、「冰冰涼涼志摩凜糰子冰淇淋」被挑選出來！
+・在第50次、第100次、第200次轉蛋時，一定能得到SR支援卡！此外，頭牌卡牌的出現率也會增加♪
+・頭牌卡牌在「讓我們來手工製作！在海邊露營」活動中都帶有點數獎勵效果！
+・也可以使用「支援卡轉蛋券」來轉蛋！"	"・Get bonus ""Gacha Medals (Summer is here! Beach is here! ②)""! You get ""1"" medal for a single pull, and ""10"" medals for a 10-pull!
+・Collect a certain number of ""Gacha Medals (Summer is here! Beach is here! ②)"" and you can exchange them for a featured SR support card!
+・A chance to get original cards from ""Tie Up Camp△"" or cards featuring memorable scenes from the anime ""Yuru Camp△""! ""Summer Memories"", ""Can't Wait to Use This"", ""Icy Cold Shimarin"" are featured!
+・On the 50th, 100th, and 200th pull, you're guaranteed to get an SR support card! Additionally, the appearance rate of featured cards also increases♪
+・Featured cards come with point bonus effects in the event ""Let's Craft! at Sea Camp""!
+・You can also do a gacha with ""Support Card Gacha Tickets""!"	"・""가차 메달(여름이다! 비치다! ②)"" 보너스 획득! 1회 가차에서 ""1장"", 10회 가차에서 ""10장""의 메달을 받을 수 있습니다!
+・""가차 메달(여름이다! 비치다! ②)""을 정해진 수량 모으면 픽업 SR 지원 카드로 교환할 수 있습니다!
+・""연결 캠프△""의 오리지널 카드나 애니메이션 ""유루 캠프△""의 인상적인 장면을 사용한 카드를 얻을 수 있는 기회! ""여름의 추억"", ""캠핑에서 쓰는 게 기대돼"", ""꽁꽁 시마린 경단 아이스""이 픽업되었습니다!
+・50회차, 100회차, 200회차 가차에서는 SR 지원 카드를 반드시 GET할 수 있습니다! 게다가 픽업 카드의 등장률도 업♪
+・픽업 카드는 이벤트 '렛츠 크래프트! at 바다 캠프'에서 포인트 보너스 효과가 부여됩니다!
+・'지원 카드 가차 티켓'으로도 가차를 할 수 있습니다!"
 6001	"＜ガチャの注目ポイント＞
 ・【袴2020】に日向坂46メンバー8人が新登場！
 ・★5【袴2020】には、メンバーサイン入りのものも！
@@ -1557,70 +1597,68 @@ N 서포트 카드: 해당 서포트 카드의 조각 × 50
 ※本ガチャでは「コスチュームガチャチケ」以外のガチャチケは使用できません。
 ※「ガチャメダル(海キャン水着②)」が獲得できるのは本ガチャの開催期間中のみとなります。
 ※「ガチャメダル(海キャン水着②)」はショップのガチャメダル(海キャン水着②)交換所で利用できます。
-※「ガチャメダル(海キャン水着②)」を利用できるのは、2023年7月22日(土)までとなります。"	"・這個轉蛋可以讓你獲得★1或更高的服裝。
-・當你獲得服裝時，你還可以根據獲得的服裝的稀有度獲得一定數量的「富士山」代幣作為附加獎勵。
-・如果你獲得了已經擁有的服裝，它將根據其稀有度轉換為相應服裝的碎片。
+※「ガチャメダル(海キャン水着②)」を利用できるのは、2023年7月28日(金)までとなります。"	"・這是能夠獲得★1以上的服裝的轉蛋。
+・獲得服裝後，可以根據獲得服裝的稀有度獲得額外的「富士山」。
+・如果獲得了已經擁有的服裝，將會根據稀有度轉換為相應服裝的碎片。
 
-<獲得的「富士山」數量>
+<富士山獲得數量>
 ★3服裝：富士山×20
 ★2服裝：富士山×3
 ★1服裝：富士山×1
 
-<轉換的碎片數量>
-精選★3服裝：相應服裝的碎片×40
+<轉換為碎片的數量>
+Pick up ★3服裝：相應服裝的碎片×40
 ★3服裝：相應服裝的碎片×25
 ★2服裝：相應服裝的碎片×4
 ★1服裝：相應服裝的碎片×2
 
 <注意事項>
-※轉蛋的內容可能會在沒有通知的情況下變更。
-※當轉蛋次數達到200次時，屏幕右下角的條將返回0次，每次再次達到50次，100次，200次時，可以確定獲得★3服裝。
-※本轉蛋只能使用「服裝轉蛋券」，不能使用其他轉蛋券。
-※只有在本轉蛋的活動期間內才能獲得「轉蛋金牌（海邊露營泳裝）」。
-※「轉蛋金牌（海邊露營泳裝）」可以在轉蛋金牌（海邊露營泳裝）兌換店使用。
-※「轉蛋金牌（海邊露營泳裝）」的使用期限是2023年7月15日（星期六）。"	"・This gacha allows you to obtain costumes that are ★1 or higher.
-・When you obtain a costume, you can also get a bonus of ""Fuji-san"" tokens according to the rarity of the obtained costume.
-・If you obtain a costume you already have, it will be converted into fragments of the costume based on its rarity.
+※轉蛋的內容可能會無預告地變更。
+※轉蛋次數達到200次時，畫面右下的條狀圖將會回到0次，每次達到50次、100次、200次時，都能確定獲得★3的服裝。
+※本轉蛋無法使用「服裝轉蛋券」以外的轉蛋券。
+※只能在本轉蛋的開放期間獲得「轉蛋獎章(海邊露營泳裝②)」。
+※「轉蛋獎章(海邊露營泳裝②)」可以在商店的「轉蛋獎章(海邊露營泳裝②)」兌換處使用。
+※「轉蛋獎章(海邊露營泳裝②)」只能使用到2023年7月28日(星期五)。"	"・This is a gacha where you can acquire costumes of ★1 rarity or higher.
+・When you acquire a costume, you can get bonus ""Mt. Fuji"" tokens according to the rarity of the costume you obtained.
+・If you acquire a costume you already own, it will be converted into shards of each costume according to its rarity.
 
-<Number of ""Fuji-san"" Tokens Earned>
-★3 Costume: 20 Fuji-san tokens
-★2 Costume: 3 Fuji-san tokens
-★1 Costume: 1 Fuji-san token
+<Fuji token acquisition amount>
+★3 Costume: 20 Mt. Fuji tokens
+★2 Costume: 3 Mt. Fuji tokens
+★1 Costume: 1 Mt. Fuji token
+<Number of shards converted>
+Pickup ★3 Costume: 40 shards of the corresponding costume
+★3 Costume: 25 shards of the corresponding costume
+★2 Costume: 4 shards of the corresponding costume
+★1 Costume: 2 shards of the corresponding costume
+<Precautions>
+※The contents of the gacha may be changed without notice.
+※When the number of gacha pulls reaches 200, the bar at the bottom right of the screen will return to 0, and a ★3 costume is guaranteed to be acquired each time it reaches 50, 100, and 200 again.
+※In this gacha, you cannot use gacha tickets other than ""Costume Gacha Tickets"".
+※You can only acquire ""Gacha Medal (Seaside Camp Swimsuit ②)"" during the period of this gacha.
+※""Gacha Medal (Seaside Camp Swimsuit ②)"" can be used in the ""Gacha Medal (Seaside Camp Swimsuit ②)"" exchange shop.
+※""Gacha Medal (Seaside Camp Swimsuit ②)"" can be used until July 28, 2023 (Friday)."	"・본 가차는 ★1 이상의 코스튬을 획득할 수 있는 가차입니다.
+・코스튬을 획득하면 획득한 코스튬의 레어리티에 따른 수량의 '후지산'을 보너스로 획득할 수 있습니다.
+・이미 소유하고 있는 코스튬을 획득한 경우, 레어리티에 따른 수량의 각 코스튬의 조각으로 변환됩니다.
 
-<Number of Fragments Converted>
-Featured ★3 Costume: 40 fragments of the respective costume
-★3 Costume: 25 fragments of the respective costume
-★2 Costume: 4 fragments of the respective costume
-★1 Costume: 2 fragments of the respective costume
+<후지산 획득 수>
+★3 코스튬: 후지산×20
+★2 코스튬: 후지산×3
+★1 코스튬: 후지산×1
 
-<Notes>
-※The content of the gacha may change without notice.
-※When the number of gacha rolls reaches 200, the bar in the bottom right corner of the screen will return to 0, and you can get a guaranteed ★3 costume every time you reach 50, 100, and 200 rolls again.
-※Only ""Costume Gacha Tickets"" can be used in this gacha. Other gacha tickets cannot be used.
-※""Gacha Medals (Seaside Camp Swimsuit)"" can only be obtained during the event period of this gacha.
-※""Gacha Medals (Seaside Camp Swimsuit)"" can be used in the Gacha Medal (Seaside Camp Swimsuit) exchange shop.
-※""Gacha Medals (Seaside Camp Swimsuit)"" can be used until July 15, 2023 (Saturday)."	"・★1 이상의 코스튬을 획득할 수 있는 가챠입니다.
-・코스튬을 획득하면, 획득한 코스튬의 레어도에 따라 '후지산'을 추가로 획득할 수 있습니다.
-・이미 보유하고 있는 코스튬을 획득한 경우, 레어도에 따라 해당 코스튬 조각으로 변환됩니다.
+<변환되는 조각 수>
+픽업 ★3 코스튬: 해당 코스튬의 조각×40
+★3 코스튬: 해당 코스튬의 조각×25
+★2 코스튬: 해당 코스튬의 조각×4
+★1 코스튬: 해당 코스튬의 조각×2
 
-＜'후지산' 획득 수＞
-★3 코스튬：후지산×20
-★2 코스튬：후지산×3
-★1 코스튬：후지산×1
-
-＜변환되는 조각 수＞
-픽업 ★3 코스튬：해당 코스튬의 조각×40
-★3 코스튬：해당 코스튬의 조각×25
-★2 코스튬：해당 코스튬의 조각×4
-★1 코스튬：해당 코스튬의 조각×2
-
-＜주의 사항＞
-※가챠의 내용은 예고 없이 변경될 수 있습니다.
-※가챠 횟수가 200회에 도달하면, 화면 우측 하단의 바는 0회로 돌아가며, 다시 50회, 100회, 200회에 도달할 때마다 ★3 코스튬을 확정으로 획득할 수 있습니다.
-※본 가챠에서는 '코스튬 가챠 티켓' 이외의 가챠 티켓은 사용할 수 없습니다.
-※'가챠 메달(바다 캠핑 수영복)'을 획득할 수 있는 것은 본 가챠 개최 기간 동안만입니다.
-※'가챠 메달(바다 캠핑 수영복)'은 가챠 메달(바다 캠핑 수영복) 교환소에서 사용할 수 있습니다.
-※'가챠 메달(바다 캠핑 수영복)'을 사용할 수 있는 기간은 2023년 7월 15일(토)까지입니다."
+<주의 사항>
+※가차의 내용은 예고 없이 변경될 수 있습니다.
+※가차 횟수가 200회에 도달하면, 화면 오른쪽 아래의 바는 0회로 돌아가며, 다시 50회, 100회, 200회에 도달할 때마다 ★3 코스튬이 확정적으로 획득됩니다.
+※본 가차에서는 '코스튬 가차 티켓' 외의 가차 티켓은 사용할 수 없습니다.
+※'가차 메달(해변 캠프 수영복 ②)'을 획득할 수 있는 것은 본 가차의 개최 기간 동안만입니다.
+※'가차 메달(해변 캠프 수영복 ②)'은 가게의 가차 메달(해변 캠프 수영복 ②) 교환소에서 이용할 수 있습니다.
+※'가차 메달(해변 캠프 수영복 ②)'을 이용할 수 있는 것은 2023년 7월 28일(금)까지입니다."
 6025	"・N以上のサポートカードを獲得できるガチャです。
 ・すでに所持しているサポートカードを獲得した場合、レアリティに応じた数の各サポートカードのカケラに変換されます。
 
@@ -1635,7 +1673,7 @@ Nサポートカード：該当サポートカードのカケラ×50
 ※本ガチャでは「サポートカードガチャチケ」以外のガチャチケは使用できません。
 ※「ガチャメダル(人気サポートカード)」が獲得できるのは本ガチャの開催期間中のみとなります。
 ※「ガチャメダル(人気サポートカード)」はショップのガチャメダル(人気サポートカード)交換所で利用できます。
-※「ガチャメダル(人気サポートカード)」を利用できるのは、2023年7月22日(土)までとなります。
+※「ガチャメダル(人気サポートカード)」を利用できるのは、2023年7月28日(金)までとなります。
 ※ガチャの画像に表示されているイラストは、サポートカードで使用しているイラストと異なる場合があります。"	"・這是一個你可以獲得N或更高稀有度的輔助卡轉蛋。
 ・如果你獲得了已經擁有的輔助卡，它將根據其稀有度轉換為相應的輔助卡碎片。
 
@@ -1682,6 +1720,66 @@ N 서포트 카드: 해당 서포트 카드의 조각 × 50
 ※'뽑기 메달(여름이다! 해변이다! 바다 캠핑이다!)'은 상점의 뽑기 메달(여름이다! 해변이다! 바다 캠핑이다!) 교환소에서 사용할 수 있습니다.
 ※'뽑기 메달(여름이다! 해변이다! 바다 캠핑이다!)'은 2023년 7월 15일(토)까지 사용할 수 있습니다.
 ※뽑기 이미지에 표시된 일러스트는 서포트 카드에서 사용하는 일러스트와 다를 수 있습니다."
+6026	"・N以上のサポートカードを獲得できるガチャです。
+・すでに所持しているサポートカードを獲得した場合、レアリティに応じた数の各サポートカードのカケラに変換されます。
+
+＜変換されるカケラ個数＞
+SRサポートカード：該当サポートカードのカケラ×50
+Rサポートカード：該当サポートカードのカケラ×50
+Nサポートカード：該当サポートカードのカケラ×50
+
+＜注意事項＞
+※ガチャの内容は予告なく変更する場合があります。
+※ガチャ回数が200回に到達すると、画面右下のバーは0回に戻り、再度50回、100回、200回に達するごとにSRサポートカードが確定で獲得できます。
+※本ガチャでは「サポートカードガチャチケ」以外のガチャチケは使用できません。
+※「ガチャメダル(夏だ！ビーチだ！②)」が獲得できるのは本ガチャの開催期間中のみとなります。
+※「ガチャメダル(夏だ！ビーチだ！②)」はショップのガチャメダル(夏だ！ビーチだ！②)交換所で利用できます。
+※「ガチャメダル(夏だ！ビーチだ！②)」を利用できるのは、2023年7月28日(金)までとなります。
+※ガチャの画像に表示されているイラストは、サポートカードで使用しているイラストと異なる場合があります。"	"・這是一個能獲得N稀有度或更高的支援卡的轉蛋。
+・如果獲得了已經擁有的支援卡，將會根據稀有度轉換為相應支援卡的碎片。
+
+<轉換為碎片的數量>
+SR支援卡：相應支援卡的碎片×50
+R支援卡：相應支援卡的碎片×50
+N支援卡：相應支援卡的碎片×50
+
+<注意事項>
+※轉蛋的內容可能會無預告地變更。
+※轉蛋次數達到200次時，畫面右下的條狀圖將會回到0次，每次達到50次、100次、200次時，都能確定獲得SR的支援卡。
+※本轉蛋無法使用「支援卡轉蛋券」以外的轉蛋券。
+※只能在本轉蛋的開放期間獲得「轉蛋獎章(夏天！海灘！②)」。
+※「轉蛋獎章(夏天！海灘！②)」可以在商店的「轉蛋獎章(夏天！海灘！②)」兌換處使用。
+※「轉蛋獎章(夏天！海灘！②)」只能使用到2023年7月28日(星期五)。
+※轉蛋圖像顯示的插圖可能與支援卡使用的插圖不同。"	"・This is a gacha where you can acquire support cards of N rarity or higher.
+・If you acquire a support card you already own, it will be converted into shards of each support card according to its rarity.
+
+<Number of shards converted>
+SR Support Card: 50 shards of the corresponding support card
+R Support Card: 50 shards of the corresponding support card
+N Support Card: 50 shards of the corresponding support card
+<Precautions>
+※The contents of the gacha may be changed without notice.
+※When the number of gacha pulls reaches 200, the bar at the bottom right of the screen will return to 0, and an SR support card is guaranteed to be acquired each time it reaches 50, 100, and 200 again.
+※In this gacha, you cannot use gacha tickets other than ""Support Card Gacha Tickets"".
+※You can only acquire ""Gacha Medal (Summer! Beach! ②)"" during the period of this gacha.
+※""Gacha Medal (Summer! Beach! ②)"" can be used in the ""Gacha Medal (Summer! Beach! ②)"" exchange shop.
+※""Gacha Medal (Summer! Beach! ②)"" can be used until July 28, 2023 (Friday).
+※The illustrations shown in the gacha images may differ from the illustrations used in the support cards."	"・본 가차는 N 이상의 서포트 카드를 획득할 수 있는 가차입니다.
+・이미 소유하고 있는 서포트 카드를 획득한 경우, 레어리티에 따른 수량의 각 서포트 카드의 조각으로 변환됩니다.
+
+<변환되는 조각 수>
+SR 서포트 카드: 해당 서포트 카드의 조각×50
+R 서포트 카드: 해당 서포트 카드의 조각×50
+N 서포트 카드: 해당 서포트 카드의 조각×50
+
+<주의 사항>
+※가차의 내용은 예고 없이 변경될 수 있습니다.
+※가차 횟수가 200회에 도달하면, 화면 오른쪽 아래의 바는 0회로 돌아가며, 다시 50회, 100회, 200회에 도달할 때마다 SR 서포트 카드가 확정적으로 획득됩니다.
+※본 가차에서는 '서포트 카드 가차 티켓' 외의 가차 티켓은 사용할 수 없습니다.
+※'가차 메달(여름이다! 해변이다! ②)'을 획득할 수 있는 것은 본 가차의 개최 기간 동안만입니다.
+※'가차 메달(여름이다! 해변이다! ②)'은 가게의 가차 메달(여름이다! 해변이다! ②) 교환소에서 이용할 수 있습니다.
+※'가차 메달(여름이다! 해변이다! ②)'을 이용할 수 있는 것은 2023년 7월 28일(금)까지입니다.
+※가차의 이미지에 표시된 일러스트는 서포트 카드에서 사용하는 일러스트와 다를 수 있습니다."
 7001	10度目のガチャが終わると11度目以降のガチャはステップ1～10を繰り返します。	10度目のガチャが終わると11度目以降のガチャはステップ1～10を繰り返します。(TW)	10度目のガチャが終わると11度目以降のガチャはステップ1～10を繰り返します。(EN)	10度目のガチャが終わると11度目以降のガチャはステップ1～10を繰り返します。(KO)
 7003	4度目のガチャが終わると5度目以降のガチャはステップ1～4を繰り返します。	4度目のガチャが終わると5度目以降のガチャはステップ1～4を繰り返します。(TW)	4度目のガチャが終わると5度目以降のガチャはステップ1～4を繰り返します。(EN)	4度目のガチャが終わると5度目以降のガチャはステップ1～4を繰り返します。(KO)
 8002	1回無料!	1回無料!(TW)	1回無料!(EN)	1回無料!(KO)

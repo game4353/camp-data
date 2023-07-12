@@ -345,6 +345,8 @@ YPが90回復する"	恢復營地所需的 90 AP	Restores 90 AP needed to camp	�
 100091	ガチャメダル（夏だ！ビーチだ！）	翻訳不要	翻訳不要	翻訳不要
 100101	ガチャメダル（海キャン水着②）	翻訳不要	翻訳不要	翻訳不要
 100111	ガチャメダル（人気サポートカード）	翻訳不要	翻訳不要	翻訳不要
+100121	ガチャメダル（海キャン水着③）	翻訳不要	翻訳不要	翻訳不要
+100131	ガチャメダル（夏だ！ビーチだ！②）	翻訳不要	翻訳不要	翻訳不要
 107031	ガチャメダル(◯◯)	翻訳不要	翻訳不要	翻訳不要
 107032	集めると交換所で特別なアイテムと交換できる	翻訳不要	翻訳不要	翻訳不要
 200011	イベントアイテム1	翻訳不要	翻訳不要	翻訳不要
@@ -613,18 +615,30 @@ AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高
 2110141	シナモン	肉桂	Cinnamon	시나몬
 2110151	オリーブオイル	橄欖油	Olive Oil	올리브 오일
 2110161	ラムシロップ	朗姆酒糖漿	Ram Syrup	램 시럽
-9702011	称号「夏だ！ビーチだ！海キャンだ！ 1位」	稱號「旅遊露營的開始！RECAMP 小田原」	Title「Beginning of Camping Trip！Recamp Odawara」	칭호「여행 캠핑 시작！RECAMP 오다와라」
-9702012	イベント「夏だ！ビーチだ！海キャンだ！」で獲得できる称号	活動“旅遊露營的開始！RECAMP 小田原”中可獲得的稱號	"Titles that can be obtained in event ""Beginning of Camping Trip！Recamp Odawara"""	이벤트 '여행 캠핑 시작！RECAMP 오다와라' 에서 획득할 수 있는 칭호
-9702021	称号「夏だ！ビーチだ！海キャンだ！ 2位」	稱號「旅遊露營的開始！RECAMP 小田原」	Title「Beginning of Camping Trip！Recamp Odawara」	칭호「여행 캠핑 시작！RECAMP 오다와라」
-9702031	称号「夏だ！ビーチだ！海キャンだ！ 3位」	稱號「旅遊露營的開始！RECAMP 小田原」	Title「Beginning of Camping Trip！Recamp Odawara」	칭호「여행 캠핑 시작！RECAMP 오다와라」
-9702041	称号「夏だ！ビーチだ！海キャンだ！ TOP5」	稱號「旅遊露營的開始！RECAMP 小田原」	Title「Beginning of Camping Trip！Recamp Odawara」	칭호「여행 캠핑 시작！RECAMP 오다와라」
-9702051	称号「夏だ！ビーチだ！海キャンだ！ TOP10」	稱號「旅遊露營的開始！RECAMP 小田原」	Title「Beginning of Camping Trip！Recamp Odawara」	칭호「여행 캠핑 시작！RECAMP 오다와라」
-9702061	称号「夏だ！ビーチだ！海キャンだ！ TOP50」	稱號「旅遊露營的開始！RECAMP 小田原」	Title「Beginning of Camping Trip！Recamp Odawara」	칭호「여행 캠핑 시작！RECAMP 오다와라」
-9702071	称号「夏だ！ビーチだ！海キャンだ！ TOP100」	稱號「旅遊露營的開始！RECAMP 小田原」	Title「Beginning of Camping Trip！Recamp Odawara」	칭호「여행 캠핑 시작！RECAMP 오다와라」
-9702081	称号「夏だ！ビーチだ！海キャンだ！ TOP500」	稱號「旅遊露營的開始！RECAMP 小田原」	Title「Beginning of Camping Trip！Recamp Odawara」	칭호「여행 캠핑 시작！RECAMP 오다와라」
-9702091	称号「夏だ！ビーチだ！海キャンだ！ TOP1000」	稱號「旅遊露營的開始！RECAMP 小田原」	Title「Beginning of Camping Trip！Recamp Odawara」	칭호「여행 캠핑 시작！RECAMP 오다와라」
-9702101	称号「夏だ！ビーチだ！海キャンだ！ TOP5000」	稱號「旅遊露營的開始！RECAMP 小田原」	Title「Beginning of Camping Trip！Recamp Odawara」	칭호「여행 캠핑 시작！RECAMP 오다와라」
-9702111	称号「夏だ！ビーチだ！海キャンだ！ TOP10000」	稱號「旅遊露營的開始！RECAMP 小田原」	Title「Beginning of Camping Trip！Recamp Odawara」	칭호「여행 캠핑 시작！RECAMP 오다와라」
+9702011	称号「夏だ！ビーチだ！ 1位」	稱號「夏天！海灘！第一名」	"Title ""Summer! Beach! 1st Place"""	"칭호 ""여름이다! 비치다! 1위"""
+9702012	イベント「夏だ！ビーチだ！」で獲得できる称号	在活動「夏天！海灘！」中可以獲得的稱號	"Title that can be obtained in the event ""Summer! Beach!"""	"이벤트 ""여름이다! 비치다!""에서 획득할 수 있는 칭호"
+9702021	称号「夏だ！ビーチだ！ 2位」	稱號「夏天！海灘！第二名」	"Title ""Summer! Beach! 2nd Place"""	"칭호 ""여름이다! 비치다! 2위"""
+9702031	称号「夏だ！ビーチだ！ 3位」	稱號「夏天！海灘！ 第三名」	"Title ""Summer! Beach! 3rd Place"""	칭호「여름이다! 비치다! 3위」
+9702041	称号「夏だ！ビーチだ！ TOP5」	稱號「夏天！海灘！ TOP5」	"Title ""Summer! Beach! TOP 5"""	"칭호 ""여름이다! 비치다! TOP5"""
+9702051	称号「夏だ！ビーチだ！ TOP10」	稱號「夏天！海灘！ TOP10」	"Title ""Summer! Beach! TOP10"""	칭호「여름이다! 비치다! TOP10」
+9702061	称号「夏だ！ビーチだ！ TOP50」	稱號「夏天！海灘！ TOP50」	"Title ""Summer! Beach! TOP50"""	"칭호 ""여름이다! 비치다! TOP50"""
+9702071	称号「夏だ！ビーチだ！ TOP100」	稱號「夏天！海灘！ TOP100」	"Title ""Summer! Beach! TOP100"""	"칭호 ""여름이다! 비치다! TOP100"""
+9702081	称号「夏だ！ビーチだ！ TOP500」	稱號「夏天！海灘！ TOP500」	"Title ""Summer! Beach! TOP500"""	"칭호 ""여름이다! 비치다! TOP500"""
+9702091	称号「夏だ！ビーチだ！ TOP1,000」	稱號「夏天！海灘！ TOP1,000」	"Title ""Summer! Beach! TOP 1,000"""	"칭호 ""여름이다! 비치다! TOP 1,000"""
+9702101	称号「夏だ！ビーチだ！ TOP5,000」	稱號「夏天！海灘！ TOP5,000」	"Title ""Summer! Beach! TOP 5,000"""	"칭호 ""여름이다! 비치다! TOP 5,000"""
+9702111	称号「夏だ！ビーチだ！ TOP10,000」	稱號「夏天！海灘！ TOP10,000」	"Title ""Summer! Beach! TOP 10,000"""	"칭호 ""여름이다! 비치다! TOP 10,000"""
+9703011	称号「ﾚｯﾂｸﾗﾌﾄ！at海キャン 1位」	稱號「讓我們來製作吧！在海邊露營第一名」	"Title ""Let's Craft! at Seaside Camp 1st Place"""	"칭호 ""레츠 제작! at바다 캠핑 1위"""
+9703012	イベント「ﾚｯﾂｸﾗﾌﾄ！at海キャン」で獲得できる称号	在活動「讓我們來製作吧！在海邊露營」中可以獲得的稱號	"Title that can be obtained in the event ""Let's Craft! at Seaside Camp"""	"이벤트 ""레츠 제작! at바다 캠핑""에서 획득할 수 있는 칭호"
+9703021	称号「ﾚｯﾂｸﾗﾌﾄ！at海キャン 2位」	稱號「讓我們來製作吧！在海邊露營第二名」	"Title ""Let's Craft! at Seaside Camp 2nd Place"""	"칭호 ""레츠 제작! at바다 캠핑 2위"""
+9703031	称号「ﾚｯﾂｸﾗﾌﾄ！at海キャン 3位」	稱號「讓我們來製作吧！在海邊露營 第三名」	"Title ""Let's Craft! at Seaside Camp 3rd Place"""	칭호「레츠 제작! at바다 캠핑 3위」
+9703041	称号「ﾚｯﾂｸﾗﾌﾄ！at海キャン TOP5」	稱號「讓我們來製作吧！在海邊露營 TOP5」	"Title ""Let's Craft! at Seaside Camp TOP 5"""	"칭호 ""레츠 제작! at바다 캠핑 TOP5"""
+9703051	称号「ﾚｯﾂｸﾗﾌﾄ！at海キャン TOP10」	稱號「讓我們來製作吧！在海邊露營 TOP10」	"Title ""Let's Craft! at Seaside Camp TOP10"""	칭호「레츠 제작! at바다 캠핑 TOP10」
+9703061	称号「ﾚｯﾂｸﾗﾌﾄ！at海キャン TOP50」	稱號「讓我們來製作吧！在海邊露營 TOP50」	"Title ""Let's Craft! at Seaside Camp TOP50"""	"칭호 ""레츠 제작! at바다 캠핑 TOP50"""
+9703071	称号「ﾚｯﾂｸﾗﾌﾄ！at海キャン TOP100」	稱號「讓我們來製作吧！在海邊露營 TOP100」	"Title ""Let's Craft! at Seaside Camp TOP100"""	"칭호 ""레츠 제작! at바다 캠핑 TOP100"""
+9703081	称号「ﾚｯﾂｸﾗﾌﾄ！at海キャン TOP500」	稱號「讓我們來製作吧！在海邊露營 TOP500」	"Title ""Let's Craft! at Seaside Camp TOP500"""	"칭호 ""레츠 제작! at바다 캠핑 TOP500"""
+9703091	称号「ﾚｯﾂｸﾗﾌﾄ！at海キャン TOP1,000」	稱號「讓我們來製作吧！在海邊露營 TOP1,000」	"Title ""Let's Craft! at Seaside Camp TOP 1,000"""	"칭호 ""레츠 제작! at바다 캠핑 TOP 1,000"""
+9703101	称号「ﾚｯﾂｸﾗﾌﾄ！at海キャン TOP5,000」	稱號「讓我們來製作吧！在海邊露營 TOP5,000」	"Title ""Let's Craft! at Seaside Camp TOP 5,000"""	"칭호 ""레츠 제작! at바다 캠핑 TOP 5,000"""
+9703111	称号「ﾚｯﾂｸﾗﾌﾄ！at海キャン TOP10,000」	稱號「讓我們來製作吧！在海邊露營 TOP10,000」	"Title ""Let's Craft! at Seaside Camp TOP 10,000"""	"칭호 ""레츠 제작! at바다 캠핑 TOP 10,000"""
 10000011	限界突破素材(コスチューム)★1	翻訳不要	翻訳不要	翻訳不要
 10000012	コスチュームの限界突破に必要な素材（テスト用）	翻訳不要	翻訳不要	翻訳不要
 10000021	限界突破素材(コスチューム)★2	翻訳不要	翻訳不要	翻訳不要
@@ -802,11 +816,11 @@ AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高
 10101801	『小田原キャンプ服(恵那)』のカケラ	『小田原露營服裝(惠那)』的碎片	『Odawara Camp Clothes(Ena)』Fragment	『오다와라 캠핑복(에나)』의 조각
 10101811	『ゆるキャン△②(なでしこ)』のカケラ	『搖曳露營△②(撫子)』的碎片	『Laid-Back Camp ② (Nadeshiko)』Fragment	『유루캠△ 2권 (나데시코)』의 조각
 10101821	『ゆるキャン△①(リン)』のカケラ	『搖曳露營△①(凛)』的碎片	『Laid-Back Camp ① (Rin)』Fragment	『유루캠△ 1권 (린)』의 조각
-10101911	『海キャン水着(なでしこ)』のカケラ	『小田原露營服裝(撫子)』的碎片	『Odawara Camp Clothes(Nadeshiko)』Fragment	『오다와라 캠핑복(나데시코)』의 조각
-10101921	『海キャン水着(リン)』のカケラ	『小田原露營服裝(凛)』的碎片	『Odawara Camp Clothes(Rin)』Fragment	『오다와라 캠핑복(린)』의 조각
-10101931	『海キャン水着(千明)』のカケラ	『小田原露營服裝(千明)』的碎片	『Odawara Camp Clothes(Chiaki)』Fragment	『오다와라 캠핑복(치아키)』의 조각
-10101941	『海キャン水着(あおい)』のカケラ	『小田原露營服裝(葵)』的碎片	『Odawara Camp Clothes(Aoi)』Fragment	『오다와라 캠핑복(아오이)』의 조각
-10101951	『海キャン水着(恵那)』のカケラ	『小田原露營服裝(惠那)』的碎片	『Odawara Camp Clothes(Ena)』Fragment	『오다와라 캠핑복(에나)』의 조각
+10101911	『海キャン水着(なでしこ)』のカケラ	『海邊露營泳裝(撫子)』的碎片	『Seaside Camp Swimsuit(Nadeshiko)』Fragment	『바다 캠핑 수영복(나데시코)』의 조각
+10101921	『海キャン水着(リン)』のカケラ	『海邊露營泳裝(凛)』的碎片	『Seaside Camp Swimsuit(Rin)』Fragment	『바다 캠핑 수영복(린)』의 조각
+10101931	『海キャン水着(千明)』のカケラ	『海邊露營泳裝(千明)』的碎片	『Seaside Camp Swimsuit(Chiaki)』Fragment	『바다 캠핑 수영복(치아키)』의 조각
+10101941	『海キャン水着(あおい)』のカケラ	『海邊露營泳裝(葵)』的碎片	『Seaside Camp Swimsuit(Aoi)』Fragment	『바다 캠핑 수영복(아오이)』의 조각
+10101951	『海キャン水着(恵那)』のカケラ	『海邊露營泳裝(惠那)』的碎片	『Seaside Camp Swimsuit(Ena)』Fragment	『바다 캠핑 수영복(에나)』의 조각
 20000011	限界突破素材(サポートカード)[N]	翻訳不要	翻訳不要	翻訳不要
 20000012	サポートカードの限界突破に必要な素材（テスト用）	翻訳不要	翻訳不要	翻訳不要
 20000021	限界突破素材(サポートカード)[R]	翻訳不要	翻訳不要	翻訳不要
@@ -938,9 +952,9 @@ AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高
 20201241	『旅キャンの楽しみ方』のカケラ	『旅遊露營的樂趣』的碎片	『How To Enjoy a Camping Trip』Fragment	『여행 캠핑을 즐기는 방법』의 조각
 20201251	『少しぬるめね』のカケラ	『稍微降溫一點』的碎片	『Kinda Lukewarm』Fragment	『살짝 미지근하네』의 조각
 20201261	『風呂上がりはコレ』のカケラ	『泡完澡就是要喝這個』的碎片	『Post-Bath Drink』Fragment	『목욕 후에는 이것』의 조각
-20201271	『海キャンの楽しみ方』のカケラ	『大家一起享受午茶時光』的碎片	『Teatime For All』Fragment	『모두 함께 티타임』의 조각
-20201281	『めちゃうまバーベキュー』のカケラ	『一邊欣賞風景……』的碎片	『With This Scenery』Fragment	『경치를 보면서…』의 조각
-20201291	『カリブーくん』のカケラ	『噗哈────！』的碎片	『Pah!』Fragment	『푸하앗~~~!』의 조각
+20201271	『海キャンの楽しみ方』のカケラ	『海邊露營的樂趣』的碎片	『Seaside Camping Fun』Fragment	『바다 캠핑을 즐기는 방법』의 조각
+20201281	『めちゃうまバーベキュー』のカケラ	『超級好吃的烤肉』的碎片	『Delish BBQ』Fragment	『완전 맛있는 바비큐』의 조각
+20201291	『カリブーくん』のカケラ	『卡利布』的碎片	『Caribou』Fragment	『카리부 군』의 조각
 20201301	『夏の思い出』のカケラ	『夏天的回憶』的碎片	『Summer Memories』Fragment	『여름의 추억』의 조각
 20201311	『キャンプで使うのが楽しみ』のカケラ	『太期待下次去露營的時候用這個了。』的碎片	『Can't Wait to Use This』Fragment	『캠핑에서 쓰는 게 기대돼』의 조각
 20201321	『キンキンしまりんだんごアイス』のカケラ	『冰冰涼涼志摩凜糰子冰淇淋』的碎片	『Icy Cold Shimarin』Fragment	『꽁꽁 시마린 경단 아이스』의 조각
@@ -1341,8 +1355,8 @@ AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高
 30202371	『ファミリーベンチ(MC)』のカケラ	『家庭座椅(MC)』的碎片	『Family Bench (MC)』Fragment	『패밀리 벤치(멀티캠)』의 조각
 30202381	『ファミリーベンチ(WH)』のカケラ	『家庭座椅(WH)』的碎片	『Family Bench (WH)』Fragment	『패밀리 벤치(화이트)』의 조각
 30202391	『ファミリーベンチ(BK)』のカケラ	『家庭座椅(BK)』的碎片	『Family Bench (BK)』Fragment	『패밀리 벤치(블랙)』의 조각
-30203101	『ビーチチェア』のカケラ	『大型櫻花野餐墊』的碎片	『Large Sakura Blanket』Fragment	『커다란 벚꽃 레저 시트』의 조각
-30203111	『ビーチチェア（RD）』のカケラ	『劈柴機』的碎片	『Wood Splitter』Fragment	『장작 패는 기계』의 조각
+30203101	『ビーチチェア』のカケラ	『海灘椅』的碎片	『Beach Chair』Fragment	『비치 체어』의 조각
+30203111	『ビーチチェア（RD）』のカケラ	『海灘椅（RD）』的碎片	『Beach Chair (RD)』Fragment	『비치 체어(레드)』의 조각
 30300101	『リンのアルミローテーブル』のカケラ	『凜的小鋁桌』的碎片	『Rin's Aluminium Camping Table』Fragment	『린의 알루미늄 로우 테이블』의 조각
 30300201	『千明のミニテーブル』のカケラ	『千明的迷你桌』的碎片	『Chiaki's Mini Table』Fragment	『치아키의 미니 테이블』의 조각
 30300301	『なでしこのテーブル』のカケラ	『撫子的桌子』的碎片	『Nadeshiko's Table』Fragment	『나데시코의 테이블』의 조각
@@ -1655,7 +1669,7 @@ AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高
 30801271	『ポップアップシェード(MC)』のカケラ	『秒開遮陽帳 (MC)』的碎片	『Pop-Up Shader (MC)』Fragment	『팝업 셰이드(멀티캠)』의 조각
 30801281	『ポップアップシェード(WH)』のカケラ	『秒開遮陽帳 (WH)』的碎片	『Pop-Up Shader (WH)』Fragment	『팝업 셰이드(화이트)』의 조각
 30801291	『ポップアップシェード(BK)』のカケラ	『秒開遮陽帳 (BK)』的碎片	『Pop-Up Shader (BK)』Fragment	『팝업 셰이드(블랙)』의 조각
-30801401	『ビーチサンシェード』のカケラ	『魚板隧道』的碎片	『Kamaboko Tunnel』Fragment	『어묵 터널』의 조각
+30801401	『ビーチサンシェード』のカケラ	『遮陽篷』的碎片	『Beach Sun Shade』Fragment	『비치 선셰이드』의 조각
 30850001	『小さなレジャーシート』のカケラ	『小型野餐墊』的碎片	『Small Picnic Blanket』Fragment	『작은 레저 시트』의 조각
 30850011	『小さなレジャーシート(OR)』のカケラ	『小型野餐墊 (OR)』的碎片	『Small Picnic Blanket (OR)』Fragment	『작은 레저 시트(오렌지)』의 조각
 30850021	『小さなレジャーシート(BL)』のカケラ	『小型野餐墊 (BL)』的碎片	『Small Picnic Blanket (BL)』Fragment	『작은 레저 시트(블루)』의 조각
@@ -2002,12 +2016,12 @@ AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高
 30915471	『恵那のブランケット (山中湖)』のカケラ	『惠那的毛毯(山中湖)』的碎片	『Ena's Blanket (Lake Yamanaka)』Fragment	『에나의 블랭킷(야마나카호)』의 조각
 30916701	『薄紅色の桜の木』のカケラ	『淺紅色的燈籠提燈』的碎片	『Pink Bonbori Lamp』Fragment	『담홍색 설동 램프』의 조각
 30916711	『桃色の桜の木』のカケラ	『桃色的燈籠提燈』的碎片	『Peach Bonbori Lamp』Fragment	『분홍색 설동 램프』의 조각
-30917101	『スイカ割りセット』のカケラ	『魚板隧道（LG）』的碎片	『Kamaboko Tunnel (LG)』Fragment	『어묵 터널(라이트 그린)』의 조각
-30917201	『ビーチボール』のカケラ	『桃色的櫻花樹』的碎片	『Peach Sakura Tree』Fragment	『분홍색 벚꽃나무』의 조각
-30917211	『ビーチボール（YL）』のカケラ	『小型櫻花野餐墊』的碎片	『Small Sakura Blanket』Fragment	『작은 벚꽃 레저 시트』의 조각
-30917301	『ビーチパラソル』のカケラ	『淡紅色的櫻花樹』的碎片	『Pink Sakura Tree』Fragment	『담홍색 벚꽃나무』의 조각
-30917401	『シーグラスのアクアフレーム』のカケラ	『櫻花樹枝』的碎片	『Cherry Blossom Branch』Fragment	『벚꽃나무 가지』의 조각
-30917411	『シーグラスのアクアフレーム(PK)』のカケラ	『淺紅色的燈籠提燈』的碎片	『Pink Bonbori Lamp』Fragment	『담홍색 설동 램프』의 조각
+30917101	『スイカ割りセット』のカケラ	『打西瓜組合』的碎片	『Watermelon Splitting Set』Fragment	『수박 깨기 세트』의 조각
+30917201	『ビーチボール』のカケラ	『沙灘排球』的碎片	『Beach Ball』Fragment	『비치볼』의 조각
+30917211	『ビーチボール（YL）』のカケラ	『沙灘排球（YL）』的碎片	『Beach Ball (YL)』Fragment	『비치볼(옐로)』의 조각
+30917301	『ビーチパラソル』のカケラ	『遮陽傘』的碎片	『Beach Parasol』Fragment	『비치 파라솔』의 조각
+30917401	『シーグラスのアクアフレーム』のカケラ	『海玻璃的海洋相框』的碎片	『Sea Glass Aqua Frame』Fragment	『씨글라스 아쿠아 프레임』의 조각
+30917411	『シーグラスのアクアフレーム(PK)』のカケラ	『海玻璃的海洋相框（PK）』的碎片	『Sea Glass Aqua Frame (PK)』Fragment	『씨글라스 아쿠아 프레임(핑크)』의 조각
 40000011	限界突破素材(料理レシピ)[N]	翻訳不要	翻訳不要	翻訳不要
 40000012	料理レシピの完成に必要な素材（テスト用）	翻訳不要	翻訳不要	翻訳不要
 40000021	限界突破素材(料理レシピ)[R]	翻訳不要	翻訳不要	翻訳不要
@@ -2029,7 +2043,7 @@ AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高
 40200601	『金目鯛のお頭炭火焼き』のカケラ	『炭烤紅金眼鯛魚頭』的碎片	『Charcoal-Grilled Alfonsino Head』Fragment	『금눈돔 머리 숯불구이』의 조각
 40200701	『魚の塩焼き』のカケラ	『鹽烤魚』的碎片	『Grilled Fish』Fragment	『생선 소금구이』의 조각
 40200801	『かまぼこチーズフォンデュ』のカケラ	『魚板起司鍋』的碎片	『Kamaboko Cheese Fondue』Fragment	『어묵 치즈 퐁듀』의 조각
-40200901	『海鮮バーベキュー』のカケラ	『城堡最中』的碎片	『Castle Monaka Pastry』Fragment	『성 모양 모나카』의 조각
+40200901	『海鮮バーベキュー』のカケラ	『海鮮烤肉』的碎片	『Seafood BBQ』Fragment	『해물 바비큐』의 조각
 40300101	『ボウルサラダ』のカケラ	『碗裝沙拉』的碎片	『Salad』Fragment	『볼 샐러드』의 조각
 40300201	『トマトの丸焼き』のカケラ	『烤蕃茄』的碎片	『Whole Roasted Tomato』Fragment	『토마토 통구이』의 조각
 40300301	『なすの丸焼き』のカケラ	『烤茄子』的碎片	『Whole Roasted Eggplant』Fragment	『가지 통구이』의 조각
@@ -2063,9 +2077,9 @@ AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高
 40900101	『ココア』のカケラ	『熱可可』的碎片	『Cocoa』Fragment	『코코아』의 조각
 40900201	『ほうじ茶』のカケラ	『焙茶』的碎片	『Hojicha』Fragment	『호지차』의 조각
 40900301	『ホット・バタード・ラム・カウ』のカケラ	『熱牛奶蘭姆酒』的碎片	『Hot Buttered Rum Cow』Fragment	『핫 버터드 럼 카우』의 조각
-40900501	『トロピカルジュース』のカケラ	『魚板起司鍋』的碎片	『Kamaboko Cheese Fondue』Fragment	『어묵 치즈 퐁듀』의 조각
-40900511	『トロピカルジュース（SB）』のカケラ	『義式冰淇淋』的碎片	『Gelato』Fragment	『젤라토』의 조각
-40917301	『フルーツポンチ』のカケラ	『賞花糰子』的碎片	『Spring Picnic Dango』Fragment	『꽃구경 경단』의 조각
+40900501	『トロピカルジュース』のカケラ	『熱帶果汁』的碎片	『Tropical Punch』Fragment	『트로피컬 주스』의 조각
+40900511	『トロピカルジュース（SB）』のカケラ	『熱帶果汁（SB）』的碎片	『Tropical Punch (SB)』Fragment	『트로피컬 주스(스카이 블루)』의 조각
+40917301	『フルーツポンチ』のカケラ	『水果調酒』的碎片	『Fruit Punch』Fragment	『프루트 펀치』의 조각
 41000101	『焼きマシュマロ』のカケラ	『烤棉花糖』的碎片	『Toasted Marshmallow』Fragment	『구운 마시멜로』의 조각
 41000201	『炭火焼きイモ』のカケラ	『炭烤蕃薯』的碎片	『Charcoal-Roasted Sweet Potato』Fragment	『숯불 군고구마』의 조각
 41000301	『焼きリンゴ』のカケラ	『烤蘋果』的碎片	『Baked Apple』Fragment	『구운 사과』의 조각

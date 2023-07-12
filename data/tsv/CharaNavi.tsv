@@ -934,9 +934,6 @@ group_id	seq	position	character_id	clothes_id	face_id	message_text_id	motion_id	
 105200	1	1	3		0	713	idle1_2l		31105201		
 105200	2	1	3		0	813	talk_1	1731			
 105200	3		4		0	814	talk_1	1732			
-105300	1	1	4		0	713	idle1_2l		31105301		
-105300	2	1	4		0	815	talk_1	1733			
-105300	3		5		0	816	talk_1	1734			
 105400	1	1	5		0	713	idle1_2l		31105401		
 105400	2	1	5		0	817	talk_1	1735			
 105400	3		2		0	818	talk_1	1736			

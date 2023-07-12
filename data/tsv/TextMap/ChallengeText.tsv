@@ -137,6 +137,61 @@ RECAMPおだわら』の
 活動排行榜中進入前10000名。"	"""Sun, Sand, and Seaside Camp!""
  - Top 10000 in Event Rankings"	"""여름이다! 해변이다! 바다 캠핑이다!""
  이벤트 랭킹에서 상위 10000위 안에 들기"
+41	"「レッツクラフト！at海キャン」の
+イベントランキングで1位になる"	"在「讓我們來製作吧！在海邊露營」
+活動排行榜中獲得第1名。"	"""Let's Craft! at Seaside Camp""
+ - Rank 1 in Event Rankings"	"""레츠 제작! at바다 캠핑""
+ 이벤트 랭킹에서 1위에 오르기"
+42	"「レッツクラフト！at海キャン」の
+イベントランキングで2位になる"	"在「讓我們來製作吧！在海邊露營」
+活動排行榜中獲得第2名。"	"""Let's Craft! at Seaside Camp""
+ - Rank 2 in Event Rankings"	"""레츠 제작! at바다 캠핑""
+ 이벤트 랭킹에서 2위에 오르기"
+43	"「レッツクラフト！at海キャン」の
+イベントランキングで3位になる"	"在「讓我們來製作吧！在海邊露營」
+活動排行榜中獲得第3名。"	"""Let's Craft! at Seaside Camp""
+ - Rank 3 in Event Rankings"	"""레츠 제작! at바다 캠핑""
+ 이벤트 랭킹에서 3위에 오르기"
+44	"「レッツクラフト！at海キャン」の
+イベントランキングでTOP5になる"	"在「讓我們來製作吧！在海邊露營」
+活動排行榜中進入前5名。"	"""Let's Craft! at Seaside Camp""
+ - Top 5 in Event Rankings"	"""레츠 제작! at바다 캠핑""
+ 이벤트 랭킹에서 상위 5위 안에 들기"
+45	"「レッツクラフト！at海キャン」の
+イベントランキングでTOP10になる"	"在「讓我們來製作吧！在海邊露營」
+活動排行榜中進入前10名。"	"""Let's Craft! at Seaside Camp""
+ - Top 10 in Event Rankings"	"""레츠 제작! at바다 캠핑""
+ 이벤트 랭킹에서 상위 10위 안에 들기"
+46	"「レッツクラフト！at海キャン」の
+イベントランキングでTOP50になる"	"在「讓我們來製作吧！在海邊露營」
+活動排行榜中進入前50名。"	"""Let's Craft! at Seaside Camp""
+ - Top 50 in Event Rankings"	"""레츠 제작! at바다 캠핑""
+ 이벤트 랭킹에서 상위 50위 안에 들기"
+47	"「レッツクラフト！at海キャン」の
+イベントランキングでTOP100になる"	"在「讓我們來製作吧！在海邊露營」
+活動排行榜中進入前100名。"	"""Let's Craft! at Seaside Camp""
+ - Top 100 in Event Rankings"	"""레츠 제작! at바다 캠핑""
+ 이벤트 랭킹에서 상위 100위 안에 들기"
+48	"「レッツクラフト！at海キャン」の
+イベントランキングでTOP500になる"	"在「讓我們來製作吧！在海邊露營」
+活動排行榜中進入前500名。"	"""Let's Craft! at Seaside Camp""
+ - Top 500 in Event Rankings"	"""레츠 제작! at바다 캠핑""
+ 이벤트 랭킹에서 상위 500위 안에 들기"
+49	"「レッツクラフト！at海キャン」の
+イベントランキングでTOP1000になる"	"在「讓我們來製作吧！在海邊露營」
+活動排行榜中進入前1000名。"	"""Let's Craft! at Seaside Camp""
+ - Top 1000 in Event Rankings"	"""레츠 제작! at바다 캠핑""
+ 이벤트 랭킹에서 상위 1000위 안에 들기"
+50	"「レッツクラフト！at海キャン」の
+イベントランキングでTOP5000になる"	"在「讓我們來製作吧！在海邊露營」
+活動排行榜中進入前5000名。"	"""Let's Craft! at Seaside Camp""
+ - Top 5000 in Event Rankings"	"""레츠 제작! at바다 캠핑""
+ 이벤트 랭킹에서 상위 5000위 안에 들기"
+51	"「レッツクラフト！at海キャン」の
+イベントランキングでTOP10000になる"	"在「讓我們來製作吧！在海邊露營」
+活動排行榜中進入前10000名。"	"""Let's Craft! at Seaside Camp""
+ - Top 10000 in Event Rankings"	"""레츠 제작! at바다 캠핑""
+ 이벤트 랭킹에서 상위 10000위 안에 들기"
 1001	トータルやる事リストを{0}個クリアする	完成{0}個總任務清單	Clear {0} items from the total to-do list	총 {0}개의 할 일 목록을 클리어하십시오
 1002	通算ログイン30日を達成する	達成累計登入30天	Achieve 30 days total login	총 로그인 30일 달성
 1003	通算ログイン{0}日を達成する	達成累計登入{0}天	Achieve {0} days of total login	총 로그인 {0}일 달성
@@ -371,119 +426,142 @@ RECAMPおだわら』の
 1232	コスチュームガチャをしよう	來玩服裝轉蛋吧	Let's do a Costume Gacha	코스튬 가챠를 해보자
 1233	サポートカードガチャをしよう	嘗試支援卡抽獎	Let's do a Support Card Gacha	서포트 카드 가챠를 해보자
 1234	コスチュームを強化しよう	加強裝備吧	Enhance costumes	코스튬 강화하자
-1235	ゆるすたぐらむの編成を変更をしよう	變更悠閒星光的編成	Change the formation in Yurustagram	유루스타그램 편성 변경을 해보자
-1236	ランクE以上でキャンプを完了しよう	在E級以上完成營地	Complete the camp with Rank E or higher	랭크 E 이상에서 캠프 완료하기
-1237	「まんぞく」を100以上にしてキャンプを開始しよう	將「滿足」提高到100以上，開始遊戲營地	"Start the camp with ""Satisfaction"" over 100"	"""만족""을 100 이상으로 하여 캠프를 시작하자"
-1238	「いごこち」を100以上にしてキャンプを開始しよう	將「いごこち」提高到100以上，開始營地	"Start the camp with ""Comfort"" over 100"	"""이고코치""를 100 이상으로 설정하고 캠프를 시작하세요"
-1239	「ぬくもり」を100以上にしてキャンプを開始しよう	將「溫暖」提高到100以上，開始露營吧	"Start the camp with ""Warmth"" over 100"	"""따뜻함""을 100 이상으로 설정하고 캠프를 시작하세요"
-1240	「いやし」を100以上にしてキャンプを開始しよう	將「治癒」提高到100以上，開始營地	"Start a camp with 100+ ""Healing"""	"""치유""를 100 이상으로 설정하고 캠프를 시작하세요"
-1241	ランクE+以上でキャンプを完了しよう	在E+等級以上完成營地	Complete the camp with Rank E+ or higher	랭크 E+이상으로 캠프 완료하자
-1242	料理をクラフトしよう	嘗試製作料理	Let's craft a dish	요리를 크래프트 해보자
-1243	ホーム編集で「料理」を設置しよう	在主頁編輯中設置「料理」	"Set up ""Cooking"" in Home Edit"	"홈 편집에서 ""요리""를 설치하세요"
-1244	サポートカードを強化しよう	強化支援卡	Enhance Support Cards	서포트 카드 강화하자
-1245	他プレイヤーにいいねをしよう	給其他玩家按讚	Give likes to other players	다른 플레이어에게 좋아요를 누르자
-1246	プロフィール編集で「プロフィールアイテム」を貼ろう	在個人資料編輯中貼上「個人資料物品」	"Edit profile and attach ""Profile Items"""	"프로필 편집에서 ""프로필 아이템""을 붙여보세요"
-1247	プロフィール編集で「記念写真」を貼ろう	在個人資料編輯中貼上「紀念照片」	"Edit profile to add ""Commemorative Photo"""	"프로필 편집에서 ""기념 사진""을 붙여보자"
-1248	麓キャンプ場でキャンプを1回しよう	在山麓營地進行1次露營	Camp once at Foothill Campground	루트 캠프장에서 캠프 1회 실행
-1249	他人のキャンプサイトを訪問しよう	拜訪他人的營地	Visit others' campsite	다른 사람의 캠프 사이트 방문하기
-1250	「つながり」を120以上にしてキャンプを開始しよう	將「連線」提高到120以上，開始營地	"Start a camp with 120+ ""Connections"""	"""연결""을 120 이상으로 하여 캠프를 시작하자"
-1251	「まんぞく」を120以上にしてキャンプを開始しよう	將「滿足」提高到120以上，開始營地	"Start the camp with ""Satisfaction"" 120 or higher"	"""만족""을 120 이상으로 설정하고 캠프를 시작하세요"
-1252	「いごこち」を120以上にしてキャンプを開始しよう	將「いごこち」提高到120以上，開始遊戲營地	"Start the camp with ""Comfort"" 120 or higher"	"""이고코치""를 120 이상으로 설정하고 캠프를 시작하세요"
-1253	「ぬくもり」を120以上にしてキャンプを開始しよう	將「溫暖」提高到120以上，開始露營	"Start the camp with ""Warmth"" at 120 or more"	"""따뜻함""을 120 이상으로 설정하고 캠프를 시작하세요"
-1254	「いやし」を120以上にしてキャンプを開始しよう	將「治癒」提高到120以上，開始營地	"Start the camp with ""Healing"" over 120"	"""치유""를 120 이상으로 설정하고 캠프를 시작하세요"
-1255	高ボッチ高原でキャンプを1回しよう	在高ボッチ高原露營1次	Camp once at High Botchi Plateau	고 보치 고원에서 캠프 1회 돌려보자
-1256	イーストウッドキャンプ場でキャンプを1回しよう	在伊斯特伍德營地進行一次遊戲	Camp once at Eastwood Campground	이스트우드 캠프장에서 캠프 1회 돌리기
-1257	図鑑報酬を獲得しよう	獲得圖鑑獎勵	Get the Illustrated Book Reward	도감 보상을 획득하자
-1258	コスチューム適性あつさをＥ以上にしてキャンプを開始しよう	將裝備適性提高到E以上，開始遊戲吧	Start the camp with costume aptitude at E or higher	코스튬 적성 온도를 E 이상으로 설정하고 캠프를 시작하자
-1259	コスチューム適性さむさをＥ以上にしてキャンプを開始しよう	將裝備適性提高到E以上，開始遊戲吧	Start the camp by raising the costume's suitability to E or higher.	코스튬 적성을 E 이상으로 하고 캠프를 시작하자
-1260	コスチューム適性うんどうをＥ以上にしてキャンプを開始しよう	將裝扮適性提高到E以上，開始進行營地活動	Get costume aptitude to E or higher and start the camp	코스튬 적성 운동을 E 이상으로 하여 캠프를 시작하자
-1261	ランクD以上でキャンプを完了しよう	在D級E級以上完成營地	Complete the camp with Rank D or above in mobile gaming	D랭크 이상에서 캠프 완료하기
-1262	スキルを3つ以上獲得してキャンプを完了しよう	獲得3個以上技能並完成營地	Complete the camp by acquiring 3 or more skills	3개 이상의 스킬을 획득하여 캠프를 완료하세요
-1263	「記念撮影」をしよう！	來「留念拍照」吧！	"Let's take a ""Commemorative Photo""!"	"""기념 촬영""을 해보자!"
-1264	「つながり」のステータスを120以上にしてキャンプを開始しよう	將「連結」狀態提升至120以上，開始營地	"Start a camp with ""Connection"" status 120 or higher"	"""연결"" 상태를 120 이상으로 만들고 캠프를 시작하세요"
-1265	「まんぞく」のステータスを120以上にしてキャンプを開始しよう	將「滿足」狀態提高到120以上，開始營地	"Start the camp with ""Satisfaction"" status over 120"	"""만족"" 스테이터스를 120 이상으로 올리고 캠프를 시작하자"
-1266	「いごこち」のステータスを120以上にしてキャンプを開始しよう	將「いごこち」狀態提升至120以上，開始營地	"Start the camp by raising the ""Igokochi"" status to 120 or more"	"""이고코치""의 스테이터스를 120 이상으로 올리고 캠프를 시작하자"
-1267	「ぬくもり」のステータスを120以上にしてキャンプを開始しよう	將「溫暖」狀態提升至120以上，開始營地	"Start the camp with ""Warmth"" status over 120"	"""ぬくもり"" 스테이터스를 120 이상으로 올리고 캠프를 시작하자"
-1268	「いやし」のステータスを120以上にしてキャンプを開始しよう	將「治癒」狀態提高到120以上，開始營地	"Start the camp with ""Healing"" status at 120 or higher"	"""치유"" 스테이터스를 120 이상으로 설정하고 캠프를 시작하세요"
-1269	スキルを4つ以上獲得してキャンプを完了しよう	獲得4個以上技能並完成營地	Acquire 4+ skills and complete the camp	4개 이상의 스킬을 획득하여 캠프를 완료하자
-1270	ホーム編集で「テーブル」を設置しよう	在主頁編輯中設置「桌子」	"Set up a ""Table"" in Home Edit"	"홈 편집에서 ""테이블""을 설치하세요"
-1271	ギアの愛着アップを1回行う	進行1次裝備升級	Perform Gear Attachment Up once	기어 애착 업을 1회 실행
-1272	料理の愛着アップを1回行う	進行1次料理升級	Perform 1 Cooking Affection Boost	요리 애착 향상 1회 실행
-1273	リンのなかよしゲージを20以上にしてキャンプをクリアする	將琳的好友計量表達到20以上並完成營地	Clear the camp with Rin's friendship gauge at 20 or higher	린 친구 게이지를 20 이상으로 올리고 캠프를 클리어하십시오
-1274	千明のなかよしゲージを20以上にしてキャンプをクリアする	將千明的好友計量表達到20以上，然後完成營地	Clear the camp with Chiaki's friendship gauge at 20 or higher	천명의 친한 친구 게이지를 20 이상으로 올리고 캠프를 클리어하다
-1275	あおいのなかよしゲージを20以上にしてキャンプをクリアする	將藍色的好友計量表達到20以上並完成營地	Clear the camp with Aoi's friendship gauge at 20 or higher	아오이 친구 게이지를 20 이상으로 올리고 캠프를 클리어하십시오
-1276	恵那のなかよしゲージを20以上にしてキャンプをクリアする	將恵那的好友計量表達到20以上，並完成營地	Clear the camp with Ena's friendship gauge at 20 or higher	에나와 친구 게이지를 20 이상으로 올리고 캠프를 클리어하십시오
-1277	ランクD+以上でキャンプを完了しよう	在D+級以上完成營地	Complete the camp at Rank D+ or higher	랭크 D+ 이상에서 캠프를 완료하자
-1278	ギア適性くつろぎをF以上にしてキャンプを始めよう	將裝備適性提升到F以上，開始遊玩營地	Get Gear Aptitude F+ and start the Camp	기어 적성 F 이상으로 편안함을 높이고 캠프를 시작하자
-1279	ギア適性あそびをF以上にしてキャンプを始めよう	將裝備適性提升到F以上，開始遊玩營地	Get gear aptitude to F+ and start the camp	기어 적성 F 이상으로 플레이하고 캠프를 시작하자
-1280	ギア適性りょうりをF以上にしてキャンプを始めよう	將裝備適性提升至F以上，開始遊玩營地	Get Gear Aptitude F or higher and start the Camp	기어 적성 요리를 F 이상으로 하여 캠프를 시작하자
-1281	レアリティＮのギアをクラフトしよう	製作稀有度N裝備	Craft Rarity N gear	레어리티 N의 기어를 크래프트하자
-1282	レアリティＮの料理をクラフトしよう	製作稀有度N的料理	Craft a Rarity N dish	레어리티 N 요리를 크래프트하자
-1283	レアリティＲのギアをクラフトしよう	製作稀有度R的裝備	Craft Rarity R gear	레어리티 R의 기어를 크래프트하자
-1284	レアリティＲの料理をクラフトしよう	製作稀有度R的料理	Craft a Rarity R dish	레어리티 R 요리를 크래프트하자
-1285	「おしゃべり」コマンドをLv3以上にしてキャンプをクリアしよう	將「聊天」指令升級到Lv3以上，並通關營地	"Clear the camp by leveling up the ""Chat"" command to Lv3 or higher"	"""수다"" 명령을 Lv3 이상으로 올리고 캠프를 클리어하자"
-1286	「たべる」コマンドをLv3以上にしてキャンプをクリアしよう	將「吃」指令升級到Lv3以上，通過營地	"Clear the camp by leveling up the ""Eat"" command to Lv3 or higher"	"""먹다"" 명령을 Lv3 이상으로 올려서 캠프를 클리어하자"
-1287	「せつえい」コマンドをLv3以上にしてキャンプをクリアしよう	將「設定」指令提升至Lv3以上，並通過營地	"Clear the camp by setting the ""Settings"" command to Lv3 or higher"	"""설정"" 명령을 Lv3 이상으로 설정하고 캠프를 클리어하자"
-1288	「たきび」コマンドをLv3以上にしてキャンプをクリアしよう	將「營火」指令升級至Lv3以上，通關露營	"Clear the camp by leveling up the ""Bonfire"" command to Lv3 or higher"	「모닥불」커맨드를 Lv3 이상으로 올려 캠프를 클리어하자
-1289	本栖湖キャンプミッション「カレー麺をアレンジする」でA以上の評価を取ろう	在本栖湖露營任務「變化咖哩麵」中，取得A以上評價吧	"Get an A or higher rating in Lake Motosu Camp Mission ""Arrange Curry Noodles"""	"본스 호수 캠프 미션 ""카레 면을 아렌지하기""에서 A 이상의 평가를 받아보자"
-1290	本栖湖キャンプミッション「薪割り競争をする」でA以上の評価を取ろう	在本栖湖露營任務「砍柴競賽」中，爭取獲得A以上評價	"Lake Motosu Camp Mission: ""Compete in Firewood Splitting"" - Aim for A or higher rating"	"본스 호수 캠프 미션 ""장작 쪼개기 경쟁""에서 A 이상의 평가를 받으세요"
-1291	麓キャンプミッション「ちくわと遊ぶ」でA以上の評価を取ろう	在山麓營地任務「與竹輪玩耍」中獲得A以上評價	"Get an A or higher rating in Foothill Camp Mission ""Play with Chikuwa"""	"산기슭 캠프 미션 ""치쿠와와 놀기""에서 A 이상의 평가를 받으세요"
-1292	麓キャンプミッション「アウトドア実験料理を作る」でA以上の評価を取ろう	在山麓營地任務「製作戶外實驗料理」中，取得A以上評價	"Foothill Camp Mission: ""Create Outdoor Experimental Cuisine"" - Aim for A or higher rating"	"발 아래 캠프 미션 ""아웃도어 실험 요리 만들기""에서 A 이상의 평가를 받으세요"
-1293	麓キャンプミッション「写真を撮る」でA以上の評価を取ろう	山麓營地任務「拍照」中，取得A以上評價	"Foothill Camp Mission: Get an A or higher rating in ""Take a Photo"""	"산기슭 캠프 미션 ""사진 찍기""에서 A 이상의 평가를 받으세요"
-1294	麓キャンプミッション「担々餃子鍋をする」でA以上の評価を取ろう	在山麓營地任務「吃擔擔餃子鍋」中，取得A以上評價吧	"Get an A or higher rating in Foothill Camp Mission ""Make Tantan Dumpling Pot"""	"산기슭 캠프 미션 ""탄탄 만두 찌개 만들기""에서 A 이상의 평가를 받으세요"
-1295	高ボッチ高原キャンプミッション「マシュマロをたべる」でA以上の評価を取ろう	在高ボッチ高原營地任務「吃棉花糖」中，取得A以上評價	"Get an A or higher rating in the Takabocchi Highlands Camp Mission ""Eat Marshmallows"""	"고 보치 고원 캠프 미션 ""마시멜로 먹기""에서 A 이상의 평가를 받으세요"
-1296	高ボッチ高原キャンプミッション「飾りつけをする」でA以上の評価を取ろう	在高ボッチ高原營地任務「裝飾」中獲得A以上評價	"Get an A or higher rating in the High Botchi Plateau Camp Mission ""Decorate"""	"고 보치 고원 캠프 미션 ""장식하기""에서 A 이상의 평가를 받으세요"
-1297	高ボッチ高原キャンプミッション「スープパスタを作る」でA以上の評価を取ろう	在高ボッチ高原營地任務「製作湯麵」中，爭取獲得A級以上評價	"Get an A or higher rating in the High Botchi Plateau Camp Mission ""Make Soup Pasta"""	"고 보치 고원 캠프 미션 ""스프 파스타 만들기""에서 A 이상의 평가를 받으세요"
-1298	高ボッチ高原キャンプミッション「写真を撮る」でA以上の評価を取ろう	在高ボッチ高原營地任務「拍照」中，爭取獲得A以上評價	"Get an A or higher rating in the High Botchi Plateau Camp Mission ""Take a Photo"""	"고 보치 고원 캠프 미션 ""사진 찍기""에서 A 이상의 평가를 받으세요"
-1299	イーストウッドキャンプ場ミッション「犬と遊ぶ」でA以上の評価を取ろう	在伊斯特伍德營地任務「與狗玩耍」中取得A以上評價	"Get A+ rating in Eastwood Camp Mission ""Play with Dog"""	"이스트우드 캠프장 미션 ""개와 놀기""에서 A 이상의 평가를 받으세요"
-1300	イーストウッドキャンプ場ミッション「かくれんぼ」でA以上の評価を取ろう	在伊斯特伍德營地任務「捉迷藏」中獲得A以上評價	"Get an A or higher rating in Eastwood Campground mission ""Hide and Seek"""	"이스트우드 캠프장 미션 ""숨바꼭질""에서 A 이상의 평가를 받아보자"
-1301	イーストウッドキャンプ場ミッション「煮込みカレーを作る」でA以上の評価を取ろう	在伊斯特伍德營地任務「燉咖哩」中獲得A以上評價	"Eastwood Camp Mission: Get A+ rating in ""Make Simmered Curry"""	"이스트우드 캠프장 미션 ""찜 카레 만들기""에서 A 이상의 평가를 받으세요"
-1302	イーストウッドキャンプ場ミッション「ウッドキャンドルを作る」でA以上の評価を取ろう	在伊斯特伍德營地任務「製作木質蠟燭」中，取得A以上評價	"Eastwood Camp Mission: ""Create Wood Candle"" - Aim for A+ rating"	이스트우드 캠프장 미션「우드캔들 만들기」에서 A 이상 평가 받으세요
-1303	ランクC以上でキャンプを完了しよう	在C級以上完成營地	Complete the camp with Rank C or higher	랭크 C 이상에서 캠프 완료하자
-1304	レアリティSRのギアをクラフトしよう	製作稀有度SR裝備	Craft Rarity SR Gear	레어리티 SR 기어를 크래프트하자
-1305	レアリティSRの料理をクラフトしよう	製作稀有SR的料理	Craft an SR rarity dish	레어리티 SR 요리를 크래프트하자
-1306	本栖湖キャンプミッション「カレー麺をアレンジする」でS評価を取ろう	在本栖湖露營任務「變化咖哩麵」中取得S評價	"Get an S-rank in Lake Motosu Camp Mission ""Customize Curry Noodles"""	"본스 호수 캠프 미션 ""카레 면을 아렌지하기""에서 S 등급 받아보자"
-1307	本栖湖キャンプミッション「薪割り競争をする」でS評価を取ろう	在本栖湖營地任務「砍柴競賽」中，爭取獲得S評價	"Get an S-rank in Lake Motosu Camp Mission ""Firewood Splitting Competition"""	"본스 호수 캠프 미션 ""장작 쪼개기 경쟁""에서 S 등급을 받아보자"
-1308	SＲのギアをクラフトしよう	嘗試製作稀有度SR的裝備	Craft SR rarity gear	레어리티 SR 기어를 크래프트하자
-1309	麓キャンプミッション「ちくわと遊ぶ」でS評価を取ろう	在山麓營地任務「與竹輪玩耍」中獲得S評價	"Get an S rating in Foothill Camp Mission ""Play with Chikuwa"""	"산기슭 캠프 미션 ""치쿠와와 놀기""에서 S 등급을 받아보자"
-1310	麓キャンプミッション「アウトドア実験料理を作る」でS評価を取ろう	在山麓營地任務「製作戶外實驗料理」中獲得S評價	"Foothill Camp Mission: ""Create Outdoor Experimental Cuisine"" - Aim for S Rank"	"산기슭 캠프 미션 ""아웃도어 실험 요리 만들기""에서 S등급을 받아보자"
-1311	リンのなかよしゲージをMAXにしてキャンプをクリアする	將琳的好友計量表達到最大值並完成營地	Clear the camp by maxing out Rin's friendship gauge	린 친밀 게이지를 MAX로 하여 캠프 클리어하기
-1312	千明のなかよしゲージをMAXにしてキャンプをクリアする	將千明的好友計量表達到最大值並完成營地	Clear the camp by maxing out Chiaki's Friendship Gauge	천명의 친한 친구 게이지를 MAX로 하여 캠프를 클리어하다
-1313	あおいのなかよしゲージをMAXにしてキャンプをクリアする	將蒼井的好友計量表達到最大，並通過營地	Clear the camp by maxing out Aoi's friendship gauge	아오이 친구 게이지를 MAX로 하여 캠프를 클리어하십시오
-1314	恵那のなかよしゲージをMAXにしてキャンプをクリアする	將恵那的好友計量表達到最大，並完成營地	Clear the camp by maxing out Ena's Friendship Gauge	에나와 친구 게이지를 MAX로 하여 캠프를 클리어하십시오
-1315	高ボッチ高原キャンプミッション「マシュマロをたべる」でS評価を取ろう	在高ボッチ高原營地任務「吃棉花糖」中獲得S評價吧	"Get an S rating in the High Botchi Plateau Camp Mission ""Eat Marshmallows"""	"고 보치 고원 캠프 미션 ""마시멜로 먹기""에서 S 등급을 받아보자"
-1316	高ボッチ高原キャンプミッション「飾りつけをする」でS評価を取ろう	在高博奇高原營地任務「裝飾」中獲得S評價	"Get an S-rank in the High Botchi Plateau Camp Mission ""Decorate"""	"고 보치 고원 캠프 미션 ""장식하기""에서 S 등급 받아보자"
-1317	イーストウッドキャンプ場ミッション「犬と遊ぶ」でS評価を取ろう	在伊斯特伍德營地任務「與狗玩耍」中取得S評價	"Get an S-rank in Eastwood Camp Mission ""Play with Dog"""	"이스트우드 캠프장 미션 ""개와 놀기""에서 S등급 받아보자"
-1318	イーストウッドキャンプ場ミッション「かくれんぼ」でS評価を取ろう	在伊斯特伍德營地任務「捉迷藏」中取得S評價	"Get an S-rank in Eastwood Campground mission ""Hide and Seek"""	"이스트우드 캠프장 미션 ""숨바꼭질""에서 S등급 받아보자"
-1319	ランクC+以上でキャンプを完了しよう	在C+級以上完成營地	Complete the camp with rank C+ or higher	랭크 C+ 이상에서 캠프 완료하자
-1320	レアリティSRのギアを3つクラフトしよう	製作稀有度SR裝備	Craft Rarity SR Gear	레어리티 SR 기어를 크래프트하자
-1321	レアリティSRの料理を1つククラフトしよう	製作稀有SR的料理	Craft an SR rarity dish	레어리티 SR 요리를 크래프트하자
-1322	コスチューム適性あつさをB以上にしてキャンプを開始しよう	將裝扮適性提高到B以上，開始遊玩營地吧	Start the camp with costume aptitude at B+ or higher	코스튬 적성 온도를 B 이상으로 설정하고 캠프를 시작하자
-1323	コスチューム適性さむさをB以上にしてキャンプを開始しよう	將裝備適性提高到B以上，開始遊戲吧	Start the camp with costume aptitude B+ or higher	코스튬 적성을 B 이상으로 올리고 캠프를 시작하자
-1324	コスチューム適性うんどうをC以上にしてキャンプを開始しよう	將裝扮適性提升至C以上，開始進行營地活動	Get costume aptitude to C+ and start the camp	코스튬 적성 운동을 C 이상으로 하고 캠프를 시작하자
-1325	ギア適性くつろぎをC以上にしてキャンプを始めよう	將裝備適性提升至C以上，開始進行營地！	Get Gear Aptitude C+ and start camping	기어 적성 C 이상으로 편안함을 높이고 캠프를 시작하자
-1326	ギア適性あそびをC以上にしてキャンプを始めよう	將裝備適性提升至C以上，開始進行營地遊戲	Get gear aptitude to C+ and start the camp	기어 적성 C 이상으로 플레이하고 캠프를 시작하자
-1327	ギア適性りょうりをC以上にしてキャンプを始めよう	將裝備適性烹飪提升至C以上，開始進行營地遊戲	Get Gear Aptitude Cooking to C+ and start the Camp	기어 적성 요리를 C 이상으로 올리고 캠프를 시작하자
-1328	本栖湖キャンプミッション「焼肉をする」でＳ評価を取ろう	在本栖湖露營任務「烤肉」中，爭取獲得S評價	"Get an S-rank in Lake Motosu Camp Mission ""BBQ Time"""	"본스 호수 캠프 미션 ""야키니쿠하기""에서 S 등급 받아보자"
-1329	本栖湖キャンプミッション「写真を撮る」でS評価を取ろう	在本栖湖營地任務「拍照」中獲得S評價	"Lake Motosu Camp Mission: Get an S-Rank in ""Take a Photo"""	"본스 호수 캠프 미션 ""사진 찍기""에서 S 등급 받아보자"
-1330	麓キャンプミッション「写真を撮る」でS評価を取ろう	山麓營地任務「拍照」來取得S評價吧	"Foothill Camp Mission: Get an S-rank in ""Take a Photo"""	"산기슭 캠프 미션 ""사진 찍기""에서 S 등급을 받아보자"
-1331	麓キャンプミッション「担々餃子鍋をする」でS評価を取ろう	在山麓營地任務「吃擔擔餃子鍋」中取得S評價	"Get an S-rank in the Foothill Camp Mission ""Make Tantan Dumpling Hotpot"""	"산기슭 캠프 미션 ""단단 만두 찌개 만들기""에서 S 등급을 받아보자"
-1332	高ボッチ高原キャンプミッション「スープパスタを作る」でS評価を取ろう	在高ボッチ高原營地任務「煮湯麵」中取得S評價吧	"Get an S-rank in the High Botchi Plateau Camp Mission ""Make Soup Pasta"""	"고 보치 고원 캠프 미션 ""스프 파스타 만들기""에서 S 등급 받아보자"
-1333	高ボッチ高原キャンプミッション「写真を撮る」でS評価を取ろう	在高博奇高原營地任務「拍照」中獲得S評價	"Get an S-rank in the High Botchi Plateau Camp Mission ""Take a Photo"""	"고 보치 고원 캠프 미션 ""사진 찍기""에서 S 등급 받아보자"
-1334	イーストウッドキャンプ場ミッション「煮込みカレーを作る」でS評価を取ろう	在伊斯特伍德營地任務「燉咖哩」中獲得S評價	"Get an S-rank in Eastwood Campground Mission ""Make Simmered Curry"" in mobile gaming"	"이스트우드 캠프장 미션 ""찜 카레 만들기""에서 S 등급 받아보자"
-1335	イーストウッドキャンプ場ミッション「ウッドキャンドルを作る」でS評価を取ろう	在伊斯特伍德營地任務「製作伍德蠟燭」中獲得S評價吧	"Get an S-rank in Eastwood Camp Mission ""Create Wood Candle"""	"이스트우드 캠프장 미션 ""우드 캔들 만들기""에서 S등급 받아보자"
-1336	ランクB以上でキャンプを完了しよう	在B級以上完成營地	Complete the camp with Rank B or higher	랭크 B 이상에서 캠프 완료하자
-1337	スキルを10個以上獲得してキャンプを完了しよう	獲得10個以上技能並完成營地	Acquire 10+ skills and complete the camp	10개 이상의 스킬을 획득하여 캠프를 완료하자
-1338	レアリティSRの料理を1つクラフトしよう	製作1個稀有度SR的料理	Craft 1 SR rarity dish	레어리티 SR 요리 1개 크래프트 하세요
-1339	イベント連動やることリストを全てクリアする	清除所有活動連動任務列表	Clear all event-linked to-do lists	이벤트 연동 할 일 목록을 모두 클리어하기
-1340	クラフトを{0}回する	進行{0}次製作	Craft {0} times	{0}회 크래프트하기
-1341	まんじゅうを{0}個獲得する	獲得{0}個饅頭	Obtain {0} pieces of manju	만주를 {0}개 획득하다
-1342	おち葉シールを{0}個獲得する	獲得{0}個落葉貼紙	Obtain {0} Fallen Leaf Stickers	{0}개의 낙엽 스티커 획득
-1343	ユールを{0}個獲得する	獲得{0}個ユール	Acquire {0} Yule(s)	{0}개의 유르를 획득하다
-1344	訪問を{0}回する	進行{0}次訪問	Visit {0} times	{0}번 방문하기
-1345	グルキャンでギアを{0}個配置する	在團隊戰中放置{0}個裝備	Place {0} gears in Guild Campaign	그룹 캠프에서 기어 {0}개 배치하기
-1346	一括挨拶を1回する	一次性打招呼1次	Perform 1 batch greeting	일괄 인사를 1회 하기
-1347	チェックインを1回する	進行1次簽到	Check-in once	체크인 1회 하기
+1235	ランクE以上でキャンプを完了しよう	在E級以上完成營地	Complete the camp with Rank E or higher	랭크 E 이상에서 캠프 완료하기
+1236	「まんぞく」を100以上にしてキャンプを開始しよう	將「滿足」提高到100以上，開始遊戲營地	"Start the camp with ""Satisfaction"" over 100"	"""만족""을 100 이상으로 하여 캠프를 시작하자"
+1237	「いごこち」を100以上にしてキャンプを開始しよう	將「いごこち」提高到100以上，開始營地	"Start the camp with ""Comfort"" over 100"	"""이고코치""를 100 이상으로 설정하고 캠프를 시작하세요"
+1238	「ぬくもり」を100以上にしてキャンプを開始しよう	將「溫暖」提高到100以上，開始露營吧	"Start the camp with ""Warmth"" over 100"	"""따뜻함""을 100 이상으로 설정하고 캠프를 시작하세요"
+1239	「いやし」を100以上にしてキャンプを開始しよう	將「治癒」提高到100以上，開始營地	"Start a camp with 100+ ""Healing"""	"""치유""를 100 이상으로 설정하고 캠프를 시작하세요"
+1240	ランクE+以上でキャンプを完了しよう	在E+等級以上完成營地	Complete the camp with Rank E+ or higher	랭크 E+이상으로 캠프 완료하자
+1241	料理をクラフトしよう	嘗試製作料理	Let's craft a dish	요리를 크래프트 해보자
+1242	ホーム編集で「料理」を設置しよう	在主頁編輯中設置「料理」	"Set up ""Cooking"" in Home Edit"	"홈 편집에서 ""요리""를 설치하세요"
+1243	サポートカードを強化しよう	強化支援卡	Enhance Support Cards	서포트 카드 강화하자
+1244	他プレイヤーにいいねをしよう	給其他玩家按讚	Give likes to other players	다른 플레이어에게 좋아요를 누르자
+1245	プロフィール編集で「プロフィールアイテム」を貼ろう	在個人資料編輯中貼上「個人資料物品」	"Edit profile and attach ""Profile Items"""	"프로필 편집에서 ""프로필 아이템""을 붙여보세요"
+1246	プロフィール編集で「記念写真」を貼ろう	在個人資料編輯中貼上「紀念照片」	"Edit profile to add ""Commemorative Photo"""	"프로필 편집에서 ""기념 사진""을 붙여보자"
+1247	麓キャンプ場でキャンプを1回しよう	在山麓營地進行1次露營	Camp once at Foothill Campground	루트 캠프장에서 캠프 1회 실행
+1248	他人のキャンプサイトを訪問しよう	拜訪他人的營地	Visit others' campsite	다른 사람의 캠프 사이트 방문하기
+1249	「つながり」を120以上にしてキャンプを開始しよう	將「連線」提高到120以上，開始營地	"Start a camp with 120+ ""Connections"""	"""연결""을 120 이상으로 하여 캠프를 시작하자"
+1250	「まんぞく」を120以上にしてキャンプを開始しよう	將「滿足」提高到120以上，開始營地	"Start the camp with ""Satisfaction"" 120 or higher"	"""만족""을 120 이상으로 설정하고 캠프를 시작하세요"
+1251	「いごこち」を120以上にしてキャンプを開始しよう	將「いごこち」提高到120以上，開始遊戲營地	"Start the camp with ""Comfort"" 120 or higher"	"""이고코치""를 120 이상으로 설정하고 캠프를 시작하세요"
+1252	「ぬくもり」を120以上にしてキャンプを開始しよう	將「溫暖」提高到120以上，開始露營	"Start the camp with ""Warmth"" at 120 or more"	"""따뜻함""을 120 이상으로 설정하고 캠프를 시작하세요"
+1253	「いやし」を120以上にしてキャンプを開始しよう	將「治癒」提高到120以上，開始營地	"Start the camp with ""Healing"" over 120"	"""치유""를 120 이상으로 설정하고 캠프를 시작하세요"
+1254	高ボッチ高原でキャンプを1回しよう	在高ボッチ高原露營1次	Camp once at High Botchi Plateau	고 보치 고원에서 캠프 1회 돌려보자
+1255	イーストウッドキャンプ場でキャンプを1回しよう	在伊斯特伍德營地進行一次遊戲	Camp once at Eastwood Campground	이스트우드 캠프장에서 캠프 1회 돌리기
+1256	図鑑報酬を獲得しよう	獲得圖鑑獎勵	Get the Illustrated Book Reward	도감 보상을 획득하자
+1257	コスチューム適性あつさをＥ以上にしてキャンプを開始しよう	將裝備適性提高到E以上，開始遊戲吧	Start the camp with costume aptitude at E or higher	코스튬 적성 온도를 E 이상으로 설정하고 캠프를 시작하자
+1258	コスチューム適性さむさをＥ以上にしてキャンプを開始しよう	將裝備適性提高到E以上，開始遊戲吧	Start the camp by raising the costume's suitability to E or higher.	코스튬 적성을 E 이상으로 하고 캠프를 시작하자
+1259	コスチューム適性うんどうをＥ以上にしてキャンプを開始しよう	將裝扮適性提高到E以上，開始進行營地活動	Get costume aptitude to E or higher and start the camp	코스튬 적성 운동을 E 이상으로 하여 캠프를 시작하자
+1260	ランクD以上でキャンプを完了しよう	在D級E級以上完成營地	Complete the camp with Rank D or above in mobile gaming	D랭크 이상에서 캠프 완료하기
+1261	スキルを3つ以上獲得してキャンプを完了しよう	獲得3個以上技能並完成營地	Complete the camp by acquiring 3 or more skills	3개 이상의 스킬을 획득하여 캠프를 완료하세요
+1262	「記念撮影」をしよう！	來「留念拍照」吧！	"Let's take a ""Commemorative Photo""!"	"""기념 촬영""을 해보자!"
+1263	「つながり」のステータスを120以上にしてキャンプを開始しよう	將「連結」狀態提升至120以上，開始營地	"Start a camp with ""Connection"" status 120 or higher"	"""연결"" 상태를 120 이상으로 만들고 캠프를 시작하세요"
+1264	「まんぞく」のステータスを120以上にしてキャンプを開始しよう	將「滿足」狀態提高到120以上，開始營地	"Start the camp with ""Satisfaction"" status over 120"	"""만족"" 스테이터스를 120 이상으로 올리고 캠프를 시작하자"
+1265	「いごこち」のステータスを120以上にしてキャンプを開始しよう	將「いごこち」狀態提升至120以上，開始營地	"Start the camp by raising the ""Igokochi"" status to 120 or more"	"""이고코치""의 스테이터스를 120 이상으로 올리고 캠프를 시작하자"
+1266	「ぬくもり」のステータスを120以上にしてキャンプを開始しよう	將「溫暖」狀態提升至120以上，開始營地	"Start the camp with ""Warmth"" status over 120"	"""ぬくもり"" 스테이터스를 120 이상으로 올리고 캠프를 시작하자"
+1267	「いやし」のステータスを120以上にしてキャンプを開始しよう	將「治癒」狀態提高到120以上，開始營地	"Start the camp with ""Healing"" status at 120 or higher"	"""치유"" 스테이터스를 120 이상으로 설정하고 캠프를 시작하세요"
+1268	スキルを4つ以上獲得してキャンプを完了しよう	獲得4個以上技能並完成營地	Acquire 4+ skills and complete the camp	4개 이상의 스킬을 획득하여 캠프를 완료하자
+1269	ホーム編集で「テーブル」を設置しよう	在主頁編輯中設置「桌子」	"Set up a ""Table"" in Home Edit"	"홈 편집에서 ""테이블""을 설치하세요"
+1270	ギアの愛着アップを1回行う	進行1次裝備升級	Perform Gear Attachment Up once	기어 애착 업을 1회 실행
+1271	料理の愛着アップを1回行う	進行1次料理升級	Perform 1 Cooking Affection Boost	요리 애착 향상 1회 실행
+1272	リンのなかよしゲージを20以上にしてキャンプをクリアする	將琳的好友計量表達到20以上並完成營地	Clear the camp with Rin's friendship gauge at 20 or higher	린 친구 게이지를 20 이상으로 올리고 캠프를 클리어하십시오
+1273	千明のなかよしゲージを20以上にしてキャンプをクリアする	將千明的好友計量表達到20以上，然後完成營地	Clear the camp with Chiaki's friendship gauge at 20 or higher	천명의 친한 친구 게이지를 20 이상으로 올리고 캠프를 클리어하다
+1274	あおいのなかよしゲージを20以上にしてキャンプをクリアする	將藍色的好友計量表達到20以上並完成營地	Clear the camp with Aoi's friendship gauge at 20 or higher	아오이 친구 게이지를 20 이상으로 올리고 캠프를 클리어하십시오
+1275	恵那のなかよしゲージを20以上にしてキャンプをクリアする	將恵那的好友計量表達到20以上，並完成營地	Clear the camp with Ena's friendship gauge at 20 or higher	에나와 친구 게이지를 20 이상으로 올리고 캠프를 클리어하십시오
+1276	ランクD+以上でキャンプを完了しよう	在D+級以上完成營地	Complete the camp at Rank D+ or higher	랭크 D+ 이상에서 캠프를 완료하자
+1277	ギア適性くつろぎをF以上にしてキャンプを始めよう	將裝備適性提升到F以上，開始遊玩營地	Get Gear Aptitude F+ and start the Camp	기어 적성 F 이상으로 편안함을 높이고 캠프를 시작하자
+1278	ギア適性あそびをF以上にしてキャンプを始めよう	將裝備適性提升到F以上，開始遊玩營地	Get gear aptitude to F+ and start the camp	기어 적성 F 이상으로 플레이하고 캠프를 시작하자
+1279	ギア適性りょうりをF以上にしてキャンプを始めよう	將裝備適性提升至F以上，開始遊玩營地	Get Gear Aptitude F or higher and start the Camp	기어 적성 요리를 F 이상으로 하여 캠프를 시작하자
+1280	レアリティＮのギアをクラフトしよう	製作稀有度N裝備	Craft Rarity N gear	레어리티 N의 기어를 크래프트하자
+1281	レアリティＮの料理をクラフトしよう	製作稀有度N的料理	Craft a Rarity N dish	레어리티 N 요리를 크래프트하자
+1282	レアリティＲのギアをクラフトしよう	製作稀有度R的裝備	Craft Rarity R gear	레어리티 R의 기어를 크래프트하자
+1283	レアリティＲの料理をクラフトしよう	製作稀有度R的料理	Craft a Rarity R dish	레어리티 R 요리를 크래프트하자
+1284	「おしゃべり」コマンドをLv3以上にしてキャンプをクリアしよう	將「聊天」指令升級到Lv3以上，並通關營地	"Clear the camp by leveling up the ""Chat"" command to Lv3 or higher"	"""수다"" 명령을 Lv3 이상으로 올리고 캠프를 클리어하자"
+1285	「たべる」コマンドをLv3以上にしてキャンプをクリアしよう	將「吃」指令升級到Lv3以上，通過營地	"Clear the camp by leveling up the ""Eat"" command to Lv3 or higher"	"""먹다"" 명령을 Lv3 이상으로 올려서 캠프를 클리어하자"
+1286	「せつえい」コマンドをLv3以上にしてキャンプをクリアしよう	將「設定」指令提升至Lv3以上，並通過營地	"Clear the camp by setting the ""Settings"" command to Lv3 or higher"	"""설정"" 명령을 Lv3 이상으로 설정하고 캠프를 클리어하자"
+1287	「たきび」コマンドをLv3以上にしてキャンプをクリアしよう	將「營火」指令升級至Lv3以上，通關露營	"Clear the camp by leveling up the ""Bonfire"" command to Lv3 or higher"	「모닥불」커맨드를 Lv3 이상으로 올려 캠프를 클리어하자
+1288	本栖湖キャンプミッション「カレー麺をアレンジする」でA以上の評価を取ろう	在本栖湖露營任務「變化咖哩麵」中，取得A以上評價吧	"Get an A or higher rating in Lake Motosu Camp Mission ""Arrange Curry Noodles"""	"본스 호수 캠프 미션 ""카레 면을 아렌지하기""에서 A 이상의 평가를 받아보자"
+1289	本栖湖キャンプミッション「薪割り競争をする」でA以上の評価を取ろう	在本栖湖露營任務「砍柴競賽」中，爭取獲得A以上評價	"Lake Motosu Camp Mission: ""Compete in Firewood Splitting"" - Aim for A or higher rating"	"본스 호수 캠프 미션 ""장작 쪼개기 경쟁""에서 A 이상의 평가를 받으세요"
+1290	麓キャンプミッション「ちくわと遊ぶ」でA以上の評価を取ろう	在山麓營地任務「與竹輪玩耍」中獲得A以上評價	"Get an A or higher rating in Foothill Camp Mission ""Play with Chikuwa"""	"산기슭 캠프 미션 ""치쿠와와 놀기""에서 A 이상의 평가를 받으세요"
+1291	麓キャンプミッション「アウトドア実験料理を作る」でA以上の評価を取ろう	在山麓營地任務「製作戶外實驗料理」中，取得A以上評價	"Foothill Camp Mission: ""Create Outdoor Experimental Cuisine"" - Aim for A or higher rating"	"발 아래 캠프 미션 ""아웃도어 실험 요리 만들기""에서 A 이상의 평가를 받으세요"
+1292	麓キャンプミッション「写真を撮る」でA以上の評価を取ろう	山麓營地任務「拍照」中，取得A以上評價	"Foothill Camp Mission: Get an A or higher rating in ""Take a Photo"""	"산기슭 캠프 미션 ""사진 찍기""에서 A 이상의 평가를 받으세요"
+1293	麓キャンプミッション「担々餃子鍋をする」でA以上の評価を取ろう	在山麓營地任務「吃擔擔餃子鍋」中，取得A以上評價吧	"Get an A or higher rating in Foothill Camp Mission ""Make Tantan Dumpling Pot"""	"산기슭 캠프 미션 ""탄탄 만두 찌개 만들기""에서 A 이상의 평가를 받으세요"
+1294	高ボッチ高原キャンプミッション「マシュマロをたべる」でA以上の評価を取ろう	在高ボッチ高原營地任務「吃棉花糖」中，取得A以上評價	"Get an A or higher rating in the Takabocchi Highlands Camp Mission ""Eat Marshmallows"""	"고 보치 고원 캠프 미션 ""마시멜로 먹기""에서 A 이상의 평가를 받으세요"
+1295	高ボッチ高原キャンプミッション「飾りつけをする」でA以上の評価を取ろう	在高ボッチ高原營地任務「裝飾」中獲得A以上評價	"Get an A or higher rating in the High Botchi Plateau Camp Mission ""Decorate"""	"고 보치 고원 캠프 미션 ""장식하기""에서 A 이상의 평가를 받으세요"
+1296	高ボッチ高原キャンプミッション「スープパスタを作る」でA以上の評価を取ろう	在高ボッチ高原營地任務「製作湯麵」中，爭取獲得A級以上評價	"Get an A or higher rating in the High Botchi Plateau Camp Mission ""Make Soup Pasta"""	"고 보치 고원 캠프 미션 ""스프 파스타 만들기""에서 A 이상의 평가를 받으세요"
+1297	高ボッチ高原キャンプミッション「写真を撮る」でA以上の評価を取ろう	在高ボッチ高原營地任務「拍照」中，爭取獲得A以上評價	"Get an A or higher rating in the High Botchi Plateau Camp Mission ""Take a Photo"""	"고 보치 고원 캠프 미션 ""사진 찍기""에서 A 이상의 평가를 받으세요"
+1298	イーストウッドキャンプ場ミッション「犬と遊ぶ」でA以上の評価を取ろう	在伊斯特伍德營地任務「與狗玩耍」中取得A以上評價	"Get A+ rating in Eastwood Camp Mission ""Play with Dog"""	"이스트우드 캠프장 미션 ""개와 놀기""에서 A 이상의 평가를 받으세요"
+1299	イーストウッドキャンプ場ミッション「かくれんぼ」でA以上の評価を取ろう	在伊斯特伍德營地任務「捉迷藏」中獲得A以上評價	"Get an A or higher rating in Eastwood Campground mission ""Hide and Seek"""	"이스트우드 캠프장 미션 ""숨바꼭질""에서 A 이상의 평가를 받아보자"
+1300	イーストウッドキャンプ場ミッション「煮込みカレーを作る」でA以上の評価を取ろう	在伊斯特伍德營地任務「燉咖哩」中獲得A以上評價	"Eastwood Camp Mission: Get A+ rating in ""Make Simmered Curry"""	"이스트우드 캠프장 미션 ""찜 카레 만들기""에서 A 이상의 평가를 받으세요"
+1301	イーストウッドキャンプ場ミッション「ウッドキャンドルを作る」でA以上の評価を取ろう	在伊斯特伍德營地任務「製作木質蠟燭」中，取得A以上評價	"Eastwood Camp Mission: ""Create Wood Candle"" - Aim for A+ rating"	이스트우드 캠프장 미션「우드캔들 만들기」에서 A 이상 평가 받으세요
+1302	ランクC以上でキャンプを完了しよう	在C級以上完成營地	Complete the camp with Rank C or higher	랭크 C 이상에서 캠프 완료하자
+1303	レアリティSRのギアをクラフトしよう	製作稀有度SR裝備	Craft Rarity SR Gear	레어리티 SR 기어를 크래프트하자
+1304	レアリティSRの料理をクラフトしよう	製作稀有SR的料理	Craft an SR rarity dish	레어리티 SR 요리를 크래프트하자
+1305	本栖湖キャンプミッション「カレー麺をアレンジする」でS評価を取ろう	在本栖湖露營任務「變化咖哩麵」中取得S評價	"Get an S-rank in Lake Motosu Camp Mission ""Customize Curry Noodles"""	"본스 호수 캠프 미션 ""카레 면을 아렌지하기""에서 S 등급 받아보자"
+1306	本栖湖キャンプミッション「薪割り競争をする」でS評価を取ろう	在本栖湖營地任務「砍柴競賽」中，爭取獲得S評價	"Get an S-rank in Lake Motosu Camp Mission ""Firewood Splitting Competition"""	"본스 호수 캠프 미션 ""장작 쪼개기 경쟁""에서 S 등급을 받아보자"
+1307	SＲのギアをクラフトしよう	嘗試製作稀有度SR的裝備	Craft SR rarity gear	레어리티 SR 기어를 크래프트하자
+1308	麓キャンプミッション「ちくわと遊ぶ」でS評価を取ろう	在山麓營地任務「與竹輪玩耍」中獲得S評價	"Get an S rating in Foothill Camp Mission ""Play with Chikuwa"""	"산기슭 캠프 미션 ""치쿠와와 놀기""에서 S 등급을 받아보자"
+1309	麓キャンプミッション「アウトドア実験料理を作る」でS評価を取ろう	在山麓營地任務「製作戶外實驗料理」中獲得S評價	"Foothill Camp Mission: ""Create Outdoor Experimental Cuisine"" - Aim for S Rank"	"산기슭 캠프 미션 ""아웃도어 실험 요리 만들기""에서 S등급을 받아보자"
+1310	リンのなかよしゲージをMAXにしてキャンプをクリアする	將琳的好友計量表達到最大值並完成營地	Clear the camp by maxing out Rin's friendship gauge	린 친밀 게이지를 MAX로 하여 캠프 클리어하기
+1311	千明のなかよしゲージをMAXにしてキャンプをクリアする	將千明的好友計量表達到最大值並完成營地	Clear the camp by maxing out Chiaki's Friendship Gauge	천명의 친한 친구 게이지를 MAX로 하여 캠프를 클리어하다
+1312	あおいのなかよしゲージをMAXにしてキャンプをクリアする	將蒼井的好友計量表達到最大，並通過營地	Clear the camp by maxing out Aoi's friendship gauge	아오이 친구 게이지를 MAX로 하여 캠프를 클리어하십시오
+1313	恵那のなかよしゲージをMAXにしてキャンプをクリアする	將恵那的好友計量表達到最大，並完成營地	Clear the camp by maxing out Ena's Friendship Gauge	에나와 친구 게이지를 MAX로 하여 캠프를 클리어하십시오
+1314	高ボッチ高原キャンプミッション「マシュマロをたべる」でS評価を取ろう	在高ボッチ高原營地任務「吃棉花糖」中獲得S評價吧	"Get an S rating in the High Botchi Plateau Camp Mission ""Eat Marshmallows"""	"고 보치 고원 캠프 미션 ""마시멜로 먹기""에서 S 등급을 받아보자"
+1315	高ボッチ高原キャンプミッション「飾りつけをする」でS評価を取ろう	在高博奇高原營地任務「裝飾」中獲得S評價	"Get an S-rank in the High Botchi Plateau Camp Mission ""Decorate"""	"고 보치 고원 캠프 미션 ""장식하기""에서 S 등급 받아보자"
+1316	イーストウッドキャンプ場ミッション「犬と遊ぶ」でS評価を取ろう	在伊斯特伍德營地任務「與狗玩耍」中取得S評價	"Get an S-rank in Eastwood Camp Mission ""Play with Dog"""	"이스트우드 캠프장 미션 ""개와 놀기""에서 S등급 받아보자"
+1317	イーストウッドキャンプ場ミッション「かくれんぼ」でS評価を取ろう	在伊斯特伍德營地任務「捉迷藏」中取得S評價	"Get an S-rank in Eastwood Campground mission ""Hide and Seek"""	"이스트우드 캠프장 미션 ""숨바꼭질""에서 S등급 받아보자"
+1318	ランクC+以上でキャンプを完了しよう	在C+級以上完成營地	Complete the camp with rank C+ or higher	랭크 C+ 이상에서 캠프 완료하자
+1319	レアリティSRのギアを3つクラフトしよう	製作稀有度SR裝備	Craft Rarity SR Gear	레어리티 SR 기어를 크래프트하자
+1320	レアリティSRの料理を1つククラフトしよう	製作稀有SR的料理	Craft an SR rarity dish	레어리티 SR 요리를 크래프트하자
+1321	コスチューム適性あつさをB以上にしてキャンプを開始しよう	將裝扮適性提高到B以上，開始遊玩營地吧	Start the camp with costume aptitude at B+ or higher	코스튬 적성 온도를 B 이상으로 설정하고 캠프를 시작하자
+1322	コスチューム適性さむさをB以上にしてキャンプを開始しよう	將裝備適性提高到B以上，開始遊戲吧	Start the camp with costume aptitude B+ or higher	코스튬 적성을 B 이상으로 올리고 캠프를 시작하자
+1323	コスチューム適性うんどうをC以上にしてキャンプを開始しよう	將裝扮適性提升至C以上，開始進行營地活動	Get costume aptitude to C+ and start the camp	코스튬 적성 운동을 C 이상으로 하고 캠프를 시작하자
+1324	ギア適性くつろぎをC以上にしてキャンプを始めよう	將裝備適性提升至C以上，開始進行營地！	Get Gear Aptitude C+ and start camping	기어 적성 C 이상으로 편안함을 높이고 캠프를 시작하자
+1325	ギア適性あそびをC以上にしてキャンプを始めよう	將裝備適性提升至C以上，開始進行營地遊戲	Get gear aptitude to C+ and start the camp	기어 적성 C 이상으로 플레이하고 캠프를 시작하자
+1326	ギア適性りょうりをC以上にしてキャンプを始めよう	將裝備適性烹飪提升至C以上，開始進行營地遊戲	Get Gear Aptitude Cooking to C+ and start the Camp	기어 적성 요리를 C 이상으로 올리고 캠프를 시작하자
+1327	本栖湖キャンプミッション「焼肉をする」でＳ評価を取ろう	在本栖湖露營任務「烤肉」中，爭取獲得S評價	"Get an S-rank in Lake Motosu Camp Mission ""BBQ Time"""	"본스 호수 캠프 미션 ""야키니쿠하기""에서 S 등급 받아보자"
+1328	本栖湖キャンプミッション「写真を撮る」でS評価を取ろう	在本栖湖營地任務「拍照」中獲得S評價	"Lake Motosu Camp Mission: Get an S-Rank in ""Take a Photo"""	"본스 호수 캠프 미션 ""사진 찍기""에서 S 등급 받아보자"
+1329	麓キャンプミッション「写真を撮る」でS評価を取ろう	山麓營地任務「拍照」來取得S評價吧	"Foothill Camp Mission: Get an S-rank in ""Take a Photo"""	"산기슭 캠프 미션 ""사진 찍기""에서 S 등급을 받아보자"
+1330	麓キャンプミッション「担々餃子鍋をする」でS評価を取ろう	在山麓營地任務「吃擔擔餃子鍋」中取得S評價	"Get an S-rank in the Foothill Camp Mission ""Make Tantan Dumpling Hotpot"""	"산기슭 캠프 미션 ""단단 만두 찌개 만들기""에서 S 등급을 받아보자"
+1331	高ボッチ高原キャンプミッション「スープパスタを作る」でS評価を取ろう	在高ボッチ高原營地任務「煮湯麵」中取得S評價吧	"Get an S-rank in the High Botchi Plateau Camp Mission ""Make Soup Pasta"""	"고 보치 고원 캠프 미션 ""스프 파스타 만들기""에서 S 등급 받아보자"
+1332	高ボッチ高原キャンプミッション「写真を撮る」でS評価を取ろう	在高博奇高原營地任務「拍照」中獲得S評價	"Get an S-rank in the High Botchi Plateau Camp Mission ""Take a Photo"""	"고 보치 고원 캠프 미션 ""사진 찍기""에서 S 등급 받아보자"
+1333	イーストウッドキャンプ場ミッション「煮込みカレーを作る」でS評価を取ろう	在伊斯特伍德營地任務「燉咖哩」中獲得S評價	"Get an S-rank in Eastwood Campground Mission ""Make Simmered Curry"" in mobile gaming"	"이스트우드 캠프장 미션 ""찜 카레 만들기""에서 S 등급 받아보자"
+1334	イーストウッドキャンプ場ミッション「ウッドキャンドルを作る」でS評価を取ろう	在伊斯特伍德營地任務「製作伍德蠟燭」中獲得S評價吧	"Get an S-rank in Eastwood Camp Mission ""Create Wood Candle"""	"이스트우드 캠프장 미션 ""우드 캔들 만들기""에서 S등급 받아보자"
+1335	ランクB以上でキャンプを完了しよう	在B級以上完成營地	Complete the camp with Rank B or higher	랭크 B 이상에서 캠프 완료하자
+1336	スキルを10個以上獲得してキャンプを完了しよう	獲得10個以上技能並完成營地	Acquire 10+ skills and complete the camp	10개 이상의 스킬을 획득하여 캠프를 완료하자
+1337	レアリティSRの料理を1つクラフトしよう	製作1個稀有度SR的料理	Craft 1 SR rarity dish	레어리티 SR 요리 1개 크래프트 하세요
+1338	海辺のキャンプ場でキャンプを1回しよう	在本栖湖露營任務「變化咖哩麵」中取得S評價	"Get an S-rank in Lake Motosu Camp Mission ""Customize Curry Noodles"""	"본스 호수 캠프 미션 ""카레 면을 아렌지하기""에서 S 등급 받아보자"
+1339	クラフトで大成功以上をしよう	嘗試製作稀有度SR的裝備	Craft SR rarity gear	레어리티 SR 기어를 크래프트하자
+1340	海辺のキャンプミッション「スイカ割りをしよう」でA以上の評価を取ろう	在山麓營地任務「與竹輪玩耍」中獲得S評價	"Get an S rating in Foothill Camp Mission ""Play with Chikuwa"""	"산기슭 캠프 미션 ""치쿠와와 놀기""에서 S 등급을 받아보자"
+1341	海辺のキャンプミッション「フルーツポンチ早食い競争をしよう」でA以上の評価を取ろう	在山麓營地任務「製作戶外實驗料理」中獲得S評價	"Foothill Camp Mission: ""Create Outdoor Experimental Cuisine"" - Aim for S Rank"	"산기슭 캠프 미션 ""아웃도어 실험 요리 만들기""에서 S등급을 받아보자"
+1342	海辺のキャンプミッション「ビーチポートレート！」でA以上の評価を取ろう	將撫子的好友計量表達到最大，並通過營地	Max out Nadeshiko's Friendship Gauge and clear the camp	나데시코 친구 게이지를 MAX로 하여 캠프를 클리어하다
+1343	海辺のキャンプミッション「海鮮バーベキューをしよう」でA以上の評価を取ろう	將琳的好友計量表達到最大值並完成營地	Clear the camp by maxing out Rin's friendship gauge	린 친밀 게이지를 MAX로 하여 캠프 클리어하기
+1344	スキルを7個以上獲得してキャンプを完了しよう	在高博奇高原營地任務「裝飾」中獲得S評價	"Get an S-rank in the High Botchi Plateau Camp Mission ""Decorate"""	"고 보치 고원 캠프 미션 ""장식하기""에서 S 등급 받아보자"
+1345	カテゴリ「テント」のギアを作ろう	嘗試製作稀有度SR的裝備	Craft SR rarity gear	레어리티 SR 기어를 크래프트하자
+1346	「つながり」を130以上にしてキャンプを開始しよう	在伊斯特伍德營地任務「與狗玩耍」中取得S評價	"Get an S-rank in Eastwood Camp Mission ""Play with Dog"""	"이스트우드 캠프장 미션 ""개와 놀기""에서 S등급 받아보자"
+1347	「まんぞく」を130以上にしてキャンプを開始しよう	在伊斯特伍德營地任務「捉迷藏」中取得S評價	"Get an S-rank in Eastwood Campground mission ""Hide and Seek"""	"이스트우드 캠프장 미션 ""숨바꼭질""에서 S등급 받아보자"
+1348	「いごこち」を130以上にしてキャンプを開始しよう	嘗試製作稀有度SR的裝備	Craft SR rarity gear	레어리티 SR 기어를 크래프트하자
+1349	「ぬくもり」を130以上にしてキャンプを開始しよう	嘗試製作稀有度SR的裝備	Craft SR rarity gear	레어리티 SR 기어를 크래프트하자
+1350	「いやし」を130以上にしてキャンプを開始しよう	給其他玩家按讚	Give likes to other players	다른 플레이어에게 좋아요를 누르자
+1351	「おしゃべり」コマンドをLv4以上にしてキャンプをクリアしよう	將裝扮適性提高到B以上，開始遊玩營地吧	Start the camp with costume aptitude at B+ or higher	코스튬 적성 온도를 B 이상으로 설정하고 캠프를 시작하자
+1352	「たべる」コマンドをLv4以上にしてキャンプをクリアしよう	將裝備適性提高到B以上，開始遊戲吧	Start the camp with costume aptitude B+ or higher	코스튬 적성을 B 이상으로 올리고 캠프를 시작하자
+1353	「せつえい」コマンドをLv4以上にしてキャンプをクリアしよう	將裝扮適性提升至C以上，開始進行營地活動	Get costume aptitude to C+ and start the camp	코스튬 적성 운동을 C 이상으로 하고 캠프를 시작하자
+1354	「たきび」コマンドをLv4以上にしてキャンプをクリアしよう	將裝扮適性提升至C以上，開始進行營地活動	Get costume aptitude to C+ and start the camp	코스튬 적성 운동을 C 이상으로 하고 캠프를 시작하자
+1355	「ながめる」コマンドをLv4以上にしてキャンプをクリアしよう	給其他玩家按讚	Give likes to other players	다른 플레이어에게 좋아요를 누르자
+1356	ランクB＋以上でキャンプを完了しよう	將裝備適性提升至C以上，開始進行營地！	Get Gear Aptitude C+ and start camping	기어 적성 C 이상으로 편안함을 높이고 캠프를 시작하자
+1357	海辺のキャンプミッション「スイカ割りをしよう」でS以上の評価を取ろう	在本栖湖露營任務「烤肉」中，爭取獲得S評價	"Get an S-rank in Lake Motosu Camp Mission ""BBQ Time"""	"본스 호수 캠프 미션 ""야키니쿠하기""에서 S 등급 받아보자"
+1358	海辺のキャンプミッション「ビーチポートレート！」でS以上の評価を取ろう	在本栖湖營地任務「拍照」中獲得S評價	"Lake Motosu Camp Mission: Get an S-Rank in ""Take a Photo"""	"본스 호수 캠프 미션 ""사진 찍기""에서 S 등급 받아보자"
+1359	海辺のキャンプミッション「フルーツポンチ早食い競争をしよう」でS以上の評価を取ろう	在高ボッチ高原營地任務「煮湯麵」中取得S評價吧	"Get an S-rank in the High Botchi Plateau Camp Mission ""Make Soup Pasta"""	"고 보치 고원 캠프 미션 ""스프 파스타 만들기""에서 S 등급 받아보자"
+1360	海辺のキャンプミッション「海鮮バーベキューをしよう」でS以上の評価を取ろう	在高博奇高原營地任務「拍照」中獲得S評價	"Get an S-rank in the High Botchi Plateau Camp Mission ""Take a Photo"""	"고 보치 고원 캠프 미션 ""사진 찍기""에서 S 등급 받아보자"
+1361	ランクA以上でキャンプを完了しよう	在B級以上完成營地	Complete the camp with Rank B or higher	랭크 B 이상에서 캠프 완료하자
+1362	イベント連動やることリストを全てクリアする	清除所有活動連動任務列表	Clear all event-linked to-do lists	이벤트 연동 할 일 목록을 모두 클리어하기
+1363	クラフトを{0}回する	進行{0}次製作	Craft {0} times	{0}회 크래프트하기
+1364	まんじゅうを{0}個獲得する	獲得{0}個饅頭	Obtain {0} pieces of manju	만주를 {0}개 획득하다
+1365	おち葉シールを{0}個獲得する	獲得{0}個落葉貼紙	Obtain {0} Fallen Leaf Stickers	{0}개의 낙엽 스티커 획득
+1366	ユールを{0}個獲得する	獲得{0}個ユール	Acquire {0} Yule(s)	{0}개의 유르를 획득하다
+1367	訪問を{0}回する	進行{0}次訪問	Visit {0} times	{0}번 방문하기
+1368	グルキャンでギアを{0}個配置する	在團隊戰中放置{0}個裝備	Place {0} gears in Guild Campaign	그룹 캠프에서 기어 {0}개 배치하기
+1369	一括挨拶を1回する	一次性打招呼1次	Perform 1 batch greeting	일괄 인사를 1회 하기
+1370	チェックインを1回する	進行1次簽到	Check-in once	체크인 1회 하기
 3001	ビギナーチャレンジ（1つ目）	ビギナーチャレンジ（1つ目）(TW)	ビギナーチャレンジ（1つ目）(EN)	ビギナーチャレンジ（1つ目）(KO)
 3002	【テスト】 ビギナーズチャレンジ！	【テスト】 ビギナーズチャレンジ！(TW)	【テスト】 ビギナーズチャレンジ！(EN)	【テスト】 ビギナーズチャレンジ！(KO)
 3003	デイリーチャレンジ	デイリーチャレンジ(TW)	デイリーチャレンジ(EN)	デイリーチャレンジ(KO)
@@ -573,6 +651,18 @@ RECAMPおだわら』の
 3087	テスト：サークル（ウィークリー）	テスト：サークル（ウィークリー）(TW)	テスト：サークル（ウィークリー）(EN)	テスト：サークル（ウィークリー）(KO)
 3088	旅キャンはじまり！RECAMPおだわら	旅キャンはじまり！RECAMPおだわら(TW)	旅キャンはじまり！RECAMPおだわら(EN)	旅キャンはじまり！RECAMPおだわら(KO)
 3089	夏だ！ビーチだ！海キャンだ！	夏だ！ビーチだ！海キャンだ！(TW)	夏だ！ビーチだ！海キャンだ！(EN)	夏だ！ビーチだ！海キャンだ！(KO)
+3090	レッツクラフト！At海キャン	レッツクラフト！At海キャン(TW)	レッツクラフト！At海キャン(EN)	レッツクラフト！At海キャン(KO)
+3091	ガイドミッション チャプター45	ガイドミッション チャプター45(TW)	ガイドミッション チャプター45(EN)	ガイドミッション チャプター45(KO)
+3092	ガイドミッション チャプター46	ガイドミッション チャプター46(TW)	ガイドミッション チャプター46(EN)	ガイドミッション チャプター46(KO)
+3093	ガイドミッション チャプター47	ガイドミッション チャプター47(TW)	ガイドミッション チャプター47(EN)	ガイドミッション チャプター47(KO)
+3094	ガイドミッション チャプター48	ガイドミッション チャプター48(TW)	ガイドミッション チャプター48(EN)	ガイドミッション チャプター48(KO)
+3095	ガイドミッション チャプター49	ガイドミッション チャプター49(TW)	ガイドミッション チャプター49(EN)	ガイドミッション チャプター49(KO)
+3096	ガイドミッション チャプター50	ガイドミッション チャプター50(TW)	ガイドミッション チャプター50(EN)	ガイドミッション チャプター50(KO)
+3097	ガイドミッション チャプター51	ガイドミッション チャプター51(TW)	ガイドミッション チャプター51(EN)	ガイドミッション チャプター51(KO)
+3098	ガイドミッション チャプター52	ガイドミッション チャプター52(TW)	ガイドミッション チャプター52(EN)	ガイドミッション チャプター52(KO)
+3099	ガイドミッション チャプター53	ガイドミッション チャプター53(TW)	ガイドミッション チャプター53(EN)	ガイドミッション チャプター53(KO)
+3100	ガイドミッション チャプター54	ガイドミッション チャプター54(TW)	ガイドミッション チャプター54(EN)	ガイドミッション チャプター54(KO)
+3101	ガイドミッション チャプター55	ガイドミッション チャプター55(TW)	ガイドミッション チャプター55(EN)	ガイドミッション チャプター55(KO)
 4001	イベント1	イベント1(TW)	イベント1(EN)	イベント1(KO)
 4002	ゆるコインバックキャンペーン	ゆるコインバックキャンペーン(TW)	ゆるコインバックキャンペーン(EN)	ゆるコインバックキャンペーン(KO)
 4003	ゆるコイン購入ミッション	ゆるコイン購入ミッション(TW)	ゆるコイン購入ミッション(EN)	ゆるコイン購入ミッション(KO)

@@ -73,7 +73,7 @@ id	ja	zh-TW	en	ko
 72	山1	山1	Mountain 1	산1
 73	山2	山2	Mountain 2	산2
 74	ランタン	燈籠	Lantern	랜턴
-75	焚火	升火	Bonfire	모닥불
+75	焚火	生火	Bonfire	모닥불
 100001	桜の花びらステッカー	櫻花貼紙	Sakura Sticker	벚꽃 스티커
 100002	中華風ステッカー	中華風貼紙	Chinese-style Stickers	중화풍 스티커
 100702	魚群ステッカー	魚群貼紙	School of Fish Sticker	물고기 무리 스티커
@@ -101,10 +101,24 @@ id	ja	zh-TW	en	ko
 270209	ステッカー「夏だ！ビーチだ！海キャンだ！ TOP1000」	貼紙「夏天！沙灘！海邊露營！ TOP1000」	"""Sun, Sand, and Seaside Camp! TOP1000"""	"스티커 ""여름이다! 해변이다! 바다 캠핑이다! TOP1000"""
 270210	ステッカー「夏だ！ビーチだ！海キャンだ！ TOP5000」	貼紙「夏天！沙灘！海邊露營！ TOP5000」	"""Sun, Sand, and Seaside Camp! TOP5000"""	"스티커 ""여름이다! 해변이다! 바다 캠핑이다! TOP5000"""
 270211	ステッカー「夏だ！ビーチだ！海キャンだ！ TOP10000」	貼紙「夏天！沙灘！海邊露營！ TOP10000」	"""Sun, Sand, and Seaside Camp! TOP10000"""	"스티커 ""여름이다! 해변이다! 바다 캠핑이다! TOP10000"""
+270301	ステッカー「ﾚｯﾂｸﾗﾌﾄ！at海キャン 1位」	貼紙「讓我們來製作吧！在海邊露營 1位」	"""Let's Craft! at Seaside Camp 1st place"""	"스티커 ""레츠 제작! at바다 캠핑 1위"""
+270302	ステッカー「ﾚｯﾂｸﾗﾌﾄ！at海キャン 2位」	貼紙「讓我們來製作吧！在海邊露營 2位」	"""Let's Craft! at Seaside Camp 2nd place"""	"스티커 ""레츠 제작! at바다 캠핑 2위"""
+270303	ステッカー「ﾚｯﾂｸﾗﾌﾄ！at海キャン 3位」	貼紙「讓我們來製作吧！在海邊露營 3位」	"""Let's Craft! at Seaside Camp 3rd place"""	"스티커 ""레츠 제작! at바다 캠핑 3위"""
+270304	ステッカー「ﾚｯﾂｸﾗﾌﾄ！at海キャン TOP5」	貼紙「讓我們來製作吧！在海邊露營 TOP5」	"""Let's Craft! at Seaside Camp TOP5"""	"스티커 ""레츠 제작! at바다 캠핑 TOP5"""
+270305	ステッカー「ﾚｯﾂｸﾗﾌﾄ！at海キャン TOP10」	貼紙「讓我們來製作吧！在海邊露營 TOP10」	"""Let's Craft! at Seaside Camp TOP10"""	"스티커 ""레츠 제작! at바다 캠핑 TOP10"""
+270306	ステッカー「ﾚｯﾂｸﾗﾌﾄ！at海キャン TOP50」	貼紙「讓我們來製作吧！在海邊露營 TOP50」	"""Let's Craft! at Seaside Camp TOP50"""	"스티커 ""레츠 제작! at바다 캠핑 TOP50"""
+270307	ステッカー「ﾚｯﾂｸﾗﾌﾄ！at海キャン TOP100」	貼紙「讓我們來製作吧！在海邊露營 TOP100」	"""Let's Craft! at Seaside Camp TOP100"""	"스티커 ""레츠 제작! at바다 캠핑 TOP100"""
+270308	ステッカー「ﾚｯﾂｸﾗﾌﾄ！at海キャン TOP500」	貼紙「讓我們來製作吧！在海邊露營 TOP500」	"""Let's Craft! at Seaside Camp TOP500"""	"스티커 ""레츠 제작! at바다 캠핑 TOP500"""
+270309	ステッカー「ﾚｯﾂｸﾗﾌﾄ！at海キャン TOP1000」	貼紙「讓我們來製作吧！在海邊露營 TOP1000」	"""Let's Craft! at Seaside Camp TOP1000"""	"스티커 ""레츠 제작! at바다 캠핑 TOP1000"""
+270310	ステッカー「ﾚｯﾂｸﾗﾌﾄ！at海キャン TOP5000」	貼紙「讓我們來製作吧！在海邊露營 TOP5000」	"""Let's Craft! at Seaside Camp TOP5000"""	"스티커 ""레츠 제작! at바다 캠핑 TOP5000"""
+270311	ステッカー「ﾚｯﾂｸﾗﾌﾄ！at海キャン TOP10000」	貼紙「讓我們來製作吧！在海邊露營 TOP10000」	"""Let's Craft! at Seaside Camp TOP10000"""	"스티커 ""레츠 제작! at바다 캠핑 TOP10000"""
 1000002	チャイナイベントで獲得できるステッカーです	在中國活動中可獲得的貼紙	Stickers obtainable in China Event	중국 이벤트에서 획득 가능한 스티커입니다
 1100702	"イベント「夏だ！ビーチだ！海キャンだ！」で
 獲得できるステッカーです"	"這是在活動「夏天！沙灘！海邊露營！」中
 可以獲得的貼紙。"	"""Sun, Sand, and Seaside Camp!"""	이벤트 '여름이다! 해변이다! 바다 캠핑이다!'
+1100703	"イベント「ﾚｯﾂｸﾗﾌﾄ！at海キャン」で
+獲得できるステッカーです"	"這是在活動「讓我們來製作吧！在海邊露營」中
+可以獲得的貼紙。"	"""Let's Craft! at Seaside Camp"""	이벤트 '레츠 제작! at바다 캠핑'
 1150018	クラブポイントランク1で獲得できるステッカー	在俱樂部點數階級1中可以獲得的貼紙	Sticker obtainable at Club Points	클럽 포인트 랭크 1에서 획득할 수 있는 스티커
 1150019	クラブポイントランク2で獲得できるステッカー	在俱樂部點數階級2中可以獲得的貼紙	Sticker obtainable at Club Points	클럽 포인트 랭크 2에서 획득할 수 있는 스티커
 1150020	クラブポイントランク3で獲得できるステッカー	在俱樂部點數階級3中可以獲得的貼紙	Sticker obtainable at Club Points	클럽 포인트 랭크 3에서 획득할 수 있는 스티커

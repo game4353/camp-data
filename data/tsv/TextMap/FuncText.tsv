@@ -1,9 +1,9 @@
 id	ja	zh-TW	en	ko
 1	「サークル」解放	解鎖「社團」	"Unlock ""Circle"""	「서클」 해제
 2	「記念撮影」に新ポーズ追加	「紀念拍照」新增姿勢	"Add new pose to ""Commemorative Photos"""	「AR」해방
-3	「記念撮影」のフィルター解放	解鎖「紀念拍照」的濾鏡	"New pose added to ""Commemorative Photo"""	「기념촬영」에 새 포즈 추가
+3	「記念撮影」のエフェクト解放	解鎖「紀念拍照」的特效	"Unlock effect in ""Commemorative Photos"""	「기념 촬영」의 이펙트 해제
 4	「記念撮影」のレンズ解放	解鎖「紀念拍照」的鏡頭	"Unlock lenses in ""Commemorative Photos"""	「기념촬영」의 렌즈 해제
-5	「AR」解放	解鎖「AR」	"Unlock ""AR"""	「AR」解放
+5	「AR」解放	解鎖「AR」	"Unlock ""AR"""	「AR」해방
 6	「ステッカー作成・共有」解放	解鎖「貼紙製作・分享」	"Unlock ""Sticker Creation & Sharing"""	「스티커 제작 및 공유」 해제
 1001	"キャンパーランクが7になったので
 「サークル」が解放されました！
@@ -12,25 +12,29 @@ id	ja	zh-TW	en	ko
 
 「サークル」に移動しますか？"	你的露營家階級已達到7級，解鎖「社團」！與朋友一起創建「社團」或加入有趣的「社團」吧！是否前往「社團」？	"English: Your Camper Rank is now 7, unlocking ""Circle""! Create a ""Circle"" with your friends or join interesting ""Circles""! Would you like to go to the ""Circle""?"	"캠핑러 랭크가 7이 되어 ""서클""이 해제되었습니다! 친구와 함께 ""서클""을 만들거나 관심 있는 ""서클""에 가입해 보세요! ""서클""로 이동하시겠습니까?"
 1002	"キャンパーランクが9になったので
-「記念撮影」で新しいポーズが使えるようになりました！
+「記念撮影」のカスタムモードで
+新ポーズが使えるようになりました！
 新しいポーズでどんどん写真を撮ってみよう！
 
-「記念撮影」に移動しますか？"	你的露營者等級已達到9級，現在可以在「記念拍攝」中使用新姿勢！嘗試使用新姿勢拍攝更多照片！是否前往「記念拍攝」？	"Your Camper Rank is now 9, allowing you to use new poses in ""Commemorative Photo""! Take more photos with the new poses! Would you like to go to ""Commemorative Photo""?"	"캠핑러 랭크가 9가 되어 ""기념 촬영""에서 새로운 포즈를 사용할 수 있게 되었습니다! 새로운 포즈로 사진을 계속 찍어 보세요! ""기념 촬영""으로 이동하시겠습니까?"
+「記念撮影」に移動しますか？"	你的露營者等級已達到9級，現在可以在「記念拍攝」自定義模式中使用新姿勢！嘗試使用新姿勢拍攝更多照片！是否前往「記念拍攝」？	"Your Camper Rank is now 9, allowing you to use new poses in ""Commemorative Photo"" custom mode! Take more photos with the new poses! Would you like to go to ""Commemorative Photo""?"	"캠퍼 랭크가 9가 되어서 '기념 촬영'의 커스텀 모드에서 새로운 포즈를 사용할 수 있게 되었습니다!
+새로운 포즈로 사진을 많이 찍어보자!"
 1003	"キャンパーランクが11になったので
-「記念撮影」でフィルターが使えるようになりました！
-フィルターを使ってどんどん写真を撮ってみよう！
+「記念撮影」でエフェクトが使えるようになりました！
+エフェクトを使ってどんどん写真を撮ってみよう！
 
-「記念撮影」に移動しますか？"	你的露營者等級已達到11級，現在可以在「記念拍攝」中使用新姿勢！嘗試使用新姿勢拍攝更多照片！是否前往「記念拍攝」？	"Your Camper Rank is now 11, allowing you to use new poses in ""Commemorative Photo""! Take more photos with the new poses! Would you like to go to ""Commemorative Photo""?"	"캠핑러 랭크가 11가 되어 ""기념 촬영""에서 새로운 포즈를 사용할 수 있게 되었습니다! 새로운 포즈로 사진을 계속 찍어 보세요! ""기념 촬영""으로 이동하시겠습니까?"
+「記念撮影」に移動しますか？"	你的露營者等級已達到11級，現在可以在「記念拍攝」中使用特效！嘗試使用特效拍攝更多照片！是否前往「記念拍攝」？	"Your Camper Rank is now 11, allowing you to use new effects in ""Commemorative Photo""! Take more photos with the new effects! Would you like to go to ""Commemorative Photo""?"	"캠핑러 랭크가 11가 되어 ""기념 촬영""에서 새로운 포즈를 사용할 수 있게 되었습니다! 새로운 포즈로 사진을 계속 찍어 보세요! ""기념 촬영""으로 이동하시겠습니까?"
 1004	"キャンパーランクが14になったので
 「記念撮影」で様々なレンズが使えるようになりました！
 レンズを変えてどんどん写真を撮ってみよう！
 
 「記念撮影」に移動しますか？"	你的露營家階級已達到14級，現在可以在「記念拍攝」中使用新姿勢！嘗試使用新姿勢拍攝更多照片！是否前往「記念拍攝」？	"Your Camper Rank is now 14, allowing you to use new poses in ""Commemorative Photo""! Take more photos with the new poses! Would you like to go to ""Commemorative Photo""?"	"캠핑러 랭크가 14가 되어 ""기념 촬영""에서 새로운 포즈를 사용할 수 있게 되었습니다! 새로운 포즈로 사진을 계속 찍어 보세요! ""기념 촬영""으로 이동하시겠습니까?"
 1005	"キャンパーランクが20になったので
-「記念撮影」でもっと新しいポーズが使えるようになりました！
+「記念撮影」のカスタムモードで
+新ポーズがもっと使えるようになりました！
 新しいポーズでどんどん写真を撮ってみよう！
 
-「記念撮影」に移動しますか？"	你的露營家階級已達到20級，現在可以在「記念拍攝」中使用新姿勢！嘗試使用新姿勢拍攝更多照片！是否前往「記念拍攝」？	"Your Camper Rank is now 20, allowing you to use new poses in ""Commemorative Photo""! Take more photos with the new poses! Would you like to go to ""Commemorative Photo""?"	"캠핑러 랭크가 20가 되어 ""기념 촬영""에서 새로운 포즈를 사용할 수 있게 되었습니다! 새로운 포즈로 사진을 계속 찍어 보세요! ""기념 촬영""으로 이동하시겠습니까?"
+「記念撮影」に移動しますか？"	你的露營家階級已達到20級，現在可以在「記念拍攝」自定義模式中使用新姿勢！嘗試使用新姿勢拍攝更多照片！是否前往「記念拍攝」？	"Your Camper Rank is now 20, allowing you to use new poses in ""Commemorative Photo"" custom mode! Take more photos with the new poses! Would you like to go to ""Commemorative Photo""?"	"캠퍼 랭크가 20가 되어서 '기념 촬영'의 커스텀 모드에서 새로운 포즈를 사용할 수 있게 되었습니다!
+새로운 포즈로 사진을 많이 찍어보자!"
 1006	"キャンパーランクが17になったので
 「AR」が解放されました！
 なでしこたちをどこでも好きな場所で撮影してみよう！
@@ -42,4 +46,4 @@ id	ja	zh-TW	en	ko
 ステッカーを作ったり
 作ったステッカーを共有したりしてみよう！
 
-「レイアウト」に移動しますか？"	你的露營家階級已達到25級，解鎖了「貼圖創作與分享」功能！你可以在「版面配置」畫面上創作屬於自己的原創貼圖並進行分享。是否前往「佈版面配置」？	"Your Camper Rank is now 25, unlocking the ""Sticker Creation & Sharing"" feature! From the ""Layout"" screen, you can create your own original stickers and share them. Would you like to go to ""Layout""?"	"캠핑러 랭크가 25가 되어 ""스티커 제작 및 공유"" 기능이 해제되었습니다! ""레이아웃"" 화면에서 자신만의 원본 스티커를 만들고 공유해보세요! ""레이아웃""으로 이동하시겠습니까?"
+「レイアウト」に移動しますか？"	你的露營家階級已達到25級，解鎖了「貼圖創作與分享」功能！你可以在「版面配置」畫面上創作屬於自己的原創貼圖並進行分享。是否前往「版面配置」？	"Your Camper Rank is now 25, unlocking the ""Sticker Creation & Sharing"" feature! From the ""Layout"" screen, you can create your own original stickers and share them. Would you like to go to ""Layout""?"	"캠핑러 랭크가 25가 되어 ""스티커 제작 및 공유"" 기능이 해제되었습니다! ""레이아웃"" 화면에서 자신만의 원본 스티커를 만들고 공유해보세요! ""레이아웃""으로 이동하시겠습니까?"

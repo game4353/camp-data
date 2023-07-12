@@ -1,3 +1,4 @@
 feature_id	home_background_id	weather	time	camera_x	camera_y	camera_z	camera_angle_x	camera_angle_y	camera_fov	home_message_flag	home_message_date
 701	110200	1	1	-1.79794	0.807914	4.11335	2.31933	170.704	50.0		2023-05-11 13:03:48
 702	130200	1	2	-2.12208	1.01891	1.83224	6.4185	93.3447	50.0		2023-07-01 13:03:48
+703	30200	1	2	1.963	0.911	-2.701	10.765	306.914	50.0		2023-07-01 13:03:48

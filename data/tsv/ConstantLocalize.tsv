@@ -73,3 +73,8 @@ id	key	text	text_en	text_tw	text_ko	priority	open_date	close_date	open_time	clos
 7101	guild_notification_mission_clear	{0}さんがサークル活動をクリアしました。				100	2020-05-01 00:00:00	2100-12-31 00:00:00		
 7102	guild_mission_clear_present_message	{0}さんがサークル活動をクリアした報酬です。				100	2020-05-01 00:00:00	2100-12-31 00:00:00		
 8101	exceed_ap_item_text	残りAP報酬				100	2020-05-01 00:00:00	2100-12-31 00:00:00		
+9010	push_notification_visit_nadeshiko	なでしこ「誰かが遊びに来たみたいだよ！¥nホームを見てみよう」				100	2020-05-01 00:00:00	2100-12-31 00:00:00		
+9020	push_notification_visit_rin	リン「誰かが遊びに来たみたいだ。¥nホームを見てみるか」				100	2020-05-01 00:00:00	2100-12-31 00:00:00		
+9030	push_notification_visit_chiaki	千明「ん？誰か遊びに来たぞ！¥nホームを確認しようぜ」				100	2020-05-01 00:00:00	2100-12-31 00:00:00		
+9040	push_notification_visit_aoi	あおい「誰か遊びに来たみたいやね。¥nホームを見てみよか」				100	2020-05-01 00:00:00	2100-12-31 00:00:00		
+9050	push_notification_visit_ena	恵那「誰か遊びに来たみたいだね。¥nホームを見てみようー」				100	2020-05-01 00:00:00	2100-12-31 00:00:00		
