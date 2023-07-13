@@ -897,7 +897,7 @@ id	key	value	type	priority	open_date	close_date	open_time	close_time
 100560	yurusuta_history_count	5	3	1	2020-05-01 00:00:08	2100-12-31 00:00:08		
 100561	yurusuta_support_card_bonus_max	0.5	2	1	2020-05-01 00:00:08	2100-12-31 00:00:08		
 100562	yurusuta_ranking_class	100	3	1	2020-05-01 00:00:08	2100-12-31 00:00:08		
-100563	yurusuta_ranking_all	100	3	1	2020-05-01 00:00:08	2100-12-31 00:00:08		
+100563	yurusuta_ranking_total	100	3	1	2020-05-01 00:00:08	2100-12-31 00:00:08		
 100564	yurusuta_ranking_friend	20	3	1	2020-05-01 00:00:08	2100-12-31 00:00:08		
 100565	yurusuta_ranking_circle	20	3	1	2020-05-01 00:00:08	2100-12-31 00:00:08		
 100566	yurusuta_bonus_leader	0.1	2	1	2020-05-01 00:00:08	2100-12-31 00:00:08		
@@ -937,3 +937,6 @@ id	key	value	type	priority	open_date	close_date	open_time	close_time
 100600	camp_ap_use_count_max	3	2	1	2020-05-01 00:00:13	2100-12-31 00:00:13		
 100601	camp_ap_use_count_max_using_vip	5	2	1	2020-05-01 00:00:13	2100-12-31 00:00:13		
 100602	sequence_time_limit	15	2	1	2020-05-01 00:00:13	2100-12-31 00:00:13		
+100603	yurusuta_random_rank_coefficient_a	0.43	3	1	2020-05-01 00:00:13	2100-12-31 00:00:13		
+100604	yurusuta_random_rank_coefficient_n	1.8	3	1	2020-05-01 00:00:13	2100-12-31 00:00:13		
+100605	yurusuta_random_rank_coefficient_b	2	2	1	2020-05-01 00:00:13	2100-12-31 00:00:13		
