@@ -54,16 +54,6 @@ group_id	seq	position	character_id	clothes_id	face_id	message_text_id	motion_id	
 104	2	1	4		0	14	neglect2_1	3032			50
 105	1	1	5		0	15	neglect2_1	3031			50
 105	2	1	5		0	16	neglect2_1	3032			50
-40011	1	1	1		0	17	talk_1	4001			
-40012	1	1	2		0	18	talk_1	4001			
-40013	1	1	3		0	19	talk_1	4001			
-40014	1	1	4		0	20	talk_1	4001			
-40015	1	1	5		0	21	talk_1	4001			
-40021	1	1	1		0	22	talk_1	4002			
-40022	1	1	2		0	23	talk_1	4002			
-40023	1	1	3		0	24	talk_1	4002			
-40024	1	1	4		0	25	talk_1	4002			
-40025	1	1	5		0	26	talk_1	4002			
 40031	1	1	1		0	27	talk_1	4003			
 40032	1	1	2		0	28	talk_1	4003			
 40033	1	1	3		0	29	talk_1	4003			
@@ -790,10 +780,6 @@ group_id	seq	position	character_id	clothes_id	face_id	message_text_id	motion_id	
 41213	1	1	3		0	710	talk_1	4121			
 41214	1	1	4		0	711	talk_1	4121			
 41215	1	1	5		0	712	talk_1	4121			
-101000	1	1	1		0	713	idle1_2l		31101001		
-101000	2	1	1		0	714	talk_1	1632			
-101000	3		2		0	715	talk_1	1633			
-101000	4	1	1		0	716	talk_1	1634			
 101100	1	1	2		0	713	idle1_2l		31101101		
 101100	2	1	2		0	717	talk_1	1635			
 101100	3		5		0	718	talk_1	1636			
@@ -905,14 +891,6 @@ group_id	seq	position	character_id	clothes_id	face_id	message_text_id	motion_id	
 104400	4	1	3		0	791	talk_1	1709			
 104400	5		4		0	792	talk_1	1710			
 104400	6		4		0	793	talk_1	1711			
-104500	1	1	2		0	713	idle1_2l		31104501		
-104500	2	1	2		0	794	talk_1	1712			
-104500	3		1		0	795	talk_1	1713			
-104600	1	1	1		0	713	idle1_2l		31104601		
-104600	2	1	1		0	796	talk_1	1714			
-104600	3		2		0	797	talk_1	1715			
-104600	4		2		0	798	talk_1	1716			
-104600	5	1	1		0	799	talk_1	1717			
 104700	1	1	3		0	713	idle1_2l		31104701		
 104700	2	1	3		0	800	talk_1	1718			
 104700	3		4		0	801	talk_1	1719			

@@ -45,3 +45,5 @@ id	type	language	resource_type	resource_id	ios	android	pc	priority	interval	link
 46		en,ko,zh-TW	3	30390010	1	1	1	500	1	notify	1		2023-05-27 00:00:00	2023-05-28 23:59:59
 47	1	ja,en,zh-TW,ko		53090003	1	1	1	201	9999	gacha?gacha_id=10012	1		2023-07-12 11:00:00	2023-07-25 23:59:59
 48	1	ja,en,zh-TW,ko		53090006	1	1	1	200	9999	gacha?gacha_id=10015	1		2023-07-12 11:00:00	2023-07-25 23:59:59
+49		ja,en,zh-TW,ko		30310014	1	1	1	111	1	gacha?gacha_id=10014	1		2023-07-19 11:00:00	2023-07-28 10:59:59
+50		ja,en,zh-TW,ko		30310013	1	1	1	110	1	gacha?gacha_id=10013	1		2023-07-19 11:00:00	2023-07-28 10:59:59
