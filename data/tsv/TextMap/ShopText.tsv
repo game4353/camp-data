@@ -35,7 +35,8 @@ Falling Leaves Sticker Set"	"만주와
 13	リアルギア①	真實用品①	Real Gear ①	리얼 기어 1
 14	スノーテント	雪地帳	Snow Tent	스노우 텐트
 15	リアルギア②	真實用品②	Real Gear ②	리얼 기어 2
-16	コミコミ3万の焚火台	含稅三萬日圓的篝火台	30K All Inclusive Campfire Stand	모든 세금 포함 3만짜리 모닥불 받침대
+16	コミコミ3万の焚火台	含稅三萬日圓的篝火台	"30K All Inclusive
+Campfire Stand"	모든 세금 포함 3만짜리 모닥불 받침대
 17	鳥羽先生の車	鳥羽老師的汽車	Ms. Toba's Car	토바 선생님의 차
 18	リアルギア③	真實用品③	Real Gear ③	리얼 기어 3
 19	owlテスト課金1	owl測試付費1	owl Test Purchase 1	owl테스트 결제1
@@ -1844,7 +1845,11 @@ Falling Leaves Sticker Set"	"만주와
 1822	★3『海キャン水着』斉藤恵那	★3『海邊露營泳裝』齊藤惠那	★3『Seaside Camp Swimsuit』Ena Saito	★3『바다 캠핑 수영복』사이토 에나
 1823	★3『海キャン水着』犬山あおい	★3『海邊露營泳裝』犬山葵	★3『Seaside Camp Swimsuit』Aoi Inuyama	★3『바다 캠핑 수영복』이누야마 아오이
 1824	SR『夏の思い出』	SR『夏天的回憶』	SR『Summer Memories』	SR『여름의 추억』
-1825		翻訳入力エラー	翻訳入力エラー	翻訳入力エラー
+1825	★3『お祭り浴衣』志摩リン	★3『海邊露營泳裝』各務原撫子	★3『Seaside Camp Swimsuit』Nadeshiko Kagamihara	★3『바다 캠핑 수영복』카가미하라 나데시코
+1826	★3『お祭り浴衣』斉藤恵那	★3『海邊露營泳裝』大垣千明	★3『Seaside Camp Swimsuit』Chiaki Ogaki	★3『바다 캠핑 수영복』오가키 치아키
+1827	SR『キャンプで手作り夏祭り！』	★3『海邊露營泳裝』各務原撫子	★3『Seaside Camp Swimsuit』Nadeshiko Kagamihara	★3『바다 캠핑 수영복』카가미하라 나데시코
+1828	SR『手持ち花火でファイヤー！』	★3『海邊露營泳裝』大垣千明	★3『Seaside Camp Swimsuit』Chiaki Ogaki	★3『바다 캠핑 수영복』오가키 치아키
+1829		翻訳入力エラー	翻訳入力エラー	翻訳入力エラー
 20001	お助けアイテム	"指定したパズル玉スキル玉
 仕掛けを壊すことができる
 ※仕掛けは1段階下げる効果(TW)"	"指定したパズル玉スキル玉
@@ -2431,7 +2436,35 @@ Bonus 119 YuruCoin (Silver)!"	"2회 한정! 유루코인이 혜택!
 ※2023/7/28まで交換可能"	您可以在2023/7/28之前用1個轉蛋幣（夏天！沙灘！②）進行兌換。	"Exchange with Gacha Medal (Sun, Sand! ②) 1
 *Exchangeable until 7/28/2023"	"뽑기 메달(여름이다! ②) 1개로 교환 가능
 ※2023/7/28까지 교환 가능"
-20102		翻訳入力エラー	翻訳入力エラー	翻訳入力エラー
+20102	"ガチャメダル（お祭り浴衣）250と交換できる
+※2023/8/13まで交換可能
+<color=""red"">※未所持のコスチュームと交換した場合は、コスチュームそのものに交換されます。</color>
+<color=""red"">※所持済みのコスチュームと交換した場合は、そのコスチュームのカケラに交換されます。</color>
+<color=""red"">ピックアップ対象の場合はカケラ40個、ピックアップ対象外の場合はカケラ25個です。</color>"	"您可以在2023/7/15之前用250個轉蛋幣（服裝）進行兌換。
+<color=""red"">※如果兌換您已經擁有的服裝，它將自動轉換為碎片。 </color>"	"Exchange for 250 Gacha Medals (Costume)
+*Until 7/15/2023
+<color=""red"">*Owned Costumes will be automatically converted to Fragments upon exchange.</color>"	"뽑기 메달(코스튬) 250개로 교환 가능
+※2023/7/15까지 교환 가능
+<color=""red"">※소지하고 있는 코스튬을 교환하면 자동으로 조각으로 변환됩니다. </color>"
+20103	"ガチャメダル（お祭り浴衣）交換できる
+※2023/8/13まで交換可能"	您可以在2023/7/15之前用1個轉蛋幣（輔助）進行兌換。	"Exchange with Gacha Medal (Support) 1
+*Exchangeable until 7/15/2023"	"뽑기 메달(서포트) 1개로 교환 가능
+※2023/7/15까지 교환 가능"
+20104	"ガチャメダル（浴衣サポカ）250と交換できる
+※2023/8/13まで交換可能
+<color=""red"">※未所持のコスチュームと交換した場合は、コスチュームそのものに交換されます。</color>
+<color=""red"">※所持済みのコスチュームと交換した場合は、そのコスチュームのカケラに交換されます。</color>
+<color=""red"">ピックアップ対象の場合はカケラ40個、ピックアップ対象外の場合はカケラ25個です。</color>"	"您可以在2023/7/15之前用250個轉蛋幣（服裝）進行兌換。
+<color=""red"">※如果兌換您已經擁有的服裝，它將自動轉換為碎片。 </color>"	"Exchange for 250 Gacha Medals (Costume)
+*Until 7/15/2023
+<color=""red"">*Owned Costumes will be automatically converted to Fragments upon exchange.</color>"	"뽑기 메달(코스튬) 250개로 교환 가능
+※2023/7/15까지 교환 가능
+<color=""red"">※소지하고 있는 코스튬을 교환하면 자동으로 조각으로 변환됩니다. </color>"
+20105	"ガチャメダル（浴衣サポカ）交換できる
+※2023/8/13まで交換可能"	您可以在2023/7/15之前用1個轉蛋幣（輔助）進行兌換。	"Exchange with Gacha Medal (Support) 1
+*Exchangeable until 7/15/2023"	"뽑기 메달(서포트) 1개로 교환 가능
+※2023/7/15까지 교환 가능"
+20106		翻訳入力エラー	翻訳入力エラー	翻訳入力エラー
 40001	"パズルに詰まった時に使ってみると案外クリアできるかも！？
 
 ・風太郎×3"	"パズルに詰まった時に使ってみると案外クリアできるかも！？
@@ -3005,7 +3038,35 @@ up to a maximum of 99."	"YP는 5 초과로 소지할 수 있으며,
 ※2023/7/28まで交換可能"	您可以在2023/7/28之前用1個轉蛋幣（夏天！沙灘！②）進行兌換。	"Exchange with Gacha Medal (Sun, Sand! ②) 1
 *Exchangeable until 7/28/2023"	"뽑기 메달(여름이다! ②) 1개로 교환 가능
 ※2023/7/28까지 교환 가능"
-40090		翻訳入力エラー	翻訳入力エラー	翻訳入力エラー
+40090	"ガチャメダル（お祭り浴衣）250と交換できる
+※2023/8/13まで交換可能
+<color=""red"">※未所持のコスチュームと交換した場合は、コスチュームそのものに交換されます。</color>
+<color=""red"">※所持済みのコスチュームと交換した場合は、そのコスチュームのカケラに交換されます。</color>
+<color=""red"">ピックアップ対象の場合はカケラ40個、ピックアップ対象外の場合はカケラ25個です。</color>"	"您可以在2023/7/15之前用250個轉蛋幣（服裝）進行兌換。
+<color=""red"">※如果兌換您已經擁有的服裝，它將自動轉換為碎片。 </color>"	"Exchange for 250 Gacha Medals (Costume)
+*Until 7/15/2023
+<color=""red"">*Owned Costumes will be automatically converted to Fragments upon exchange.</color>"	"뽑기 메달(코스튬) 250개로 교환 가능
+※2023/7/15까지 교환 가능
+<color=""red"">※소지하고 있는 코스튬을 교환하면 자동으로 조각으로 변환됩니다. </color>"
+40091	"ガチャメダル（お祭り浴衣）交換できる
+※2023/8/13まで交換可能"	您可以在2023/7/15之前用1個轉蛋幣（輔助）進行兌換。	"Exchange with Gacha Medal (Support) 1
+*Exchangeable until 7/15/2023"	"뽑기 메달(서포트) 1개로 교환 가능
+※2023/7/15까지 교환 가능"
+40092	"ガチャメダル（浴衣サポカ）250と交換できる
+※2023/8/13まで交換可能
+<color=""red"">※未所持のコスチュームと交換した場合は、コスチュームそのものに交換されます。</color>
+<color=""red"">※所持済みのコスチュームと交換した場合は、そのコスチュームのカケラに交換されます。</color>
+<color=""red"">ピックアップ対象の場合はカケラ40個、ピックアップ対象外の場合はカケラ25個です。</color>"	"您可以在2023/7/15之前用250個轉蛋幣（服裝）進行兌換。
+<color=""red"">※如果兌換您已經擁有的服裝，它將自動轉換為碎片。 </color>"	"Exchange for 250 Gacha Medals (Costume)
+*Until 7/15/2023
+<color=""red"">*Owned Costumes will be automatically converted to Fragments upon exchange.</color>"	"뽑기 메달(코스튬) 250개로 교환 가능
+※2023/7/15까지 교환 가능
+<color=""red"">※소지하고 있는 코스튬을 교환하면 자동으로 조각으로 변환됩니다. </color>"
+40093	"ガチャメダル（浴衣サポカ）交換できる
+※2023/8/13まで交換可能"	您可以在2023/7/15之前用1個轉蛋幣（輔助）進行兌換。	"Exchange with Gacha Medal (Support) 1
+*Exchangeable until 7/15/2023"	"뽑기 메달(서포트) 1개로 교환 가능
+※2023/7/15까지 교환 가능"
+40094		翻訳入力エラー	翻訳入力エラー	翻訳入力エラー
 100001	親密度S	親密度S	Intimacy S	친밀도 S
 100002	親密度M	親密度M	Intimacy M	친밀도 M
 100003	親密度L	親密度L	Intimacy L	친밀도 L
