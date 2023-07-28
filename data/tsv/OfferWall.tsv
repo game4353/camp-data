@@ -57,3 +57,4 @@ id	type	language	resource_type	resource_id	ios	android	pc	priority	interval	link
 58		ja,en,zh-TW,ko		30310017	1	1	1	120	9999	gacha?gacha_id=10017	1		2023-07-28 11:00:00	2023-08-10 10:59:59
 59	1	ja,en,zh-TW,ko		53090007	1	1	1	201	9999	gacha?gacha_id=10016	1		2023-07-28 11:00:00	2023-08-10 10:59:59
 60	1	ja,en,zh-TW,ko		53090008	1	1	1	200	9999	gacha?gacha_id=10017	1		2023-07-28 11:00:00	2023-08-10 10:59:59
+61		ja	4	30370004	1	1	1	30	9999	notify	1		2023-08-03 11:00:00	2023-09-04 23:59:59
