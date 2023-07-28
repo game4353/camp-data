@@ -1,16 +1,16 @@
 id	ja	zh-TW	en	ko
 1001	リーダー	隊長	Leader	리더
 1002	サブリーダー	副隊長	Vice Leader	서브 리더
-1003	部長	部長	Chief	부서장
+1003	部長	部長	Chief	부장
 1004	副部長	副部長	Vice Chief	부부장
 1005	隊長	隊長	Captain	대장
 1006	副隊長	副隊長	Vice Captain	부대장
 1007	団長	團長	Commander	단장
 1008	副団長	副團長	Vice Commander	부단장
 1009	将軍	將軍	General	장군
-1010	副将軍	副將軍	Vice General	부사령관
-1011	daily mission	每日任務	daily mission	daily mission
-1012	weekly mission	每週任務	weekly mission	weekly mission
+1010	副将軍	副將軍	Vice General	부장군
+1011	daily mission	每日任務	daily mission	일일 미션
+1012	weekly mission	每週任務	weekly mission	주간 미션
 2001	ルーキー	新手	Rookie	루키
 2002	ブロンズ	銅	Bronze	브론즈
 2003	シルバー	銀	Silver	실버

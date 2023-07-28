@@ -1,0 +1,6 @@
+id	mini_game_id	lottery_weight	home_background_id	weather	time_frame	chara_init_position_x	chara_init_position_z	chara_init_rotation_y	camera_init_angle_x	camera_offset_y	chara_camera_init_distance	chara_camera_max_distance	time_limit	target_init_num	special_target_ratio	target_respawn_num	special_target_value_weight
+1	1	100	10200	1	2		-5.0		20.0	0.8	3.0	7.5	30	20	0.1	10	5.0
+2	1	100	10200	1	1		5.0	180.0	20.0	0.8	3.0	7.5	30	10	0.1	5	5.0
+3	1	100	10200	1	1	-5.0		90.0	20.0	0.8	3.0	7.5	30	10	0.1	5	5.0
+4	1	100	10200	1	1	-5.0		90.0	20.0	0.8	3.0	7.5	30	10	0.1	5	5.0
+5	1	100	10200	1	1	-5.0		90.0	20.0	0.8	3.0	7.5	30	10	0.1	5	5.0

@@ -6,15 +6,15 @@ id	ja	zh-TW	en	ko
 5	never stop!	Never stop！	Never Stop!	Never stop!
 6	窓を開けたら	當打開一扇窗	Opened Windows	창문을 열면
 7	その向こうに	在那對面	The Other Side	그 너머에
-8	世界は広がる	世界逐漸遼闊	Brand New World	세상이 펼쳐져
+8	世界は広がる	世界逐漸遼闊	Brand New World	넓어지는 세상
 9	どこへでも行ける	能前往任何地方	Freedom to Roam	어디든지 가보자
 10	トビラを開けて	開啟一扇門	Opened Doors	문을 열고
-11	動き出す世界	開始運作的世界	Moving World	움직여 가는 세계
-12	私は旅する	我將踏上旅程	My Journey	나는 여행을 떠나
+11	動き出す世界	開始運作的世界	Moving World	움직이기 시작하는 세계
+12	私は旅する	我將踏上旅程	My Journey	나는 여행을 한다
 13	Go my way!	Go my way！	Go My Way!	Go my way!
 14	はじまりの一歩	啟程的第一步	First Step	시작의 첫걸음
 15	近道はないけど	雖然沒有捷徑	No Shortcuts	지름길은 없지만
-16	歩き続けて	不停走下去	Keep Walking	계속 걸어가며
+16	歩き続けて	不停走下去	Keep Walking	계속 걸어갈거야
 17	光の向こうまで	直到光的另一頭	Into the Light	빛의 저 너머까지
 18	はじめての△	第一次的△	My First Camp	처음 가는 △
 19	なんどでも△	參加多次的△	Camping Life	몇 번이든 △
@@ -48,8 +48,8 @@ id	ja	zh-TW	en	ko
 47	ちあキャン△！	小明露營△！	AkiCamp!	아키캠△!
 48	野クル部長	野活組社長	Outclub Leader	야클 부장
 49	野クルブルー	野活藍	Outclub Blue	야클 블루
-50	梨っ子あきちゃん	時髦露營家	Fancy Camper	패션 캠핑러
-51	お洒落キャンパー	山梨人小明	Yamanashi Aki	나시코 아키
+50	梨っ子あきちゃん	山梨人小明	Yamanashi Aki	나시코 아키
+51	お洒落キャンパー	時髦露營家	Fancy Camper	패션 캠핑러
 52	あおキャン△！	小葵露營△！	AoiCamp!	아오캠△!
 53	野クル部員	野活組社員	Outclub Member	야클 부원
 54	野クルイエロー	野活黃	Outclub Yellow	야클 옐로
@@ -58,7 +58,7 @@ id	ja	zh-TW	en	ko
 57	えなキャン△！	惠那露營△！	EnaCamp!	에나캠△!
 58	体験入隊	體驗入隊	Trial Member	체험 입대
 59	帰宅部斉藤さん	回家社齊藤同學	Go-Home Club	귀가부 사이토
-60	後ろの斉藤さん	後面的齊藤同學	Right Behind You	등 뒤의 사이토
+60	後ろの斉藤さん	後面的齊藤同學	Right Behind You	뒤쪽의 사이토
 61	ステルス斉藤さん	隱身的齊藤同學	Stealth Saito	스텔스 사이토
 62	旅キャンはじまり！RECAMPおだわら	出發去旅遊露營！RECAMP小田原	Travel Camping Begins! RECAMP Odawara	여행캠 시작! RECAMP 오다와라
 63	ブロンズ会員	銅牌會員	Bronze MBR	브론즈 회원
@@ -95,6 +95,17 @@ id	ja	zh-TW	en	ko
 94	レッツクラフト！at海キャン TOP1000	讓我們來製作吧！在海邊露營 TOP1000	Let's Craft! at Seaside Camp TOP1000	레츠 제작! at바다 캠핑 TOP1000
 95	レッツクラフト！at海キャン TOP5000	讓我們來製作吧！在海邊露營 TOP5000	Let's Craft! at Seaside Camp TOP5000	레츠 제작! at바다 캠핑 TOP5000
 96	レッツクラフト！at海キャン TOP10000	讓我們來製作吧！在海邊露營 TOP10000	Let's Craft! at Seaside Camp TOP10000	레츠 제작! at바다 캠핑 TOP10000
+97	浴衣キャンプと夏花火 1位	浴衣露營與夏日煙火 第一名	Yukata Camp And Fireworks 1st	유카타 캠핑과 여름 불꽃놀이 1위
+98	浴衣キャンプと夏花火 2位	浴衣露營與夏日煙火 第二名	Yukata Camp And Fireworks 2nd	유카타 캠핑과 여름 불꽃놀이 2위
+99	浴衣キャンプと夏花火 3位	浴衣露營與夏日煙火 第三名	Yukata Camp And Fireworks 3rd	유카타 캠핑과 여름 불꽃놀이 3위
+100	浴衣キャンプと夏花火 TOP5	浴衣露營與夏日煙火 TOP5	Yukata Camp And Fireworks TOP5	유카타 캠핑과 여름 불꽃놀이 TOP5
+101	浴衣キャンプと夏花火 TOP10	浴衣露營與夏日煙火 TOP10	Yukata Camp And Fireworks TOP10	유카타 캠핑과 여름 불꽃놀이 TOP10
+102	浴衣キャンプと夏花火 TOP50	浴衣露營與夏日煙火 TOP50	Yukata Camp And Fireworks TOP50	유카타 캠핑과 여름 불꽃놀이 TOP50
+103	浴衣キャンプと夏花火 TOP100	浴衣露營與夏日煙火 TOP100	Yukata Camp And Fireworks TOP100	유카타 캠핑과 여름 불꽃놀이 TOP100
+104	浴衣キャンプと夏花火 TOP500	浴衣露營與夏日煙火 TOP500	Yukata Camp And Fireworks TOP500	유카타 캠핑과 여름 불꽃놀이 TOP500
+105	浴衣キャンプと夏花火 TOP1000	浴衣露營與夏日煙火 TOP1000	Yukata Camp And Fireworks TOP1000	유카타 캠핑과 여름 불꽃놀이 TOP1000
+106	浴衣キャンプと夏花火 TOP5000	浴衣露營與夏日煙火 TOP5000	Yukata Camp And Fireworks TOP5000	유카타 캠핑과 여름 불꽃놀이 TOP5000
+107	浴衣キャンプと夏花火 TOP10000	浴衣露營與夏日煙火 TOP10000	Yukata Camp And Fireworks TOP10000	유카타 캠핑과 여름 불꽃놀이 TOP10000
 10001	サポートカード	輔助卡	Support Card	서포트 카드
 10002	各務原 なでしこ	各務原撫子	Nadeshiko Kagamihara	카가미하라 나데시코
 10003	志摩 リン	志摩凜	Rin Shima	시마 린

@@ -1184,6 +1184,25 @@ id	ja	zh-TW	en	ko
 11146	トロピカルジュース	熱帶果汁	Tropical Punch	트로피컬 주스
 11147	トロピカルジュース(SB)	熱帶果汁（SB）	Tropical Punch (SB)	트로피컬 주스(스카이 블루)
 11148	フルーツポンチ	水果調酒	Fruit Punch	프루트 펀치
+11149	お祭りテーブル	祭典桌子	Festival Table	축제 테이블
+11150	お祭りテーブル（R/W）	祭典桌子（R/W）	Festival Table (RW)	축제 테이블(레드/화이트)
+11151	くじ引き	抽籤盒	Lottery	뽑기 상자
+11152	くじ引き（PK）	抽籤盒（PK）	Lottery (PK)	뽑기 상자(핑크)
+11153	手持ち花火セット	手持式煙火組合包	Fireworks	작은 폭죽 세트
+11154	手持ち花火セット（BL）	手持式煙火組合包（BL）	Fireworks (BL)	작은 폭죽 세트(블루)
+11155	線香花火セット	仙女棒組合包	Sparkler Set	선향불꽃 세트
+11156	線香花火セット（GR）	仙女棒組合包（GR）	Sparkler Set (GR)	선향불꽃 세트(그린)
+11157	お祭りうちわ	祭典扇子	Festival Fan	축제 부채
+11158	お祭りうちわ（BL）	祭典扇子（BL）	Festival Fan (BL)	축제 부채(블루)
+11159	座布団	坐墊	Seat Cushion	방석
+11160	座布団（GR）	坐墊（GR）	Seat Cushion (GR)	방석(그린)
+11161	ござ	蓆墊	Mat	전통 돗자리
+11162	ござ（GR）	蓆墊（GR）	Mat (GR)	전통 돗자리(그린)
+11163	ふじさんのかまぼこ	富士山魚板	Mt. Fuji Fish Cake	후지산 어묵
+11164	ふじさんマスコットかまぼこ	富士山吉祥物魚板	Mt. Fuji Mascot Fish Cake	후지산 마스코트 어묵
+11165	焼きとうもろこし	烤玉米	Grilled Corn	구운 옥수수
+11166	フルーツ飴	水果糖	Candied Fruit	과일 사탕
+11167	フルーツ飴（GR）	水果糖（GR）	Candied Fruit (GR)	과일 사탕(그린)
 20001	"リンが使っているソロ用テント。
 吊り下げ式。"	"凜使用的單人帳篷。
 吊掛式。"	"A-frame solo tent used by Rin.
@@ -6341,3 +6360,72 @@ has to offer."	바다의 감칠맛이 듬뿍 담긴 BBQ.
 Refreshing sky blue color."	"바다랑 딱 어울리는 주스.
 상쾌한 느낌의 스카이 블루."
 21151	大きなスイカで作ったフルーツポンチ。	用大顆的西瓜做的水果調酒。	Made with a large watermelon.	커다란 수박으로 만든 프루트 펀치.
+21152	"お祭りキャンプで作ったテーブル。
+屋台の食べ物を乗せるのにぴったり。"	"為了祭典露營要用而作的桌子。
+拿來放攤販小吃剛剛好。"	"A table used at the festival
+camp. Perfect for street food."	"축제 캠핑 때 만들었던 테이블.
+가판대 요리를 올리기에 알맞는 디자인."
+21153	"お祭りキャンプで作ったテーブル。 
+紅白でお祭りらしさを演出。"	"為了祭典露營要用而作的桌子。
+用紅白配色來襯托祭典風情。"	"A table used at the festival
+camp. In red and white."	"축제 캠핑 때 만들었던 테이블.
+홍백 조합으로 축제 분위기를 연출했다."
+21154	"なでしこが作ったくじ引き。
+いろんなお菓子が当たる…らしい。"	"撫子親手作的抽籤盒。
+可以抽到很多種零食……的樣子。"	"A lottery made by Nadeshiko.
+Seems like it has snacks."	"나데시코가 만든 뽑기 상자.
+다양한 과자가 나온다… 고 한다."
+21155	"いろんなお菓子が当たるくじ引き。
+"	"可以抽到多種零食的抽籤盒。
+"	"A lottery with a lot of
+snacks."	다양한 과자가 나오는 뽑기 상자.
+21156	手持ち花火が色々入ったセット。	裝了各種手持式煙火的組合包。	"A variety pack of handheld
+fireworks."	손으로 들만한 작은 폭죽들이 들어 있는 세트.
+21157	"手持ち花火が色々入ったセット。
+水色の火花が出る。"	"裝了各種手持式煙火的組合包。
+會冒出水藍色的火花。"	"A variety pack of handheld
+fireworks in blue."	"손으로 들만한 작은 폭죽들이
+들어 있는 세트. 푸른 불꽃이 나온다."
+21158	"線香花火が入ったセット。
+花火を長持ちさせるコツは揺らさないこと。"	"裝了很多仙女棒的組合包。
+讓仙女棒燒久一點的訣竅就是手不要晃。"	"A pack of sparklers. Try to
+keep still to make it last."	"선향불꽃이 들어 있는 세트. 최대한
+흔들리지 않도록 해야 불이 오래간다."
+21159	"線香花火が入ったセット。
+緑の火花が出る。"	"裝了各種手持式煙火的組合包。
+會冒出綠色的火花。"	A pack of sparklers in green.	"선향불꽃이 들어 있는 세트.
+녹색 불꽃이 나온다."
+21160	"手作りのお祭りうちわ。
+祭りの気分を盛り上げる。"	"手工製的祭典用扇子。
+有這個就會很有祭典的氣氛。"	"A handmade festival fan.
+Adds to the festival mood."	"직접 만든 축제 부채.
+축제 기분이 물씬 살아난다."
+21161	"手作りのお祭りうちわ。
+青系のカラーリング。"	"手工製的祭典用扇子。
+藍色系配色。"	"A handmade festival fan.
+It's blue colored."	"직접 만든 축제 부채.
+블루 계열의 컬러링."
+21162	和の雰囲気な座布団。	十分有和風氣氛的坐墊。	"A Japanese-style seat
+cushion."	전통적인 분위기가 느껴지는 방석.
+21163	"和の雰囲気な座布団。
+さわやかなグリーン系のカラー。"	"十分有和風氣氛的坐墊。
+清爽的青綠色系配色。"	"A Japanese-style seat cushion
+in refreshing green."	"전통적인 분위기가 느껴지는 방석.
+산뜻한 그린 계열의 컬러."
+21164	お昼寝もできるござ。	可以用來睡午覺的墊子。	For taking afternoon naps.	낮잠을 자기에도 좋은 전통 돗자리.
+21165	"お昼寝もできるござ。
+さわやかなグリーン系のカラー。"	"可以用來睡午覺的墊子。
+清爽的青綠色系配色。"	"For taking afternoon naps.
+In refreshing green."	"낮잠을 자기에도 좋은 전통 돗자리.
+산뜻한 그린 계열의 컬러."
+21166	ふじさんの形をした焼きかまぼこ。	作成富士山形狀的烤魚板。	"Fish cake in the shape of
+Mount Fuji."	후지산 모양으로 만든 어묵 구이.
+21167	"ふじさんの形をした焼きかまぼこ。
+ふじさんのマスコットを模している。"	"作成富士山形狀的烤魚板。
+樣子像是富士山的吉祥物。"	"Fish cake in the shape of
+Mount Fuji's mascot."	"후지산 모양으로 만든 어묵 구이.
+생김새는 후지산 마스코트 쪽에 더 가깝다."
+21168	お祭りにピッタリの焼きとうもろこし。	跟祭典最搭的烤玉米。	"Grilled corn that's perfect
+for festivals."	축제하면 빼놓을 수 없는 구운 옥수수.
+21169	彩りが鮮やかなフルーツ飴。	色彩繽紛的水果糖。	"Colorful bejeweled candied
+fruits."	알록달록하고 예쁜 과일 사탕.

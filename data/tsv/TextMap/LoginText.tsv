@@ -1,8 +1,8 @@
 id	ja	zh-TW	en	ko
 1	ログインボーナス	登入獎勵	Login Bonus	로그인 보너스
 2	○○パス(30days)限定	〇〇通行證(30天)限定	〇〇 Pass (30 Days) Limited	〇〇 패스(30일)한정
-3	フレッシュパス(10days)限定	新鮮通行證(10天)限定	Fresh Pass (10 Days) Limited	신선한 패스(10일)한정
-4	レギュラーパス(10days)限定	常規通行證(10天)限定	Regular Pass (10 Days) Limited	정규 패스(10일)한정
+3	フレッシュパス(10days)限定	新鮮通行證(10天)限定	Fresh Pass (10 Days) Limited	프레시 패스(10일)한정
+4	レギュラーパス(10days)限定	常規通行證(10天)限定	Regular Pass (10 Days) Limited	레귤러 패스(10일)한정
 5	特別な関係限定ログインボーナス	特別限定登入獎勵	Special Limited Login Bonus	특별한 관계 한정 로그인 보너스
 6	3月ログインボーナス	3月登入獎勵	Mar. Login Bonus	3월 로그인 보너스
 7	ゆるパス(30days)限定	搖曳通行證(30天)限定	Laid-Back Pass (30 Days) Limited	유루 패스(30일)한정
@@ -16,3 +16,5 @@ id	ja	zh-TW	en	ko
 15	世界キャンプデー記念ログインボーナス	0	0	0
 16	8月ログインボーナス	8月登入獎勵	Aug. Login Bonus	8월 로그인 보너스
 17	9月ログインボーナス	9月登入獎勵	Sep. Login Bonus	9월 로그인 보너스
+18	絶対育成MAXお楽しみBOXキャンペーン	0	0	0
+19	絶対育成応援キャンペーン	0	0	0

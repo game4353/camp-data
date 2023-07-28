@@ -393,6 +393,8 @@ id	ja	zh-TW	en	ko
 85020239	ファミリーベンチ(BK)	家庭座椅(BK)	Family Bench (BK)	패밀리 벤치(블랙)
 85020310	ビーチチェア	海灘椅	Beach Chair	비치 체어
 85020311	ビーチチェア(RD)	海灘椅（RD）	Beach Chair (RD)	비치 체어(레드)
+85020320	座布団	坐墊	Seat Cushion	방석
+85020321	座布団（GR）	坐墊（GR）	Seat Cushion (GR)	방석(그린)
 85030010	リンのアルミローテーブル	凜的小鋁桌	Rin's Aluminium Camping Table	린의 알루미늄 로우 테이블
 85030020	千明のミニテーブル	千明的迷你桌	Chiaki's Mini Table	치아키의 미니 테이블
 85030030	なでしこのテーブル	撫子的桌子	Nadeshiko's Table	나데시코의 테이블
@@ -435,6 +437,8 @@ id	ja	zh-TW	en	ko
 85030160	金属製折りたたみ式テーブル	金屬製折疊式桌子	Metal Foldable Table	금속제 접이식 테이블
 85030170	木製キッチンテーブル	木製炊事桌	Wooden Camping Kitchen Table	목제 키친 테이블
 85030180	金属製キッチンテーブル	金屬製炊事桌	Metal Camping Kitchen Table	금속제 키친 테이블
+85030210	お祭りテーブル	祭典桌子	Festival Table	축제 테이블
+85030211	お祭りテーブル（R/W）	祭典桌子（R/W）	Festival Table (RW)	축제 테이블(레드/화이트)
 85040010	リンの祖父のスキレット	凜的爺爺的鑄鐵鍋	Rin's Grandfather's Skillet	린의 할아버지의 스킬렛
 85040020	野クルのポット	野活組的茶壺	Outclub Pot	야클의 포트
 85040050	リンのステンレスマグカップ	凜的不鏽鋼馬克杯	Rin's Stainless Steel Cup	린의 스테인리스 머그컵
@@ -728,6 +732,8 @@ id	ja	zh-TW	en	ko
 85085019	大きなレジャーシート(BK)	大型野餐墊 (BK)	Large Picnic Blanket (BK)	커다란 레저 시트(블랙)
 85085020	小さな桜のレジャーシート	小型櫻花野餐墊	Small Sakura Blanket	작은 벚꽃 레저 시트
 85085030	大きな桜のレジャーシート	大型櫻花野餐墊	Large Sakura Blanket	커다란 벚꽃 레저 시트
+85085070	ござ	蓆墊	Mat	전통 돗자리
+85085071	ござ（GR）	蓆墊（GR）	Mat (GR)	전통 돗자리(그린)
 85090010	リンの鉈	凜的柴刀	Rin's Machete	린의 나대
 85090020	ウォータータンク	儲水桶	Water Tank	워터 탱크
 85090030	じょうろ	花灑	Watering Can	물뿌리개
@@ -1058,6 +1064,14 @@ id	ja	zh-TW	en	ko
 85091730	ビーチパラソル	遮陽傘	Beach Parasol	비치 파라솔
 85091740	シーグラスのアクアフレーム	海玻璃的海洋相框	Sea Glass Aqua Frame	씨글라스 아쿠아 프레임
 85091741	シーグラスのアクアフレーム(PK)	海玻璃的海洋相框（PK）	Sea Glass Aqua Frame (PK)	씨글라스 아쿠아 프레임(핑크)
+85091760	お祭りうちわ	祭典扇子	Festival Fan	축제 부채
+85091761	お祭りうちわ（BL）	祭典扇子（BL）	Festival Fan (BL)	축제 부채(블루)
+85091810	手持ち花火セット	手持式煙火組合包	Fireworks	작은 폭죽 세트
+85091811	手持ち花火セット（BL）	手持式煙火組合包（BL）	Fireworks (BL)	작은 폭죽 세트(블루)
+85091830	線香花火セット	仙女棒組合包	Sparkler Set	선향불꽃 세트
+85091831	線香花火セット（GR）	仙女棒組合包（GR）	Sparkler Set (GR)	선향불꽃 세트(그린)
+85091850	くじ引き	抽籤盒	Lottery	뽑기 상자
+85091851	くじ引き（PK）	抽籤盒（PK）	Lottery (PK)	뽑기 상자(핑크)
 87010010	焼き鳥	烤雞肉串	Yakitori	닭꼬치
 87010020	焼き肉	烤肉	Yakiniku	야키니쿠
 87010030	焼きベーコン	煎培根	Fried Bacon	베이컨 구이
@@ -1075,6 +1089,8 @@ id	ja	zh-TW	en	ko
 87020070	魚の塩焼き	鹽烤魚	Grilled Fish	생선 소금구이
 87020080	かまぼこチーズフォンデュ	魚板起司鍋	Kamaboko Cheese Fondue	어묵 치즈 퐁듀
 87020090	海鮮バーベキュー	海鮮烤肉	Seafood BBQ	해물 바비큐
+87020100	ふじさんのかまぼこ	富士山魚板	Mt. Fuji Fish Cake	후지산 어묵
+87020101	ふじさんマスコットかまぼこ	富士山吉祥物魚板	Mt. Fuji Mascot Fish Cake	후지산 마스코트 어묵
 87030010	ボウルサラダ	碗裝沙拉	Salad	볼 샐러드
 87030020	トマトの丸焼き	烤蕃茄	Whole Roasted Tomato	토마토 통구이
 87030030	なすの丸焼き	烤茄子	Whole Roasted Eggplant	가지 통구이
@@ -1083,6 +1099,7 @@ id	ja	zh-TW	en	ko
 87030060	にんじんの丸焼き	烤胡蘿蔔	Whole Roasted Carrot	당근 통구이
 87030070	ホイル焼き	鋁箔包烤鮭魚	Foil Roast	포일 구이
 87030080	カプレーゼ	卡布里沙拉	Caprese	카프레제
+87030110	焼きとうもろこし	烤玉米	Grilled Corn	구운 옥수수
 87040010	焼き豚まん	烤豬肉包	Fried Pork Buns	구운 고기만두
 87040020	サンドイッチ	三明治	Sandwich	샌드위치
 87040030	チーズいっぱいマルゲリータ	滿滿乳酪瑪格麗特披薩	Cheesy Margherita	치즈 가득 마르게리타
@@ -1119,3 +1136,5 @@ id	ja	zh-TW	en	ko
 87100070	お城最中	城堡最中	Castle Monaka Pastry	성 모양 모나카
 87100080	お花見団子	賞花糰子	Spring Picnic Dango	꽃구경 경단
 87100120	フルーツポンチ	水果調酒	Fruit Punch	프루트 펀치
+87100130	フルーツ飴	水果糖	Candied Fruit	과일 사탕
+87100131	フルーツ飴（GR）	水果糖（GR）	Candied Fruit (GR)	과일 사탕(그린)

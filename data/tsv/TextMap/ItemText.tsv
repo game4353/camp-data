@@ -19,12 +19,15 @@ id	ja	zh-TW	en	ko
 필요한 소재를 획득할 수 있습니다"
 1061	『ビーチボール』クラフト素材ボックス	牽手露營新手支援箱	Together Camp beginner box	츠나캠 초보자 응원 BOX
 1062	"アイテム画面から使用すると
-『ビーチボール』のクラフトに必要な素材が獲得できます"	獲得箱子裡的所有物品	Get all the items in the box	상자의 모든 항목을 획득할 수 있습니다.
+『ビーチボール』のクラフトに必要な素材が獲得できます"	獲得箱子裡的所有物品	Get all the items in the box	상자 안의 모든 아이템을 획득 가능
+1071	『お祭りうちわ』クラフト素材ボックス	『祭典扇子』製作素材箱子	"""Festival Fan"" Craft Material Box"	『축제 부채』 크래프트 재료 박스
+1072	"アイテム画面から使用すると
+『お祭りうちわ』のクラフトに必要な素材が獲得できます"	獲得箱子裡的所有物品	Get all the items in the box	상자 안의 모든 아이템을 획득 가능
 10011	ユール	YURU	Yuru	유르
-10012	カード強化などに使用する素材	用於增強卡的材料	Material used for enhancing cards	카드 향상에 사용되는 자료
+10012	カード強化などに使用する素材	用於增強卡的材料	Material used for enhancing cards	카드 강화에 필요한 재료
 10021	ふじさん	富士山	Mt.Fuji	후지산
 10022	交換所でアイテムと交換できるポイント	可以在交易所交換項目的點	"Points that can be exchanged
- for items at the exchange"	거래소에서 품목에 대해 교환 할 수있는 포인트
+ for items at the exchange"	교환소에서 아이템과 바꿀수 있는 포인트
 10031	金のふじさん	金色富士山	Gold Fuji	금빛 후지산
 10041	フレンドポイント	好友P	Friend Points	친구 Pt
 10051	おでかけコイン(銀)	外出幣（銀）	Outing Coin (Silver)	외출 코인(은)
@@ -37,15 +40,15 @@ id	ja	zh-TW	en	ko
 10121	ゆるすたポイント	YG P	Yurusta Point	유르스타 Pt
 10141	サークルポイント	社團P	Circle Points	서클 Pt
 10142	サークルショップでアイテムと交換できるポイント	可以在圈子店交換項目的點	"Points that can be exchanged
- for items at the Circle Shop"	서클 숍에서 품목에 대해 교환 할 수있는 포인트
+ for items at the Circle Shop"	서클숍에서 아이템과 교환 할 수있는 포인트
 10151	フレンド	好友	Friend	친구
-10152	フレンドになれる人数が1人分増える	可以成為朋友的人數增加一個	The number of people who can become friends increases by one.	친구가 될 수 있는 인원수가 1명 늘어납니다.
+10152	フレンドになれる人数が1人分増える	可以成為朋友的人數增加一個	The number of people who can become friends increases by one.	친구를 1명 늘릴수 있는 포인트
 11001	野外活動計画プレミアム	野外活動計畫保費	Outdoor activities plan Premium	야외 활동 계획 프리미엄
-11002	野外活動計画プレミアムが解放される	野外活動計畫保費解鎖	Outdoor activities plan Premium Unlocked	야외활동계획 프리미엄이 해방된다
+11002	野外活動計画プレミアムが解放される	野外活動計畫保費解鎖	Outdoor activities plan Premium Unlocked	야외활동계획 프리미엄이 해방
 11011	もっと野外活動計画プレミアム	更多野外活動計畫保費	More Outdoor activities plan Premium	더 야외 활동 계획 프리미엄
-11012	もっと野外活動計画プレミアムが解放される	更多野外活動計畫保費解鎖	More Outdoor activities plan Premium Unlocked	더 야외활동계획 프리미엄이 해방된다
+11012	もっと野外活動計画プレミアムが解放される	更多野外活動計畫保費解鎖	More Outdoor activities plan Premium Unlocked	야외활동계획 플러스 프리미엄이 해방
 20111	おしゃれ	時髦穿搭	Chicness	패션
-20112	おしゃれが1増加する	時髦穿搭 增加了1	Increased Chicness by 1	패션 은 1만큼 증가합니다
+20112	おしゃれが1増加する	時髦穿搭 增加了1	Increased Chicness by 1	패션이 1 증가
 20121	おしゃれ(ブルー)	翻訳不要	翻訳不要	翻訳不要
 20122	おしゃれ(ブルー)が1増加する	翻訳不要	翻訳不要	翻訳不要
 20131	おしゃれ(レッド)	翻訳不要	翻訳不要	翻訳不要
@@ -55,7 +58,7 @@ id	ja	zh-TW	en	ko
 20151	おしゃれ(オレンジ)	翻訳不要	翻訳不要	翻訳不要
 20152	おしゃれ(オレンジ)が1増加する	翻訳不要	翻訳不要	翻訳不要
 20211	おもいで	開心回憶	Memories	추억
-20212	おもいでが1増加する	開心回憶 增加了1	Increased Memories by 1	추억 은 1만큼 증가합니다
+20212	おもいでが1増加する	開心回憶 增加了1	Increased Memories by 1	추억이 1 증가
 20221	おもいで(ピンク)	翻訳不要	翻訳不要	翻訳不要
 20222	おもいで(ピンク)が1増加する	翻訳不要	翻訳不要	翻訳不要
 20231	おもいで(レッド)	翻訳不要	翻訳不要	翻訳不要
@@ -65,9 +68,9 @@ id	ja	zh-TW	en	ko
 20251	おもいで(オレンジ)	翻訳不要	翻訳不要	翻訳不要
 20252	おもいで(オレンジ)が1増加する	翻訳不要	翻訳不要	翻訳不要
 20311	じゅくれん	熟練度	Proficiency	숙련
-20312	じゅくれんが1増加する	熟練度 增加了1	Increased Proficiency by 1	숙련 은 1만큼 증가합니다
+20312	じゅくれんが1増加する	熟練度 增加了1	Increased Proficiency by 1	숙련도가 1 증가
 20411	うでまえ	料理技術	Cookery	실력
-20412	うでまえが1増加する	料理技術 增加了1	Increased Cookery by 1	실력 은 1만큼 증가합니다
+20412	うでまえが1増加する	料理技術 增加了1	Increased Cookery by 1	실력이 1 증가
 30001	【テスト】ランダムボックス	翻訳不要	翻訳不要	翻訳不要
 30002	テスト用のランダムボックスです	翻訳不要	翻訳不要	翻訳不要
 30021	フレンドボックスS	翻訳不要	翻訳不要	翻訳不要
@@ -83,15 +86,21 @@ id	ja	zh-TW	en	ko
 30111	素材ボックス	素材箱	Material Box	재료 상자
 30121	食材ボックス	食材箱	Food Box	식재료 상자
 30131	つなキャン初心者応援ボックス	牽手露營新手支援箱	Together Camp beginner box	츠나캠 초보자 응원 BOX
-30132	ボックス内のすべてのアイテムが獲得できる	獲得箱子裡的所有物品	Get all the items in the box	상자의 모든 항목을 획득할 수 있습니다.
+30132	ボックス内のすべてのアイテムが獲得できる	獲得箱子裡的所有物品	Get all the items in the box	상자 안의 모든 아이템을 획득 가능
 30141	CM視聴ゆるコイン(銀)ボックス	CM觀看搖曳幣（銀）箱子	CM View YuruCoin (Silver) Box	CM 시청 유루코인(은) 박스
+30171	ランクアップランダムBOX	CM觀看搖曳幣（銀）箱子	CM View YuruCoin (Silver) Box	CM 시청 유루코인(은) 박스
+30181	『サバキャン水着』なでしこセット	CM觀看搖曳幣（銀）箱子	CM View YuruCoin (Silver) Box	CM 시청 유루코인(은) 박스
+30191	『サバキャン水着』リンセット	★3 服裝兌換券	★3 Costume Exchange Ticket	★3코스튬 교환 티켓
+30201	『サバキャン水着』千明セット	★3 服裝兌換券	★3 Costume Exchange Ticket	★3코스튬 교환 티켓
+30211	『サバキャン水着』あおいセット	★3 服裝兌換券	★3 Costume Exchange Ticket	★3코스튬 교환 티켓
+30221	『サバキャン水着』恵那セット	★3 服裝兌換券	★3 Costume Exchange Ticket	★3코스튬 교환 티켓
 32121	ストキャンボックス(旅キャンはじまり！)	故事露營箱「出發去旅遊露營！」	"Story Camp Box""Travel Camping Begins!"""	"스토캠 상자""여행캠 시작!"""
 37011	くじテスト	翻訳不要	翻訳不要	翻訳不要
 37012	ランダムで「◯◯」が7～777個獲得できる	翻訳不要	翻訳不要	翻訳不要
 40011	鍵(テスト)	翻訳不要	翻訳不要	翻訳不要
 40012	(テストデータ)をいつでも１時間だけ解放できる	翻訳不要	翻訳不要	翻訳不要
 41001	やるきアップ（仮）	AP1	AP1	AP1
-41002	ゆるスタグラムでやる気をアップするアイテム（仮）	恢復營地所需的 1 AP	Restores 1 AP needed to camp	캠프에 필요한 AP를 1 회복
+41002	ゆるスタグラムでやる気をアップするアイテム（仮）	恢復營地所需的 1 AP	Restores 1 AP needed to camp	캠핑에 필요한 AP가 1 회복
 50011	マニュアル(テスト)	翻訳不要	翻訳不要	翻訳不要
 50012	"指定したパズル玉・スキル玉・ギミックを
 壊すことができる
@@ -102,54 +111,54 @@ id	ja	zh-TW	en	ko
 50032	パズルでスキップができるチケット	翻訳不要	翻訳不要	翻訳不要
 60011	AP1	AP1	AP1	AP1
 60012	"キャンプをするのに必要な
-APが1回復する"	恢復營地所需的 1 AP	Restores 1 AP needed to camp	캠프에 필요한 AP를 1 회복
+APが1回復する"	恢復營地所需的 1 AP	Restores 1 AP needed to camp	캠핑에 필요한 AP가 1 회복
 60031	AP3	AP3	AP3	AP3
 60032	"キャンプをするのに必要な
-APが3回復する"	恢復營地所需的 3 AP	Restores 3 AP needed to camp	캠프에 필요한 AP를 3 회복
+APが3回復する"	恢復營地所需的 3 AP	Restores 3 AP needed to camp	캠핑에 필요한 AP가 3 회복
 60051	AP5	AP5	AP5	AP5
 60052	"キャンプをするのに必要な
-APが5回復する"	恢復營地所需的 5 AP	Restores 5 AP needed to camp	캠프에 필요한 AP를 5 회복
+APが5回復する"	恢復營地所需的 5 AP	Restores 5 AP needed to camp	캠핑에 필요한 AP가 5 회복
 60101	AP10	AP10	AP10	AP10
 60102	"キャンプをするのに必要な
-APが10回復する"	恢復營地所需的 10 AP	Restores 10 AP needed to camp	캠프에 필요한 AP를 10 회복
+APが10回復する"	恢復營地所需的 10 AP	Restores 10 AP needed to camp	캠핑에 필요한 AP가 10 회복
 60201	AP20	AP20	AP20	AP20
 60202	"キャンプをするのに必要な
-APが20回復する"	恢復營地所需的 20 AP	Restores 20 AP needed to camp	캠프에 필요한 AP를 20 회복
+APが20回復する"	恢復營地所需的 20 AP	Restores 20 AP needed to camp	캠핑에 필요한 AP가 20 회복
 60301	AP30	AP30	AP30	AP30
 60302	"キャンプをするのに必要な
-APが30回復する"	恢復營地所需的 30 AP	Restores 30 AP needed to camp	캠프에 필요한 AP를 30 회복
+APが30回復する"	恢復營地所需的 30 AP	Restores 30 AP needed to camp	캠핑에 필요한 AP가 30 회복
 60601	AP60	AP60	AP60	AP60
 60602	"キャンプをするのに必要な
-APが60回復する"	恢復營地所需的 60 AP	Restores 60 AP needed to camp	캠프에 필요한 AP를 60 회복
+APが60回復する"	恢復營地所需的 60 AP	Restores 60 AP needed to camp	캠핑에 필요한 AP가 60 회복
 60901	AP90	AP90	AP90	AP90
 60902	"キャンプをするのに必要な
-APが90回復する"	恢復營地所需的 90 AP	Restores 90 AP needed to camp	캠프에 필요한 AP를 90 회복
+APが90回復する"	恢復營地所需的 90 AP	Restores 90 AP needed to camp	캠핑에 필요한 AP가 90 회복
 61011	AP1(1日限定)	翻訳不要	翻訳不要	翻訳不要
 61051	AP5(1日限定)	翻訳不要	翻訳不要	翻訳不要
 62011	YP1	AP1	AP1	AP1
 62012	"ゆるすたぐらむをするのに必要な
-YPが1回復する"	恢復營地所需的 1 AP	Restores 1 AP needed to camp	캠프에 필요한 AP를 1 회복
+YPが1回復する"	恢復營地所需的 1 AP	Restores 1 AP needed to camp	캠핑에 필요한 AP가 1 회복
 62031	YP3	AP3	AP3	AP3
 62032	"ゆるすたぐらむをするのに必要な
-YPが3回復する"	恢復營地所需的 3 AP	Restores 3 AP needed to camp	캠프에 필요한 AP를 3 회복
+YPが3回復する"	恢復營地所需的 3 AP	Restores 3 AP needed to camp	캠핑에 필요한 AP가 3 회복
 62051	YP5	AP5	AP5	AP5
 62052	"ゆるすたぐらむをするのに必要な
-YPが5回復する"	恢復營地所需的 5 AP	Restores 5 AP needed to camp	캠프에 필요한 AP를 5 회복
+YPが5回復する"	恢復營地所需的 5 AP	Restores 5 AP needed to camp	캠핑에 필요한 AP가 5 회복
 62101	YP10	AP10	AP10	AP10
 62102	"ゆるすたぐらむをするのに必要な
-YPが10回復する"	恢復營地所需的 10 AP	Restores 10 AP needed to camp	캠프에 필요한 AP를 10 회복
+YPが10回復する"	恢復營地所需的 10 AP	Restores 10 AP needed to camp	캠핑에 필요한 AP가 10 회복
 62201	YP20	AP20	AP20	AP20
 62202	"ゆるすたぐらむをするのに必要な
-YPが20回復する"	恢復營地所需的 20 AP	Restores 20 AP needed to camp	캠프에 필요한 AP를 20 회복
+YPが20回復する"	恢復營地所需的 20 AP	Restores 20 AP needed to camp	캠핑에 필요한 AP가 20 회복
 62301	YP30	AP30	AP30	AP30
 62302	"ゆるすたぐらむをするのに必要な
-YPが30回復する"	恢復營地所需的 30 AP	Restores 30 AP needed to camp	캠프에 필요한 AP를 30 회복
+YPが30回復する"	恢復營地所需的 30 AP	Restores 30 AP needed to camp	캠핑에 필요한 AP가 30 회복
 62601	YP60	AP60	AP60	AP60
 62602	"ゆるすたぐらむをするのに必要な
-YPが60回復する"	恢復營地所需的 60 AP	Restores 60 AP needed to camp	캠프에 필요한 AP를 60 회복
+YPが60回復する"	恢復營地所需的 60 AP	Restores 60 AP needed to camp	캠핑에 필요한 AP가 60 회복
 62901	YP90	AP90	AP90	AP90
 62902	"ゆるすたぐらむをするのに必要な
-YPが90回復する"	恢復營地所需的 90 AP	Restores 90 AP needed to camp	캠프에 필요한 AP를 90 회복
+YPが90回復する"	恢復營地所需的 90 AP	Restores 90 AP needed to camp	캠핑에 필요한 AP가 90 회복
 63011	YP1(1日限定)	翻訳不要	翻訳不要	翻訳不要
 63051	YP5(1日限定)	翻訳不要	翻訳不要	翻訳不要
 70011	コスチュームガチャチケ	服裝轉蛋票	Costume Gacha Ticket	코스튬 뽑기 티켓
@@ -185,8 +194,10 @@ YPが90回復する"	恢復營地所需的 90 AP	Restores 90 AP needed to camp	�
 70282	犬山あおい★3確定ガチャができるチケット	翻訳不要	翻訳不要	翻訳不要
 70291	齋藤恵那★3確定ガチャチケ	翻訳不要	翻訳不要	翻訳不要
 70292	齋藤恵那★3確定ガチャができるチケット	翻訳不要	翻訳不要	翻訳不要
-80111	まんじゅう	日式饅頭	Steamed Bun	만주
-80112	コスチュームの育成に使用する素材	用於增強服裝的材料	Materials used to enhance costumes	코스튬 강화에 사용되는 소재
+70321	絶対なでしこ育成MAXスペシャルガチャチケ	翻訳不要	翻訳不要	翻訳不要
+70322	絶対なでしこ育成MAXスペシャルガチャができるチケット	翻訳不要	翻訳不要	翻訳不要
+80111	まんじゅう	日式饅頭	Steamed Bun	만쥬
+80112	コスチュームの育成に使用する素材	用於增強服裝的材料	Materials used to enhance costumes	코스튬 강화에 필요한 재료
 80121	まんじゅう(中)	翻訳不要	翻訳不要	翻訳不要
 80131	まんじゅう(大)	翻訳不要	翻訳不要	翻訳不要
 80211	スキルブックS(赤)	翻訳不要	翻訳不要	翻訳不要
@@ -242,7 +253,7 @@ YPが90回復する"	恢復營地所需的 90 AP	Restores 90 AP needed to camp	�
 80881	【テスト】限凸素材(イベント指定)	翻訳不要	翻訳不要	翻訳不要
 80882	イベント701の限界突破に使用する素材	翻訳不要	翻訳不要	翻訳不要
 81111	キャンプ雑誌(地)	露營雜誌（地）	Camping Magazine (Ground)	캠핑 잡지(땅)
-81112	コスチュームのランクアップに使用する素材	用於提升服裝等級的材料	Materials used to upgrade costume ranks	의상 랭크업 는 데 사용되는 소재
+81112	コスチュームのランクアップに使用する素材	用於提升服裝等級的材料	Materials used to upgrade costume ranks	코스튬 랭크업에 필요한 재료
 81211	キャンプ雑誌(水)	露營雜誌（水）	Camping Magazine (Water)	캠핑 잡지(물)
 81311	キャンプ雑誌(火)	露營雜誌（火）	Camping Magazine (Fire)	캠핑 잡지(불)
 81411	キャンプ雑誌(風)	露營雜誌（風）	Camping Magazine (Wind)	캠핑 잡지(바람)
@@ -257,12 +268,12 @@ YPが90回復する"	恢復營地所需的 90 AP	Restores 90 AP needed to camp	�
 83041	強化素材テスト(紫)★5	翻訳不要	翻訳不要	翻訳不要
 83051	強化素材テスト(緑)★5	翻訳不要	翻訳不要	翻訳不要
 85111	おち葉シール	落葉貼紙	fallen leaves sticker	낙엽 씰
-85112	サポートカードの育成に使用する素材	用於增強輔助卡的材料	Materials used to enhance Support Card	서포트 카드 강화에 사용되는 소재
+85112	サポートカードの育成に使用する素材	用於增強輔助卡的材料	Materials used to enhance Support Card	서포트 카드 강화에 필요한 재료
 85121	松ぼっくり(中)	翻訳不要	翻訳不要	翻訳不要
 85131	松ぼっくり(大)	翻訳不要	翻訳不要	翻訳不要
 86111	ガイドブック(地)	導覽書（地）	Guidebook (Ground)	가이드북(땅)
 86112	サポートカードのランクアップに使用する素材	用於提升輔助卡等級的材料	"Materials used to upgrade
- Support Card ranks"	서포트 카드 랭크업 는 데 사용되는 소재
+ Support Card ranks"	서포트 카드 랭크업 필요한 재료
 86211	ガイドブック(水)	導覽書（水）	Guidebook (Water)	가이드북(물)
 86311	ガイドブック(火)	導覽書（火）	Guidebook (Fire)	가이드북(불)
 86411	ガイドブック(風)	導覽書（風）	Guidebook (Wind)	가이드북(바람)
@@ -350,7 +361,8 @@ YPが90回復する"	恢復營地所需的 90 AP	Restores 90 AP needed to camp	�
 100121	ガチャメダル（海キャン水着③）	翻訳不要	翻訳不要	翻訳不要
 100131	ガチャメダル（夏だ！ビーチだ！②）	翻訳不要	翻訳不要	翻訳不要
 100141	ガチャメダル（お祭り浴衣）	翻訳不要	翻訳不要	翻訳不要
-100151	ガチャメダル（浴衣サポカ）	翻訳不要	翻訳不要	翻訳不要
+100151	ガチャメダル（夏花火）	翻訳不要	翻訳不要	翻訳不要
+100161	ガチャメダル（絶対育成MAX）	翻訳不要	翻訳不要	翻訳不要
 107031	ガチャメダル(◯◯)	翻訳不要	翻訳不要	翻訳不要
 107032	集めると交換所で特別なアイテムと交換できる	翻訳不要	翻訳不要	翻訳不要
 200011	イベントアイテム1	翻訳不要	翻訳不要	翻訳不要
@@ -407,7 +419,7 @@ YPが90回復する"	恢復營地所需的 90 AP	Restores 90 AP needed to camp	�
 500131	ゆるパス(30days)	搖曳通行證（30天）	Laid-Back Pass (30 Days)	유루 패스(30일)
 500132	"30日間、毎日100ゆるコインと
 AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高到 150，持續 30 天，每天可獲得 100搖曳幣。	"For 30 days, the AP limit is increased to 150
- and you can get 100 Yuru Coins every day."	30일간 AP 상한이 150으로 늘어 매일 100장의 유루코인을 받을 수 있는 유익한 패스
+ and you can get 100 Yuru Coins every day."	30일간 매일 100유루코인과  AP 상한 150을 받을 수 있는 유익한 패스
 500141	ゆるパスS(10days)	搖曳通行證 S(10天)	Laid-Back Pass S(10 Days)	유루 패스 S(10일)
 500142	10日間、毎日10ゆるコインがもらえるお得なパス	一個很棒的通行證，每天給你 10搖曳幣，持續 10 天	"A great pass that gives you 10 Yuru Coins
  every day for 10 days"	10일간 매일 10유루코인을 받을 수 있는 유익한 패스
@@ -415,7 +427,7 @@ AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高
 500181	ゆるパス(7days)	搖曳通行證（7天）	Laid-Back Pass (7 Days)	유루 패스(7일)
 500182	"7日間、毎日100ゆるコインと
 AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高到 150，持續 7 天，每天可獲得 100搖曳幣。	"For 7 days, the AP limit is increased to 150
- and you can get 100 Yuru Coins every day."	7일간 AP 상한이 150으로 늘어 매일 100장의 유루코인을 받을 수 있는 유익한 패스
+ and you can get 100 Yuru Coins every day."	7일간 매일 100유루코인과 AP 상한 150을 받을 수 있는 유익한 패스
 500191	ゆるパス(7days) 無料体験	搖曳通行證（7天）免費試用	Laid-Back Pass (7 Days) Free Trial	유루 패스(7일) 무료 체험
 510011	交換券	翻訳不要	翻訳不要	翻訳不要
 510012	"対象カードの中から
@@ -425,6 +437,11 @@ AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高
 510022	"◯◯の中から
 欲しいカードを選んで交換できるチケット"	翻訳不要	翻訳不要	翻訳不要
 510071	★3コスチューム交換券	★3 服裝兌換券	★3 Costume Exchange Ticket	★3코스튬 교환 티켓
+510161	ランクアップ素材セレクトBOX	★3 服裝兌換券	★3 Costume Exchange Ticket	★3코스튬 교환 티켓
+510162	"対象アイテムの中から
+欲しいアイテムを選んで
+交換できるボックス"	從目標卡中選擇您想要的卡可以兌換的票	"A ticket that can be exchanged by selecting the card
+ you want from the target cards"	대상 카드 중에서 원하는 카드를 선택하여 교환 가능한 티켓
 520011	【テスト】サポカ交換券	翻訳不要	翻訳不要	翻訳不要
 520021	【テスト】アイテム交換券	翻訳不要	翻訳不要	翻訳不要
 520022	"対象カードの中から
@@ -437,6 +454,7 @@ AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高
 520051	クラフト素材SR交換チケット	翻訳不要	翻訳不要	翻訳不要
 550011	名称アイテムテスト	翻訳不要	翻訳不要	翻訳不要
 550012	※こちらのアイテムは効果がありません	翻訳不要	翻訳不要	翻訳不要
+550061	ふじさん&ランクアップランダムボックス	翻訳不要	翻訳不要	翻訳不要
 590011	購入チャレンジテスト	翻訳不要	翻訳不要	翻訳不要
 590012	購入チャレンジ題テスト	翻訳不要	翻訳不要	翻訳不要
 600001	【テスト】抽選券1	翻訳不要	翻訳不要	翻訳不要
@@ -456,27 +474,27 @@ AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高
 910111	称号「旅キャンはじまり！RECAMPおだわら」	稱號「旅遊露營的開始！RECAMP 小田原」	Title「Beginning of Camping Trip！Recamp Odawara」	칭호「여행 캠핑 시작！RECAMP 오다와라」
 910112	イベント「旅キャンはじまり！RECAMPおだわら」で獲得できる称号	活動“旅遊露營的開始！RECAMP 小田原”中可獲得的稱號	"Titles that can be obtained in event ""Beginning of Camping Trip！Recamp Odawara"""	이벤트 '여행 캠핑 시작！RECAMP 오다와라' 에서 획득할 수 있는 칭호
 910121	称号「ブロンズ会員」	稱號「銅牌會員」	Title「Bronze MBR」	칭호「브론즈 회원」
-910122	クラブポイントランクで獲得できる称号	在俱樂部點數階級1可以獲得的稱號	Title obtainable at Club Points Rank 1	클럽 포인트 랭크 1에서 획득할 수 있는 칭호
-910131	称号「シルバー会員1」	稱號「銀牌會員1」	Title「Silver MBR 1」	칭호「실버 회원 1」
-910141	称号「シルバー会員2」	稱號「銀牌會員2」	Title「Silver MBR 2」	칭호「실버 회원 2」
-910151	称号「シルバー会員3」	稱號「銀牌會員3」	Title「Silver MBR 3」	칭호「실버 회원 3」
-910161	称号「シルバー会員4」	稱號「銀牌會員4」	Title「Silver MBR 4」	칭호「실버 회원 4」
-910171	称号「シルバー会員5」	稱號「銀牌會員5」	Title「Silver MBR 5」	칭호「실버 회원 5」
-910181	称号「ゴールド会員1」	稱號「金牌會員1」	Title「Gold MBR 1」	칭호「골드 회원 1」
-910191	称号「ゴールド会員2」	稱號「金牌會員2」	Title「Gold MBR 2」	칭호「골드 회원 2」
-910201	称号「ゴールド会員3」	稱號「金牌會員3」	Title「Gold MBR 3」	칭호「골드 회원 3」
-910211	称号「ゴールド会員4」	稱號「金牌會員4」	Title「Gold MBR 4」	칭호「골드 회원 4」
-910221	称号「ゴールド会員5」	稱號「金牌會員5」	Title「Gold MBR 5」	칭호「골드 회원 5」
+910122	クラブポイントランクで獲得できる称号	在俱樂部點數階級1可以獲得的稱號	Title obtainable at Club Points Rank 1	클럽 포인트 랭크에 따라 획득할 수 있는 칭호
+910131	称号「シルバー会員★」	稱號「銀牌會員★」	Title「Silver MBR★」	칭호「실버 회원★」
+910141	称号「シルバー会員★2」	稱號「銀牌會員★2」	Title「Silver MBR★ 2」	칭호「실버 회원★ 2」
+910151	称号「シルバー会員★3」	稱號「銀牌會員★3」	Title「Silver MBR★ 3」	칭호「실버 회원★ 3」
+910161	称号「シルバー会員★4」	稱號「銀牌會員★4」	Title「Silver MBR★ 4」	칭호「실버 회원★ 4」
+910171	称号「シルバー会員★5」	稱號「銀牌會員★5」	Title「Silver MBR★ 5」	칭호「실버 회원★ 5」
+910181	称号「ゴールド会員★」	稱號「金牌會員★」	Title「Gold MBR★」	칭호「골드 회원★」
+910191	称号「ゴールド会員★2」	稱號「金牌會員★2」	Title「Gold MBR★ 2」	칭호「골드 회원★ 2」
+910201	称号「ゴールド会員★3」	稱號「金牌會員★3」	Title「Gold MBR★ 3」	칭호「골드 회원★ 3」
+910211	称号「ゴールド会員★4」	稱號「金牌會員★4」	Title「Gold MBR★ 4」	칭호「골드 회원★ 4」
+910221	称号「ゴールド会員★5」	稱號「金牌會員★5」	Title「Gold MBR★ 5」	칭호「골드 회원★ 5」
 910231	称号「ブラック会員」	稱號「黑牌會員」	Title「Black MBR」	칭호「블랙 회원」
 1010011	みずにつよい布地	水強布地	Water-resistant fabric	물에 강한 천
-1010012	ギアのクラフトに必要な素材	製作用品所需材料	Materials required for Gear Craft	기어 제작에 필요한 소재
+1010012	ギアのクラフトに必要な素材	製作用品所需材料	Materials required for Gear Craft	기어 제작에 필요한 재료
 1010021	かるくてじょうぶな布地	輕便且耐用的布料	Light & Durable Fabric	가볍고 튼튼한 천
 1010031	もえにくい布地	難燃布料	Non-flammable fabric	불타지 않는 천
 1010041	じょうぶな革	堅固的皮革	Sturdy Leather	튼튼한 가죽
 1010051	もえない布地	不易燃布料	Non-flammable Fabric	불타지 않는 천
 1010061	じょうぶなメッシュ	堅固的網格	Durable Mesh	튼튼한 메시
 1010071	つよくてもえにくい布地	強韌又吸濕的布料	Strong & Attractive Fabric	강하고 매력적인 천
-1020011	もえやすい木材	易燃木材	Flammable Wood	불쉽게 타는 목재
+1020011	もえやすい木材	易燃木材	Flammable Wood	타기 쉬운 목재
 1020021	やわらかい木材	柔軟木材	Soft Wood	부드러운 목재
 1020031	ふつうの木材	普通木材	Ordinary Wood	일반 목재
 1020041	かたい木材	硬木材	Hard Wood	단단한 목재
@@ -643,12 +661,24 @@ AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高
 9703091	称号「ﾚｯﾂｸﾗﾌﾄ！at海キャン TOP1,000」	稱號「讓我們來製作吧！在海邊露營 TOP1,000」	"Title ""Let's Craft! at Seaside Camp TOP 1,000"""	"칭호 ""레츠 제작! at바다 캠핑 TOP 1,000"""
 9703101	称号「ﾚｯﾂｸﾗﾌﾄ！at海キャン TOP5,000」	稱號「讓我們來製作吧！在海邊露營 TOP5,000」	"Title ""Let's Craft! at Seaside Camp TOP 5,000"""	"칭호 ""레츠 제작! at바다 캠핑 TOP 5,000"""
 9703111	称号「ﾚｯﾂｸﾗﾌﾄ！at海キャン TOP10,000」	稱號「讓我們來製作吧！在海邊露營 TOP10,000」	"Title ""Let's Craft! at Seaside Camp TOP 10,000"""	"칭호 ""레츠 제작! at바다 캠핑 TOP 10,000"""
+9704011	称号「浴衣キャンプと夏花火 1位」	稱號「浴衣露營與夏日煙火第一名」	"Title ""Yukata Camp And Fireworks 1st Place"""	"칭호 ""유카타 캠핑과 여름 불꽃놀이 1위"""
+9704012	イベント「浴衣キャンプと夏花火」で獲得できる称号	在活動「浴衣露營與夏日煙火」中可以獲得的稱號	"Title that can be obtained in the event ""Yukata Camp And Fireworks"""	"이벤트 ""유카타 캠핑과 여름 불꽃놀이""에서 획득할 수 있는 칭호"
+9704021	称号「浴衣キャンプと夏花火 2位」	稱號「浴衣露營與夏日煙火第二名」	"Title ""Yukata Camp And Fireworks 2nd Place"""	"칭호 ""유카타 캠핑과 여름 불꽃놀이 2위"""
+9704031	称号「浴衣キャンプと夏花火 3位」	稱號「浴衣露營與夏日煙火 第三名」	"Title ""Yukata Camp And Fireworks 3rd Place"""	칭호「유카타 캠핑과 여름 불꽃놀이 3위」
+9704041	称号「浴衣キャンプと夏花火 TOP5」	稱號「浴衣露營與夏日煙火 TOP5」	"Title ""Yukata Camp And Fireworks TOP 5"""	"칭호 ""유카타 캠핑과 여름 불꽃놀이 TOP5"""
+9704051	称号「浴衣キャンプと夏花火 TOP10」	稱號「浴衣露營與夏日煙火 TOP10」	"Title ""Yukata Camp And Fireworks TOP10"""	칭호「유카타 캠핑과 여름 불꽃놀이 TOP10」
+9704061	称号「浴衣キャンプと夏花火 TOP50」	稱號「浴衣露營與夏日煙火 TOP50」	"Title ""Yukata Camp And Fireworks TOP50"""	"칭호 ""유카타 캠핑과 여름 불꽃놀이 TOP50"""
+9704071	称号「浴衣キャンプと夏花火 TOP100」	稱號「浴衣露營與夏日煙火 TOP100」	"Title ""Yukata Camp And Fireworks TOP100"""	"칭호 ""유카타 캠핑과 여름 불꽃놀이 TOP100"""
+9704081	称号「浴衣キャンプと夏花火 TOP500」	稱號「浴衣露營與夏日煙火 TOP500」	"Title ""Yukata Camp And Fireworks TOP500"""	"칭호 ""유카타 캠핑과 여름 불꽃놀이 TOP500"""
+9704091	称号「浴衣キャンプと夏花火 TOP1,000」	稱號「浴衣露營與夏日煙火 TOP1,000」	"Title ""Yukata Camp And Fireworks TOP 1,000"""	"칭호 ""유카타 캠핑과 여름 불꽃놀이 TOP 1,000"""
+9704101	称号「浴衣キャンプと夏花火 TOP5,000」	稱號「浴衣露營與夏日煙火 TOP5,000」	"Title ""Yukata Camp And Fireworks TOP 5,000"""	"칭호 ""유카타 캠핑과 여름 불꽃놀이 TOP 5,000"""
+9704111	称号「浴衣キャンプと夏花火 TOP10,000」	稱號「浴衣露營與夏日煙火 TOP10,000」	"Title ""Yukata Camp And Fireworks TOP 10,000"""	"칭호 ""유카타 캠핑과 여름 불꽃놀이 TOP 10,000"""
 10000011	限界突破素材(コスチューム)★1	翻訳不要	翻訳不要	翻訳不要
 10000012	コスチュームの限界突破に必要な素材（テスト用）	翻訳不要	翻訳不要	翻訳不要
 10000021	限界突破素材(コスチューム)★2	翻訳不要	翻訳不要	翻訳不要
 10000031	限界突破素材(コスチューム)★3	翻訳不要	翻訳不要	翻訳不要
 10100011	『サバキャン服(なでしこ)』のカケラ	『夏季露營服(撫子)』的碎片	『Summer Camping Clothes (Nadeshiko)』Fragment	『여름 캠핑복(나데시코)』의 조각
-10100012	コスチュームの限界突破に必要な素材	突破服裝所需的材料	Materials required to Break through Costumes	코스튬 한계 돌파에 필요한 소재
+10100012	コスチュームの限界突破に必要な素材	突破服裝所需的材料	Materials required to Break through Costumes	코스튬 한계 돌파에 필요한 재료
 10100021	『サバキャン服(リン)』のカケラ	『夏季露營服(凛)』的碎片	『Summer Camping Clothes (Rin)』Fragment	『여름 캠핑복(린)』의 조각
 10100031	『サバキャン服(千明)』のカケラ	『夏季露營服(千明)』的碎片	『Summer Camping Clothes(Chiaki)』Fragment	『여름 캠핑복(치아키)』의 조각
 10100041	『サバキャン服(あおい)』のカケラ	『夏季露營服(葵)』的碎片	『Summer Camping Clothes(Aoi)』Fragment	『여름 캠핑복(아오이)』의 조각
@@ -825,12 +855,17 @@ AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高
 10101931	『海キャン水着(千明)』のカケラ	『海邊露營泳裝(千明)』的碎片	『Seaside Camp Swimsuit(Chiaki)』Fragment	『바다 캠핑 수영복(치아키)』의 조각
 10101941	『海キャン水着(あおい)』のカケラ	『海邊露營泳裝(葵)』的碎片	『Seaside Camp Swimsuit(Aoi)』Fragment	『바다 캠핑 수영복(아오이)』의 조각
 10101951	『海キャン水着(恵那)』のカケラ	『海邊露營泳裝(惠那)』的碎片	『Seaside Camp Swimsuit(Ena)』Fragment	『바다 캠핑 수영복(에나)』의 조각
+10101961	『お祭り浴衣(なでしこ)』のカケラ	『祭典浴衣(撫子)』的碎片	『Festival Yukata(Nadeshiko)』Fragment	『축제 유카타(나데시코)』의 조각
+10101971	『お祭り浴衣(リン)』のカケラ	『祭典浴衣(凛)』的碎片	『Festival Yukata(Rin)』Fragment	『축제 유카타(린)』의 조각
+10101981	『お祭り浴衣(千明)』のカケラ	『祭典浴衣(千明)』的碎片	『Festival Yukata(Chiaki)』Fragment	『축제 유카타(치아키)』의 조각
+10101991	『お祭り浴衣(あおい)』のカケラ	『祭典浴衣(葵)』的碎片	『Festival Yukata(Aoi)』Fragment	『축제 유카타(아오이)』의 조각
+10102001	『お祭り浴衣(恵那)』のカケラ	『祭典浴衣(惠那)』的碎片	『Festival Yukata(Ena)』Fragment	『축제 유카타(에나)』의 조각
 20000011	限界突破素材(サポートカード)[N]	翻訳不要	翻訳不要	翻訳不要
 20000012	サポートカードの限界突破に必要な素材（テスト用）	翻訳不要	翻訳不要	翻訳不要
 20000021	限界突破素材(サポートカード)[R]	翻訳不要	翻訳不要	翻訳不要
 20000031	限界突破素材(サポートカード)[SR]	翻訳不要	翻訳不要	翻訳不要
 20200011	『松ぼっくり』のカケラ	『松果』的碎片	『Pinecone』Fragment	『솔방울』의 조각
-20200012	サポートカードの限界突破に必要な素材	突破輔助卡所需的材料	Materials required to Break through Support Card	서포트 카드 한계 돌파에 필요한 소재
+20200012	サポートカードの限界突破に必要な素材	突破輔助卡所需的材料	Materials required to Break through Support Card	서포트 카드 한계 돌파에 필요한 재료
 20200021	『じゅうごかいばらい』のカケラ	『分十五期付款』的碎片	『15 Instalments』Fragment	『15개월 할부』의 조각
 20200031	『おぉおぉぉお…』のカケラ	『喔喔喔喔喔喔……』的碎片	『Whoa...』Fragment	『오오오오오오…』의 조각
 20200041	『なんだこれ』のカケラ	『這是什麼？』的碎片	『What the Heck?』Fragment	『뭐야 이게』의 조각
@@ -962,12 +997,19 @@ AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高
 20201301	『夏の思い出』のカケラ	『夏天的回憶』的碎片	『Summer Memories』Fragment	『여름의 추억』의 조각
 20201311	『キャンプで使うのが楽しみ』のカケラ	『太期待下次去露營的時候用這個了。』的碎片	『Can't Wait to Use This』Fragment	『캠핑에서 쓰는 게 기대돼』의 조각
 20201321	『キンキンしまりんだんごアイス』のカケラ	『冰冰涼涼志摩凜糰子冰淇淋』的碎片	『Icy Cold Shimarin』Fragment	『꽁꽁 시마린 경단 아이스』의 조각
+20201331	『キャンプで手作り夏祭り！』のカケラ	『在露營時舉辦親手製夏日祭典！』的碎片	『DIY Festival Camping!』Fragment	『직접 준비한 축제 캠핑!』의 조각
+20201341	『手持ち花火でファイヤー！』のカケラ	『拿手持式煙火盡情噴射──！』的碎片	『Fired Up Handheld Fireworks!』Fragment	『작은 폭죽으로 파이어!』의 조각
+20201351	『笛吹公園までのせてください』のカケラ	『請載我去笛吹公園。』的碎片	『Take Me To Fuefuki Please』Fragment	『후에후키 공원까지 태워주세요』의 조각
+20201361	『幼馴染のアヤちゃん』のカケラ	『兒時玩伴的小綾。』的碎片	『Childhood Friend Aya』Fragment	『소꿉친구 아야』의 조각
+20201371	『真夏の夜の打ち上げ花火』のカケラ	『仲夏之夜點燃沖天炮。』的碎片	『Midsummer Night's Fireworks』Fragment	『한여름 밤의 불꽃놀이 축제』의 조각
+20201381	『伊豆ジオスポめぐりがんばろう！！』のカケラ	『努力走遍伊豆地質公園吧！！』的碎片	『Visit Izu's Geospots!』Fragment	『이즈 지오 스폿 순회, 힘내자!!』의 조각
+20201391	『薪屋さんのものがおすすめ』のカケラ	『建議買木柴店賣的商品。』的碎片	『Go To The Firewood Shop』Fragment	『장작 업체에서 사는 것을 추천』의 조각
 30000011	限界突破素材(ギア設計図)[N]	翻訳不要	翻訳不要	翻訳不要
 30000012	ギア設計図の完成、愛着アップに必要な素材（テスト用）	翻訳不要	翻訳不要	翻訳不要
 30000021	限界突破素材(ギア設計図)[R]	翻訳不要	翻訳不要	翻訳不要
 30000031	限界突破素材(ギア設計図)[SR]	翻訳不要	翻訳不要	翻訳不要
 30100101	『リンのテント』のカケラ	『凜的帳篷』的碎片	『Rin's Tent』Fragment	『린의 텐트』의 조각
-30100102	ギア設計図の完成、愛着アップに必要な素材	完成齒輪藍圖和改善附件所需的材料	Materials needed to complete gear blueprints and improve attachment	기어 설계도의 완성이나 애착 업에 필요한 소재
+30100102	ギア設計図の完成、愛着アップに必要な素材	完成齒輪藍圖和改善附件所需的材料	Materials needed to complete gear blueprints and improve attachment	기어 설계도의 완성, 애착 상승에 필요한 재료
 30100201	『野クルのテント（オレンジ）』のカケラ	『野活組的帳篷（橘色）』的碎片	『Outclub Tent (OR)』Fragment	『야클 텐트(오렌지)』의 조각
 30100301	『ロッジテント』のカケラ	『小屋帳』的碎片	『Lodge Tent』Fragment	『로지 텐트』의 조각
 30100401	『ドームテント』のカケラ	『圓頂帳』的碎片	『Dome Tent』Fragment	『돔 텐트』의 조각
@@ -1361,6 +1403,8 @@ AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高
 30202391	『ファミリーベンチ(BK)』のカケラ	『家庭座椅(BK)』的碎片	『Family Bench (BK)』Fragment	『패밀리 벤치(블랙)』의 조각
 30203101	『ビーチチェア』のカケラ	『海灘椅』的碎片	『Beach Chair』Fragment	『비치 체어』의 조각
 30203111	『ビーチチェア（RD）』のカケラ	『海灘椅（RD）』的碎片	『Beach Chair (RD)』Fragment	『비치 체어(레드)』의 조각
+30203201	『座布団』のカケラ	『坐墊』的碎片	『Seat Cushion』Fragment	『방석』의 조각
+30203211	『座布団（GR）』のカケラ	『坐墊（GR）』的碎片	『Seat Cushion (GR)』Fragment	『방석(그린)』의 조각
 30300101	『リンのアルミローテーブル』のカケラ	『凜的小鋁桌』的碎片	『Rin's Aluminium Camping Table』Fragment	『린의 알루미늄 로우 테이블』의 조각
 30300201	『千明のミニテーブル』のカケラ	『千明的迷你桌』的碎片	『Chiaki's Mini Table』Fragment	『치아키의 미니 테이블』의 조각
 30300301	『なでしこのテーブル』のカケラ	『撫子的桌子』的碎片	『Nadeshiko's Table』Fragment	『나데시코의 테이블』의 조각
@@ -1403,6 +1447,8 @@ AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高
 30301601	『金属製折りたたみ式テーブル』のカケラ	『金屬製折疊式桌子』的碎片	『Metal Foldable Table』Fragment	『금속제 접이식 테이블』의 조각
 30301701	『木製キッチンテーブル』のカケラ	『木製炊事桌』的碎片	『Wooden Camping Kitchen Table』Fragment	『목제 키친 테이블』의 조각
 30301801	『金属製キッチンテーブル』のカケラ	『金屬製炊事桌』的碎片	『Metal Camping Kitchen Table』Fragment	『금속제 키친 테이블』의 조각
+30302101	『お祭りテーブル』のカケラ	『祭典桌子』的碎片	『Festival Table』Fragment	『축제 테이블』의 조각
+30302111	『お祭りテーブル（R/W）』のカケラ	『祭典桌子（R/W）』的碎片	『Festival Table (RW)』Fragment	『축제 테이블(레드/화이트)』의 조각
 30400101	『リンの祖父のスキレット』のカケラ	『凜的爺爺的鑄鐵鍋』的碎片	『Rin's Grandfather's Skillet』Fragment	『린의 할아버지의 스킬렛』의 조각
 30400201	『野クルのポット』のカケラ	『野活組的茶壺』的碎片	『Outclub Pot』Fragment	『야클의 포트』의 조각
 30400501	『リンのステンレスマグカップ』のカケラ	『凜的不鏽鋼馬克杯』的碎片	『Rin's Stainless Steel Cup』Fragment	『린의 스테인리스 머그컵』의 조각
@@ -1696,6 +1742,8 @@ AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高
 30850191	『大きなレジャーシート(BK)』のカケラ	『大型野餐墊 (BK)』的碎片	『Large Picnic Blanket (BK)』Fragment	『커다란 레저 시트(블랙)』의 조각
 30850201	『小さな桜のレジャーシート』のカケラ	『小型櫻花野餐墊』的碎片	『Small Sakura Blanket』Fragment	『작은 벚꽃 레저 시트』의 조각
 30850301	『大きな桜のレジャーシート』のカケラ	『大型櫻花野餐墊』的碎片	『Large Sakura Blanket』Fragment	『커다란 벚꽃 레저 시트』의 조각
+30850701	『ござ』のカケラ	『蓆墊』的碎片	『Mat』Fragment	『전통 돗자리』의 조각
+30850711	『ござ（GR）』のカケラ	『蓆墊（GR）』的碎片	『Mat (GR)』Fragment	『전통 돗자리(그린)』의 조각
 30900101	『リンの鉈』のカケラ	『凜的柴刀』的碎片	『Rin's Machete』Fragment	『린의 나대』의 조각
 30900201	『ウォータータンク』のカケラ	『儲水桶』的碎片	『Water Tank』Fragment	『워터 탱크』의 조각
 30900301	『じょうろ』のカケラ	『花灑』的碎片	『Watering Can』Fragment	『물뿌리개』의 조각
@@ -2026,12 +2074,20 @@ AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高
 30917301	『ビーチパラソル』のカケラ	『遮陽傘』的碎片	『Beach Parasol』Fragment	『비치 파라솔』의 조각
 30917401	『シーグラスのアクアフレーム』のカケラ	『海玻璃的海洋相框』的碎片	『Sea Glass Aqua Frame』Fragment	『씨글라스 아쿠아 프레임』의 조각
 30917411	『シーグラスのアクアフレーム(PK)』のカケラ	『海玻璃的海洋相框（PK）』的碎片	『Sea Glass Aqua Frame (PK)』Fragment	『씨글라스 아쿠아 프레임(핑크)』의 조각
+30917601	『お祭りうちわ』のカケラ	『祭典扇子』的碎片	『Festival Fan』Fragment	『축제 부채』의 조각
+30917611	『お祭りうちわ（BL）』のカケラ	『祭典扇子（BL）』的碎片	『Festival Fan (BL)』Fragment	『축제 부채(블루)』의 조각
+30918101	『手持ち花火セット』のカケラ	『手持式煙火組合包』的碎片	『Fireworks』Fragment	『작은 폭죽 세트』의 조각
+30918111	『手持ち花火セット（BL）』のカケラ	『手持式煙火組合包（BL）』的碎片	『Fireworks (BL)』Fragment	『작은 폭죽 세트(블루)』의 조각
+30918301	『線香花火セット』のカケラ	『仙女棒組合包』的碎片	『Sparkler Set』Fragment	『선향불꽃 세트』의 조각
+30918311	『線香花火セット（GR）』のカケラ	『仙女棒組合包（GR）』的碎片	『Sparkler Set (GR)』Fragment	『선향불꽃 세트(그린)』의 조각
+30918501	『くじ引き』のカケラ	『抽籤盒』的碎片	『Lottery』Fragment	『뽑기 상자』의 조각
+30918511	『くじ引き（PK）』のカケラ	『抽籤盒（PK）』的碎片	『Lottery (PK)』Fragment	『뽑기 상자(핑크)』의 조각
 40000011	限界突破素材(料理レシピ)[N]	翻訳不要	翻訳不要	翻訳不要
 40000012	料理レシピの完成に必要な素材（テスト用）	翻訳不要	翻訳不要	翻訳不要
 40000021	限界突破素材(料理レシピ)[R]	翻訳不要	翻訳不要	翻訳不要
 40000031	限界突破素材(料理レシピ)[SR]	翻訳不要	翻訳不要	翻訳不要
 40100101	『焼き鳥』のカケラ	『烤雞肉串』的碎片	『Yakitori』Fragment	『닭꼬치』의 조각
-40100102	料理レシピの完成に必要な素材	完成烹飪食譜所需的材料	Materials required to complete a cooking recipe	요리 레시피를 완성하기 위해 필요한 소재
+40100102	料理レシピの完成に必要な素材	完成烹飪食譜所需的材料	Materials required to complete a cooking recipe	요리 레시피 완성에 필요한 재료
 40100201	『焼き肉』のカケラ	『烤肉』的碎片	『Yakiniku』Fragment	『야키니쿠』의 조각
 40100301	『焼きベーコン』のカケラ	『煎培根』的碎片	『Fried Bacon』Fragment	『베이컨 구이』의 조각
 40100401	『牛肉の大和煮』のカケラ	『牛肉大和煮』的碎片	『Yamatoni Beef』Fragment	『소고기 장조림』의 조각
@@ -2048,6 +2104,8 @@ AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高
 40200701	『魚の塩焼き』のカケラ	『鹽烤魚』的碎片	『Grilled Fish』Fragment	『생선 소금구이』의 조각
 40200801	『かまぼこチーズフォンデュ』のカケラ	『魚板起司鍋』的碎片	『Kamaboko Cheese Fondue』Fragment	『어묵 치즈 퐁듀』의 조각
 40200901	『海鮮バーベキュー』のカケラ	『海鮮烤肉』的碎片	『Seafood BBQ』Fragment	『해물 바비큐』의 조각
+40201001	『ふじさんのかまぼこ』のカケラ	『富士山魚板』的碎片	『Mt. Fuji Fish Cake』Fragment	『후지산 어묵』의 조각
+40201011	『ふじさんマスコットかまぼこ』のカケラ	『富士山吉祥物魚板』的碎片	『Mt. Fuji Mascot Fish Cake』Fragment	『후지산 마스코트 어묵』의 조각
 40300101	『ボウルサラダ』のカケラ	『碗裝沙拉』的碎片	『Salad』Fragment	『볼 샐러드』의 조각
 40300201	『トマトの丸焼き』のカケラ	『烤蕃茄』的碎片	『Whole Roasted Tomato』Fragment	『토마토 통구이』의 조각
 40300301	『なすの丸焼き』のカケラ	『烤茄子』的碎片	『Whole Roasted Eggplant』Fragment	『가지 통구이』의 조각
@@ -2056,6 +2114,7 @@ AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高
 40300601	『にんじんの丸焼き』のカケラ	『烤胡蘿蔔』的碎片	『Whole Roasted Carrot』Fragment	『당근 통구이』의 조각
 40300701	『ホイル焼き』のカケラ	『鋁箔包烤鮭魚』的碎片	『Foil Roast』Fragment	『포일 구이』의 조각
 40300801	『カプレーゼ』のカケラ	『卡布里沙拉』的碎片	『Caprese』Fragment	『카프레제』의 조각
+40301101	『焼きとうもろこし』のカケラ	『烤玉米』的碎片	『Grilled Corn』Fragment	『구운 옥수수』의 조각
 40400101	『焼き豚まん』のカケラ	『烤豬肉包』的碎片	『Fried Pork Buns』Fragment	『구운 고기만두』의 조각
 40400201	『サンドイッチ』のカケラ	『三明治』的碎片	『Sandwich』Fragment	『샌드위치』의 조각
 40400301	『チーズいっぱいマルゲリータ』のカケラ	『滿滿乳酪瑪格麗特披薩』的碎片	『Cheesy Margherita』Fragment	『치즈 가득 마르게리타』의 조각
@@ -2092,6 +2151,8 @@ AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高
 41000601	『ジェラート』のカケラ	『義式冰淇淋』的碎片	『Gelato』Fragment	『젤라토』의 조각
 41000701	『お城最中』のカケラ	『城堡最中』的碎片	『Castle Monaka Pastry』Fragment	『성 모양 모나카』의 조각
 41000801	『お花見団子』のカケラ	『賞花糰子』的碎片	『Spring Picnic Dango』Fragment	『꽃구경 경단』의 조각
+41001301	『フルーツ飴』のカケラ	『水果糖』的碎片	『Candied Fruit』Fragment	『과일 사탕』의 조각
+41001311	『フルーツ飴（GR）』のカケラ	『水果糖（GR）』的碎片	『Candied Fruit (GR)』Fragment	『과일 사탕(그린)』의 조각
 1050000023	AP 2倍	AP 2倍	AP 2倍	AP 2倍
 1050010013	○○パス(30days)ログインボーナス	○○パス(30days)ログインボーナス	○○パス(30days)ログインボーナス	○○パス(30days)ログインボーナス
 1050011013	レギュラーパス(10days)ログインボーナス	レギュラーパス(10days)ログインボーナス	レギュラーパス(10days)ログインボーナス	レギュラーパス(10days)ログインボーナス

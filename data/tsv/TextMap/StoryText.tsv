@@ -433,6 +433,26 @@ id	ja	zh-TW	en	ko
 101951	めざせ！トロピカルジュース①	目標！熱帶果汁①	Get It Right! Tropical Juice ①	만들자! 트로피컬 주스①
 101952	めざせ！トロピカルジュース②	目標！熱帶果汁②	Get It Right! Tropical Juice ②	만들자! 트로피컬 주스②
 101953	めざせ！トロピカルジュース③	目標！熱帶果汁③	Get It Right! Tropical Juice ③	만들자! 트로피컬 주스③
+101960	『お祭り浴衣』各務原 なでしこ	『祭典浴衣』各務原撫子	[Festival Yukata] Nadeshiko Kagamihara	축제 유카타 카가미하라 나데시코
+101961	くじ引きを作ろう①	來作抽籤盒吧①	Making A Lottery ①	뽑기를 만들자①
+101962	くじ引きを作ろう②	來作抽籤盒吧②	Making A Lottery ②	뽑기를 만들자②
+101963	くじ引きを作ろう③	來作抽籤盒吧③	Making A Lottery ③	뽑기를 만들자③
+101970	『お祭り浴衣』志摩 リン	『祭典浴衣』志摩凜	[Festival Yukata] Rin Shima	축제 유카타 시마 린
+101971	世界のお祭り全集①	世界祭典大全集①	All The World Festivals ①	세계의 축제 전집①
+101972	世界のお祭り全集②	世界祭典大全集②	All The World Festivals ②	세계의 축제 전집②
+101973	世界のお祭り全集③	世界祭典大全集③	All The World Festivals ③	세계의 축제 전집③
+101980	『お祭り浴衣』大垣 千明	『祭典浴衣』大垣千明	[Festival Yukata] Chiaki Ogaki	축제 유카타 오가키 치아키
+101981	野クルとお祭りうちわ①	野活組跟祭典裝竹輪①	Outclub And Festival Fan ①	야클과 축제 부채①
+101982	野クルとお祭りうちわ②	野活組跟祭典裝竹輪②	Outclub And Festival Fan ②	야클과 축제 부채②
+101983	野クルとお祭りうちわ③	野活組跟祭典裝竹輪③	Outclub And Festival Fan ③	야클과 축제 부채③
+101990	『お祭り浴衣』犬山 あおい	『祭典浴衣』犬山葵	[Festival Yukata] Aoi Inuyama	축제 유카타 이누야마 아오이
+101991	あおいの焼き物準備①	葵要來準備烤東西①	Aoi's Grill Preparations ①	아오이의 구이 요리 준비①
+101992	あおいの焼き物準備②	葵要來準備烤東西②	Aoi's Grill Preparations ②	아오이의 구이 요리 준비②
+101993	あおいの焼き物準備③	葵要來準備烤東西③	Aoi's Grill Preparations ③	아오이의 구이 요리 준비③
+102000	『お祭り浴衣』斉藤 恵那	『祭典浴衣』齊藤惠那	[Festival Yukata] Ena Saito	축제 유카타 사이토 에나
+102001	ちくわとお祭り①	竹輪跟祭典①	Chikuwa And The Festival ①	치쿠와랑 축제①
+102002	ちくわとお祭り②	竹輪跟祭典②	Chikuwa And The Festival ②	치쿠와랑 축제②
+102003	ちくわとお祭り③	竹輪跟祭典③	Chikuwa And The Festival ③	치쿠와랑 축제③
 701000	旅キャンはじまり！RECAMPおだわら	出發去旅遊露營！RECAMP小田原	Travel Camping Begins! RECAMP Odawara!	여행캠 시작! RECAMP 오다와라
 701001	プロローグ	序章	Prologue	프롤로그
 701002	初めての旅キャンin小田原	第一次旅遊露營in小田原	First Camping Trip To Odawara	첫 여행캠 in 오다와라
@@ -456,3 +476,14 @@ id	ja	zh-TW	en	ko
 702008	晩ごはんの時間	晚餐時間	Dinner Time	저녁 식사 시간
 702009	日の出を待ちながら	等待日出	Waiting For Sunrise	일출을 기다리며
 702010	シーグラスを集めて	蒐集海玻璃	Collecting Sea Glass	씨글라스를 모으면서
+704000	浴衣キャンプと夏花火	浴衣露營與夏日煙火	Yukata Camp And Fireworks	유카타 캠핑과 여름 불꽃놀이
+704001	夏の終わりのキャンプ会議	告別夏日的露營會議	Summer's End Camping Meeting	여름 끝자락의 캠핑 회의
+704002	お祭りらしい服装で	穿上應景的祭典服裝	Festival Costume	축제에 어울리는 복장으로
+704003	ちくわ襲来	竹輪來襲	Chikuwa Incoming	치쿠와 습격
+704004	夏祭りキャンプの準備	夏日祭典露營的準備	Summer Festival Preparations	여름 축제 캠핑 준비
+704005	屋台の定番メニューづくり	來作攤販的招牌菜色	Standard Menu For Food Stalls	가판대 단골 메뉴 만들기
+704006	実食！夏祭りごはん	開吃！夏日祭典料理	Eat Up! Summer Festival Food	실식! 여름 축제 요리
+704007	ひもくじを引こう！	來抽籤吧！	Let's Play The Lottery!	줄 뽑기를 하자!
+704008	手持ち花火をやろう	來放手持式煙火吧	Handheld Fireworks	불꽃놀이를 하자
+704009	線香花火対決！	仙女棒對決！	Sparkler Showdown!	선향불꽃 대결!
+704010	夏の終わりの願い事	告別夏日的願望	The End Of Summer Wish	여름 끝자락의 소원
