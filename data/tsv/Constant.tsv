@@ -883,8 +883,8 @@ id	key	value	type	priority	open_date	close_date	open_time	close_time
 100546	shop_charanavi_near_end_days	2	2	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100547	camp_background_season_id	2	2	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100548	reward_removal_guide_mission_chapter	15	2	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
-100549	ep_correction_value_a	2077.971767	3	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
-100550	ep_correction_value_b	-6414.0	3	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
+100549	ep_correction_value_a	2285.768944	3	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
+100550	ep_correction_value_b	-7055.0	3	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100551	ep_correction_value_n	0.2	3	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100552	ep_correction_value_m	1	2	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100553	friend_ep_bonus	0.15	3	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
@@ -937,7 +937,7 @@ id	key	value	type	priority	open_date	close_date	open_time	close_time
 100600	yurusuta_ranking_page_limit	10	2	1	2020-05-01 00:00:08	2100-12-31 00:00:08		
 100601	camp_ap_use_count_max	3	2	1	2020-05-01 00:00:13	2100-12-31 00:00:13		
 100602	camp_ap_use_count_max_using_vip	5	2	1	2020-05-01 00:00:13	2100-12-31 00:00:13		
-100603	sequence_time_limit	15	2	1	2020-05-01 00:00:13	2100-12-31 00:00:13		
+100603	sequence_time_limit	10	2	1	2020-05-01 00:00:13	2100-12-31 00:00:13		
 100604	yurusuta_random_rank_coefficient_a	0.43	3	1	2020-05-01 00:00:13	2100-12-31 00:00:13		
 100605	yurusuta_random_rank_coefficient_n	1.8	3	1	2020-05-01 00:00:13	2100-12-31 00:00:13		
 100606	yurusuta_random_rank_coefficient_b	2	2	1	2020-05-01 00:00:13	2100-12-31 00:00:13		
@@ -945,11 +945,11 @@ id	key	value	type	priority	open_date	close_date	open_time	close_time
 100608	yurusuta_report_eval_max	6300	2	1	2020-05-01 00:00:13	2100-12-31 00:00:13		
 100609	yurusuta_top_resouce_id	57100001	2	1	2020-05-01 00:00:14	2100-12-31 00:00:14		
 100610	push_fever_default	1	2	1	2020-05-01 00:00:08	2100-12-31 00:00:08		
-100611	camp_report_assesment_relationship_a	0.0252	3	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
-100612	camp_report_assesment_satisfaction_a	0.0252	3	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
-100613	camp_report_assesment_comfortableness_a	0.0252	3	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
-100614	camp_report_assesment_warmth_a	0.0252	3	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
-100615	camp_report_assesment_healing_a	0.0252	3	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
+100611	camp_report_assesment_relationship_a	0.0378	3	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
+100612	camp_report_assesment_satisfaction_a	0.0378	3	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
+100613	camp_report_assesment_comfortableness_a	0.0378	3	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
+100614	camp_report_assesment_warmth_a	0.0378	3	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
+100615	camp_report_assesment_healing_a	0.0378	3	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100616	camp_report_assesment_relationship_b	1	2	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100617	camp_report_assesment_satisfaction_b	1	2	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
 100618	camp_report_assesment_comfortableness_b	1	2	1	2020-05-01 00:00:00	2100-12-31 00:00:00		
