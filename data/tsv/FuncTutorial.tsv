@@ -1,6 +1,9 @@
 id	title	title_text_id	level	org_scene	scene	version
 1000	Camp		1	camp	tutorialcamp01	1
 1001	Yurustagram		1	yurustagramformation	tutorialyurustagram01	1
+1002	YurustagramTop		1	yurustagram	tutorialyurustagramtop01	1
+1003	YurustagramMatch		1	yurustagram_match	tutorialyurustagrammatch01	1
+1005	YurustagramResult		1	yurustagram_result	tutorialyurustagramresult01	1
 100100	Training01		1	member	functutorialmember	1
 100102	Training03		1	member	functutorialmember	1
 101000	PresentBox		1	none	none	1

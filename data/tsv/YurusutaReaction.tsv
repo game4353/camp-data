@@ -1,7 +1,7 @@
-card_id	formation	match_top	match_start	win	lose
-	rank4_2l	rank3_2l	rank3_2l	rank5_2l	failure_2l
-10141	rank4_2l	rank3_2l	rank3_2l	rank5_2l	failure_2l
-10142	rank4_2l	rank3_2l	rank3_2l	rank5_2l	failure_2l
-10143	rank4_2l	rank3_2l	rank3_2l	rank5_2l	failure_2l
-10144	rank4_2l	rank3_2l	rank3_2l	rank5_2l	failure_2l
-10145	rank4_2l	rank3_2l	rank3_2l	rank5_2l	failure_2l
+card_id	formation	match_top	match_start	win	lose	match_button_voice	opponent_select_voice	match_start_voice	match_result_voice	round_predictive_voice	round_win_voice	round_lose_voice	match_win_voice	match_lose_voice	high_score_voice
+	rank4_2l	rank3_2l	rank3_2l	rank5_2l	failure_2l	3002	3003	3035	3036	6038	6043	6046	6036	3013	3028
+10141	rank4_2l	rank3_2l	rank3_2l	rank5_2l	failure_2l	3002	3003	3035	3036	6038	6043	6046	6036	3013	3028
+10142	rank4_2l	rank3_2l	rank3_2l	rank5_2l	failure_2l	3002	3003	3035	3036	6038	6043	6046	6036	3013	3028
+10143	rank4_2l	rank3_2l	rank3_2l	rank5_2l	failure_2l	3002	3003	3035	3036	6038	6043	6046	6036	3013	3028
+10144	rank4_2l	rank3_2l	rank3_2l	rank5_2l	failure_2l	3002	3003	3035	3036	6038	6043	6046	6036	3013	3028
+10145	rank4_2l	rank3_2l	rank3_2l	rank5_2l	failure_2l	3002	3003	3035	3036	6038	6043	6046	6036	3013	3028

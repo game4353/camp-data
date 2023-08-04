@@ -16,8 +16,8 @@ id	ja	zh-TW	en	ko
 40	リサイクル	回收	Recycle	리사이클
 41	カリブー君	卡力布君	Caribou	카리부 군
 42	スキルアップ	技能提升	Skill Up	스킬 업
-50	特別セール	特價拍賣	Special Sale	특별 세일
-51	特別セール	特價拍賣	Special Sale	특별 세일
+50	期間限定セール	特價拍賣	Special Sale	특별 세일
+51	期間限定セール	特價拍賣	Special Sale	특별 세일
 52	プライムセール	頂級促銷	Prime Sale	프라임 세일
 60	イベント	活動	Events	이벤트
 70	AP	AP	AP	AP
@@ -40,7 +40,7 @@ id	ja	zh-TW	en	ko
 96	人気サポートカード	熱門輔助卡	Popular Cards	인기 서포트 카드
 97	お祭り浴衣	祭典浴衣	Festival Yukata	축제 유카타
 98	夏花火	夏季烟火	Summer fireworks	여름 불꽃놀이
-99	絶対育成MAX	絕對培育MAX	Absolute Max Training	절대 육성 MAX
+99	絶対育成MAX	絕對培育MAX	MAX Growth	절대 육성 MAX
 100	クラブギフト	俱樂部	Club	클럽
 110	ゆるすたP	YG P	Yurusta Points	유르스타 Pt
 111	テント/タープ	帳篷/遮陽篷	Tent/Tarp	텐트/타프
@@ -60,3 +60,6 @@ id	ja	zh-TW	en	ko
 171	AP	AP	AP	AP
 172	YP	YP	YP	YP
 180	フレーム	框架	Frame	프레임
+181	お祭り浴衣②	祭典浴衣	Festival Yukata	축제 유카타
+182	人気サポートカード②	祭典浴衣	Festival Yukata	축제 유카타
+183	綾乃PU	祭典浴衣	Festival Yukata	축제 유카타

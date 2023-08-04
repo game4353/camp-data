@@ -1,8 +1,8 @@
 id	ja	zh-TW	en	ko
 1001	リーダー	隊長	Leader	리더
-1002	サブリーダー	副隊長	Vice Leader	서브 리더
-1003	部長	部長	Chief	부장
-1004	副部長	副部長	Vice Chief	부부장
+1002	サブリーダー	副隊長	Sub Leader	서브 리더
+1003	部長	部長	Manager	부장
+1004	副部長	副部長	Vice Manager	부부장
 1005	隊長	隊長	Captain	대장
 1006	副隊長	副隊長	Vice Captain	부대장
 1007	団長	團長	Commander	단장

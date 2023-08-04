@@ -469,7 +469,7 @@ RECAMPおだわら』の
 1220	なでしこを参加させよう	讓楓參加吧	Let Nadeshiko join	나데시코를 참가시키기
 1221	記念撮影をしよう	來拍紀念照吧	Let's take a commemorative photo	기념 촬영 하기
 1222	キャンプを1回完了しよう	完成1次營地	Complete 1 camp session	캠핑을 1회 클리어
-1223	千明、あおい、恵那をホームに参加させよう	讓千明、蒼井、恵那加入主頁	Invite Chiaki, Aoi, and Ena to the Home	치아키, 아오이, 에나를 홈에 참가시키기
+1223	みんなをホームに参加させよう	讓她們在家裡參與	Let them join at home	집에서 참여하게 하자
 1224	時間を現実の時間帯にしよう	將時間設為現實時區	Set time to real-time zone	실제 시간으로 설정
 1225	プレゼントボックスを受け取ろう	領取禮物盒	Receive Gift Box	선물 상자 수령
 1226	ギア・料理を1回クラフトしよう	製作一次用品或料理	Craft gear or cook once.	기어·요리를 한 번 제작하다
@@ -627,6 +627,7 @@ RECAMPおだわら』の
 1378	レアリティがNのギアか料理を{0}個売却する	在製作中{0}次大成功	Achieve {0} Great Success in Crafting	레어리티 N 기아 혹 요리를 {0}개 판매
 1379	レアリティがRのギアか料理を{0}個売却する	在製作中{0}次超級成功	Achieve {0} Ultra Success in Crafting	레어리티 R 기아 혹 요리를 {0}개 판매
 1380	レアリティがSRのギアか料理を{0}個売却する	製作「海灘椅」{0}次	"Make a ""Beach Chair"" {0} times"	레어리티 SR 기아 혹 요리를 {0}개 판매
+1381	他プレイヤーのキャンプサイトを{0}回訪問する	拜訪其他玩家的營地	Visit other players' campsite	다른 플레이어의 캠프사이트 방문
 3001	ビギナーチャレンジ（1つ目）	ビギナーチャレンジ（1つ目）(TW)	ビギナーチャレンジ（1つ目）(EN)	ビギナーチャレンジ（1つ目）(KO)
 3002	【テスト】 ビギナーズチャレンジ！	【テスト】 ビギナーズチャレンジ！(TW)	【テスト】 ビギナーズチャレンジ！(EN)	【テスト】 ビギナーズチャレンジ！(KO)
 3003	デイリーチャレンジを達成しよう	達成每日挑戰	Achieve the daily challenge	일일 챌린지를 달성하다
@@ -765,8 +766,8 @@ RECAMPおだわら』の
 4034	イベント12準備	イベント12準備(TW)	イベント12準備(EN)	イベント12準備(KO)
 4035	イベント12	イベント12(TW)	イベント12(EN)	イベント12(KO)
 4036	期間限定	期間限定	Limited Time	기간 한정
-4037	期間限定2	期間限定2	Limited Time2	기간 한정2
-4038	期間限定3	期間限定3	Limited Time3	기간 한정3
+4037	コインザクザク	硬幣嘩啦啦	Coins Galore	코인 쏟아져
+4038	毎日育成応援	每日培育支援	DailySupport	매일 육성 지원
 4039	期間限定4	期間限定4	Limited Time4	기간 한정4
 4040	期間限定5	期間限定5	Limited Time5	기간 한정5
 4041	期間限定6	期間限定6	Limited Time6	기간 한정6

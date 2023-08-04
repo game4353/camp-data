@@ -89,18 +89,24 @@ id	ja	zh-TW	en	ko
 30132	ボックス内のすべてのアイテムが獲得できる	獲得箱子裡的所有物品	Get all the items in the box	상자 안의 모든 아이템을 획득 가능
 30141	CM視聴ゆるコイン(銀)ボックス	CM觀看搖曳幣（銀）箱子	CM View YuruCoin (Silver) Box	CM 시청 유루코인(은) 박스
 30171	ランクアップランダムBOX	CM觀看搖曳幣（銀）箱子	CM View YuruCoin (Silver) Box	CM 시청 유루코인(은) 박스
-30181	『サバキャン水着』なでしこセット	CM觀看搖曳幣（銀）箱子	CM View YuruCoin (Silver) Box	CM 시청 유루코인(은) 박스
-30191	『サバキャン水着』リンセット	★3 服裝兌換券	★3 Costume Exchange Ticket	★3코스튬 교환 티켓
-30201	『サバキャン水着』千明セット	★3 服裝兌換券	★3 Costume Exchange Ticket	★3코스튬 교환 티켓
-30211	『サバキャン水着』あおいセット	★3 服裝兌換券	★3 Costume Exchange Ticket	★3코스튬 교환 티켓
-30221	『サバキャン水着』恵那セット	★3 服裝兌換券	★3 Costume Exchange Ticket	★3코스튬 교환 티켓
+30181	『サバキャン水着』なでしこセット	『求生露營泳裝』撫子套裝	『Survival Camp Swimsuit』Nadeshiko Set	『서바캠 수영복』나데시코 세트
+30191	『サバキャン水着』リンセット	『求生露營泳裝』凛套裝	『Survival Camp Swimsuit』Rin Set	『서바캠 수영복』린 세트
+30201	『サバキャン水着』千明セット	『求生露營泳裝』千明套裝	『Survival Camp Swimsuit』Chiaki Set	『서바캠 수영복』치아키 세트
+30211	『サバキャン水着』あおいセット	『求生露營泳裝』葵套裝	『Survival Camp Swimsuit』Aoi Set	『서바캠 수영복』아오이 세트
+30221	『サバキャン水着』恵那セット	『求生露營泳裝』惠那套裝	『Survival Camp Swimsuit』Ena Set	『서바캠 수영복』에나 세트
+30231	『サバキャン水着』なでしこのカケラBOX	『求生露營泳裝』撫子碎片盒子	『Survival Camp Swimsuit』Nadeshiko Fragment Box	『서바캠 수영복』나데시코 파편 박스
+30241	『サバキャン水着』リンのカケラBOX	『求生露營泳裝』凛碎片盒子	『Survival Camp Swimsuit』Rin Fragment Box	『서바캠 수영복』린 파편 박스
+30251	『サバキャン水着』千明のカケラBOX	『求生露營泳裝』千明碎片盒子	『Survival Camp Swimsuit』Chiaki Fragment Box	『서바캠 수영복』치아키 파편 박스
+30261	『サバキャン水着』あおいのカケラBOX	『求生露營泳裝』葵碎片盒子	『Survival Camp Swimsuit』Aoi Fragment Box	『서바캠 수영복』아오이 파편 박스
+30271	『サバキャン水着』恵那のカケラBOX	『求生露營泳裝』惠那碎片盒子	『Survival Camp Swimsuit』Ena Fragment Box	『서바캠 수영복』에나 파편 박스
+30281	ゆるコインザクザクBOX	搖曳幣滿滿箱子	Yuru Coin Zakuzaku Box	유루코인 가득 BOX
 32121	ストキャンボックス(旅キャンはじまり！)	故事露營箱「出發去旅遊露營！」	"Story Camp Box""Travel Camping Begins!"""	"스토캠 상자""여행캠 시작!"""
 37011	くじテスト	翻訳不要	翻訳不要	翻訳不要
 37012	ランダムで「◯◯」が7～777個獲得できる	翻訳不要	翻訳不要	翻訳不要
 40011	鍵(テスト)	翻訳不要	翻訳不要	翻訳不要
 40012	(テストデータ)をいつでも１時間だけ解放できる	翻訳不要	翻訳不要	翻訳不要
-41001	やるきアップ（仮）	AP1	AP1	AP1
-41002	ゆるスタグラムでやる気をアップするアイテム（仮）	恢復營地所需的 1 AP	Restores 1 AP needed to camp	캠핑에 필요한 AP가 1 회복
+41001	バズる予感	有爆紅的預感	Buzzing	버즈 예감
+41002	ゆるスタグラムでやる気を絶好調にする	在Yurustagram中讓熱情保持絕佳狀態	Boosting morale on Yurustagram	유르스타그램에서 열정을 최고조로 끌어올리다
 50011	マニュアル(テスト)	翻訳不要	翻訳不要	翻訳不要
 50012	"指定したパズル玉・スキル玉・ギミックを
 壊すことができる
@@ -135,30 +141,30 @@ APが60回復する"	恢復營地所需的 60 AP	Restores 60 AP needed to camp	�
 APが90回復する"	恢復營地所需的 90 AP	Restores 90 AP needed to camp	캠핑에 필요한 AP가 90 회복
 61011	AP1(1日限定)	翻訳不要	翻訳不要	翻訳不要
 61051	AP5(1日限定)	翻訳不要	翻訳不要	翻訳不要
-62011	YP1	AP1	AP1	AP1
+62011	YP1	YP1	YP1	YP1
 62012	"ゆるすたぐらむをするのに必要な
-YPが1回復する"	恢復營地所需的 1 AP	Restores 1 AP needed to camp	캠핑에 필요한 AP가 1 회복
-62031	YP3	AP3	AP3	AP3
+YPが1回復する"	恢復Yurustagram所需的 1 YP	Restores 1 YP needed to Yurustagram	유르스타그램에 필요한 YP가 1 회복
+62031	YP3	YP3	YP3	YP3
 62032	"ゆるすたぐらむをするのに必要な
-YPが3回復する"	恢復營地所需的 3 AP	Restores 3 AP needed to camp	캠핑에 필요한 AP가 3 회복
-62051	YP5	AP5	AP5	AP5
+YPが3回復する"	恢復Yurustagram所需的 3 YP	Restores 3 YP needed to Yurustagram	유르스타그램에 필요한 YP가 3 회복
+62051	YP5	YP5	YP5	YP5
 62052	"ゆるすたぐらむをするのに必要な
-YPが5回復する"	恢復營地所需的 5 AP	Restores 5 AP needed to camp	캠핑에 필요한 AP가 5 회복
-62101	YP10	AP10	AP10	AP10
+YPが5回復する"	恢復Yurustagram所需的 5 YP	Restores 5 YP needed to Yurustagram	유르스타그램에 필요한 YP가 5 회복
+62101	YP10	YP10	YP10	YP10
 62102	"ゆるすたぐらむをするのに必要な
-YPが10回復する"	恢復營地所需的 10 AP	Restores 10 AP needed to camp	캠핑에 필요한 AP가 10 회복
-62201	YP20	AP20	AP20	AP20
+YPが10回復する"	恢復Yurustagram所需的 10 YP	Restores 10 YP needed to Yurustagram	유르스타그램에 필요한 YP가 10 회복
+62201	YP20	YP20	YP20	YP20
 62202	"ゆるすたぐらむをするのに必要な
-YPが20回復する"	恢復營地所需的 20 AP	Restores 20 AP needed to camp	캠핑에 필요한 AP가 20 회복
-62301	YP30	AP30	AP30	AP30
+YPが20回復する"	恢復Yurustagram所需的 20 YP	Restores 20 YP needed to Yurustagram	유르스타그램에 필요한 YP가 20 회복
+62301	YP30	YP30	YP30	YP30
 62302	"ゆるすたぐらむをするのに必要な
-YPが30回復する"	恢復營地所需的 30 AP	Restores 30 AP needed to camp	캠핑에 필요한 AP가 30 회복
-62601	YP60	AP60	AP60	AP60
+YPが30回復する"	恢復Yurustagram所需的 30 YP	Restores 30 YP needed to Yurustagram	유르스타그램에 필요한 YP가 30 회복
+62601	YP60	YP60	YP60	YP60
 62602	"ゆるすたぐらむをするのに必要な
-YPが60回復する"	恢復營地所需的 60 AP	Restores 60 AP needed to camp	캠핑에 필요한 AP가 60 회복
-62901	YP90	AP90	AP90	AP90
+YPが60回復する"	恢復Yurustagram所需的 60 YP	Restores 60 YP needed to Yurustagram	유르스타그램에 필요한 YP가 60 회복
+62901	YP90	YP90	YP90	YP90
 62902	"ゆるすたぐらむをするのに必要な
-YPが90回復する"	恢復營地所需的 90 AP	Restores 90 AP needed to camp	캠핑에 필요한 AP가 90 회복
+YPが90回復する"	恢復Yurustagram所需的 90 YP	Restores 90 YP needed to Yurustagram	유르스타그램에 필요한 YP가 90 회복
 63011	YP1(1日限定)	翻訳不要	翻訳不要	翻訳不要
 63051	YP5(1日限定)	翻訳不要	翻訳不要	翻訳不要
 70011	コスチュームガチャチケ	服裝轉蛋票	Costume Gacha Ticket	코스튬 뽑기 티켓
@@ -194,8 +200,10 @@ YPが90回復する"	恢復營地所需的 90 AP	Restores 90 AP needed to camp	�
 70282	犬山あおい★3確定ガチャができるチケット	翻訳不要	翻訳不要	翻訳不要
 70291	齋藤恵那★3確定ガチャチケ	翻訳不要	翻訳不要	翻訳不要
 70292	齋藤恵那★3確定ガチャができるチケット	翻訳不要	翻訳不要	翻訳不要
-70321	絶対なでしこ育成MAXスペシャルガチャチケ	翻訳不要	翻訳不要	翻訳不要
+70321	絶対なでしこ育成MAXスペシャルガチャチケ	絕對撫子培育MAX特別轉蛋券	Nadeshiko MAX Growth Special Gacha Ticket	절대 나데시코 육성 MAX스페셜 뽑기
 70322	絶対なでしこ育成MAXスペシャルガチャができるチケット	翻訳不要	翻訳不要	翻訳不要
+70331	綾乃ピックアップガチャチケ	翻訳不要	翻訳不要	翻訳不要
+70332	SR土岐綾乃ピックアップガチャができるチケット	翻訳不要	翻訳不要	翻訳不要
 80111	まんじゅう	日式饅頭	Steamed Bun	만쥬
 80112	コスチュームの育成に使用する素材	用於增強服裝的材料	Materials used to enhance costumes	코스튬 강화에 필요한 재료
 80121	まんじゅう(中)	翻訳不要	翻訳不要	翻訳不要
@@ -363,6 +371,9 @@ YPが90回復する"	恢復營地所需的 90 AP	Restores 90 AP needed to camp	�
 100141	ガチャメダル（お祭り浴衣）	翻訳不要	翻訳不要	翻訳不要
 100151	ガチャメダル（夏花火）	翻訳不要	翻訳不要	翻訳不要
 100161	ガチャメダル（絶対育成MAX）	翻訳不要	翻訳不要	翻訳不要
+100171	ガチャメダル（お祭り浴衣②）	翻訳不要	翻訳不要	翻訳不要
+100181	ガチャメダル（人気サポートカード②）	翻訳不要	翻訳不要	翻訳不要
+100191	ガチャメダル（綾乃PU）	翻訳不要	翻訳不要	翻訳不要
 107031	ガチャメダル(◯◯)	翻訳不要	翻訳不要	翻訳不要
 107032	集めると交換所で特別なアイテムと交換できる	翻訳不要	翻訳不要	翻訳不要
 200011	イベントアイテム1	翻訳不要	翻訳不要	翻訳不要
@@ -385,6 +396,11 @@ YPが90回復する"	恢復營地所需的 90 AP	Restores 90 AP needed to camp	�
 210012	リアルインセンティブに必ず当選できる券	翻訳不要	翻訳不要	翻訳不要
 210021	リアルインセンティブ抽選券	翻訳不要	翻訳不要	翻訳不要
 210022	リアルインセンティブの抽選に参加できる券	翻訳不要	翻訳不要	翻訳不要
+300011	ミニマツ	迷你松果	Mini Pine	미니솔
+300012	"ミニゲーム専用の松ぼっくり
+強化要素や「松ぼっくり」と交換可能"	0	0	0
+300021	ミニゲームチケット	遊戲票券	Mini-Game Ticket	미니 게임 티켓
+300022	ミニゲームをプレイするのに必要なアイテム	0	0	0
 400011	◯◯出現数UP券(第1回)	翻訳不要	翻訳不要	翻訳不要
 400012	"◯◯出現数を
 アップできる券"	翻訳不要	翻訳不要	翻訳不要
@@ -437,11 +453,11 @@ AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高
 510022	"◯◯の中から
 欲しいカードを選んで交換できるチケット"	翻訳不要	翻訳不要	翻訳不要
 510071	★3コスチューム交換券	★3 服裝兌換券	★3 Costume Exchange Ticket	★3코스튬 교환 티켓
-510161	ランクアップ素材セレクトBOX	★3 服裝兌換券	★3 Costume Exchange Ticket	★3코스튬 교환 티켓
+510161	ランクアップ素材セレクトBOX	等級提升素材選擇箱	Rank Up Material Select BOX	랭크 업 소재 셀렉트 박스
 510162	"対象アイテムの中から
 欲しいアイテムを選んで
-交換できるボックス"	從目標卡中選擇您想要的卡可以兌換的票	"A ticket that can be exchanged by selecting the card
- you want from the target cards"	대상 카드 중에서 원하는 카드를 선택하여 교환 가능한 티켓
+交換できるボックス"	可從目標物品中選擇所需物品進行交換的盒子	Box for exchanging desired items by selecting from among target items	원하는 아이템을 대상 아이템 중에서 선택하여 교환할 수 있는 상자
+510171	限凸MAXカケラセレクトBOX	極限突破碎片選擇箱	Limited Max Limit Break Fragment Select BOX	한정 MAX 한계돌파 파편 셀렉트 박스
 520011	【テスト】サポカ交換券	翻訳不要	翻訳不要	翻訳不要
 520021	【テスト】アイテム交換券	翻訳不要	翻訳不要	翻訳不要
 520022	"対象カードの中から

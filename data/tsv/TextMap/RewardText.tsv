@@ -557,35 +557,60 @@ id	ja	zh-TW	en	ko
 556	ストキャンイベント ランキング50001～100000位報酬です	這是股票活動排名50001～100000的獎勵	This is the reward for ranking 50,001 to 100,000 in the Story Camp Event.	스토캠 이벤트 랭킹 50001~100000위 보상입니다
 557	ストキャンイベント ランキング100001～1000000位報酬です	這是股票活動排名100001～1000000的獎勵	This is the reward for ranking 100,001 to 1,000,000 in the Story Camp Event.	스토캠 이벤트 랭킹 100,001 ~ 1,000,000위 보상입니다
 558	『ビーチボール』クラフト素材セットから獲得したアイテムです。	素材ボックスから獲得したアイテムです。(TW)	素材ボックスから獲得したアイテムです。(EN)	素材ボックスから獲得したアイテムです。(KO)
-559	ゆるすたぐらむの勝利報奨（仮）	0	0	0
-560	ゆるすたぐらむの敗北報酬（仮）	0	0	0
-561	ゆるすたぐらむの追加報酬（仮）	0	0	0
-562	対戦勝利報酬（仮）	0	0	0
-563	対戦敗北報酬（仮）	0	0	0
-564	クラフトポイント報酬です	ゆるコイン(銀)(TW)	ゆるコイン(銀)(EN)	ゆるコイン(銀)(KO)
-565	追加クラフト素材報酬です	SRギア『桜の木』のカケラ(TW)	SRギア『桜の木』のカケラ(EN)	SRギア『桜の木』のカケラ(KO)
-566	クラキャンイベント ランキング1位報酬です	這是街頭霸王活動的排名第一獎勵	This is a reward for ranking 1st in the Story Camp Event.	스토캠 이벤트 랭킹 1위 보상입니다
-567	クラキャンイベント ランキング2位報酬です	這是股票活動排名第二的獎勵	This is the reward for the 2nd place ranking in the Story Camp Event.	스토캠 이벤트 랭킹 2위 보상입니다
-568	クラキャンイベント ランキング3位報酬です	這是股票活動排名第三的獎勵	This is the reward for the 3rd place ranking in the Story Camp Event.	스토캠 이벤트 랭킹 3위 보상입니다
-569	クラキャンイベント ランキング4～5位報酬です	這是股票活動排名第4～5名的獎勵	This is a reward for ranking 4th-5th in the Story Camp Event.	스토캠 이벤트 랭킹 4~5위 보상입니다
-570	クラキャンイベント ランキング6～10位報酬です	這是股票活動排名第6至第10的獎勵	This is the reward for ranking 6th to 10th place in the Story Camp Event.	스토캠 이벤트 랭킹 6~10위 보상입니다
-571	クラキャンイベント ランキング11～50位報酬です	這是股票活動排名11～50的獎勵	This is the reward for ranking 11th to 50th in the Story Camp Event.	스토캠 이벤트 랭킹 11~50위 보상입니다
-572	クラキャンイベント ランキング51～100位報酬です	這是劇情活動排名51～100的獎勵	This is the reward for ranking 51st to 100th in the Story Camp Event.	스토캠 이벤트 랭킹 51~100위 보상입니다
-573	クラキャンイベント ランキング101～500位報酬です	這是股票活動排名101～500的獎勵	This is the reward for ranking 101st to 500th in the Story Camp Event.	스토캠 이벤트 랭킹 101~500위 보상입니다
-574	クラキャンイベント ランキング501～1000位報酬です	這是存檔活動排名501～1000的獎勵	This is the reward for ranking 501st to 1000th in the Story Camp Event.	스토캠 이벤트 랭킹 501~1000위 보상입니다
-575	クラキャンイベント ランキング1001～3000位報酬です	這是股票活動排名1001～3000的獎勵	This is the reward for ranking 1001-3000 in the Story Camp Event.	스토캠 이벤트 랭킹 1001~3000위 보상입니다
-576	クラキャンイベント ランキング3001～5000位報酬です	這是股票活動排名3001～5000的獎勵	This is the reward for ranking 3001-5000 in the Story Camp Event.	스토캠 이벤트 랭킹 3001~5000위 보상입니다
-577	クラキャンイベント ランキング5001～10000位報酬です	這是股票活動排名5001～10000的獎勵	This is the reward for ranking 5001-10000 in the Story Camp Event.	스토캠 이벤트 랭킹 5001~10000위 보상입니다
-578	クラキャンイベント ランキング10001～30000位報酬です	這是股票活動排名10001～30000的獎勵	This is the reward for ranking 10,001 to 30,000 in the Story Camp Event.	스토캠 이벤트 랭킹 10001~30000위 보상입니다
-579	クラキャンイベント ランキング30001～50000位報酬です	這是股票活動排名30001～50000的獎勵	This is the reward for ranking 30,001st to 50,000th in the Story Camp Event.	스토캠 이벤트 랭킹 30001~50000위 보상입니다
-580	クラキャンイベント ランキング50001～100000位報酬です	這是股票活動排名50001～100000的獎勵	This is the reward for ranking 50,001 to 100,000 in the Story Camp Event.	스토캠 이벤트 랭킹 50001~100000위 보상입니다
-581	クラキャンイベント ランキング100001～1000000位報酬です	這是股票活動排名100001～1000000的獎勵	This is the reward for ranking 100,001 to 1,000,000 in the Story Camp Event.	스토캠 이벤트 랭킹 100,001 ~ 1,000,000위 보상입니다
-582	期間限定やる事リストの報酬です	這是期間限定要事清單的獎勵	This is a reward for the limited-time to-do list.	기간 한정 해야 할 일 목록의 보상입니다
-583	ストキャンイベント ランキング50001～1000000位報酬です	這是股票活動排名50001～100000的獎勵	This is the reward for ranking 50,001 to 100,000 in the Story Camp Event.	스토캠 이벤트 랭킹 50001~100000위 보상입니다
-584	『お祭りうちわ』クラフト素材セットから獲得したアイテムです。	素材ボックスから獲得したアイテムです。(TW)	素材ボックスから獲得したアイテムです。(EN)	素材ボックスから獲得したアイテムです。(KO)
-585	ランクアップランダムBOXから獲得したプレゼントです。	從隨機寶箱中獲得的搖曳幣。	This is the YuruCoin obtained from the Random Box.	랜덤 박스에서 획득한 유루코인입니다.
-586	『サバキャン水着』なでしこセットから獲得したアイテムです。	翻訳不要	翻訳不要	翻訳不要
-587	『サバキャン水着』リンセットから獲得したアイテムです。	翻訳不要	翻訳不要	翻訳不要
-588	『サバキャン水着』千明セットから獲得したアイテムです。	翻訳不要	翻訳不要	翻訳不要
-589	『サバキャン水着』あおいセットから獲得したアイテムです。	翻訳不要	翻訳不要	翻訳不要
-590	『サバキャン水着』恵那セットから獲得したアイテムです。	翻訳不要	翻訳不要	翻訳不要
+559	ドロップ報酬・金	Gold Drop	掉落獎勵・金	드롭 보상・골드
+560	ドロップ報酬・銀	Silver Drop	掉落獎勵・銀	드롭 보상・실버
+561	ドロップ報酬・虹	Rainbow Drop	掉落獎勵・虹	드롭 보상・무지개
+562	投稿・WIN	Win Post	投稿・贏	게시・승리
+563	投稿・LOSE	Lose Post	投稿・輸	게시・패배
+564	クラス1の維持報酬です	一級維持獎勵	Class 1 Maintenance	클래스 1 유지
+565	クラス2の初昇格報酬です	二級初升獎勵	Class 2 First Promotion	클래스 2 첫 승급
+566	クラス2の維持報酬です	二級維持獎勵	Class 2 Maintenance	클래스 2 유지
+567	クラス3の初昇格報酬です	三級初升獎勵	Class 3 First Promotion	클래스 3 첫 승급
+568	クラス3の維持報酬です	三級維持獎勵	Class 3 Maintenance	클래스 3 유지
+569	クラス3の降格報酬です	三級降級獎勵	Class 3 Demotion	클래스 3 강등
+570	クラス4の初昇格報酬です	四級初升獎勵	Class 4 First Promotion	클래스 4 첫 승급
+571	クラス4の昇格報酬です	四級升級獎勵	Class 4 Promotion	클래스 4 승급
+572	クラス4の維持報酬です	四級維持獎勵	Class 4 Maintenance	클래스 4 유지
+573	クラス4の降格報酬です	四級降級獎勵	Class 4 Demotion	클래스 4 강등
+574	クラス5の初昇格報酬です	五級初升獎勵	Class 5 First Promotion	클래스 5 첫 승급
+575	クラス5の昇格報酬です	五級升級獎勵	Class 5 Promotion	클래스 5 승급
+576	クラス5の維持報酬です	五級維持獎勵	Class 5 Maintenance	클래스 5 유지
+577	クラス5の降格報酬です	五級降級獎勵	Class 5 Demotion	클래스 5 강등
+578	クラス6の初昇格報酬です	六級初升獎勵	Class 6 First Promotion	클래스 6 첫 승급
+579	クラス6の昇格報酬です	六級升級獎勵	Class 6 Promotion	클래스 6 승급
+580	クラス6の維持報酬です	六級維持獎勵	Class 6 Maintenance	클래스 6 유지
+581	クラフトポイント報酬です	ゆるコイン(銀)(TW)	ゆるコイン(銀)(EN)	ゆるコイン(銀)(KO)
+582	追加クラフト素材報酬です	SRギア『桜の木』のカケラ(TW)	SRギア『桜の木』のカケラ(EN)	SRギア『桜の木』のカケラ(KO)
+583	クラキャンイベント ランキング1位報酬です	這是街頭霸王活動的排名第一獎勵	This is a reward for ranking 1st in the Story Camp Event.	스토캠 이벤트 랭킹 1위 보상입니다
+584	クラキャンイベント ランキング2位報酬です	這是股票活動排名第二的獎勵	This is the reward for the 2nd place ranking in the Story Camp Event.	스토캠 이벤트 랭킹 2위 보상입니다
+585	クラキャンイベント ランキング3位報酬です	這是股票活動排名第三的獎勵	This is the reward for the 3rd place ranking in the Story Camp Event.	스토캠 이벤트 랭킹 3위 보상입니다
+586	クラキャンイベント ランキング4～5位報酬です	這是股票活動排名第4～5名的獎勵	This is a reward for ranking 4th-5th in the Story Camp Event.	스토캠 이벤트 랭킹 4~5위 보상입니다
+587	クラキャンイベント ランキング6～10位報酬です	這是股票活動排名第6至第10的獎勵	This is the reward for ranking 6th to 10th place in the Story Camp Event.	스토캠 이벤트 랭킹 6~10위 보상입니다
+588	クラキャンイベント ランキング11～50位報酬です	這是股票活動排名11～50的獎勵	This is the reward for ranking 11th to 50th in the Story Camp Event.	스토캠 이벤트 랭킹 11~50위 보상입니다
+589	クラキャンイベント ランキング51～100位報酬です	這是劇情活動排名51～100的獎勵	This is the reward for ranking 51st to 100th in the Story Camp Event.	스토캠 이벤트 랭킹 51~100위 보상입니다
+590	クラキャンイベント ランキング101～500位報酬です	這是股票活動排名101～500的獎勵	This is the reward for ranking 101st to 500th in the Story Camp Event.	스토캠 이벤트 랭킹 101~500위 보상입니다
+591	クラキャンイベント ランキング501～1000位報酬です	這是存檔活動排名501～1000的獎勵	This is the reward for ranking 501st to 1000th in the Story Camp Event.	스토캠 이벤트 랭킹 501~1000위 보상입니다
+592	クラキャンイベント ランキング1001～3000位報酬です	這是股票活動排名1001～3000的獎勵	This is the reward for ranking 1001-3000 in the Story Camp Event.	스토캠 이벤트 랭킹 1001~3000위 보상입니다
+593	クラキャンイベント ランキング3001～5000位報酬です	這是股票活動排名3001～5000的獎勵	This is the reward for ranking 3001-5000 in the Story Camp Event.	스토캠 이벤트 랭킹 3001~5000위 보상입니다
+594	クラキャンイベント ランキング5001～10000位報酬です	這是股票活動排名5001～10000的獎勵	This is the reward for ranking 5001-10000 in the Story Camp Event.	스토캠 이벤트 랭킹 5001~10000위 보상입니다
+595	クラキャンイベント ランキング10001～30000位報酬です	這是股票活動排名10001～30000的獎勵	This is the reward for ranking 10,001 to 30,000 in the Story Camp Event.	스토캠 이벤트 랭킹 10001~30000위 보상입니다
+596	クラキャンイベント ランキング30001～50000位報酬です	這是股票活動排名30001～50000的獎勵	This is the reward for ranking 30,001st to 50,000th in the Story Camp Event.	스토캠 이벤트 랭킹 30001~50000위 보상입니다
+597	クラキャンイベント ランキング50001～100000位報酬です	這是股票活動排名50001～100000的獎勵	This is the reward for ranking 50,001 to 100,000 in the Story Camp Event.	스토캠 이벤트 랭킹 50001~100000위 보상입니다
+598	クラキャンイベント ランキング100001～1000000位報酬です	這是股票活動排名100001～1000000的獎勵	This is the reward for ranking 100,001 to 1,000,000 in the Story Camp Event.	스토캠 이벤트 랭킹 100,001 ~ 1,000,000위 보상입니다
+599	期間限定やる事リストの報酬です	這是期間限定要事清單的獎勵	This is a reward for the limited-time to-do list.	기간 한정 해야 할 일 목록의 보상입니다
+600	ストキャンイベント ランキング50001～1000000位報酬です	這是股票活動排名50001～100000的獎勵	This is the reward for ranking 50,001 to 100,000 in the Story Camp Event.	스토캠 이벤트 랭킹 50001~100000위 보상입니다
+601	期間限定連動やる事リストの報酬です	「称号4セット(スタンプ/ステッカー/プロフ/プロフステッカー)」(TW)	「称号4セット(スタンプ/ステッカー/プロフ/プロフステッカー)」(EN)	「称号4セット(スタンプ/ステッカー/プロフ/プロフステッカー)」(KO)
+602	『お祭りうちわ』クラフト素材セットから獲得したアイテムです。	素材ボックスから獲得したアイテムです。(TW)	素材ボックスから獲得したアイテムです。(EN)	素材ボックスから獲得したアイテムです。(KO)
+603	ランクアップランダムBOXから獲得したプレゼントです。	從隨機寶箱中獲得的搖曳幣。	This is the YuruCoin obtained from the Random Box.	랜덤 박스에서 획득한 유루코인입니다.
+604	『サバキャン水着』なでしこセットから獲得したアイテムです。	翻訳不要	翻訳不要	翻訳不要
+605	『サバキャン水着』リンセットから獲得したアイテムです。	翻訳不要	翻訳不要	翻訳不要
+606	『サバキャン水着』千明セットから獲得したアイテムです。	翻訳不要	翻訳不要	翻訳不要
+607	『サバキャン水着』あおいセットから獲得したアイテムです。	翻訳不要	翻訳不要	翻訳不要
+608	『サバキャン水着』恵那セットから獲得したアイテムです。	翻訳不要	翻訳不要	翻訳不要
+609	ゆるコインザクザクBOXから獲得したプレゼントです。	從隨機寶箱中獲得的搖曳幣。	This is the YuruCoin obtained from the Random Box.	랜덤 박스에서 획득한 유루코인입니다.
+610	『サバキャン水着』なでしこのカケラBOXから獲得したアイテムです。	翻訳不要	翻訳不要	翻訳不要
+611	『サバキャン水着』リンのカケラBOXから獲得したアイテムです。	翻訳不要	翻訳不要	翻訳不要
+612	『サバキャン水着』千明のカケラBOXから獲得したアイテムです。	翻訳不要	翻訳不要	翻訳不要
+613	『サバキャン水着』あおいのカケラBOXから獲得したアイテムです。	翻訳不要	翻訳不要	翻訳不要
+614	『サバキャン水着』恵那のカケラBOXから獲得したアイテムです。	翻訳不要	翻訳不要	翻訳不要
+615	ショップで獲得したアイテムです。	在交換所獲得的道具。	This is an item obtained at the exchange.	교환소에서 획득한 아이템입니다.
