@@ -6,10 +6,10 @@ group_id	position_id	button_text_id	tips_text_id	link	resource_id
 1	5	3		notify	15270051
 1	6	3		notify	15270053
 1	7	5		https://yurucamp-game.enish.com/comeback/	15370053
-2	1				15470053
-2	2	6			15070066
-2	3	2		gacha	15130005
-2	4	4		challenge	15170049
-2	5	2		gacha	15270051
-2	6	7		shop	15270053
-2	7	5		https://docs.google.com/spreadsheets/d/1r_I0ji1XJhLN4oxv4yuObaYGCjpJdLGQpKq4S6sBRcE/edit#gid=777226931	15470053
+2	1				15470063
+2	2	6		minigame01	15070062
+2	3	2		gacha?gacha_id=10022	15110022
+2	4	4		challenge	15170054
+2	5	2		gacha	15270064
+2	6	7		shop?tab_type=101&shop_type=10&shop_item_id=700044	15270056
+2	7	5		https://yurucamp-game.enish.com/10mfest/	15370063

@@ -1,7 +1,7 @@
 id	name	name_text_id	product_id	type	recover_amount	price
 6030	AP回復30	6030	recover.ap.1		30	20
-6060	AP回復60	6060	recover.ap.2		60	40
-6090	AP回復90	6090	recover.ap.3		90	60
+6090	AP回復90	6090	recover.ap.2		90	60
 6130	AP(SL)回復30	6130	recover.apsl.1	1	30	20
-6160	AP(SL)回復60	6160	recover.apsl.2	1	60	40
-6190	AP(SL)回復90	6190	recover.apsl.3	1	90	60
+6150	AP回復150	6150	recover.ap.3		150	100
+6190	AP(SL)回復90	6190	recover.apsl.2	1	90	60
+6250	AP(SL)回復150	6250	recover.apsl.3	1	150	100

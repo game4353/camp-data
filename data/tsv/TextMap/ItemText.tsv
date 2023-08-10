@@ -89,16 +89,16 @@ id	ja	zh-TW	en	ko
 30132	ボックス内のすべてのアイテムが獲得できる	獲得箱子裡的所有物品	Get all the items in the box	상자 안의 모든 아이템을 획득 가능
 30141	CM視聴ゆるコイン(銀)ボックス	CM觀看搖曳幣（銀）箱子	CM View YuruCoin (Silver) Box	CM 시청 유루코인(은) 박스
 30171	ランクアップランダムBOX	CM觀看搖曳幣（銀）箱子	CM View YuruCoin (Silver) Box	CM 시청 유루코인(은) 박스
-30181	『サバキャン水着』なでしこセット	『求生露營泳裝』撫子套裝	『Survival Camp Swimsuit』Nadeshiko Set	『서바캠 수영복』나데시코 세트
-30191	『サバキャン水着』リンセット	『求生露營泳裝』凛套裝	『Survival Camp Swimsuit』Rin Set	『서바캠 수영복』린 세트
-30201	『サバキャン水着』千明セット	『求生露營泳裝』千明套裝	『Survival Camp Swimsuit』Chiaki Set	『서바캠 수영복』치아키 세트
-30211	『サバキャン水着』あおいセット	『求生露營泳裝』葵套裝	『Survival Camp Swimsuit』Aoi Set	『서바캠 수영복』아오이 세트
-30221	『サバキャン水着』恵那セット	『求生露營泳裝』惠那套裝	『Survival Camp Swimsuit』Ena Set	『서바캠 수영복』에나 세트
-30231	『サバキャン水着』なでしこのカケラBOX	『求生露營泳裝』撫子碎片盒子	『Survival Camp Swimsuit』Nadeshiko Fragment Box	『서바캠 수영복』나데시코 파편 박스
-30241	『サバキャン水着』リンのカケラBOX	『求生露營泳裝』凛碎片盒子	『Survival Camp Swimsuit』Rin Fragment Box	『서바캠 수영복』린 파편 박스
-30251	『サバキャン水着』千明のカケラBOX	『求生露營泳裝』千明碎片盒子	『Survival Camp Swimsuit』Chiaki Fragment Box	『서바캠 수영복』치아키 파편 박스
-30261	『サバキャン水着』あおいのカケラBOX	『求生露營泳裝』葵碎片盒子	『Survival Camp Swimsuit』Aoi Fragment Box	『서바캠 수영복』아오이 파편 박스
-30271	『サバキャン水着』恵那のカケラBOX	『求生露營泳裝』惠那碎片盒子	『Survival Camp Swimsuit』Ena Fragment Box	『서바캠 수영복』에나 파편 박스
+30181	『サバキャン水着』なでしこセット	『求生露營泳裝』撫子套裝	Nadeshiko Set	『서바캠 수영복』나데시코 세트
+30191	『サバキャン水着』リンセット	『求生露營泳裝』凛套裝	Rin Set	『서바캠 수영복』린 세트
+30201	『サバキャン水着』千明セット	『求生露營泳裝』千明套裝	Chiaki Set	『서바캠 수영복』치아키 세트
+30211	『サバキャン水着』あおいセット	『求生露營泳裝』葵套裝	Aoi Set	『서바캠 수영복』아오이 세트
+30221	『サバキャン水着』恵那セット	『求生露營泳裝』惠那套裝	Ena Set	『서바캠 수영복』에나 세트
+30231	『サバキャン水着』なでしこのカケラBOX	『求生露營泳裝』撫子碎片盒子	Nadeshiko Fragment Box	『서바캠 수영복』나데시코 파편 박스
+30241	『サバキャン水着』リンのカケラBOX	『求生露營泳裝』凛碎片盒子	Rin Fragment Box	『서바캠 수영복』린 파편 박스
+30251	『サバキャン水着』千明のカケラBOX	『求生露營泳裝』千明碎片盒子	Chiaki Fragment Box	『서바캠 수영복』치아키 파편 박스
+30261	『サバキャン水着』あおいのカケラBOX	『求生露營泳裝』葵碎片盒子	Aoi Fragment Box	『서바캠 수영복』아오이 파편 박스
+30271	『サバキャン水着』恵那のカケラBOX	『求生露營泳裝』惠那碎片盒子	Ena Fragment Box	『서바캠 수영복』에나 파편 박스
 30281	ゆるコインザクザクBOX	搖曳幣滿滿箱子	Yuru Coin Zakuzaku Box	유루코인 가득 BOX
 32121	ストキャンボックス(旅キャンはじまり！)	故事露營箱「出發去旅遊露營！」	"Story Camp Box""Travel Camping Begins!"""	"스토캠 상자""여행캠 시작!"""
 37011	くじテスト	翻訳不要	翻訳不要	翻訳不要
@@ -141,6 +141,9 @@ APが60回復する"	恢復營地所需的 60 AP	Restores 60 AP needed to camp	�
 APが90回復する"	恢復營地所需的 90 AP	Restores 90 AP needed to camp	캠핑에 필요한 AP가 90 회복
 61011	AP1(1日限定)	翻訳不要	翻訳不要	翻訳不要
 61051	AP5(1日限定)	翻訳不要	翻訳不要	翻訳不要
+61501	AP150	AP150	AP150	AP150
+61502	"キャンプをするのに必要な
+APが150回復する"	恢復營地所需的 150 AP	Restores 150 AP needed to camp	캠핑에 필요한 AP가 150 회복
 62011	YP1	YP1	YP1	YP1
 62012	"ゆるすたぐらむをするのに必要な
 YPが1回復する"	恢復Yurustagram所需的 1 YP	Restores 1 YP needed to Yurustagram	유르스타그램에 필요한 YP가 1 회복
@@ -200,10 +203,10 @@ YPが90回復する"	恢復Yurustagram所需的 90 YP	Restores 90 YP needed to Y
 70282	犬山あおい★3確定ガチャができるチケット	翻訳不要	翻訳不要	翻訳不要
 70291	齋藤恵那★3確定ガチャチケ	翻訳不要	翻訳不要	翻訳不要
 70292	齋藤恵那★3確定ガチャができるチケット	翻訳不要	翻訳不要	翻訳不要
-70321	絶対なでしこ育成MAXスペシャルガチャチケ	絕對撫子培育MAX特別轉蛋券	Nadeshiko MAX Growth Special Gacha Ticket	절대 나데시코 육성 MAX스페셜 뽑기
+70321	絶対なでしこ育成MAXスペシャルガチャチケ	絕對撫子培育MAX特別轉蛋券	MAX Growth Special Gacha Ticket	절대 나데시코 육성 MAX스페셜 뽑기
 70322	絶対なでしこ育成MAXスペシャルガチャができるチケット	絕對撫子培育MAX特別轉蛋抽獎券	Ticket for Nadeshiko MAX Growth Special Gacha	절대 나데시코 육성 MAX스페셜 뽑기티켓
-70331	綾乃ピックアップガチャチケ	翻訳不要	翻訳不要	翻訳不要
-70332	SR土岐綾乃ピックアップガチャができるチケット	翻訳不要	翻訳不要	翻訳不要
+70331	綾乃ピックアップガチャチケ	綾乃精選轉蛋券	Ayano Pickup Gacha Ticket	아야노 픽업 가챠 티켓
+70332	SR土岐綾乃ピックアップガチャができるチケット	可以進行SR土岐綾乃提升轉蛋的票券	Ticket for SR Toki Ayano Pickup Gacha	SR 도키 아야노 픽업 가챠를 할 수 있는 티켓
 80111	まんじゅう	日式饅頭	Steamed Bun	만쥬
 80112	コスチュームの育成に使用する素材	用於增強服裝的材料	Materials used to enhance costumes	코스튬 강화에 필요한 재료
 80121	まんじゅう(中)	翻訳不要	翻訳不要	翻訳不要
@@ -396,11 +399,31 @@ YPが90回復する"	恢復Yurustagram所需的 90 YP	Restores 90 YP needed to Y
 210012	リアルインセンティブに必ず当選できる券	翻訳不要	翻訳不要	翻訳不要
 210021	リアルインセンティブ抽選券	翻訳不要	翻訳不要	翻訳不要
 210022	リアルインセンティブの抽選に参加できる券	翻訳不要	翻訳不要	翻訳不要
-300011	ミニマツ	迷你松果	Mini Pine	미니솔
+300011	ミニマツ	迷你松果	Minicones	미니 솔방울
 300012	"ミニゲーム専用の松ぼっくり
-強化要素や「松ぼっくり」と交換可能"	0	0	0
-300021	ミニゲームチケット	遊戲票券	Mini-Game Ticket	미니 게임 티켓
-300022	ミニゲームをプレイするのに必要なアイテム	0	0	0
+「ミニマツ交換」で強化や
+「松ぼっくり」との交換可能"	專為迷你遊戲設計的松果，可透過「迷你松果交換」進行強化，並與其他松果進行交換	"Special Pinecones for Minigame, can be enhanced through ""Minicone Exchange"" and exchanged with other pinecones"	"미니게임 전용 솔방귀, ""미니 솔방울 교환""을 통해 강화하고 다른 솔방울 교환할 수 있습니다"
+300021	ミニゲームチケット	迷你遊戲票券	Minigame Tickets	미니게임 티켓
+300022	ミニゲームをプレイするのに必要なチケット	遊玩迷你遊戲所需的門票	Tickets required to play Minigame	미니게임을 플레이하기 위해 필요한 티켓
+300031	Amazon欲しいものリスト100万円分	價值100萬日元的Amazon願望清單	Amazon Wishlist worth 1 million yen	Amazon 위시리스트 100만 엔분
+300032	「Amazon欲しい物リスト100万円分」が貰える	可獲得「價值100萬日元的Amazon願望清單」	"Receive an ""Amazon Wishlist worth 1 million yen"""	Amazon 위시리스트 100만 엔분을 받을 수 있음
+300041	Amazon欲しいものリスト50万円分	價值50萬日元的Amazon願望清單	Amazon Wishlist worth 500,000 yen	Amazon 위시리스트 50만 엔분
+300042	「Amazon欲しい物リスト50万円分」が貰える	可獲得「價值50萬日元的Amazon願望清單」	"Receive an ""Amazon Wishlist worth 500,000 yen"""	Amazon 위시리스트 50만 엔분을 받을 수 있음
+300051	Amazon欲しいものリスト30万円分	價值30萬日元的Amazon願望清單	Amazon Wishlist worth 300,000 yen	Amazon 위시리스트 30만 엔분
+300052	「Amazon欲しい物リスト30万円分」が貰える	可獲得「價值30萬日元的Amazon願望清單」	"Receive an ""Amazon Wishlist worth 300,000 yen"""	Amazon 위시리스트 30만 엔분을 받을 수 있음
+300061	Amazon欲しいものリスト5万円分	價值5萬日元的Amazon願望清單	Amazon Wishlist worth 50,000 yen	Amazon 위시리스트 5만 엔분
+300062	「Amazon欲しい物リスト5万円分」が貰える	可獲得「價值5萬日元的Amazon願望清單」	"Receive an ""Amazon Wishlist worth 50,000 yen"""	Amazon 위시리스트 5만 엔분을 받을 수 있음
+300071	Amazonギフトカード1万円分	價值1萬日元的Amazon禮品卡	Amazon Gift Card worth 10,000 yen	Amazon 기프트 카드 1만 엔분
+300072	「Amazon欲しい物リスト1万円分」が貰える	可獲得「價值1萬日元的Amazon願望清單」	"Receive an ""Amazon Wishlist worth 10,000 yen"""	Amazon 위시리스트 1만 엔분을 받을 수 있음
+300081	称号「ひろえ！松ぼっくり 1位」	標題：「來撿松果吧！ 1位」	"Title: ""Pick Up Pinecones! 1st"""	"칭호: ""주워라! 솔방울 1위"""
+300082	ミニゲーム「ひろえ！松ぼっくり」で獲得できる称号	在迷你遊戲「來撿松果吧！」中可獲得的標題	"Title obtainable in the Minigame ""Pick Up Pinecones!"""	"미니게임 ""찾아라! 솔방귀""에서 획득 가능한 칭호"
+300091	称号「ひろえ！松ぼっくり 2位」	標題：「來撿松果吧！ 2位」	"Title: ""Pick Up Pinecones! 2nd"""	"칭호: ""주워라! 솔방울 2위"""
+300101	称号「ひろえ！松ぼっくり 3位」	標題：「來撿松果吧！ 3位」	"Title: ""Pick Up Pinecones! 3rd"""	"칭호: ""주워라! 솔방울 3위"""
+300111	称号「ひろえ！松ぼっくり Top10」	標題：「來撿松果吧！ 前10名」	"Title: ""Pick Up Pinecones! Top 10"""	"칭호: ""주워라! 솔방울 Top 10"""
+300121	称号「ひろえ！松ぼっくり Top100」	標題：「來撿松果吧！ 前100名」	"Title: ""Pick Up Pinecones! Top 100"""	"칭호: ""주워라! 솔방울 Top 100"""
+300131	称号「ひろえ！松ぼっくり Top1000」	標題：「來撿松果吧！ 前1000名」	"Title: ""Pick Up Pinecones! Top 1000"""	"칭호: ""주워라! 솔방울 Top 1000"""
+300141	称号「ひろえ！松ぼっくり」	標題：「來撿松果吧！」	"Title: ""Pick Up Pinecones!"""	"칭호: ""주워라! 솔방울"""
+300151	称号「ひろえ！ミニマツ」	標題：「來撿迷你松果吧！」	"Title: ""Pick Up MInicones!"""	"칭호: ""주워라! 미니 솔방울"""
 400011	◯◯出現数UP券(第1回)	翻訳不要	翻訳不要	翻訳不要
 400012	"◯◯出現数を
 アップできる券"	翻訳不要	翻訳不要	翻訳不要
@@ -458,6 +481,8 @@ AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高
 欲しいアイテムを選んで
 交換できるボックス"	可從目標物品中選擇所需物品進行交換的盒子	Box for exchanging desired items by selecting from among target items	원하는 아이템을 대상 아이템 중에서 선택하여 교환할 수 있는 상자
 510171	限凸MAXカケラセレクトBOX	極限突破碎片選擇箱	Limited Max Limit Break Fragment Select BOX	한정 MAX 한계돌파 파편 셀렉트 박스
+510181	1000万DL大感謝祭 ★3交換券	一千萬下載大感謝祭 ★3交換券	Thanksgiving Festival ★3 Exchange Ticket	전 세계 대감사제 ★3 교환권
+510191	1000万DL大感謝祭 SR交換券	一千萬下載大感謝祭 SR交換券	Thanksgiving Festival SR Exchange Ticket	전 세계 대감사제 SR 교환권
 520011	【テスト】サポカ交換券	翻訳不要	翻訳不要	翻訳不要
 520021	【テスト】アイテム交換券	翻訳不要	翻訳不要	翻訳不要
 520022	"対象カードの中から
@@ -471,6 +496,10 @@ AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高
 550011	名称アイテムテスト	翻訳不要	翻訳不要	翻訳不要
 550012	※こちらのアイテムは効果がありません	翻訳不要	翻訳不要	翻訳不要
 550061	ふじさん&ランクアップランダムボックス	翻訳不要	翻訳不要	翻訳不要
+550071	1000万大感謝祭コイン詰め合わせBOX(特上)	翻訳不要	翻訳不要	翻訳不要
+550081	1000万大感謝祭コイン詰め合わせBOX(上)	翻訳不要	翻訳不要	翻訳不要
+550091	1000万大感謝祭コイン詰め合わせBOX(並)	翻訳不要	翻訳不要	翻訳不要
+550101	1000万大感謝祭コイン詰め合わせBOX(お試し)	翻訳不要	翻訳不要	翻訳不要
 590011	購入チャレンジテスト	翻訳不要	翻訳不要	翻訳不要
 590012	購入チャレンジ題テスト	翻訳不要	翻訳不要	翻訳不要
 600001	【テスト】抽選券1	翻訳不要	翻訳不要	翻訳不要
@@ -689,6 +718,18 @@ AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高
 9704091	称号「浴衣キャンプと夏花火 TOP1000」	稱號「浴衣露營與夏日煙火 TOP1000」	"Title ""Yukata Camp And Fireworks TOP 1000"""	"칭호 ""유카타 캠핑과 여름 불꽃놀이 TOP 1000"""
 9704101	称号「浴衣キャンプと夏花火 TOP5000」	稱號「浴衣露營與夏日煙火 TOP5000」	"Title ""Yukata Camp And Fireworks TOP 5000"""	"칭호 ""유카타 캠핑과 여름 불꽃놀이 TOP 5000"""
 9704111	称号「浴衣キャンプと夏花火 TOP10000」	稱號「浴衣露營與夏日煙火 TOP10000」	"Title ""Yukata Camp And Fireworks TOP 10000"""	"칭호 ""유카타 캠핑과 여름 불꽃놀이 TOP 10000"""
+9705011	称号「ﾚｯﾂｸﾗﾌﾄ！atお祭りキャンプ 1位」	稱號「讓我們來製作吧！在祭典露營第一名」	"Title ""Let's Craft! at Festival Camp 1st Place"""	"칭호 ""레츠 제작! at축제 캠프 1위"""
+9705012	イベント「ﾚｯﾂｸﾗﾌﾄ！atお祭りキャンプ」で獲得できる称号	在活動「讓我們來製作吧！在祭典露營」中可以獲得的稱號	"Title that can be obtained in the event ""Let's Craft! at Festival Camp"""	"이벤트 ""레츠 제작! at축제 캠프""에서 획득할 수 있는 칭호"
+9705021	称号「ﾚｯﾂｸﾗﾌﾄ！atお祭りキャンプ 2位」	稱號「讓我們來製作吧！在祭典露營第二名」	"Title ""Let's Craft! at Festival Camp 2nd Place"""	"칭호 ""레츠 제작! at축제 캠프 2위"""
+9705031	称号「ﾚｯﾂｸﾗﾌﾄ！atお祭りキャンプ 3位」	稱號「讓我們來製作吧！在祭典露營 第三名」	"Title ""Let's Craft! at Festival Camp 3rd Place"""	칭호「레츠 제작! at축제 캠프 3위」
+9705041	称号「ﾚｯﾂｸﾗﾌﾄ！atお祭りキャンプ TOP5」	稱號「讓我們來製作吧！在祭典露營 TOP5」	"Title ""Let's Craft! at Festival Camp TOP 5"""	"칭호 ""레츠 제작! at축제 캠프 TOP5"""
+9705051	称号「ﾚｯﾂｸﾗﾌﾄ！atお祭りキャンプ TOP10」	稱號「讓我們來製作吧！在祭典露營 TOP10」	"Title ""Let's Craft! at Festival Camp TOP10"""	칭호「레츠 제작! at축제 캠프 TOP10」
+9705061	称号「ﾚｯﾂｸﾗﾌﾄ！atお祭りキャンプ TOP50」	稱號「讓我們來製作吧！在祭典露營 TOP50」	"Title ""Let's Craft! at Festival Camp TOP50"""	"칭호 ""레츠 제작! at축제 캠프 TOP50"""
+9705071	称号「ﾚｯﾂｸﾗﾌﾄ！atお祭りキャンプ TOP100」	稱號「讓我們來製作吧！在祭典露營 TOP100」	"Title ""Let's Craft! at Festival Camp TOP100"""	"칭호 ""레츠 제작! at축제 캠프 TOP100"""
+9705081	称号「ﾚｯﾂｸﾗﾌﾄ！atお祭りキャンプ TOP500」	稱號「讓我們來製作吧！在祭典露營 TOP500」	"Title ""Let's Craft! at Festival Camp TOP500"""	"칭호 ""레츠 제작! at축제 캠프 TOP500"""
+9705091	称号「ﾚｯﾂｸﾗﾌﾄ！atお祭りキャンプ TOP1000」	稱號「讓我們來製作吧！在祭典露營 TOP1000」	"Title ""Let's Craft! at Festival Camp TOP 1000"""	"칭호 ""레츠 제작! at축제 캠프 TOP 1000"""
+9705101	称号「ﾚｯﾂｸﾗﾌﾄ！atお祭りキャンプ TOP5000」	稱號「讓我們來製作吧！在祭典露營 TOP5000」	"Title ""Let's Craft! at Festival Camp TOP 5000"""	"칭호 ""레츠 제작! at축제 캠프 TOP 5000"""
+9705111	称号「ﾚｯﾂｸﾗﾌﾄ！atお祭りキャンプ TOP10000」	稱號「讓我們來製作吧！在祭典露營 TOP10000」	"Title ""Let's Craft! at Festival Camp TOP 10000"""	"칭호 ""레츠 제작! at축제 캠프 TOP 10000"""
 10000011	限界突破素材(コスチューム)★1	翻訳不要	翻訳不要	翻訳不要
 10000012	コスチュームの限界突破に必要な素材（テスト用）	翻訳不要	翻訳不要	翻訳不要
 10000021	限界突破素材(コスチューム)★2	翻訳不要	翻訳不要	翻訳不要
