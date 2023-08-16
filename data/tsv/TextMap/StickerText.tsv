@@ -76,6 +76,7 @@ id	ja	zh-TW	en	ko
 75	焚火	生火	Bonfire	모닥불
 100001	桜の花びらステッカー	櫻花貼紙	Sakura Sticker	벚꽃 스티커
 100002	中華風ステッカー	中華風貼紙	Chinese-style Stickers	중화풍 스티커
+100003	ステッカー「リンとスクーター」	貼紙「澟和滑板車」	"Sticker ""Rin and Scooter"""	"스티커 ""린과 스쿠터"""
 100702	魚群ステッカー	魚群貼紙	School of Fish Sticker	물고기 무리 스티커
 100703	花火大会ステッカー	煙火大會貼紙	Firework Show Sticker	불꽃놀이 스티커
 150018	ステッカー「ブロンズ会員」	貼紙「銅牌會員」	"Sticker“Bronze MBR"""	"스티커 ""브론즈 회원"""
@@ -136,6 +137,8 @@ id	ja	zh-TW	en	ko
 270510	ステッカー「ﾚｯﾂｸﾗﾌﾄ！atお祭りキャンプ TOP5000」	貼紙「讓我們來製作吧！在祭典露營 TOP5000」	"""Let's Craft! at Festival Camp TOP5000"""	"스티커 ""레츠 제작! at축제 캠프 TOP5000"""
 270511	ステッカー「ﾚｯﾂｸﾗﾌﾄ！atお祭りキャンプ TOP10000」	貼紙「讓我們來製作吧！在祭典露營 TOP10000」	"""Let's Craft! at Festival Camp TOP10000"""	"스티커 ""레츠 제작! at축제 캠프 TOP10000"""
 1000002	チャイナイベントで獲得できるステッカーです	在中國活動中可獲得的貼紙	Stickers obtainable in China Event	중국 이벤트에서 획득 가능한 스티커입니다
+1000003	"バイクの日キャンペーンで
+入手したステッカーです"	在摩托車日活動中獲得的貼紙	Obtained during the campaign.	바이크의 날 캠페인에서 획득한 스티커입니다.
 1100702	"イベント「夏だ！ビーチだ！海キャンだ！」で
 獲得できるステッカーです"	"這是在活動「夏天！沙灘！海邊露營！」中
 可以獲得的貼紙。"	"""Sun, Sand, and Seaside Camp!"""	이벤트 '여름이다! 해변이다! 바다 캠핑이다!'

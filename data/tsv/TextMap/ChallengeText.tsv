@@ -720,6 +720,14 @@ RECAMPおだわら』の
 1402	「ひろえ！松ぼっくり」を{0}回プレイする	玩 {0} 次「來撿松果吧！」	"Play ""Pick Up Pinecones!"" {0} times"	"""주워라! 솔방울""를 {0}번 플레이하세요"
 1403	ログインしよう	登入吧	Let's log in.	로그인하자
 1404	SR土岐綾乃サポートカードガチャを1回引く(デイリー)	抽取一次SR土岐綾乃輔助卡轉蛋（每日）	Pull the SR Toki Ayano Support Card Gacha once (Daily)	SR 도키 아야노 지원 카드 가챠를 한 번 뽑다(매일)
+1405	海辺のキャンプ場で1回キャンプしよう(デイリー)	在海邊的露營地露營一次（每日）	Let's camp once at the beach campsite (Daily)	해변 캠핑장에서 1회 캠핑하자(데일리)
+1406	海辺のキャンプ場でランクF+以上でキャンプを完了しよう	在海邊的露營地以F+以上的等級完成露營吧	Let's complete a camp at the seaside campsite with a rank of F+ or higher.	해변 캠핑장에서 랭크 F+ 이상으로 캠핑을 완료하자
+1407	海辺のキャンプ場でランクE以上でキャンプを完了しよう	在海邊的露營地以E級以上完成露營	Let's complete a camp at the seaside campsite with a rank of E or higher.	해변 캠핑장에서 랭크 E 이상으로 캠핑을 완료하자
+1408	海辺のキャンプ場でランクE+以上でキャンプを完了しよう	在海邊的露營地以E+以上的等級完成露營吧	Let's complete a camp at the seaside campsite with a rank of E+ or higher.	해변 캠핑장에서 랭크 E+ 이상으로 캠핑을 완료하자
+1409	海辺のキャンプ場でランクD+以上でキャンプを完了しよう	在海邊的露營地以D+以上的等級完成露營吧	Let's complete a camp at the seaside campsite with a rank of D+ or higher.	해변 캠핑장에서 랭크 D+ 이상으로 캠핑을 완료하십시오.
+1410	海辺のキャンプ場キャンプミッション「スイカ割りをしよう」でA以上の評価を取ろう	在海邊露營地的露營任務「來打破西瓜」中取得A以上的評價吧	"Achieve a rating of A or above in the ""Watermelon Splitting"" camp mission at the seaside campsite."	해변 캠핑장 캠핑 미션 '수박 깨기'에서 A 이상의 평가를 받아보자
+1411	海辺のキャンプ場キャンプミッション「海鮮バーベキューをしよう」でS評価を取ろう	在海邊露營地的露營任務「來做海鮮燒烤」中取得S評價吧	"Try to get an S rating in the seaside campsite camping mission ""Let's have a seafood barbecue""."	해변의 캠핑장 캠핑 미션 '해산물 바베큐를 해보자'에서 S 등급을 받아보세요.
+1412	海辺のキャンプ場で合計9回キャンプしよう	在海邊的露營地總共露營9次吧	Let's camp a total of 9 times at the beach campsite.	해변 캠핑장에서 총 9번 캠핑하자
 3001	ビギナーチャレンジ（1つ目）	ビギナーチャレンジ（1つ目）(TW)	ビギナーチャレンジ（1つ目）(EN)	ビギナーチャレンジ（1つ目）(KO)
 3002	【テスト】 ビギナーズチャレンジ！	【テスト】 ビギナーズチャレンジ！(TW)	【テスト】 ビギナーズチャレンジ！(EN)	【テスト】 ビギナーズチャレンジ！(KO)
 3003	デイリーチャレンジを達成しよう	達成每日挑戰	Achieve the daily challenge	일일 챌린지를 달성하다
@@ -865,3 +873,4 @@ RECAMPおだわら』の
 4038	キャンプ応援	露營應援	Camp Support	캠프 응원
 4039	ギア料理売却	用品料理賣出	Sell Gear/Food	기어 요리 판매
 4040	期間限定6	期間限定6	Limited Time6	기간 한정6
+4042	海辺キャンプ	海邊露營	Beach Camping	해변 캠핑

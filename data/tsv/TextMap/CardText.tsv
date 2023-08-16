@@ -256,930 +256,935 @@ id	ja	zh-TW	en	ko
 255	サポートカード20198（仮）	サポートカード20198（仮）(TW)	サポートカード20198（仮）(EN)	サポートカード20198（仮）(KO)
 256	サポートカード20199（仮）	サポートカード20199（仮）(TW)	サポートカード20199（仮）(EN)	サポートカード20199（仮）(KO)
 257	サポートカード20200（仮）	サポートカード20200（仮）(TW)	サポートカード20200（仮）(EN)	サポートカード20200（仮）(KO)
-258	衣装テーマなし	無服裝主題	No Costume Theme	의상 테마 없음
-259	サバキャン服	夏季露營服	Summer Camping Clothes	여름 캠핑복
-260	夏服(オレンジ)	夏季服裝（橘色）	Orange Summer Clothes	하복(오렌지)
-261	夏服(ブルー)	夏季服裝（藍色）	Blue Summer Clothes	하복(블루)
-262	夏服(ベージュ)	夏季服裝（米色）	Beige Summer Clothes	하복(베이지)
-263	夏服(カーキ)	夏季服裝（卡其色）	Khaki Summer Clothes	하복(카키)
-264	夏服(ブラウン)	夏季服裝（褐色）	Brown Summer Clothes	하복(브라운)
-265	夏服(ウッドランド)	夏季服裝（林地迷彩）	Woodland Summer Clothes	하복(우드랜드)
-266	夏服(マルチカム)	夏季服裝（多地形迷彩）	MultiCam Summer Clothes	하복(멀티캠)
-267	夏服(ホワイト)	夏季服裝（白色）	White Summer Clothes	하복(화이트)
-268	夏服(ブラック)	夏季服裝（黑色）	Black Summer Clothes	하복(블랙)
-269	イーストウッド薄着	EAST WOOD薄衣服	Eastwood Cozy Casual	이스트우드 캐주얼
-270	麓キャンプ薄着	麓露營地薄衣服	Fumoto Camp Cozy Casual	후모토 캠핑 캐주얼
-271	伊豆キャン薄着	伊豆營地薄外套	Izu Camp Cozy Casual	이즈 캠핑 캐주얼
-272	冬服A(オレンジ)	冬季服裝A（橘色）	Orange Winter Clothes A	동복 A(오렌지)
-273	冬服A(ブルー)	冬季服裝A（藍色）	Blue Winter Clothes A	동복 A(블루)
-274	冬服A(ベージュ)	冬季服裝A（米色）	Beige Winter Clothes A	동복 A(베이지)
-275	冬服A(カーキ)	冬季服裝A（卡其色）	Khaki Winter Clothes A	동복 A(카키)
-276	クリキャン長袖	聖誕露營長袖	Xmas Camp Long Sleeves	크리캠 롱 슬리브
-277	冬服B(ウッドランド)	冬季服裝B（林地迷彩）	Woodland Winter Clothes B	동복 B(우드랜드)
-278	冬服B(マルチカム)	冬季服裝B（多地形迷彩）	Multicam Winter Clothes B	동복 B(멀티캠)
-279	冬服B(ホワイト)	冬季服裝B（白色）	White Winter Clothes B	동복 B(화이트)
-280	冬服B(ブラック)	冬季服裝B（黑色）	Black Winter Clothes B	동복 B(블랙)
-281	本栖湖キャンプ服	本栖湖露營服裝	Lake Motosu Camp Clothes	모토스호 캠핑복
-282	ゆるキャン△④服	搖曳露營△④服裝	Laid-Back Camp ④ Clothes	유루캠△ 4권 복장
-283	ゆるキャン△③服	搖曳露營△③服裝	Laid-Back Camp ③ Clothes	유루캠△ 3권 복장
-284	ゆるキャン△⑤服	搖曳露營△⑤服裝	Laid-Back Camp ⑤ Clothes	유루캠△ 5권 복장
-285	本栖高校制服＆コート	本栖湖高中制服＆外套	Motosu HS Uniform & Coat	모토스고 교복&코트
-286	本栖高校制服	本栖湖高中制服	Motosu HS Uniform	모토스고 교복
-287	本栖高校ジャージ	本栖湖高中運動服	Motosu HS Jersey	모토스고 저지
-288	麓キャンプ服	麓露營地服裝	Fumoto Camp Clothes	후모토 캠핑복
-289	伊豆キャン服	伊豆營地服裝	Izu Camp Clothes	이즈 캠핑복
-290	イーストウッド服	EAST WOOD服裝	Eastwood Clothes	이스트우드 복장
-291	バイト普段着	打工便服	Informal Work Wear	알바 평상복
-292	麓キャンプ厚着	麓露營地厚衣服	Fumoto Camp Thick Wear	후모토 캠핑복(커버드)
-293	山中湖キャンプ服	山中湖露營服裝	Lake Yamanaka Camp Clothes	야마나카호 캠핑복
-294	四尾連湖キャンプ服	四尾連湖露營服裝	Lake Shibire Camp Clothes	시비레호 캠핑복
-295	甲府キャンプ普段着	甲府露營便服	Kofu Camp Informal Wear	고후 캠핑 평상복
-296	買い物普段着	購物便服	Informal Shopping Wear	쇼핑 평상복
-297	はるキャン服	春季露營服裝	Spring Camping Clothes	봄 캠핑복
-298	カリブーキャンプ服	卡力布露營服	Caribou Camping Clothes	카리부 캠핑복
-299	クリキャン服	聖誕露營服裝	Christmas Camp Clothes	크리캠 복장
-300	サンタクレンジャー	聖誕戰隊	Santa Claus Rangers	산타크레인저
-301	サバキャン水着	求生露營泳裝	Survival Camp Swimsuit	서바캠 수영복
-302	四尾連湖ブランケット	四尾連湖毛毯	Lake Shibire Blanket	시비레호 블랭킷
-303	山中湖ブランケット	山中湖毛毯	Lake Yamanaka Blanket	야마나카호 블랭킷
-304	秘密結社ブランケット	秘密結社毛毯	Secret Society Blanket	비밀결사 블랭킷
-305	お料理キャンプ(仮)	お料理キャンプ(仮)(TW)	お料理キャンプ(仮)(EN)	お料理キャンプ(仮)(KO)
-306	ハロウィン(仮)	ハロウィン(仮)(TW)	ハロウィン(仮)(EN)	ハロウィン(仮)(KO)
-307	小田原キャンプ服	小田原露營服裝	Odawara Camp Clothes	오다와라 캠핑복
-308	ゆるキャン△②服	搖曳露營△②服裝	Laid-Back Camp ② Clothes	유루캠△ 2권 복장
-309	ゆるキャン△①服	搖曳露營△①服裝	Laid-Back Camp ① Clothes	유루캠△ 1권 복장
-310	6月森パーティー（仮）	6月森パーティー（仮）(TW)	6月森パーティー（仮）(EN)	6月森パーティー（仮）(KO)
-311	海キャン水着	海邊露營泳裝	Seaside Camp Swimsuit	바다 캠핑 수영복
-312	お祭り浴衣	祭典浴衣	Festival Yukata	축제 유카타
-313	ネイティブアメリカン(仮)	ネイティブアメリカン(仮)	ネイティブアメリカン(仮)	ネイティブアメリカン(仮)
-314	説明文４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０	説明文４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０(TW)	説明文４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０(EN)	説明文４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０(KO)
-315	"夏らしい薄着のキャンプ服。
+258	『民族チックなウェア』	『祭典浴衣』	『Festival Yukata』	『축제 유카타』
+259	『パジャマパーティー』	『祭典浴衣』	『Festival Yukata』	『축제 유카타』
+260	衣装テーマなし	無服裝主題	No Costume Theme	의상 테마 없음
+261	サバキャン服	夏季露營服	Summer Camping Clothes	여름 캠핑복
+262	夏服(オレンジ)	夏季服裝（橘色）	Orange Summer Clothes	하복(오렌지)
+263	夏服(ブルー)	夏季服裝（藍色）	Blue Summer Clothes	하복(블루)
+264	夏服(ベージュ)	夏季服裝（米色）	Beige Summer Clothes	하복(베이지)
+265	夏服(カーキ)	夏季服裝（卡其色）	Khaki Summer Clothes	하복(카키)
+266	夏服(ブラウン)	夏季服裝（褐色）	Brown Summer Clothes	하복(브라운)
+267	夏服(ウッドランド)	夏季服裝（林地迷彩）	Woodland Summer Clothes	하복(우드랜드)
+268	夏服(マルチカム)	夏季服裝（多地形迷彩）	MultiCam Summer Clothes	하복(멀티캠)
+269	夏服(ホワイト)	夏季服裝（白色）	White Summer Clothes	하복(화이트)
+270	夏服(ブラック)	夏季服裝（黑色）	Black Summer Clothes	하복(블랙)
+271	イーストウッド薄着	EAST WOOD薄衣服	Eastwood Cozy Casual	이스트우드 캐주얼
+272	麓キャンプ薄着	麓露營地薄衣服	Fumoto Camp Cozy Casual	후모토 캠핑 캐주얼
+273	伊豆キャン薄着	伊豆營地薄外套	Izu Camp Cozy Casual	이즈 캠핑 캐주얼
+274	冬服A(オレンジ)	冬季服裝A（橘色）	Orange Winter Clothes A	동복 A(오렌지)
+275	冬服A(ブルー)	冬季服裝A（藍色）	Blue Winter Clothes A	동복 A(블루)
+276	冬服A(ベージュ)	冬季服裝A（米色）	Beige Winter Clothes A	동복 A(베이지)
+277	冬服A(カーキ)	冬季服裝A（卡其色）	Khaki Winter Clothes A	동복 A(카키)
+278	クリキャン長袖	聖誕露營長袖	Xmas Camp Long Sleeves	크리캠 롱 슬리브
+279	冬服B(ウッドランド)	冬季服裝B（林地迷彩）	Woodland Winter Clothes B	동복 B(우드랜드)
+280	冬服B(マルチカム)	冬季服裝B（多地形迷彩）	Multicam Winter Clothes B	동복 B(멀티캠)
+281	冬服B(ホワイト)	冬季服裝B（白色）	White Winter Clothes B	동복 B(화이트)
+282	冬服B(ブラック)	冬季服裝B（黑色）	Black Winter Clothes B	동복 B(블랙)
+283	本栖湖キャンプ服	本栖湖露營服裝	Lake Motosu Camp Clothes	모토스호 캠핑복
+284	ゆるキャン△④服	搖曳露營△④服裝	Laid-Back Camp ④ Clothes	유루캠△ 4권 복장
+285	ゆるキャン△③服	搖曳露營△③服裝	Laid-Back Camp ③ Clothes	유루캠△ 3권 복장
+286	ゆるキャン△⑤服	搖曳露營△⑤服裝	Laid-Back Camp ⑤ Clothes	유루캠△ 5권 복장
+287	本栖高校制服＆コート	本栖湖高中制服＆外套	Motosu HS Uniform & Coat	모토스고 교복&코트
+288	本栖高校制服	本栖湖高中制服	Motosu HS Uniform	모토스고 교복
+289	本栖高校ジャージ	本栖湖高中運動服	Motosu HS Jersey	모토스고 저지
+290	麓キャンプ服	麓露營地服裝	Fumoto Camp Clothes	후모토 캠핑복
+291	伊豆キャン服	伊豆營地服裝	Izu Camp Clothes	이즈 캠핑복
+292	イーストウッド服	EAST WOOD服裝	Eastwood Clothes	이스트우드 복장
+293	バイト普段着	打工便服	Informal Work Wear	알바 평상복
+294	麓キャンプ厚着	麓露營地厚衣服	Fumoto Camp Thick Wear	후모토 캠핑복(커버드)
+295	山中湖キャンプ服	山中湖露營服裝	Lake Yamanaka Camp Clothes	야마나카호 캠핑복
+296	四尾連湖キャンプ服	四尾連湖露營服裝	Lake Shibire Camp Clothes	시비레호 캠핑복
+297	甲府キャンプ普段着	甲府露營便服	Kofu Camp Informal Wear	고후 캠핑 평상복
+298	買い物普段着	購物便服	Informal Shopping Wear	쇼핑 평상복
+299	はるキャン服	春季露營服裝	Spring Camping Clothes	봄 캠핑복
+300	カリブーキャンプ服	卡力布露營服	Caribou Camping Clothes	카리부 캠핑복
+301	クリキャン服	聖誕露營服裝	Christmas Camp Clothes	크리캠 복장
+302	サンタクレンジャー	聖誕戰隊	Santa Claus Rangers	산타크레인저
+303	サバキャン水着	求生露營泳裝	Survival Camp Swimsuit	서바캠 수영복
+304	四尾連湖ブランケット	四尾連湖毛毯	Lake Shibire Blanket	시비레호 블랭킷
+305	山中湖ブランケット	山中湖毛毯	Lake Yamanaka Blanket	야마나카호 블랭킷
+306	秘密結社ブランケット	秘密結社毛毯	Secret Society Blanket	비밀결사 블랭킷
+307	お料理キャンプ(仮)	お料理キャンプ(仮)(TW)	お料理キャンプ(仮)(EN)	お料理キャンプ(仮)(KO)
+308	ハロウィン(仮)	ハロウィン(仮)(TW)	ハロウィン(仮)(EN)	ハロウィン(仮)(KO)
+309	小田原キャンプ服	小田原露營服裝	Odawara Camp Clothes	오다와라 캠핑복
+310	ゆるキャン△②服	搖曳露營△②服裝	Laid-Back Camp ② Clothes	유루캠△ 2권 복장
+311	ゆるキャン△①服	搖曳露營△①服裝	Laid-Back Camp ① Clothes	유루캠△ 1권 복장
+312	6月森パーティー（仮）	6月森パーティー（仮）(TW)	6月森パーティー（仮）(EN)	6月森パーティー（仮）(KO)
+313	海キャン水着	海邊露營泳裝	Seaside Camp Swimsuit	바다 캠핑 수영복
+314	お祭り浴衣	祭典浴衣	Festival Yukata	축제 유카타
+315	民族チックなウェア	ネイティブアメリカン(仮)	ネイティブアメリカン(仮)	ネイティブアメリカン(仮)
+316	パジャマパーティー	ネイティブアメリカン(仮)	ネイティブアメリカン(仮)	ネイティブアメリカン(仮)
+317	説明文４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０	説明文４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０(TW)	説明文４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０(EN)	説明文４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０(KO)
+318	"夏らしい薄着のキャンプ服。
 バケーションにぴったり。"	"充滿夏天氛圍的輕薄露營服裝。
 適合假期穿搭。"	"Summer camping clothes.
 A great choice for vacations!"	"여름에 어울리는 얇은 캠핑복.
 베케이션 기분이 물씬 느껴지는 코디."
-316	"夏らしい薄着のキャンプ服。
+319	"夏らしい薄着のキャンプ服。
 オレンジ系のアースカラーコーデ。"	"充滿夏天氛圍的輕薄露營服裝。
 橘色系大地色穿搭。"	"Summer camping clothes in
 orange earth tones."	"여름에 어울리는 얇은 캠핑복.
 오렌지 계열의 어스 컬러 코디."
-317	"夏らしい薄着のキャンプ服。
+320	"夏らしい薄着のキャンプ服。
 ブルー系のアースカラーコーデ。"	"充滿夏天氛圍的輕薄露營服裝。
 藍色系大地色穿搭。"	"Summer camping clothes in
 blue earth tones."	"여름에 어울리는 얇은 캠핑복.
 블루 계열의 어스 컬러 코디."
-318	"夏らしい薄着のキャンプ服。
+321	"夏らしい薄着のキャンプ服。
 ベージュ系のアースカラーコーデ。"	"充滿夏天氛圍的輕薄露營服裝。
 米色系大地色穿搭。"	"Summer camping clothes in
 beige earth tones."	"여름에 어울리는 얇은 캠핑복.
 베이지 계열의 어스 컬러 코디."
-319	"夏らしい薄着のキャンプ服。
+322	"夏らしい薄着のキャンプ服。
 カーキ系のアースカラーコーデ。"	"充滿夏天氛圍的輕薄露營服裝。
 棕色系大地色穿搭。"	"Summer camping clothes in
 brown earth tones."	"여름에 어울리는 얇은 캠핑복.
 브라운 계열의 어스 컬러 코디."
-320	"夏らしい薄着のキャンプ服。
+323	"夏らしい薄着のキャンプ服。
 ブラウン系のアースカラーコーデ。"	"充滿夏天氛圍的輕薄露營服裝。
 卡其色系大地色穿搭。"	"Summer camping clothes in
 khaki earth tones."	"여름에 어울리는 얇은 캠핑복.
 카키 계열의 어스 컬러 코디."
-321	"夏らしい薄着のキャンプ服。
+324	"夏らしい薄着のキャンプ服。
 ウッドランドパターンのカモコーデ。"	"充滿夏天氛圍的輕薄露營服裝。
 林地迷彩自然系穿搭。"	"Summer camping clothes in a
 woodland camo pattern."	"여름에 어울리는 얇은 캠핑복.
 우드랜드 패턴의 카무플라주 코디."
-322	"夏らしい薄着のキャンプ服。
+325	"夏らしい薄着のキャンプ服。
 マルチカムパターンのカモコーデ。"	"充滿夏天氛圍的輕薄露營服裝。
 多地形迷彩自然系穿搭。"	"Summer camping clothes in a
 MultiCam pattern."	"여름에 어울리는 얇은 캠핑복.
 멀티캠 패턴의 카무플라주 코디."
-323	"夏らしい薄着のキャンプ服。
+326	"夏らしい薄着のキャンプ服。
 ホワイト系のモノトーンコーデ。"	"充滿夏天氛圍的輕薄露營服裝。
 白色系單色穿搭。"	"Summer camping clothes in
 white gradient monotones."	"여름에 어울리는 얇은 캠핑복.
 화이트 계열의 모노톤 코디."
-324	"夏らしい薄着のキャンプ服。
+327	"夏らしい薄着のキャンプ服。
 ブラック系のモノトーンコーデ。"	"充滿夏天氛圍的輕薄露營服裝。
 黑色系單色穿搭。"	"Summer camping clothes in
 black gradient monotones."	"여름에 어울리는 얇은 캠핑복.
 블랙 계열의 모노톤 코디."
-325	"イーストウッドキャンプ場へ行った時の服。
+328	"イーストウッドキャンプ場へ行った時の服。
 ほっとけや温泉入浴後に着ていた。"	"去EASTWOOD露營場時的服裝。
 在別管我溫泉泡澡後穿上。"	"Worn during the Eastwood camping trip
 after soaking at Hottokeya Hot Spring."	"이스트우드 캠핑장에 갔을 때의 복장.
 홋타라카시 온천에서 목욕한 후 입었던 옷."
-326	"麓キャンプ場へ行った時の服。担々餃子鍋で
+329	"麓キャンプ場へ行った時の服。担々餃子鍋で
 暑くなり思わず脱いだ上着の下に着ていた。"	"去山麓露營場時的服裝。因享用擔擔煎餃鍋
 太熱，脫掉外衣後就露出這件服裝。"	"Worn at Fumoto under a coat she took off
 because of the heat from the hotpot."	"후모토 캠핑장에 갔을 때의 복장. 탄탄
 만두전골을 먹고 더워서 웃옷을 벗었을때 입고 었던 옷."
-327	"伊豆キャンへ行った時の服。
+330	"伊豆キャンへ行った時の服。
 堂ヶ島温泉入浴後に着ていた。"	"去伊豆露營時的服裝。
 在堂之島溫泉泡澡後穿上。"	"Worn during the Izu camping trip after
 soaking at Dogashima Hot Spring."	"이즈 캠핑을 갔을 때의 복장.
 도가시마 온천에서 목욕한 후 입었던 옷."
-328	"冬のあったかキャンプ服。
+331	"冬のあったかキャンプ服。
 オレンジ系のアースカラーコーデ。"	"冬季溫暖露營服裝。
 橘色系大地色穿搭。"	"Warm winter camping clothes in
 orange earth tones."	"따뜻한 겨울용 캠핑복.
 오렌지 계열의 어스 컬러 코디."
-329	"冬のあったかキャンプ服。
+332	"冬のあったかキャンプ服。
 ブルー系のアースカラーコーデ。"	"冬季溫暖露營服裝。
 藍色系大地色穿搭。"	"Warm winter camping clothes in
 blue earth tones."	"따뜻한 겨울용 캠핑복.
 블루 계열의 어스 컬러 코디."
-330	"冬のあったかキャンプ服。
+333	"冬のあったかキャンプ服。
 ベージュ系のアースカラーコーデ。"	"冬季溫暖露營服裝。
 米色系大地色穿搭。"	"Warm winter camping clothes in
 beige earth tones."	"따뜻한 겨울용 캠핑복.
 베이지 계열의 어스 컬러 코디."
-331	"冬のあったかキャンプ服。
+334	"冬のあったかキャンプ服。
 カーキ系のアースカラーコーデ。"	"冬季溫暖露營服裝。
 卡其色系大地色穿搭。"	"Warm winter camping clothes in
 khaki earth tones."	"따뜻한 겨울용 캠핑복.
 카키 계열의 어스 컬러 코디."
-332	"クリキャンへ行った時の服。
+335	"クリキャンへ行った時の服。
 朝霧高原キャンプ場で入浴後に着ていた。"	"去聖誕露營時的服裝。
 在朝霧高原露營場泡澡後穿上。"	"Worn during the Christmas trip after
 bathing at Asagiri Plateau's campsite."	"크리캠을 갔을 때 입었던 복장. 아사기리
 고원 캠핑장에서 목욕한 후 입었던 옷."
-333	"冬のあったかキャンプ服。
+336	"冬のあったかキャンプ服。
 ウッドランドパターンのカモコーデ。"	"冬季溫暖露營服裝。
 林地迷彩自然系穿搭。"	"Warm winter camping clothes in
 a woodland camo pattern."	"따뜻한 겨울용 캠핑복.
 우드랜드 패턴의 카무플라주 코디."
-334	"冬のあったかキャンプ服。
+337	"冬のあったかキャンプ服。
 マルチカムパターンのカモコーデ。"	"冬季溫暖露營服裝。
 多地形迷彩自然系穿搭。"	"Warm winter camping clothes in
 a MultiCam pattern."	"따뜻한 겨울용 캠핑복.
 멀티캠 패턴의 카무플라주 코디."
-335	"冬のあったかキャンプ服。
+338	"冬のあったかキャンプ服。
 ホワイト系のモノトーンコーデ。"	"冬季溫暖露營服裝。
 白色系單色穿搭。"	"Warm winter camping clothes in
 white gradient monotones."	"따뜻한 겨울용 캠핑복.
 화이트 계열의 모노톤 코디."
-336	"冬のあったかキャンプ服。
+339	"冬のあったかキャンプ服。
 ブラック系のモノトーンコーデ。"	"冬季溫暖露營服裝。
 黑色系單色穿搭。"	"Warm winter camping clothes in
 black gradient monotones."	"따뜻한 겨울용 캠핑복.
 블랙 계열의 모노톤 코디."
-337	"富士山を見に行った本栖湖キャンプ場で
+340	"富士山を見に行った本栖湖キャンプ場で
 リンと出会った時の服。"	"去看富士山時，在本栖湖露營場
 和凜相遇時的服裝。"	"Worn when she met Rin at Lake Motosu's
 campsite while going to see Mount Fuji."	"후지산을 보러 갔던 모토스호 캠핑장에서
 린과 만났을 때 입었던 복장."
-338	"ソロキャンをしに行った本栖湖キャンプ場で
+341	"ソロキャンをしに行った本栖湖キャンプ場で
 なでしこと出会った時の服。"	"去單人露營時，在本栖湖露營場
 和撫子相遇時的服裝。"	"Worn when she met Nadeshiko at Lake
 Motosu's campsite while solo camping."	"솔로 캠핑을 하러 간 모토스호 캠핑장에서
 나데시코와 만났을 때 입었던 복장."
-339	ゆるキャン△４巻の扉絵で着ていた服。	搖曳露營△第4集卷首插畫中所穿的服裝。	"Worn on the chapter cover of
+342	ゆるキャン△４巻の扉絵で着ていた服。	搖曳露營△第4集卷首插畫中所穿的服裝。	"Worn on the chapter cover of
 Laid-Back Camp Volume 4."	유루캠△ 4권 삽화에서 입고 있었던 복장.
-340	ゆるキャン△３巻の扉絵で着ていた服。	搖曳露營△第3集卷首插畫中所穿的服裝。	"Worn on the chapter cover of
+343	ゆるキャン△３巻の扉絵で着ていた服。	搖曳露營△第3集卷首插畫中所穿的服裝。	"Worn on the chapter cover of
 Laid-Back Camp Volume 3."	유루캠△ 3권 삽화에서 입고 있었던 복장.
-341	ゆるキャン△５巻の扉絵で着ていた服。	搖曳露營△第5集卷首插畫中所穿的服裝。	"Worn on the chapter cover of
+344	ゆるキャン△５巻の扉絵で着ていた服。	搖曳露營△第5集卷首插畫中所穿的服裝。	"Worn on the chapter cover of
 Laid-Back Camp Volume 5."	유루캠△ 5권 삽화에서 입고 있었던 복장.
-342	"本栖高校の制服とコート。
+345	"本栖高校の制服とコート。
 薄ピンクのマフラーも着用。"	"本栖高中的制服與大衣。
 另外搭配淡粉紅色圍巾。"	"Motosu High School uniform and coat.
 Comes with a light pink neck muffler."	"모토스 고등학교의 교복과 코트.
 연분홍색 머플러도 착용."
-343	"本栖高校の制服とコート。
+346	"本栖高校の制服とコート。
 薄青のマフラーも着用。"	"本栖高中的制服與大衣。
 另外搭配淡藍色圍巾。"	"Motosu High School uniform and coat.
 Comes with a light blue neck muffler."	"모토스 고등학교의 교복과 코트.
 연청색 머플러도 착용."
-344	"本栖高校の制服とコート。
+347	"本栖高校の制服とコート。
 紫のマフラーも着用。"	"本栖高中的制服與大衣。
 另外搭配紫色圍巾。"	"Motosu High School uniform and coat.
 Comes with a purple neck muffler."	"모토스 고등학교의 교복과 코트.
 보라색 머플러도 착용."
-345	"本栖高校の制服とコート。
+348	"本栖高校の制服とコート。
 薄橙のマフラーも着用。"	"本栖高中的制服與大衣。
 另外搭配淡橙色圍巾。"	"Motosu High School uniform and coat.
 Comes with a peach neck muffler."	"모토스 고등학교의 교복과 코트.
 연주황색 머플러도 착용."
-346	"本栖高校の制服とコート。
+349	"本栖高校の制服とコート。
 薄緑のマフラーも着用。"	"本栖高中的制服與大衣。
 另外搭配淡綠色圍巾。"	"Motosu High School uniform and coat.
 Comes with a light green neck muffler."	"모토스 고등학교의 교복과 코트.
 연녹색 머플러도 착용."
-347	本栖高校の制服。	本栖高中制服。	Student uniform of Motosu High School.	모토스 고등학교의 교복.
-348	"本栖高校のジャージ。校庭や中庭で
+350	本栖高校の制服。	本栖高中制服。	Student uniform of Motosu High School.	모토스 고등학교의 교복.
+351	"本栖高校のジャージ。校庭や中庭で
 野クルの活動をする時に着ていた。"	"本栖高中運動服。在校園和中庭
 進行野活組活動時穿的服裝。"	"Motosu High School jersey. Worn during
 Outclub activities in the school yard."	"모토스 고등학교의 저지. 학교 마당이나
 안뜰에서 야클 활동을 할 때 착용."
-349	"本栖高校のジャージ。校庭や中庭で
+352	"本栖高校のジャージ。校庭や中庭で
 野クルと活動をする時に着ていた。"	"本栖高中運動服。在校園和中庭
 進行野活組活動時穿的服裝。"	"Motosu High School jersey. Worn when
 joining the Outclub in the school yard."	"모토스 고등학교의 저지. 학교 마당이나
 안뜰에서 야클 활동을 할 때 착용."
-350	"リンを追いかけて
+353	"リンを追いかけて
 麓キャンプ場へ行った時の服。"	"跟隨凜的腳步
 前往山麓露營場時的服裝。"	"Worn when she followed Rin to the Fumoto
 campsite."	"린을 쫓아 후모토 캠핑장에
 갔을 때 입었던 복장."
-351	"ソロキャンをしに
+354	"ソロキャンをしに
 麓キャンプ場へ行った時の服。"	"單人露營
 前往山麓露營場時的服裝。"	"Worn when going to the Fumoto campsite
 for solo camping."	"린을 쫓아 후모토 캠핑장에
 갔을 때 입었던 복장."
-352	みんなで伊豆キャンに行った時の服。	和大家一起去伊豆露營時的服裝。	Worn when going group camping at Izu.	다 함께 이즈 캠핑을 갔을 때 입었던 복장.
-353	"野クル初の冬キャンプで
+355	みんなで伊豆キャンに行った時の服。	和大家一起去伊豆露營時的服裝。	Worn when going group camping at Izu.	다 함께 이즈 캠핑을 갔을 때 입었던 복장.
+356	"野クル初の冬キャンプで
 イーストウッドキャンプ場へ行った時の服。"	"野活組首次冬季露營，
 前往EASTWOOD露營場時的服裝。"	"Worn during the Outclub's first winter
 camping session at Eastwood Campgrounds."	"야클의 첫 겨울 캠핑으로
 이스트우드 캠핑장에 갔을 때 입었던 복장."
-354	"郵便局でバイトをしていた時の服。
+357	"郵便局でバイトをしていた時の服。
 なでしことお昼を食べる際に着ていた。"	"在郵局打工時的服裝。
 和撫子吃午餐時也有穿。"	"Worn when working at the post office and
 when having lunch with Nadeshiko."	"우체국에서 알바할 때 입었던 복장.
 이 복장으로 나데시코와 점심을 먹었다."
-355	"麓キャンプ場に行った時の服。ダウンに
+358	"麓キャンプ場に行った時の服。ダウンに
 替えて白のブランケットを羽織っている。"	"去山麓露營場時的服裝。披上
 白色毛毯代替羽絨外衣。"	"Worn at Fumoto Camp. Went with a white
 poncho instead of a down coat."	"후모토 캠핑장에 갔을 때의 복장.
 다운 대신 하얀 블랭킷을 두르고 있다."
-356	"スーパーのバイトへ行く時に着ていた服。
+359	"スーパーのバイトへ行く時に着ていた服。
 買い物に行くわけではない。"	"去超市打工時穿的服裝。
 並不是去買東西。"	"Worn when working at the supermarket.
 Nope, not for grocery shopping!"	"슈퍼 알바를 갈 때 입었던 복장.
 쇼핑하러 가는 복장이 아님."
-357	"千明、あおいと一緒に
+360	"千明、あおいと一緒に
 山中湖へキャンプに行った時の服。"	"和千明和葵一起去
 山中湖露營時的服裝。"	"Worn when camping at Lake Yamanaka with
 Chiaki and Aoi."	"치아키, 아오이와 함께 야마나카호
 캠핑을 갔을 때의 복장."
-358	リンと四尾連湖に行った時の服。	和凜去四尾連湖時的服裝。	Worn when going to Lake Shibire with Rin.	린과 시비레호에 갔을 때 입었던 복장.
-359	なでしこと四尾連湖に行った時の服。	和撫子去四尾連湖時的服裝。	Worn when going to Lake Shibire with Nadeshiko.	나데시코와 시비레호에 갔을 때의 복장.
-360	"甲府のキャンプ場へ下見に行った時の服。
+361	リンと四尾連湖に行った時の服。	和凜去四尾連湖時的服裝。	Worn when going to Lake Shibire with Rin.	린과 시비레호에 갔을 때 입었던 복장.
+362	なでしこと四尾連湖に行った時の服。	和撫子去四尾連湖時的服裝。	Worn when going to Lake Shibire with Nadeshiko.	나데시코와 시비레호에 갔을 때의 복장.
+363	"甲府のキャンプ場へ下見に行った時の服。
 ――肉、食うかい？"	"去甲府露營場勘查狀況時的服裝。
 ──有肉，要吃嗎？"	"Worn when checking out the campsite at
 Kofu. Want some meat?"	"사전 조사로 고후 캠핑장에 갈 때
 입었던 복장. …고기, 먹겠니?"
-361	リンがバイトする本屋へ行った時の服。	去凜打工的書店時的服裝。	Worn by Rin when working at the bookstore.	린이 알바하는 서점에 갔을 때 입었던 복장.
-362	"ソロキャンをしに
+364	リンがバイトする本屋へ行った時の服。	去凜打工的書店時的服裝。	Worn by Rin when working at the bookstore.	린이 알바하는 서점에 갔을 때 입었던 복장.
+365	"ソロキャンをしに
 春の本栖湖へ行った時の服。"	"春天單人露營
 前往本栖湖時的服裝。"	"Worn when going to Lake Motosu during
 spring for solo camping."	"봄에 솔로 캠핑을 하러
 모토스호에 갔을 때 입었던 복장."
-363	"キャンプ用品店カリブーへ行った時、
+366	"キャンプ用品店カリブーへ行った時、
 試着したキャンプ服。"	"去Caribou露營用品店時
 試穿過的露營服裝。"	"Camping clothes Aki tried on during a
 trip to Caribou."	"캠핑 용품점 카리부에 갔을 때
 시착해 보았던 캠핑복."
-364	みんなでクリキャンに行った時の服。	和大家一起去聖誕露營時的服裝。	Worn when going group camping during Christmas.	다 함께 크리캠을 갔을 때 입었던 복장.
-365	"みんなでクリキャンに行った時、
+367	みんなでクリキャンに行った時の服。	和大家一起去聖誕露營時的服裝。	Worn when going group camping during Christmas.	다 함께 크리캠을 갔을 때 입었던 복장.
+368	"みんなでクリキャンに行った時、
 恵那が持ってきたサンタ服。年末戦士！"	"和大家一起去聖誕露營時，
 惠那帶來的聖誕服裝。年末戰士！"	"Santa costume Ena brought along for
 Christmas camping. Year-End Warriors!"	"다 함께 크리캠을 갔을 때 에나가
 가져왔었던 산타복. 연말 전사!"
-366	"クリキャンに行った時、みんなの分も
+369	"クリキャンに行った時、みんなの分も
 用意していたサンタ服。年末戦士！"	"去聖誕露營時，幫大家
 準備的聖誕服裝。年末戰士！"	"Santa costume everyone wore during
 Christmas camp. Year-End Warriors!"	"크리캠을 갔을 때 다른 애들의 몫까지
 준비해 왔었던 산타복. 연말 전사!"
-367	"夏の海にもってこいな水着。
+370	"夏の海にもってこいな水着。
 水辺のキャンプや無人島にもぴったり。"	"最適合夏天的大海的泳裝。
 也很適合在水邊露營或去無人島時的穿搭。"	"Swimsuit perfect for the summer beaches,
 seaside camps and deserted islands."	"여름 바다에 제격인 수영복.
 물가 캠핑이나 무인도 생활에도 적합."
-368	"リンと四尾連湖へ行った時の服。
+371	"リンと四尾連湖へ行った時の服。
 出たな怪人ブランケット！"	"和凜去四尾連湖時的服裝。
 毛毯怪人出現了！"	"Worn when going to Lake Shibire with
 Rin. Phantom Blanket strikes again!"	"린과 시비레호에 갔을 때 입었던 복장.
 나왔군, 괴인 블랭킷!"
-369	"なでしこと四尾連湖へ行った時の服。
+372	"なでしこと四尾連湖へ行った時の服。
 なでしこに借りたブランケット姿。"	"和撫子去四尾連湖時的服裝。
 跟撫子借毛毯披上的樣子。"	"Worn when going to Lake Shibire with
 Nadeshiko. This is her blanket form."	"나데시코와 시비레호에 갔을 때의 복장.
 나데시코에게 빌렸던 블랭킷을 걸치고 있음."
-370	"あおい、恵那と山中湖へ行った時の服。
+373	"あおい、恵那と山中湖へ行った時の服。
 湖畔で羽織っていたブランケット姿。"	"和葵和惠那去山中湖時的服裝。
 在湖畔披上毛毯的樣子。"	"Worn when going to Lake Shibire with Aoi
 and Ena. Lakeside blanket form!"	"아오이, 에나와 야마나카호에 갔을 때의
 복장. 호숫가에서 블랭킷을 걸치고 있음."
-371	"千明、恵那と山中湖へ行った時の服。
+374	"千明、恵那と山中湖へ行った時の服。
 湖畔で羽織っていたブランケット姿。"	"和千名和惠那去山中湖時的服裝。
 在湖畔披上毛毯的樣子。"	"Worn when going to Lake Shibire with
 Chiaki and Ena. Lakeside blanket form!"	"치아키, 에나와 야마나카호에 갔을 때의
 복장. 호숫가에서 블랭킷을 걸치고 있음."
-372	"あおい、千明と山中湖へ行った時の服。
+375	"あおい、千明と山中湖へ行った時の服。
 湖畔で羽織っていたブランケット姿。"	"和葵和千明去山中湖時的服裝。
 在湖畔披上毛毯的樣子。"	"Worn when going to Lake Shibire with Aoi
 and Chiaki. Lakeside blanket form!"	"아오이, 치아키와 야마나카호에 갔을 때의
 복장. 호숫가에서 블랭킷을 걸치고 있음."
-373	"みんなでクリキャンへ行った時の服。
+376	"みんなでクリキャンへ行った時の服。
 秘密結社は勢力を拡大している。"	"和大家一起去聖誕露營時的服裝。
 神秘組織勢力擴大中。"	"Worn during Christmas group camping.
 The secret society keeps growing."	"다 함께 크리캠을 갔을 때의 복장.
 비밀결사 세력 확장중."
-374	"小田原キャンプへ行った時の服。
+377	"小田原キャンプへ行った時の服。
 旅キャンのはじまり。"	"去小田原露營時的服裝。
 是旅遊露營的開端。"	"The camping outfit worn at Odawara.
 Travel camping starts here."	"오다와라 캠핑 때 입은 옷.
 여행캠의 시작을 알리는 복장."
-375	"ゆるキャン△２巻の表紙と
+378	"ゆるキャン△２巻の表紙と
 扉絵で着ていた服。"	"搖曳露營△第二卷的封面和
 內頁插圖中穿的衣服。"	The outfit worn on the cover and title page of Laid-Back Camp Volume 2.	"유루캠△ 2권의 표지와
 표지 그림에서 입고 있던 옷."
-376	ゆるキャン△１巻の扉絵で着ていた服。	搖曳露營△第1集卷首插畫中所穿的服裝。	"Worn on the chapter cover of
+379	ゆるキャン△１巻の扉絵で着ていた服。	搖曳露營△第1集卷首插畫中所穿的服裝。	"Worn on the chapter cover of
 Laid-Back Camp Volume 1."	유루캠△ 1권 삽화에서 입고 있었던 복장.
-377	"海キャンに行った時の水着。
+380	"海キャンに行った時の水着。
 夏の思い出。"	"去海邊露營時的泳裝。
 夏天的回憶。"	"Worn when camping by the sea.
 Summer memories."	"바다 캠핑을 갔을 때 입은 수영복.
 여름 추억이 듬뿍."
-378	お祭りキャンプで着た浴衣。	在祭典露營時穿的浴衣。	"Wearing a yukata to
+381	お祭りキャンプで着た浴衣。	在祭典露營時穿的浴衣。	"Wearing a yukata to
 the festival camp."	축제 캠핑 때 입은 유카타.
-379	"松ぼっくりって
+382	"松ぼっくりって
 優秀な着火剤なんだねー"	"松果
 是非常好的火種──"	"Pinecones are excellent firelighters!
 "	"솔방울은
 훌륭한 착화제구나~"
-380	"残り14回、どうやって払おうと
+383	"残り14回、どうやって払おうと
 思ってたんだ？"	"還有14期，妳是打算
 要怎麼付清啊？"	"How was she going to pay for the next
 14 times?"	"남은 14개월분은
 어떻게 내려고 그랬어?"
-381	"うわぁ、痛そうなたんこぶやなぁ
+384	"うわぁ、痛そうなたんこぶやなぁ
 大丈夫やった？"	"嗚哇，這腫包看起來很痛耶～～
 沒事吧？"	"That bump looks nasty. Are you alright?
 "	"우와, 억수로 아파보이는 혹이데이
 괘안았나?"
-382	…肉、食うかい？	……有肉，要吃嗎？	Want some steak?	…고기, 먹겠니?
-383	"３万９千円、４万５千円…
+385	…肉、食うかい？	……有肉，要吃嗎？	Want some steak?	…고기, 먹겠니?
+386	"３万９千円、４万５千円…
 いいキャンプ道具はお高いねー"	"3萬9千日圓、4萬5千日圓……
 好的露營用具還真貴啊──"	"39,000 yen, 45,000 yen... Good camping
 gear is so expensive!"	"3만 9천엔, 4만 5천엔…
 좋은 캠핑 도구는 비싸구나~"
-384	"リンちゃん
+387	"リンちゃん
 クマヘアー似合ってるよ！！"	"小凜，
 妳跟小熊頭很搭喔！！"	"You look great with bear hair, Rin!
 "	"린!
 곰 머리 잘 어울려!!"
-385	"あれだけ餃子食べたのに
+388	"あれだけ餃子食べたのに
 ご飯まで入れようとしてたのか…"	"都已經吃那麼多煎餃了，
 還打算加飯啊……"	"Trying to add rice even after eating all
 those dumplings?"	"만두를 그렇게나 먹고도
 밥까지 넣으려고 했었나…"
-386	"富士山に片思いの「ふじこ」だな
+389	"富士山に片思いの「ふじこ」だな
 いや、ふじしこ…？"	"簡直就是單戀富士山的「富士子」。
 不對，該說富士撫子嗎……？"	"Fujiko has a crush on Mount Fuji.
 Or was it Fujishiko?"	"후지산을 짝사랑하는 ""후지코""인가
 아니, 후지시코…?"
-387	"意外に気に入ったんやな
+390	"意外に気に入ったんやな
 ふじこ"	"沒想到妳還挺中意的嘛，
 富士子。"	"She's surprisingly into her Fujiko
 nickname."	"꽤 맘에 들었던 기가?
 후지코라는 별명"
-388	"いつかやってみたいよな
+391	"いつかやってみたいよな
 月面着陸ごっこ"	"說到登陸月球遊戲啊，
 很想哪天來玩玩看呢。"	"We should play the moon landing game
 one of these days."	"언젠가 한번 해보고 싶은걸
 달 착륙 놀이"
-389	"冬キャンのために
+392	"冬キャンのために
 色々事前準備しないとね！！"	"為了冬季露營，
 得事先做足準備才行！！"	"So many things to prepare before winter
 camping!"	"겨울 캠핑을 위해
 이것저것 사전 준비를 해야지!!"
-390	お届け物なのに中身丸見えだな	明明是包裹，內容物卻一清二楚啊。	I can clearly see what's in the package.	택배라더니 내용물이 빤히 보이잖아
-391	私の荷物も背負ってほしいなー	真希望妳也幫我背行李──	Carry my stuff too!	내 짐도 들어줬으면 좋겠다~
-392	お土産って、何買うか迷うよね	真不知道要買什麼伴手禮好耶。	It's so hard to decide on a souvenir.	기념품 살 땐 뭐가 좋을지 고민되더라
-393	冬のバイクは冷えそうやなぁ	冬天騎機車好像會很冷耶～～	Must be chilly to ride a motorcycle in winter.	겨울에 오토바이 타모 춥겠데이
-394	"あ、メタル賽銭箱だ
+393	お届け物なのに中身丸見えだな	明明是包裹，內容物卻一清二楚啊。	I can clearly see what's in the package.	택배라더니 내용물이 빤히 보이잖아
+394	私の荷物も背負ってほしいなー	真希望妳也幫我背行李──	Carry my stuff too!	내 짐도 들어줬으면 좋겠다~
+395	お土産って、何買うか迷うよね	真不知道要買什麼伴手禮好耶。	It's so hard to decide on a souvenir.	기념품 살 땐 뭐가 좋을지 고민되더라
+396	冬のバイクは冷えそうやなぁ	冬天騎機車好像會很冷耶～～	Must be chilly to ride a motorcycle in winter.	겨울에 오토바이 타모 춥겠데이
+397	"あ、メタル賽銭箱だ
 何お願いしよっかな？"	"啊，是鋼鐵賽錢箱。
 要許什麼願呢？"	"It's the metal offering box!
 I should make a wish."	"아, 메탈 세전함이다
 무슨 소원을 빌어볼까?"
-395	"カルビ、ハラミ、ロース…
+398	"カルビ、ハラミ、ロース…
 夢は膨らむよね"	"牛五花、橫隔膜、里肌肉……
 充滿無限想像呢。"	"Pork belly, skirt, tongue, shoulder...
 Dreams are endless."	"갈비, 안창살, 로스…
 꿈이 부풀어 올라"
-396	"謎の激ウマバーベキュー…
+399	"謎の激ウマバーベキュー…
 食べてみたいもんだぜ"	"神秘的超美味烤肉……
 真想吃吃看呢。"	"Who could resist a strangely delicious
 barbeque?"	"진짜 맛있는 수수께끼의 바비큐…
 나도 한번 먹어보고 싶은걸"
-397	"千明となでしこが小芝居してる時か
+400	"千明となでしこが小芝居してる時か
 各務原隊員だっけ？"	"是千明和撫子在演短劇的時候嗎？
 是各務原隊員嗎？"	"She becomes Officer Kagamihara during
 her skits with Chiaki, right?"	"치아키랑 나데시코가 역할극 하던 때네
 카가미하라 대원이랬던가?"
-398	"リンちゃんはりきっとるー
+401	"リンちゃんはりきっとるー
 確かに焼肉は気合入るもんな"	"小凜好有幹勁啊──
 烤肉的確是會讓人精神大振呢。"	"Rin is so excited about this. Well, who
 wouldn't be excited about grilled meat?"	"린, 신나 보이네~ 확실히 야키니쿠라면
 힘이 팍 들어가는 기도 이해는 된데이"
-399	"先生…ノンアルでもさすがに
+402	"先生…ノンアルでもさすがに
 学校ではマズイっすよ"	"老師……就算是無酒精，
 在學校喝也很糟糕吧。"	"Even a non-alcoholic beer looks bad in
 school, Ms. Toba."	"선생님… 아무리 무알콜이라도
 학교에서는 좀 그렇슴다요"
-400	塩ダレ豚串、おいしいよね～	鹽醬豬肉串好好吃哦～～	Savory pork skewers are yummilicious!	소금 양념 돼지고기 꼬치, 맛있지~
-401	"シーズニング中やね。サビ止めを
+403	塩ダレ豚串、おいしいよね～	鹽醬豬肉串好好吃哦～～	Savory pork skewers are yummilicious!	소금 양념 돼지고기 꼬치, 맛있지~
+404	"シーズニング中やね。サビ止めを
 落として、オリーブオイルを塗るんや"	"正在開鍋中哦。把防鏽塗膜
 刷掉，塗上橄欖油。"	"Seasoning in progress! Remove the
 anti-rust layer and apply olive oil."	"시즈닝 중이네. 녹 방지제를 지우고
 올리브 오일을 발라야 한데이"
-402	あの匂い…思い出すのも辛いぜ	那個氣味……光是想起就難受。	It hurts to even remember this smell...	그 냄새… 떠올리기만 해도 괴롭군
-403	"キャンプの約束してたときだな
+405	あの匂い…思い出すのも辛いぜ	那個氣味……光是想起就難受。	It hurts to even remember this smell...	그 냄새… 떠올리기만 해도 괴롭군
+406	"キャンプの約束してたときだな
 体調には気をつけろよ、なでしこ"	"是在約露營的時候吧。
 要注意健康哦，撫子。"	"Always watch your health after making
 arrangements to go camping, Nadeshiko."	"캠핑 약속을 했었던 때구나
 몸 관리 잘하고 다녀, 나데시코"
-404	"いいなー
+407	"いいなー
 今度キャンプで作ってもらおうっと"	"真好──
 下次露營時請她做吧。"	"That looks nice... I'll have her make
 me some on the next camping trip."	"좋아 보여~
 다음 캠핑 때 만들어 달라고 해야지"
-405	"犬みくじ可愛いねー！
+408	"犬みくじ可愛いねー！
 私も引いてみたいな"	"狗寶籤好可愛──！
 我也想抽抽看。"	"The doggy fortune slips were so cute!
 I wish I could have a go."	"강아지 운세뽑기, 귀엽다~!
 나도 해보고 싶어"
-406	"梨っ子あきちゃんのほうとう
+409	"梨っ子あきちゃんのほうとう
 おいしかったなぁ"	"山梨人小明做的餺飥
 好好吃哦！"	"The hoto Aki-chan made was so delicious.
 She's a Yamanashi girl after all!"	"나시코 아키의 호토
 맛있었어~"
-407	"変な夢だったな
+410	"変な夢だったな
 犬にサラダ食べられるし…"	"真是個怪夢，
 沙拉還被狗吃了……"	"A dog eating salad was the weirdest
 dream..."	"이상한 꿈이었지
 개한테 샐러드도 뺏기고…"
-408	"うんうん、この髪型
+411	"うんうん、この髪型
 うまくできたなぁ"	"很好很好，這髮型
 做得很成功喔。"	"Now that's the kind of hairstyle I
 like to see."	"응 응, 이 헤어스타일
 잘 만들었어~"
-409	"危うく４０００円
+412	"危うく４０００円
 払うところだったぜ…"	"差點就付了
 4000日圓啊……"	"I almost found 4,000 yen...
 "	"하마터면 4천 엔이나
 낼 뻔했다구…"
-410	ちくわ、めっちゃ顔濃くなっとる…	竹輪的五官變得好立體……	Chikuwa's face became so intense...	"치쿠와, 이목구비가
+413	ちくわ、めっちゃ顔濃くなっとる…	竹輪的五官變得好立體……	Chikuwa's face became so intense...	"치쿠와, 이목구비가
 억수로 뚜렷해졌데이…"
-411	"ちくわは足が速いねー！！
+414	"ちくわは足が速いねー！！
 全然追いつけなかったよ"	"竹輪跑得好快──！！
 完全追不上啊！"	"Chikuwa was too fast for me to catch!
 "	"치쿠와, 달리기 잘하더라~!!
 결국 못 잡았었어"
-412	"肉うますぎて
+415	"肉うますぎて
 つい牛に感謝しちまうよな"	"肉實在太好吃了，
 令我不禁感謝起牛來。"	"Beef is so tasty I can't help but be so
 grateful for them..."	"고기가 너무 맛있어서
 나도 모르게 소한테 감사하게 되더라"
-413	"山梨のお土産に
+416	"山梨のお土産に
 おひとついかがですかー？"	"山梨特產喔，
 要不要買一個啊──？"	"Would you like a Yamanashi specialty
 souvenir?"	"야마나시에 들렀을 때
 기념품으로 하나 어떠신가요~?"
-414	"カフェ犬山で犬カフェ？からの
+417	"カフェ犬山で犬カフェ？からの
 家族全員戌年…信じちゃうところだったよ"	"咖啡廳犬山是狗狗咖啡廳？
 全家人還都是狗年生……我差點就相信了。"	"Cafe Inuyama, dog cafe, whole family
 born in the year of the dog? No way!"	"카페 이누야마부터 강아지 카페?에
 가족 전원 개띠… 믿을 뻔했었어"
-415	"あきが初日の出の時間間違えてた時やな。
+418	"あきが初日の出の時間間違えてた時やな。
 やられたわー"	"是小明弄錯元旦的日出時間那次吧。
 搞砸了啦──"	"Aki got the time for the sunrise wrong
 and we were all bummed."	"아키가 새해 첫날 일출 시간을 잘못
 알았을 때 아이가, 한방 먹었었제~"
-416	"浜名湖を自転車でぐーるぐる…
+419	"浜名湖を自転車でぐーるぐる…
 なでしこの持久力の秘密はこれだな"	"騎自行車繞濱名湖……
 這就是撫子耐力超強的祕密啊。"	"Going around Lake Hamana on a bicycle...
 Must be how Nadeshiko gets her stamina."	"하마나호를 자전거로 빙글빙글…
 나데시코의 지구력은 그렇게 다져진 건가"
-417	一時間100円だからねっ	一小時100日圓哦！	That'll be 100 yen per hour!	1시간당 100엔이야!
-418	"ドギーテントって
+420	一時間100円だからねっ	一小時100日圓哦！	That'll be 100 yen per hour!	1시간당 100엔이야!
+421	"ドギーテントって
 かなり作りが凝ってるんだよねー"	"狗狗帳篷
 作工真好耶──"	"This is pretty good craftsmanship for
 a doggy tent."	"도기 텐트는 상당히 공들여서
 만들었다는 느낌이 나더라"
-419	"念願のランタンを買った時やね
+422	"念願のランタンを買った時やね
 なでしこちゃん、いい顔してるなぁ"	"是買到期待已久的露營燈那時呢。
 撫子的表情好棒哦～～"	"Nadeshiko looked so satisfied when she
 bought the lantern she'd always wanted."	"그래 바라던 랜턴 샀을 때네
 나데시코, 표정도 좋아보인데이~"
-420	"まさか椅子がハンモックの
+423	"まさか椅子がハンモックの
 代わりになるなんて…驚きだよね"	"沒想到椅子竟然
 可以取代吊床……太令我驚訝了。"	"Using a chair as a hammock is...
 mind-blowing!"	"설마 의자를 해먹 대신
 쓸 수도 있었다니… 놀라워"
-421	鍋しこちゃんはみんなの嫁なんやなぁ	小鍋子是大家的老婆呢～～	Nabeshiko belongs to everyone!	나베시코는 모두의 신부인 기라~
-422	"岬の先でキャンプチェア
+424	鍋しこちゃんはみんなの嫁なんやなぁ	小鍋子是大家的老婆呢～～	Nabeshiko belongs to everyone!	나베시코는 모두의 신부인 기라~
+425	"岬の先でキャンプチェア
 使ってみたかった…"	"想在海角前端使用
 露營椅試試看……"	"I wanted to use this camp chair
 at the cape..."	"곶 끄트머리에서 캠핑 체어
 한번 써보고 싶었어…"
-423	"メタル賽銭箱もあることだし
+426	"メタル賽銭箱もあることだし
 しまりん様にお祈りしないとね"	"有鋼鐵賽錢箱，
 得向志摩凜大人祈禱才行。"	"We must pray to Lady Shimarin at this
 metal offering box."	"메탈 세전함도 있고 하니
 시마린 님께 기도를 올려야겠네"
-424	"しぐれ焼きへの
+427	"しぐれ焼きへの
 プレッシャーやばいな"	"時雨燒承受的
 壓力可真不小啊。"	"That's a lot of pressure on poor ol'
 shigureyaki."	"시구레 요리사한테 주는
 압박감이 장난 아니네"
-425	"きれいな景色は最後に
+428	"きれいな景色は最後に
 とっておくほうが感動するもんなぁ"	"漂亮的景色
 要留在最後才令人感動啊～～"	"Saving the best for the last leaves the
 most impact."	"아름다운 경치는 제일 마지막에 봐야
 더 감동적인 기라~"
-426	"カリブーくんとのキャンプ…
+429	"カリブーくんとのキャンプ…
 いつか行ってみたいなぁ"	"和卡利布君一起去露營……
 希望有天能成行啊～～"	"Camping with Caribou...
 Maybe one day..."	"카리부 군이랑 같이 가는 캠핑…
 언젠가 해보고 싶데이~"
-427	"キャンプ場に行ったことは
+430	"キャンプ場に行ったことは
 誰にも言ってないのに…"	"我明明沒有告訴任何人
 我去了露營場……"	"I didn't tell anyone I was going
 camping..."	"캠핑장에 갔다고
 아무한테도 말 안 했었는데…"
-428	"大塩平八郎と同じ誕生日なんて
+431	"大塩平八郎と同じ誕生日なんて
 二人ともいい日に生まれたよなー"	"竟然和大塩平八郎同一天生日，
 你們兩個都是在好日子出生呢──"	"Same birthday with Heihachiro Oshio?
 What a great day that was!"	"오시오 헤이하치로랑 생일이 같다니
 둘 다 기념적인 날에 태어났네~"
-429	やー！！	嗨──！！	Yaaar!	얍~!!
-430	恵那ちゃん、落書きうまいなぁ	小惠那，妳好會塗鴉哦～～	Ena's such a good doodler.	에나, 낙서 실력이 좋데이~
-431	何の戦いなんだよ一体…	這到底是在爭什麼啊……？	What sort of a match is this?	이건 또 무슨 싸움이야…
-432	禁酒って、そんなに辛いんですね…	想不到禁酒竟然這麼辛苦啊……	I didn't know it was that tough...	금주라는 게, 그렇게나 힘든 거였군요…
-433	エビ作戦…名前だけでもおいしそうだね！！	蝦子作戰……光聽就覺得很好吃呢！！	That name sounds like a riot already!	"새우 작전…
+432	やー！！	嗨──！！	Yaaar!	얍~!!
+433	恵那ちゃん、落書きうまいなぁ	小惠那，妳好會塗鴉哦～～	Ena's such a good doodler.	에나, 낙서 실력이 좋데이~
+434	何の戦いなんだよ一体…	這到底是在爭什麼啊……？	What sort of a match is this?	이건 또 무슨 싸움이야…
+435	禁酒って、そんなに辛いんですね…	想不到禁酒竟然這麼辛苦啊……	I didn't know it was that tough...	금주라는 게, 그렇게나 힘든 거였군요…
+436	エビ作戦…名前だけでもおいしそうだね！！	蝦子作戰……光聽就覺得很好吃呢！！	That name sounds like a riot already!	"새우 작전…
 이름만 들어도 맛있을 것 같아!!"
-434	"温泉はあったかいから
+437	"温泉はあったかいから
 ついついのまれちゃいそうになるよね"	"溫泉很溫暖，
 所以不知不覺就深陷其中啊。"	"It's so easy to lose track of time in
 the warm embrace of a hot spring..."	"온천은 따뜻하니까 들어가 있으면
 자꾸만 잡아먹힐 듯한 느낌이 들어"
-435	本当はしてないからな、家出	其實並沒有離家出走。	I didn't, though.	실제로는 안 했거든, 가출
-436	"先生、お酒は温泉から
+438	本当はしてないからな、家出	其實並沒有離家出走。	I didn't, though.	실제로는 안 했거든, 가출
+439	"先生、お酒は温泉から
 帰ってきてからにしてくださいねー"	"老師，要喝酒請先
 泡完溫泉回來後再喝──"	"Ms. Toba, please leave the alcohol until
 after the hot spring."	"선생님, 술은 온천 갔다 와서
 마시도록 해요~"
-437	"口ん中が全部
+440	"口ん中が全部
 エビエビエビのエビだらけやったなー"	"嘴巴裡全部
 都是蝦子蝦子蝦子除了蝦子還是蝦子──"	"Her mouth was full of lobsters.
 "	"입 속이 온통
 새우와 새우의 새우 잔치였제~"
-438	"なんでおまえら
+441	"なんでおまえら
 そんなに揃ってんだよ…"	"為什麼你們
 會這樣聚在一起啊……？"	"Why're you guys so in sync with
 each other?"	"너희들 왜 그러고
 모여 있는 거야…"
-439	期待に満ちた顔…ってやつだな	真是一臉充滿期待的表情啊……	She's full of anticipation.	기대로 가득찬 얼굴… 이네
-440	そのカップ、ココアでも入ってるのか？	那個杯子裡面裝著熱可可嗎？	Is that hot chocolate in the cup?	그 컵, 혹시 코코아 같은 거 들어있나?
-441	"寒いなかで飲むあったかい飲み物…
+442	期待に満ちた顔…ってやつだな	真是一臉充滿期待的表情啊……	She's full of anticipation.	기대로 가득찬 얼굴… 이네
+443	そのカップ、ココアでも入ってるのか？	那個杯子裡面裝著熱可可嗎？	Is that hot chocolate in the cup?	그 컵, 혹시 코코아 같은 거 들어있나?
+444	"寒いなかで飲むあったかい飲み物…
 ええよねぇ"	"在冷天喝熱呼呼的飲料……
 真棒呢。"	"Nothing beats a hot drink on a
 cold day..."	"추운 곳에서 마시는 따뜻한 음료…
 맛있다 아이가"
-442	"焚き火で焼いたマシュマロ…
+445	"焚き火で焼いたマシュマロ…
 また食べたくなっちゃった"	"用篝火烤的棉花糖……
 我又想吃那個了。"	"Makes me feel like toasting marshmallow
 over a campfire again..."	"모닥불로 구운 마시멜로…
 또 먹고 싶어졌어"
-443	とろーり伸びたマシュマロ、おいしそう…！	融化拉長的棉花糖看起來好好吃……！	The melting marshmallows were so good!	주욱 늘어난 마시멜로, 맛있겠다…!
-444	"おいおい…
+446	とろーり伸びたマシュマロ、おいしそう…！	融化拉長的棉花糖看起來好好吃……！	The melting marshmallows were so good!	주욱 늘어난 마시멜로, 맛있겠다…!
+447	"おいおい…
 外でよだれ垂らして寝るなよー"	"喂喂……
 不要在外面睡到流口水啊──"	"Hey now... Don't go drooling in your
 sleep outside."	"이것 참…
 밖에서 침 흘리고 자고 그러지 마~"
-445	"リン、楽しそうだねー。
+448	"リン、楽しそうだねー。
 今度目の前でやってもらおうっと"	"凜看起來好開心哦──
 下次請她在我面前試試看吧。"	"Rin sure is having fun. I'll get her to
 do it in front of me next time."	"린, 즐거워 보여~
 다음엔 눈앞에서 직접 보여달라 해야지"
-446	"カレーめんを食べたときか。
+449	"カレーめんを食べたときか。
 …ところで、何故うれしそうだったんだ？"	"是吃咖哩泡麵的時候嗎？
 ……欸，妳為什麼看起來很開心啊？"	"When she was eating the curry noodles...
 Why does she look so happy though?"	"카레면 먹었을 때네
 …근데, 그걸 왜 기뻐했었어?"
-447	"夜のふじさんに
+450	"夜のふじさんに
 思いを馳せるリンちゃんなのであった…"	"小凜對夜晚的富士山
 浮現出無限想像……"	"Rin getting nostalgic about Mount Fuji
 at night..."	"한밤의 후지산에게
 자꾸만 마음이 가는 린이었다…"
-448	"野クル設立の発端になった
+451	"野クル設立の発端になった
 あきの強い思いのイメージやな"	"明這樣強烈的意志，
 也是野活組成立的原動力呢。"	"You can see Aki's strong feelings that
 kicked off the Outclub."	"야클 설립의 계기가 됐던
 아키의 뜨거운 마음이 담겨있데이"
-449	"斉藤のおせっかい焼きが発端で
+452	"斉藤のおせっかい焼きが発端で
 なでしこたちに見つかったんだっけ"	"是因為齊藤雞婆，
 所以才會被撫子妳們找到的吧？"	"This was when Nadeshiko found me because
 of Saito's nosiness, huh?"	"사이토의 오지랖을 계기로
 나데시코랑 애들한테 들켰었던가"
-450	"私もちくわも
+453	"私もちくわも
 お布団の誘惑には勝てないんだよねー"	"我和竹輪
 都敵不過棉被的誘惑呢──"	"Both Chikuwa and I lost our battle
 against our comfy beds."	"나도 치쿠와도
 이불의 유혹은 이길 수가 없어~"
-451	"ふじさん越しの日の出
+454	"ふじさん越しの日の出
 とってもまぶしくてきれいだったなぁ"	"從富士山後面升起的太陽
 好耀眼好漂亮哦～～"	"The sunrise looks so much brighter
 coming up behind Mount Fuji."	"후지산 너머로 비친 일출
 너무나도 눈부시고 아름다웠어"
-452	"お母さんがバイク乗ってた頃の写真…
+455	"お母さんがバイク乗ってた頃の写真…
 いつ見せてもらおうかな"	"媽媽騎機車時的照片……
 什麼時候要請她讓我看看呢？"	"A photo of mum on a bike...
 When will she show it to me?"	"엄마가 오토바이 타던 시절의 사진…
 언제 보여달라고 할까"
-453	"野クルの記念すべき初キャンプは
+456	"野クルの記念すべき初キャンプは
 この駅から始まったんだよなー"	"野活組值得記念的第一次露營，
 就是從這個車站開始的──"	"The Outclub's very first camping trip
 started from this station!"	"기념할 만한 야클의 첫 캠핑은
 이 역에서부터 시작됐단 말이지~"
-454	"野クル初のキャンプ
+457	"野クル初のキャンプ
 わくわくしたのを覚えとるわぁ"	"野活組第一次露營，
 我還記得當時好興奮呢～～"	"I still clearly remember how excited I
 felt that day."	"야클의 첫 캠핑
 가슴이 막 두근거렸던 기억이 난데이~"
-455	"野クル三人での初キャンの日
+458	"野クル三人での初キャンの日
 私　遅刻しちゃったんだよね～"	"野活組三人第一次露營的日子，
 我還遲到了呢～～"	"I was late to the Outclub's first
 camping trip..."	"야클 멤버 3명이서 갔던 첫 캠핑 날인데
 나 이날 지각했었지~"
-456	"野クルから笛吹公園のカフェの
+459	"野クルから笛吹公園のカフェの
 アイスの写真が送られてきたんだよな"	"野活組傳了笛吹公園咖啡廳的
 冰淇淋的照片。"	"They sent me a picture of the ice-cream
 at Fuebuki Park's cafe."	"야클 멤버들이 후에후키 공원 카페의
 아이스크림 사진을 보냈었지"
-457	"メガネなしのあきの姿が見られる
+460	"メガネなしのあきの姿が見られる
 ほっとけや温泉は貴重やでー"	"可以看到明不戴眼鏡的樣子，
 別管我溫泉還真是寶貴啊──"	"A precious sight we saw that day:
 Aki without glasses!"	"안경 안 쓴 아키의 얼굴을 볼 수 있는
 냅둬라 온천, 귀중하데이~"
-458	"ほっとけや温泉
+461	"ほっとけや温泉
 露天風呂も眺めも最高だったよなー！"	"別管我溫泉的
 露天浴池和景觀都超棒的──！"	"The outdoor bath here had a fantastic
 view!"	"냅둬라 온천이라
 노천탕도 경치도 최고였었지~!"
-459	"温泉から見るふじさん
+462	"温泉から見るふじさん
 とってもいい眺めだったよー"	"從溫泉看到的富士山，
 非常漂亮呢──"	"It was so nice to gaze at Mount Fuji
 from the hot spring..."	"온천에서 보는 후지산
 말 그대로 절경이었어~"
-460	"図書室での焼き肉が無理なら
+463	"図書室での焼き肉が無理なら
 中庭かキャンプ場に行くしかないかー"	"如果不能在圖書館烤肉的話，
 那就只能去中庭或露營場了啊──"	"If we can't do it in the library, we'll
 just have to use the yard or a campsite."	"도서실에서 야키니쿠가 안 된다면
 안뜰이나 캠핑장에 갈 수밖에 없겠네~"
-461	"床で寝てるなでしこを見つけて
+464	"床で寝てるなでしこを見つけて
 一発蹴りを入れたんだっけな。まったく…"	"看到撫子在地板上睡覺的樣子，
 記得好像踹了她一腳吧。真是的……"	"I found Nadeshiko sleeping on the floor
 and kicked her. Sigh..."	"바닥에서 자던 나데시코를 발견해서
 발차기를 한방 먹여줬었지, 으이그…"
-462	"なでしこのお姉さんって美人だよな
+465	"なでしこのお姉さんって美人だよな
 …妹はむにゃっとしてるけど"	"撫子的姊姊真是個大美女呢。
 ……不過妹妹就走鐘了。"	"Nadeshiko's older sister is so pretty.
 Whereas Nadeshiko's fast asleep..."	"나데시코의 언니, 다시 봐도 미인이야
 …여동생 쪽은 우물거리고 있지만"
-463	"バイト中のあおいちゃんだ！
+466	"バイト中のあおいちゃんだ！
 ゼブラでレジを担当してるんだよね"	"小葵正在打工耶！
 她在ZEBRA負責收銀呢。"	"Aoi at work! She's handling the till at
 a Zebra store."	"알바하는 아오이다!
 제브라에서 계산원 일을 하고 있댔지"
-464	"あの時分けてもらった肉
+467	"あの時分けてもらった肉
 めっちゃくちゃウマかったんだよ"	"當時他給我吃的肉
 真的是亂好吃一把的。"	"The meat he shared with us that day was
 delicious!"	"그때 나눠 주셨던 고기
 진짜 엄청 맛있었다니까"
-465	"これが鳥羽先生の真の姿…
+468	"これが鳥羽先生の真の姿…
 なかなかのインパクトだよね"	"這就是鳥羽老師的真面目……
 還真是相當令人震驚呢。"	"This is Ms. Toba's true self... I must
 say it made quite an impact on me."	"이게 토바 선생님의 진짜 모습…
 충격이 꽤 컸었지"
-466	"あきがおしゃれキャンパーに憧れて
+469	"あきがおしゃれキャンパーに憧れて
 スキレットやら買うてきた時やね"	"明因為很憧憬時尚露營玩家，
 所以買了鑄鐵鍋，這是那時的事啊。"	"Aki bought this skillet because she
 wanted to camp in style."	"아키가 패션 캠핑러를 동경한다고
 스킬렛하고 이것저것 막 사 왔던 때네~"
-467	"あおいちゃん
+470	"あおいちゃん
 この服すっごく似合ってるなぁ"	"小葵，
 妳穿這樣很好看哦～～"	"This looks so good on you, Aoi!
 "	"아오이
 이 옷 엄청 잘 어울리네"
-468	"試着した服はいいとして
+471	"試着した服はいいとして
 そのポーズはなんなんだ？"	"試穿的衣服是沒問題，
 但妳那是什麼姿勢啊？"	"The clothing's fine but what's with
 that pose?"	"시착한 옷은 그렇다 쳐도
 그 포즈는 뭐야?"
-469	"あったかそうな帽子やったなぁ。
+472	"あったかそうな帽子やったなぁ。
 うんうん、似合っとるでー"	"這帽子感覺好溫暖哦～～
 不錯不錯，很好看哦──"	"That hat looks nice and warm.
 It's perfect on you, yes!"	"따셔 보이는 모자였데이
 응 응, 잘 어울린다 아이가~"
-470	"カリブーで運命の出会いが
+473	"カリブーで運命の出会いが
 あったんだよねぇ…懐かしいな"	"在Caribou發生了命中注定的
 相遇……真令人懷念。"	"The day I had a fateful encounter at
 Caribou... This brings back memories."	"카리부에서 운명의 만남이
 있었지… 그립다~"
-471	"鳥羽先生、まさか酒屋で
+474	"鳥羽先生、まさか酒屋で
 グビ姉なんてあだ名がついとるとはなぁ"	"沒想到鳥羽老師
 竟然在酒館有酒鬼大姊的綽號呢～～"	"I can't believe Ms. Toba's nickname at
 the bar is the Guzzling Gal."	"토바 선생님, 주류점에서 벌컥 누님으로
 불리고 있는 줄은 몰랐데이"
-472	"渡した時には全然思ってなかったぞ。
+475	"渡した時には全然思ってなかったぞ。
 この後、ほうとうを作るハメになるとは…"	"我在拿過去的時候完全沒想到喔。
 結果之後竟然演變成是我要做餺飥……"	"At this time, I had no idea I'd end up
 having to make hoto after this..."	"건네줬을 때는 전혀 생각하지 못했지
 이후에 내가 호토를 만들게 될 줄은…"
-473	"おぉー、ちっちゃいわんこ達に
+476	"おぉー、ちっちゃいわんこ達に
 リンのテンションが爆上がりだね"	"喔喔──這些小小狗
 讓凜這麼嗨啊。"	"Wow, all those puppies are making Rin go
 crazy inside in a good way!"	"오오~ 쪼끄만 멍멍이들 때문에
 린도 마음을 억누르질 못하네~"
-474	"素直じゃなくて悪かったな。
+477	"素直じゃなくて悪かったな。
 …まあ、あの時の誘いには感謝してるよ"	"抱歉啊，我很不坦率。
 ……嗯，謝謝妳那時有邀我。"	"Sorry for being obstinate. But thank you
 for inviting me that day."	"솔직하지 못해 미안하게 됐네. …뭐,
 그때 같이 가자고 한 건 지금도 고마워"
-475	おやつは好きなだけ、持ってきてよーし！！	可以盡量帶喜歡的點心過來！！	Bring as many snacks as you like!	간식은 원하는 만큼 가져와도 좋다~!!
-476	"プレゼント交換の提案をしたら
+478	おやつは好きなだけ、持ってきてよーし！！	可以盡量帶喜歡的點心過來！！	Bring as many snacks as you like!	간식은 원하는 만큼 가져와도 좋다~!!
+479	"プレゼント交換の提案をしたら
 三人の目が点になっておもしろかったっけ"	"我記得提議要交換禮物的時候，
 三個人都一副傻眼的樣子，很有趣。"	"It was funny watching their jaws drop
 when I suggested exchanging gifts."	"선물 교환은 어떠냐고 제안했더니
 셋이서 눈이 점처럼 동그래진 게 웃겼었어"
-477	"かっこよくキメたつもりだったんだけどな～
+480	"かっこよくキメたつもりだったんだけどな～
 えへへ～"	"我覺得這樣表現還蠻帥的～～
 耶嘿嘿～～"	"Hey, I really thought that was a cool
 pose! Tee hee!"	"너희들 앞에서 멋있게 보이고 싶었는데~
 에헤헤~"
-478	"焼きマシュマロとチョコビスで
+481	"焼きマシュマロとチョコビスで
 あんなにおいしくなるってすごいよーっ"	"烤棉花糖和巧克力餅乾
 竟然會變得那麼好吃，好厲害哦──！"	"I had no idea toasted marshmallows and
 chocolate chips went so well together!"	"구운 마시멜로와 초코 비스킷으로
 그렇게나 맛있는 요리가 되다니 놀라워~"
-479	"ウサ耳ちくわ、元気いっぱいで
+482	"ウサ耳ちくわ、元気いっぱいで
 楽しそうだったなー"	"兔耳竹輪很有精神，
 看起來很開心呢──"	"Chikuwa in rabbit ears. He was so
 energetic and happy!"	"토끼귀 치쿠와, 기운도 넘치고
 즐거워 보였지~"
-480	"クリキャンの時だねー。
+483	"クリキャンの時だねー。
 みんなをちくわに会わせられてよかったよ"	"這是聖誕露營的時候對吧──
 能讓大家見到竹輪真是太好了。"	"This was during our Christmas camping?
 I'm glad everyone got to meet Chikuwa."	"크리캠 때구나~ 너희들과 치쿠와를
 만나게 해줄 수 있어서 다행이었어"
-481	"洋風にリメイクされた割り下の
+484	"洋風にリメイクされた割り下の
 トマトすき焼き、ウマかった…！"	"用改成西式風味的鍋底做的
 蕃茄壽喜燒，真的好好吃啊……！"	"Western-style sukiyaki tomato stock
 shouldn't taste this good!"	"서양식으로 리메이크한 와리시타 소스
 토마토 스키야키… 맛있었어…!"
-482	"星空の下のリンちゃん
+485	"星空の下のリンちゃん
 妖精さんみたいやなぁ"	"星空下的小凜，
 就像妖精一樣呢～～"	"Rin looked like a little fairy under the
 starry night."	"별하늘 밑에 있는 린
 요정님처럼 보인데이~"
-483	"ちくわといろんな所に
+486	"ちくわといろんな所に
 キャンプをしに行ってみたいな"	"真希望能和竹輪一起
 去很多不同的地方露營呢。"	"I wanna go camping with Chikuwa in
 as many places as I can!"	"치쿠와랑 함께 더 많은 곳을
 캠핑하러 가보고 싶어"
-484	"焚き火を囲んでおしゃべりして…
+487	"焚き火を囲んでおしゃべりして…
 みんな、ええ笑顔やね"	"圍著篝火聊天……
 大家的笑容都很棒呢。"	"Chatting by the campfire puts a great
 smile on everyone's faces."	"모닥불을 에워싸고 같이 수다 떨고…
 다들 웃는 얼굴이 예쁘데이"
-485	"このふじさんを見た時から
+488	"このふじさんを見た時から
 いろんなことが始まった気がするよ"	"我覺得從我看到這個富士山時，
 許多事就開始動了起來。"	"This view of Mount Fuji opened up many
 new paths for me."	"이 후지산을 봤을 때가
 많은 일들의 시작이 된 듯한 느낌이 들어"
-486	"ピンク色の富士山…
+489	"ピンク色の富士山…
 今度はみんなを誘って見に行くか"	"粉紅色的富士山……
 下次邀大家一起去看吧。"	"A pink Mount Fuji... I should ask
 everyone to come along next time."	"핑크색 후지산…
 다음엔 다 같이 보러 가자고 할까"
-487	"雄大な夜の富士山を目の前に
+490	"雄大な夜の富士山を目の前に
 語り合う二人なのであった…ってか？"	"夜晚雄偉的富士山佇立眼前，
 兩人開懷談天說地……是嗎？"	"Chatting in front of this amazing view
 of Mount Fuji at night, huh?"	"웅대한 한밤의 후지산을 눈앞에 두고
 이야기를 나누는 둘이었다… 이려나?"
-488	"この日作ったスープパスタ
+491	"この日作ったスープパスタ
 初めてにしては良くできたと思う"	"這天做的義大利湯麵，
 以第一次來說我覺得很不錯了。"	"I did a pretty good job with the soup
 pasta considering it was my first time."	"이날 만들었던 수프 파스타
 처음 치곤 꽤 잘 만들었다고 생각해"
-489	"二人が撮った夜景
+492	"二人が撮った夜景
 どっちもすごく綺麗だね"	"你們兩人拍的夜景
 都好漂亮哦。"	"They both took lovely pictures of the
 night view."	"서로 각각 찍었던 야경
 둘 다 엄청 예뻐"
-490	"四尾連湖の紅葉、綺麗やねー。
+493	"四尾連湖の紅葉、綺麗やねー。
 私も見に行かなあかんなぁ"	"四尾連湖的楓葉好漂亮哦──
 我也得去欣賞才行呢～～"	"The autumn leaves of Lake Shibire are
 mesmerizing. I must go in person!"	"시비레호의 단풍, 예쁘데이~
 내도 함 보러 가야겠다 아이가"
-491	"湖畔の夜の景色っていいよな。
+494	"湖畔の夜の景色っていいよな。
 ほんと、アレさえ出なければ…ううう…"	"湖畔夜景還真不錯呢。
 真的不錯，只要那個不出現的話……嗚嗚嗚……"	"The amazing lakeside view would've been
 perfect if that thing hadn't appeared..."	"밤의 호숫가는 경치가 좋단 말이지
 진짜 그것만 안 나와준다면… 으으…"
-492	"四尾連湖のボート
+495	"四尾連湖のボート
 今度は誰かと乗ってみたいなー"	"四尾連湖的船。
 下次想和其他人一起搭船看看──"	"I really hope I can take the boat over
 Lake Shibire with someone next time..."	"시비레호의 보트
 다음번엔 아무나하고 같이 타보고 싶어~"
-493	"改めて見ても、本当にきれい…
+496	"改めて見ても、本当にきれい…
 みんなで見ることができてよかったね"	"現在再看還是覺得好美……
 能和大家一起欣賞真的好棒。"	"It's always so beautiful. Glad I could
 enjoy it with everyone."	"다시 봐도 정말 예뻐…
 다 같이 볼 수 있어서 다행이었어"
-494	"ブランケットに包まると
+497	"ブランケットに包まると
 ぬくぬくで最高ですぞーふっひっひー"	"在毛毯包覆下，
 暖呼呼的好舒服喔──呵嘻嘻──"	"It feels great to be wrapped up in a
 warm and cozy blanket, tee hee!"	"블랭킷에 감싸여 있으면
 뜨끈뜨끈하니 최고랍니다~ 후히힛~"
-495	"サンタクレンジャーに変身したの
+498	"サンタクレンジャーに変身したの
 クリスマスっぽくて、楽しかったなー"	"變身成聖誕戰隊，
 很有聖誕氣氛，好開心──"	"It was fun and totally Christmas-y to
 transform into Santa Claus Rangers!"	"산타크레인저로 변신했던 그날
 크리스마스 분위기도 나고 재밌었지~"
-496	"キャンプの夜はやっぱりこれ！
+499	"キャンプの夜はやっぱりこれ！
 いろんなジャンルの動画があっていいぞ"	"露營之夜就是要看片啦！
 有各種類型的影片，很棒哦！"	"Watching all sorts of videos at night is
 part of the genuine camping experience!"	"캠핑 날 밤에는 역시 이거지!
 장르도 다양하니 골라보기도 좋아"
-497	"朝ごはんを食べながら
+500	"朝ごはんを食べながら
 みんなで見た日の出…きれいやったなぁ"	"大家一起一邊吃早餐
 一邊欣賞日出……好漂亮哦～～"	"Admiring the sunrise together during
 breakfast was an amazing experience."	"다 같이 아침밥 묵으면서
 봤던 일출… 참 예뻤데이"
-498	"これからも多くの絶景を見るために…
+501	"これからも多くの絶景を見るために…
 野クルの海外進出、本格的に考えるぞ！"	"為了今後能看到更多的絕景……
 我要認真考慮野活組邁向國際喔！"	"I'm seriously considering going overseas
 with the Outclub for more scenic sights!"	"앞으로도 더 많은 절경을 볼 수 있도록…
 야클의 해외 진출도 본격적으로 고려하겠어!"
-499	"おいしいおやつとお茶…
+502	"おいしいおやつとお茶…
 ほっこりするね"	"好吃的點心和好喝的茶……
 讓人好放鬆啊。"	"Delicious snacks and tea heal my soul...
 "	"맛있는 간식과 차…
 미소가 절로 지어져"
-500	のんびりくつろぐのもいいよな	一邊放鬆也很不錯呢。	Lounging around in relaxation is the life.	그냥 느긋하게 있는 것도 좋지
-501	"大人になったら先生の気持ちが
+503	のんびりくつろぐのもいいよな	一邊放鬆也很不錯呢。	Lounging around in relaxation is the life.	그냥 느긋하게 있는 것도 좋지
+504	"大人になったら先生の気持ちが
 わかるのかな？"	"變成大人後就能了解
 老師的心情了嗎？"	"Will I finally understand how Ms. Toba
 feels when I grow up?"	"어른이 되면 선생님 마음도
 이해가 되려나?"
-502	"これからもいろんなキャンプ場に
+505	"これからもいろんなキャンプ場に
 行ってみたいね"	"真希望今後也能去各式各樣的
 露營場看看呢。"	"Let's go camping at other campsites too!
 "	"앞으로도 더 많은 캠핑장에
 가보고 싶어"
-503	"桜さん、あの後温泉入ったんだ…
+506	"桜さん、あの後温泉入ったんだ…
 いいなぁ、私も温まりたくなってきた"	"櫻小姐之後去泡溫泉了啊……
 真好～～我也想去泡了。"	"Sakura went to the hot spring after
 that? I wanted to do that too..."	"사쿠라 씨, 그 후로 온천 갔었구나…
 좋겠다, 나도 몸 담그고 싶어졌어"
-504	この一杯のために生きてるよなぁ	人生就是為了這一杯而活的啊～～	I live for this.	이 한 잔을 위해 살아있단 말이지~
-505	"夏といえば海！
+507	この一杯のために生きてるよなぁ	人生就是為了這一杯而活的啊～～	I live for this.	이 한 잔을 위해 살아있단 말이지~
+508	"夏といえば海！
 海といえば海キャンだねい"	"說到夏天就是海！
 說到海就是海邊露營呢。"	"Nothing says summer like the
 beach and seaside camping!"	"여름하면 역시 바다!
 바다하면 역시 바다 캠핑이지~"
-506	"海鮮バーベキュー
+509	"海鮮バーベキュー
 どれもおいしかったなぁ"	"海鮮烤肉
 每一種都好好吃喔。"	"Seafood and barbecue are a
 match made in camp heaven."	"해물 바비큐
 하나같이 다 맛있었제~"
-507	"一度こいつの間合いに入ったら
+510	"一度こいつの間合いに入ったら
 モフモフを味わうまで離れられんぞ…！"	"只要鑽進這傢伙的懷裡，嘗過一次
 毛茸茸的滋味後，就會離不開了喔……！"	"When you see this guy, it's impossible
 to resist feeling the fluff!"	"일단 이 녀석의 범위 안에 들어갔다면
 폭신함을 맛보기 전까진 벗어날 수 없어…!"
-508	"海キャン
+511	"海キャン
 たくさん遊んだよね"	"海邊露營
 玩得好開心喔。"	"We had a lot of fun doing
 seaside camping."	"바다 캠핑
 신나게 놀았었지"
-509	"新しいギア買った時って
+512	"新しいギア買った時って
 早くキャンプに行きたくなるよな"	"每次買了新的用品後啊，
 就會想趕快找時間去露營呢。"	"I just bought a new piece of gear.
 I can't wait to take this camping."	"새로운 기어를 사게 되면
 빨리 캠핑 가서 써보고 싶어져"
-510	"いつか食べてみたいなぁ。
+513	"いつか食べてみたいなぁ。
 キンキンのしまりんだんごアイス"	"好想吃吃看喔。
 冰冰涼涼志摩凜糰子冰淇淋。"	"Icy cold Shimarin dango ice cream...
 I hope it becomes real someday."	"언젠간 꼭 무보고 싶데이
 꽁꽁 시마린 경단 아이스"
-511	お祭り盛り上がったねっ	祭典的氣氛熱鬧起來了呢。	"I'm excited for the
+514	お祭り盛り上がったねっ	祭典的氣氛熱鬧起來了呢。	"I'm excited for the
 festival!"	다들 재밌게 즐겨줘서 다행이야!
-512	火の後始末は完璧に！	用火過後要確實打掃！	"Clean up the fire
+515	火の後始末は完璧に！	用火過後要確實打掃！	"Clean up the fire
 safely after!"	불을 쓰면 뒷정리도 완벽하게!
-513	残り６００メートルが遠かったなぁ	剩下的600公尺好遠喔。	"The last 600 meters
+516	残り６００メートルが遠かったなぁ	剩下的600公尺好遠喔。	"The last 600 meters
 felt so far."	600m 남은 길이 멀게 느껴졌었제
-514	"アヤちゃんのバイクかっこいいよねえ
+517	"アヤちゃんのバイクかっこいいよねえ
 私も…"	"小綾騎的機車好帥氣喔，
 我也想騎……"	"Aya's bike is cool.
 I kind of want one."	"아야가 타던 오토바이, 멋있었어~
 언젠가는 나도…"
-515	日本の夏を満喫したな	玩遍了夏天的日本。	"I'm satisfied with
+518	日本の夏を満喫したな	玩遍了夏天的日本。	"I'm satisfied with
 my summer."	일본의 여름을 만끽했었어
-516	カピバラもな	水豚也是喔。	And the capybara.	카피바라도 잊으면 섭하지
-517	薪はキャンプの必需品だよね	木柴是露營的必需品呢。	"Firewood is needed
+519	カピバラもな	水豚也是喔。	And the capybara.	카피바라도 잊으면 섭하지
+520	薪はキャンプの必需品だよね	木柴是露營的必需品呢。	"Firewood is needed
 for camping."	장작은 캠핑의 필수품이야!
+521	民族チックな雰囲気の服。	在祭典露營時穿的浴衣。	"Wearing a yukata to
+the festival camp."	축제 캠핑 때 입은 유카타.

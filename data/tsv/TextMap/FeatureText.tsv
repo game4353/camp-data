@@ -1505,6 +1505,281 @@ The more points you earn and the higher in the ranks you climb,
 the better items you'll obtain at the end of the event!"	"이벤트 포인트를 획득하여 이벤트 랭킹에 참가할 수 있습니다.
 이벤트 포인트를 최대한 많이 획득하여, 이벤트 종료 시에 상위 랭킹에 입상할 경우
 순위에 따라 다양한 아이템을 보상으로 받으실 수 있습니다."
+70601	レポキャン夏休み編（仮）	讓我們來製作吧！在 祭典露營	Let's Craft! at Festival Camp	레츠 제작! at 축제 캠프
+70602	レポキャン夏休み編（仮）	讓我們來製作吧！在 祭典露營	Let's Craft! at Festival Camp	레츠 제작! at 축제 캠프
+70603	レポキャン夏休み編（仮）	故事露營「讓我們來製作吧！在 祭典露營」	Story Camp: Let's Craft! at Festival Camp	"스토캠 ""레츠 제작! at 축제 캠프"""
+70604	遊び方詳細	遊戲玩法詳情	How to Play Details	게임 방법 상세
+70605	遊び方1	"■「製作露營」活動
+藉由進行「露營」和「製作」來獲得各種報酬的一種活動，簡稱「製作露營」。
+在舉辦製作露營時，每當露營結束後就能獲得活動點數跟製作素材。
+並且，進行製作後能夠獲得製作點數。
+蒐集活動點數和製作點數就能夠獲得各式各樣的報酬哦。
+
+■活動點數
+參照活動期間中開始並完成的露營，於結束時獲得的評價能夠獲得相應的點數。
+並且，活動點數的獲得量會依照「活動額外效果」或「AP使用量設定」而變動。
+依照所獲得的活動點數，能夠得到「活動點數報酬」。
+此外，當下的活動點數無法保存至其他的活動。
+再者，於活動開始前就進行露營，或是活動結束後才結束露營的場合，將不會獲得活動點數。
+
+■活動額外效果
+當持有附帶活動額外效果的服裝或輔助卡時，
+就能提高活動點數的獲得量。
+從活動頁面能夠確認活動額外效果的詳細內容。
+當持有相同角色的附帶活動額外效果服裝時，
+僅會發揮該角色服裝中附加效果量最高的服裝效果。
+並且，若編入了帶有活動額外效果的好友輔助卡後進行露營時，
+在未持有該輔助卡的狀況下將反映原始效果量的一部分，
+而當玩家自身已持有時則僅反映您擁有的輔助卡的效果量。
+
+■「AP使用量設定」
+能夠在前往露營前的畫面設定「變更AP使用量」。
+當啟用這項設定後，就能依照所消耗的AP量，增加「露營所能獲得的報酬」和「活動點數」的獲得量。
+此外，並不影響活動點數的報酬獲得量。
+
+■EP FEVER
+在活動期間中將在每日的特定時段舉辦「EP FEVER」。
+在舉辦期間內進行露營，所獲得的活動點數就會變成1.5倍。
+只要在EP FEVER期間內開始露營，就算露營結束時EP FEVER已經結束，獲得量也會增加。
+不僅如此，就算在活動期間內的非EP FEVER時段開始露營，只要結束時在舉辦EP FEVER的時間帶之內，獲得量也會增加。
+
+
+■活動點數報酬
+當獲得一定程度的活動點數後就能夠拿到報酬。
+其中包含只能在當下活動才能獲得用品、食譜碎片、搖曳幣（銀）、強化素材
+等多種道具。
+
+■活動排名
+當獲得了活動點數後即會參加活動排名。
+當獲得了大量活動點數，並於活動結束時進入前段名次時，
+就能依照排名來獲得如「活動排名限定稱號」等多種道具。
+排名報酬會在活動結束後的1天之內發送到禮物箱內。
+
+■活動聯動和要事清單
+在活動期間中會以聯動的形式追加要事清單。
+只要達成清單上的項目，就可以獲得用具的碎片和活動專用稱號以及各種其他道具。
+
+■製作素材追加報酬
+舉辦製作露營的期間內，進行露營就能夠獲得大量的製作素材。
+而製作素材追加報酬就是，當露營時所獲得的活動點數越多時，得到的素材數也就越多。
+為此，當透過「活動額外效果」、「AP使用量設定」或是「EP FEVER」來提升活動點數獲得量，
+就能獲得更大量的製作素材追加報酬。
+並且，在「搖曳通行證」免費體驗或「搖曳通行證（7天）」、「搖曳通行證（30天）」的有效期間內，各種素材的獲得量都會變成2倍哦。
+
+■製作點數
+在活動期間中進行製作就能夠獲得製作點數。
+製作點數的獲得量會依照「所製作用品或料理」和「好感度」而變動。
+依照所獲得的製作點數，能夠得到「製作點數報酬」。
+此外，當下的活動點數無法保存至其他的活動。
+再者，於活動開始前，亦或是結束後進行製作，將不會獲得製作點數。
+
+■提高獲得製作點數效率的方法
+可以從選擇欲製作用品或料理的畫面中確認，當製作時所能獲得的製作點數量。
+當舉辦製作露營活動時，就能夠從製作畫面使用依照「製作點數順序」的排序功能。
+並且，當製作時若能引發「大成功」或「超成功」也都能獲得比平常還要更多的製作點數。
+
+■用品設計圖的碎片‧料理食譜的碎片
+在進行活動時，會獲得活動限定的用品和料理的碎片。
+當蒐集到了2個稀有度R，3個稀有度SR的數量後前往製作的畫面
+就能夠完成用品的設計圖以及料理的食譜。
+
+■異色用品‧料理
+這次活動中能夠獲得的「抽籤盒」、「手持式煙火組合包」、「坐墊」
+在製作時若能引發超成功，就能夠獲得不同顏色的特別版本。"	"■ Crafting Camp Event
+During this event, go camping or craft items to receive all kinds of rewards.
+Every time you finish a camping trip, you earn event points and crafting materials.
+Every time you craft an item, you earn crafting points.
+Stand to receive all sorts of rewards by accumulating events points or crafting points.
+
+■ Event Points
+Start a camping trip during the event and earn event points according to your rating when you finish.
+Make use of event bonuses and the AP usage option to receive even more points!
+Accumulate event points to unlock rewards.
+You cannot carry over the event points of one event to another.
+Note that if you started a camping session before an event begins, or finished one after an event has ended, you will not receive any event points for them.
+
+■ Event Bonus
+Having costumes and support cards that give event bonuses
+will increase the amount of event points earned.
+More details on event bonuses can be found on the event page.
+If a character has multiple costumes with event bonuses,
+only the costume with the highest bonus will be applicable.
+Also, when you start the campwith a friend's support card that has an event bonus,
+a portion of the original bonus amount will be reflected if you do not already own one.
+If you do own one, only the bonus amount of the support card you have will be reflected.
+
+■ AP Usage Option
+Before you start camping, you'll see a Adjust AP Consumed button on the screen.
+Use this option to increase the number of event points and rewards obtained at the end of the camping trip.
+Note that using this does not affect the amount of event point rewards gained.
+
+■ EP Fever
+EP Fever happens at fixed times every day during events.
+Camping while it is active will give you 1.5x the Event Points.
+As long as you start camping while EP Fever is active, you will still get the bonus even if it has ended by the time you finish.
+Additionally, if you start camping out of the active period of EP Fever, but you finish camping while EP Fever is active, then you will still get the bonus.
+
+
+■ Event Point Rewards
+Earning a certain amount of event points will allow you to get event point rewards.
+Items such as gears, food fragments, YuruCoin (Silver),
+enhancement materials, etc, can be obtained.
+
+■ Event Ranking
+Earn event points to take part in the event rankings.
+The more points you earn and the higher in the ranks you climb,
+the better items you'll obtain at the end of the event along with a limited time event title.
+Ranking rewards are sent to your Gift Box within 1 day from the end of the event.
+
+■ Event To-Do List
+During the event, an event to-do list will be added.
+Items such as gear fragments and exclusive titles can be obtained by completing the to-do list.
+
+■ Bonus Crafting Materials
+You will obtain plenty of crafting materials when you go camping during the Craft Camping period.
+The more event points you earn during the camping trip, the more bonus crafting materials you will receive.
+Make full use of event bonuses, increased AP usage, or EP Fever mode for a higher amount of event points,
+which results in even more bonus crafting materials.
+If you have a valid Laid-Back Pass (free trial, 7 days, or 30 days), the amount of each materials gained will be doubled.
+
+■ Crafting Points
+Start crafting during the event to earn crafting points.
+The number of crafting points earned differs according to the gear or food being crafted, as well as their fondness level.
+Accumulate crafting points to obtain rewards.
+You cannot carry over crafting points over to another event.
+Note that if you started crafting something before an event begins, or finished one after an event has ended, you will not receive any points for them.
+
+■ How to Earn Crafting Points Efficiently
+Check how many points you can gain by crafting a particular gear or food on the crafting screen itself.
+When the Craft Camping event is on, you will be able to sort items by crafting points awarded.
+You'll also earn more crafting points than usual when you achieve Big Success or Huge Success while crafting something.
+
+■ Gear / Recipe Blueprint Fragments
+You can obtain event-limited gear or recipe fragments during the event.
+After you collect 2 Rare fragments or 3 Super Rare fragments,
+open the Craft screen to automatically complete the blueprint or recipe.
+
+■ Different-Colored Gear / Recipes
+Achieving Huge Success when crafting this event's Lottery, Handheld Fireworks, or Seat Cushion
+will result in a special color edition of the item."	"■이벤트 제작캠
+제작과 캠핑을 플레이하여 다양한 보상을 획득할 수 있는 이벤트를 뜻하는 약칭입니다.
+제작캠 개최 중에 캠핑을 완료하여 이벤트 포인트와 제작 소재를 획득할 수 있습니다.
+또한, 제작을 수행하면 제작 포인트를 획득하게 됩니다.
+이벤트 포인트와 제작 포인트를 최대한 많이 모으고, 포인트에 따른 다양한 보상을 획득하세요.
+
+■이벤트 포인트
+이벤트 기간 중에 캠핑을 시작하고, 기간 중에 완료한 후의 평가 점수를 기준으로 이벤트 포인트를 획득할 수 있습니다.
+또한, 이벤트 포인트 획득량은 이벤트 보너스 및 AP 사용 수량 설정에 따라 변동됩니다.
+이벤트 포인트 획득량에 맞춰 이벤트 포인트 보상을 획득하는 경우도 있습니다.
+이벤트 포인트는 다른 이벤트로 이월되지 않으니 주의하시기 바랍니다.
+또한, 이벤트 개최 전에 캠핑을 시작했거나, 이벤트 종료 후에 캠핑을 완료하였을 경우에는 이벤트 포인트를 획득할 수 없습니다.
+
+■이벤트 보너스
+이벤트 보너스가 포함된 코스튬과 서포트 카드를 소지하면
+이벤트 포인트 획득량이 증가합니다.
+이벤트 보너스의 상세 정보는 이벤트 페이지에서 확인할 수 있습니다.
+같은 캐릭터가 이벤트 보너스를 지닌 코스튬을 여러 개 소지하고 있는 경우,
+해당 캐릭터의 코스튬 중 가장 높은 보너스를 지닌 코스튬의 보너스만 적용됩니다.
+또한, 캠핑 시작 시에 이벤트 보너스를 지닌 친구의 서포트 카드를 편성할 경우,
+해당 서포트 카드를 소지하고 있지 않은 경우에는 원래 보너스량의 일부가 반영되며,
+소지하고 있는 경우에는 소지한 서포트 카드의 보너스량만 반영됩니다.
+
+■AP 사용 수량 설정
+캠핑 시작 전 화면에서 소비 AP 변경하기 설정을 적용할 수 있습니다. 
+해당 설정을 적용하면 지정해 두었던 AP 사용 수량에 따라 캠핑으로 획득 가능한 보상과 이벤트 포인트의 획득량이 증가합니다.
+이벤트 포인트 보상의 획득량에는 영향을 주지 않으니 주의하시기 바랍니다.
+
+■EP 피버
+이벤트 기간 중에는 매일 특정 시간마다 EP 피버가 개최됩니다.
+EP 피버 기간 중에 캠핑을 완료하면 이벤트 포인트 획득량이 1.5배로 증가합니다.
+만약 EP 피버 기간 중에 캠핑을 시작하였을 경우, EP 피버 기간 종료 후에 해당 캠핑을 완료하였더라도 피버 효과가 적용됩니다.
+또한, EP 피버 기간 전에 캠핑을 시작하였을 경우에도, 해당 캠핑의 완료 시점이 EP 피버 기간 내였다면 마찬가지로 피버 효과가 적용됩니다.
+
+
+■이벤트 포인트 보상
+이벤트 포인트를 일정량 이상 획득하면 이벤트 포인트 보상을 수령하는 경우도 있습니다.
+해당 이벤트에서만 입수 가능한 기어와 요리 조각, 유루코인(은), 강화 소재 등
+다양한 아이템을 획득할 수 있습니다.
+
+■이벤트 랭킹
+이벤트 포인트를 획득하여 이벤트 랭킹에 참가할 수 있습니다.
+이벤트 포인트를 최대한 많이 획득하여, 이벤트 종료 시에 상위 랭킹에 입상할 경우
+순위에 따라 이벤트 랭킹 한정 칭호 등의 다양한 아이템을 보상으로 받으실 수 있습니다.
+랭킹 보상은 이벤트 종료 후 1일 이내에 선물 박스로 발송됩니다.
+
+■이벤트 연동 할일 리스트
+이벤트 기간 중에는 이벤트 연동식으로 할일 리스트가 추가됩니다.
+할일 리스트를 달성하면 기어 조각과 이벤트 전용 칭호 등의 다양한 아이템을 획득할 수 있습니다.
+
+■제작 소재 추가 보상
+제작캠 개최 중에는 캠핑으로 획득하는 제작 소재의 양이 증가합니다.
+이러한 제작 소재 추가 보상은 해당 캠핑에서 입수한 이벤트 포인트에 비례하여 더욱 증가하게 됩니다.
+그렇기에 이벤트 보너스와 AP 사용 수량 설정, EP 피버 등의 적용 여부로 이벤트 포인트를 최대한 많이 받을수록,
+제작 소재 추가 보상 또한 더욱 더 많이 획득할 수 있습니다.
+또한, 유루 패스 무료 체험 기간 내, 혹은 유루 패스(7일), 유루 패스(30일) 구매 후 효과 기간 내일 경우, 각 소재의 획득량이 2배로 증가합니다.
+
+■제작 포인트
+이벤트 기간 중에 제작을 수행하여 제작 포인트를 획득할 수 있습니다.
+제작 포인트 획득량은 제작하는 기어와 요리, 애착에 따라서도 변동됩니다.
+제작 포인트 획득량에 맞춰 제작 포인트 보상을 입수하는 경우도 있습니다.
+제작 포인트는 다른 이벤트로 이월되지 않으니 주의하시기 바랍니다.
+또한, 이벤트 개최 전이나 이벤트 종료 후에 제작을 수행하였을 경우에는 제작 포인트를 획득할 수 없습니다.
+
+■제작 포인트를 효율적으로 획득하는 방법
+제작 시에 획득 가능한 제작 포인트는 제작할 기어/요리 선택 화면에서 미리 확인할 수 있습니다.
+제작캠 개최 중에는 제작 화면에서 제작 포인트순으로 목록을 정렬하는 기능이 추가됩니다.
+또한, 제작 시에 대성공, 초성공이 발생했을 경우에는 기본 제작 포인트에 더해 추가 포인트를 획득하게 됩니다.
+
+■기어 설계도 조각・요리 레시피 조각
+이벤트에서는 이벤트 한정 기어 및 요리 조각이 보상으로 제공되는 경우가 있습니다.
+이러한 조각들은 레어리티 R의 경우 2개, SR의 경우 3개를 모으고 제작 화면으로 이동했을 때
+기어 설계도, 요리 레시피가 완성됩니다.
+
+■다른 색의 기어・요리
+이번 이벤트에서 획득 가능한 뽑기 상자, 작은 폭죽 세트, 방석은
+제작했을 때 초성공이 발생했을 경우, 기존과 다른 색의 특별한 아이템을 입수할 수 있습니다."
+70606	遊び方2	遊戲指南	How to Play Guide	게임 방법 가이드
+70607	遊び方3	"在舉辦活動時去露營就能獲得活動點數。
+蒐集到的活動點數可以用來解放活動限定故事，
+或用來獲得活動限定的報酬。"	"Earn event points by camping during the event.
+Collecting event points allows you to unlock stories and rewards
+limited to the event."	"이벤트 개최 중에 캠핑을 완료하여 이벤트 포인트를 획득하세요.
+이벤트 포인트를 모으면 이벤트 한정 스토리를 해방하거나
+이벤트 한정 보상 등을 획득할 수 있습니다."
+70608	遊び方4	"只要有附有活動額外效果的服裝和輔助卡，
+在露營結束時獲得的活動點數就會變多。"	"Having costumes or support cards that give event bonuses increases
+the amount of event points earned for camping."	"이벤트 보너스가 포함된 코스튬과 서포트 카드를 소지하면
+캠핑 종료 시에 획득 가능한 이벤트 포인트의 양이 증가합니다."
+70609	遊び方5	"當舉辦製作露營時前往露營，就能依照所獲得的活動點數
+來得到大量的製作素材。當有活動額外效果時還能再增加，
+而若有購買「搖曳通行證」時素材獲得量還會變成2倍。"	"When you go camping, you will earn plenty of crafting materials
+proportionate to the amount of event points gained. Event bonuses will increase this amount accordingly.
+Purchase the Laid-Back Pass to double the amount earned."	"제작캠 개최 중에 캠핑을 완료하면 획득한 이벤트 포인트에 비례하여
+제작 소재를 대량으로 입수할 수 있습니다. 이벤트 보너스가 있을 경우 보너스에 따라 획득량이 증가하며,
+""유루 패스"" 구매 후 유효 기간 내일 경우에는 그에 더해 획득량이 2배로 증가합니다."
+70610	遊び方6	"在舉辦活動時進行製作就能獲得製作點數。
+蒐集到的製作點數可以用來交換
+活動限定的用品碎片等好康道具。"	"Earn crafting points by crafting items during the event.
+Accumulate crafting points to unlock gear fragments
+limited to the event."	"스토캠 개최 중에 제작을 수행하여 제작 포인트를 획득하세요.
+제작 포인트를 모으면 이벤트 한정 기어 조각 등 특별한 보상을
+획득할 수 있습니다."
+70611	遊び方7	"可參加能夠獲得活動點數的活動排名。
+當獲得了大量活動點數，並於活動結束時進入前段名次時，
+就能依照排名來獲得多種道具。"	"Earn event points to take part in the event rankings.
+The more points you earn and the higher in the ranks you climb,
+the better items you'll obtain at the end of the event!"	"이벤트 포인트를 획득하여 이벤트 랭킹에 참가할 수 있습니다.
+이벤트 포인트를 최대한 많이 획득하여, 이벤트 종료 시에 상위 랭킹에 입상할 경우
+순위에 따라 다양한 아이템을 보상으로 받으실 수 있습니다."
+70650	イキゴミ報酬	Energy Reward	生氣垃圾報酬	에너지 보상
+70651	参加賞	Prize	參加獎	참가상
+70652	1勝	1 Win	1勝	1승
+70653	2勝	2 Wins	2勝	2승
+70654	3勝	3 Wins	3勝	3승
+70655	4勝	4 Wins	4勝	4승
+70656	5勝	5 Wins	5勝	5승
+70657	準優勝	準優勝	準優勝	準優勝
+70658	優勝	優勝	優勝	優勝
 90201	ひろえ！松ぼっくり	拾起來！松果	Pick up! Pinecones	솔방울 줍기!
 90202	ひろえ！松ぼっくり	拾起來！松果	Pick up! Pinecones	솔방울 줍기!
 90203	ひろえ！松ぼっくり	拾起來！松果	Pick up! Pinecones	솔방울 줍기!
