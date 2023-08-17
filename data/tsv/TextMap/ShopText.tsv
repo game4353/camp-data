@@ -311,11 +311,11 @@ Campfire Stand"	모든 세금 포함 3만짜리 모닥불 받침대
 288	『海キャン水着(リン)』のカケラ	『海邊露營泳裝(凛)』的碎片	『Seaside Camp Swimsuit(Rin)』Fragment	『바다 캠핑 수영복(린)』의 조각
 289	『海キャン水着(恵那)』のカケラ	『海邊露營泳裝(惠那)』的碎片	『Seaside Camp Swimsuit(Ena)』Fragment	『바다 캠핑 수영복(에나)』의 조각
 290	『海キャン水着(あおい)』のカケラ	『海邊露營泳裝(葵)』的碎片	『Seaside Camp Swimsuit(Aoi)』Fragment	『바다 캠핑 수영복(아오이)』의 조각
-291	『お祭り浴衣(リン)』のカケラ	『海邊露營泳裝(葵)』的碎片	『Seaside Camp Swimsuit(Aoi)』Fragment	『바다 캠핑 수영복(아오이)』의 조각
-292	『お祭り浴衣(恵那)』のカケラ	『海邊露營泳裝(葵)』的碎片	『Seaside Camp Swimsuit(Aoi)』Fragment	『바다 캠핑 수영복(아오이)』의 조각
-293	『お祭り浴衣(なでしこ)』のカケラ	『海邊露營泳裝(葵)』的碎片	『Seaside Camp Swimsuit(Aoi)』Fragment	『바다 캠핑 수영복(아오이)』의 조각
-294	『お祭り浴衣(千明)』のカケラ	『海邊露營泳裝(葵)』的碎片	『Seaside Camp Swimsuit(Aoi)』Fragment	『바다 캠핑 수영복(아오이)』의 조각
-295	『お祭り浴衣(あおい)』のカケラ	『海邊露營泳裝(葵)』的碎片	『Seaside Camp Swimsuit(Aoi)』Fragment	『바다 캠핑 수영복(아오이)』의 조각
+291	『お祭り浴衣(リン)』のカケラ	『祭典浴衣(凛)』的碎片	『Festival Yukata(Rin)』Fragment	『축제 유카타(린)』의 조각
+292	『お祭り浴衣(恵那)』のカケラ	『祭典浴衣(惠那)』的碎片	『Festival Yukata(Ena)』Fragment	『축제 유카타(에나)』의 조각
+293	『お祭り浴衣(なでしこ)』のカケラ	『祭典浴衣(撫子)』的碎片	『Festival Yukata(Nadeshiko)』Fragment	『축제 유카타(나데시코)』의 조각
+294	『お祭り浴衣(千明)』のカケラ	『祭典浴衣(千明)』的碎片	『Festival Yukata(Chiaki)』Fragment	『축제 유카타(치아키)』의 조각
+295	『お祭り浴衣(あおい)』のカケラ	『祭典浴衣(葵)』的碎片	『Festival Yukata(Aoi)』Fragment	『축제 유카타(아오이)』의 조각
 296	キャンプ雑誌(地)	露營雜誌(地)	Camping Magazine (Ground)	캠핑 잡지(땅)
 297	キャンプ雑誌(水)	露營雜誌(水)	Camping Magazine (Water)	캠핑 잡지(물)
 298	キャンプ雑誌(火)	露營雜誌(火)	Camping Magazine (Fire)	캠핑 잡지(불)
@@ -1892,9 +1892,9 @@ Campfire Stand"	모든 세금 포함 3만짜리 모닥불 받침대
 1869	コスチュームガチャチケ×100	服裝轉蛋票×100	Costume Gacha Ticket×100	코스튬 뽑기 티켓×100
 1870	サポートカードガチャチケ×100	輔助卡轉蛋券×100	Support Card Gacha Ticket×100	서포트 카드 뽑기 티켓×100
 1871	ゆるコインザクザクBOX	搖曳幣滿滿箱子	Yuru Coin Zakuzaku Box	유루코인 가득 BOX
-1872	★3『お祭り浴衣』大垣千明	★3『祭典浴衣』各務原撫子	★3『Festival Yukata』 Nadeshiko Kagamihara	★3『축제 유카타』카가미하라 나데시코
-1873	★3『お祭り浴衣』犬山あおい	★3『祭典浴衣』各務原撫子	★3『Festival Yukata』 Nadeshiko Kagamihara	★3『축제 유카타』카가미하라 나데시코
-1874	SR『真夏の夜の打ち上げ花火』	SR『兒時玩伴的小綾。』	SR『Childhood Friend Aya』	SR『소꿉친구 아야』
+1872	★3『お祭り浴衣』大垣千明	★3『祭典浴衣』大垣千明	★3『Festival Yukata』 Chiaki Ogaki	★3『축제 유카타』오가키 치아키
+1873	★3『お祭り浴衣』犬山あおい	★3『祭典浴衣』犬山葵	★3『Festival Yukata』 Aoi Inuyama	★3『축제 유카타』이누야마 아오이
+1874	SR『真夏の夜の打ち上げ花火』	SR『仲夏之夜點燃沖天炮。』	SR『Midsummer Night's Fireworks』	SR『한여름 밤의 불꽃놀이 축제』
 1875		翻訳入力エラー	翻訳入力エラー	翻訳入力エラー
 20001	お助けアイテム	"指定したパズル玉スキル玉
 仕掛けを壊すことができる
@@ -2816,29 +2816,29 @@ person.※You can purchase until September 10, 2023."	"서포트 카드 뽑기�
 ※2023/9/4まで交換可能
 <color=""red"">※未所持のコスチュームと交換した場合は、コスチュームそのものに交換されます。</color>
 <color=""red"">※所持済みのコスチュームと交換した場合は、そのコスチュームのカケラに交換されます。</color>
-<color=""red"">ピックアップ対象の場合はカケラ40個、ピックアップ対象外の場合はカケラ25個です。</color>"	"您可以在2023/8/25之前用250個轉蛋幣（祭典浴衣②）進行兌換。
-<color=""red"">※如果兌換您已經擁有的祭典浴衣②，它將自動轉換為碎片。 </color>"	"Exchange for 250 Gacha Medals (Festival Yukata②)
-*Until 8/25/2023
-<color=""red"">*Owned Festival Yukata②s will be automatically converted to Fragments upon exchange.</color>"	"뽑기 메달(축제 유카타②) 250개로 교환 가능
-※2023/8/25까지 교환 가능
-<color=""red"">※소지 중 축제 유카타②을 교환 할시, 조각으로 변환됩니다. </color>"
+<color=""red"">ピックアップ対象の場合はカケラ40個、ピックアップ対象外の場合はカケラ25個です。</color>"	"您可以在2023/9/4之前用250個轉蛋幣（祭典浴衣③）進行兌換。
+<color=""red"">※如果兌換您已經擁有的祭典浴衣③，它將自動轉換為碎片。 </color>"	"Exchange for 250 Gacha Medals (Festival Yukata③)
+*Until 9/4/2023
+<color=""red"">*Owned Festival Yukata③s will be automatically converted to Fragments upon exchange.</color>"	"뽑기 메달(축제 유카타③) 250개로 교환 가능
+※2023/9/4까지 교환 가능
+<color=""red"">※소지 중 축제 유카타③을 교환 할시, 조각으로 변환됩니다. </color>"
 20133	"ガチャメダル（お祭り浴衣③）1交換できる
-※2023/9/4まで交換可能"	您可以在2023/8/25之前用1個轉蛋幣（祭典浴衣②）進行兌換。	"Exchange with Gacha Medal (Festival Yukata②) 1
-*Exchangeable until 8/25/2023"	"뽑기 메달(축제 유카타②) 1개로 교환 가능
-※2023/8/25까지 교환 가능"
+※2023/9/4まで交換可能"	您可以在2023/9/4之前用1個轉蛋幣（祭典浴衣③）進行兌換。	"Exchange with Gacha Medal (Festival Yukata③) 1
+*Exchangeable until 9/4/2023"	"뽑기 메달(축제 유카타③) 1개로 교환 가능
+※2023/9/4까지 교환 가능"
 20134	"ガチャメダル（夏花火②）250と交換できる
 ※2023/9/4まで交換可能
 <color=""red"">※未所持のサポートカードと交換した場合は、サポートカードそのものに交換されます。</color>
-<color=""red"">※所持済みのサポートカードと交換した場合は、そのサポートのカケラ50個に交換されます。</color>"	"您可以在2023/8/28之前用250個轉蛋幣（綾乃PU）進行兌換。
-<color=""red"">※如果兌換您已經擁有的綾乃PU，它將自動轉換為碎片。 </color>"	"Exchange for 250 Gacha Medals (Ayano PU)
-*Until 8/28/2023
-<color=""red"">*Owned Ayano PUs will be automatically converted to Fragments upon exchange.</color>"	"뽑기 메달(아야노 PU) 250개로 교환 가능
-※2023/8/28까지 교환 가능
-<color=""red"">※소지 중 아야노 PU을 교환 할시, 조각으로 변환됩니다. </color>"
+<color=""red"">※所持済みのサポートカードと交換した場合は、そのサポートのカケラ50個に交換されます。</color>"	"您可以在2023/9/4之前用250個轉蛋幣（夏季烟火②）進行兌換。
+<color=""red"">※如果兌換您已經擁有的夏季烟火②，它將自動轉換為碎片。 </color>"	"Exchange for 250 Gacha Medals (Sum Fireworks②)
+*Until 9/4/2023
+<color=""red"">*Owned Sum Fireworks②s will be automatically converted to Fragments upon exchange.</color>"	"뽑기 메달(여름 불꽃놀이②) 250개로 교환 가능
+※2023/9/4까지 교환 가능
+<color=""red"">※소지 중 여름 불꽃놀이②을 교환 할시, 조각으로 변환됩니다. </color>"
 20135	"ガチャメダル（夏花火②）1交換できる
-※2023/9/4まで交換可能"	您可以在2023/8/28之前用1個轉蛋幣（綾乃PU）進行兌換。	"Exchange with Gacha Medal (Ayano PU) 1
-*Exchangeable until 8/28/2023"	"뽑기 메달(아야노 PU) 1개로 교환 가능
-※2023/8/28까지 교환 가능"
+※2023/9/4まで交換可能"	您可以在2023/9/4之前用1個轉蛋幣（夏季烟火②）進行兌換。	"Exchange with Gacha Medal (Sum Fireworks②) 1
+*Exchangeable until 9/4/2023"	"뽑기 메달(여름 불꽃놀이②) 1개로 교환 가능
+※2023/9/4까지 교환 가능"
 20136		翻訳入力エラー	翻訳入力エラー	翻訳入力エラー
 40001	"パズルに詰まった時に使ってみると案外クリアできるかも！？
 
@@ -3747,29 +3747,29 @@ person.※You can purchase until September 10, 2023."	"서포트 카드 뽑기�
 ※2023/9/4まで交換可能
 <color=""red"">※未所持のコスチュームと交換した場合は、コスチュームそのものに交換されます。</color>
 <color=""red"">※所持済みのコスチュームと交換した場合は、そのコスチュームのカケラに交換されます。</color>
-<color=""red"">ピックアップ対象の場合はカケラ40個、ピックアップ対象外の場合はカケラ25個です。</color>"	"您可以在2023/8/25之前用250個轉蛋幣（祭典浴衣②）進行兌換。
-<color=""red"">※如果兌換您已經擁有的祭典浴衣②，它將自動轉換為碎片。 </color>"	"Exchange for 250 Gacha Medals (Festival Yukata②)
-*Until 8/25/2023
-<color=""red"">*Owned Festival Yukata②s will be automatically converted to Fragments upon exchange.</color>"	"뽑기 메달(축제 유카타②) 250개로 교환 가능
-※2023/8/25까지 교환 가능
-<color=""red"">※소지 중 축제 유카타②을 교환 할시, 조각으로 변환됩니다. </color>"
+<color=""red"">ピックアップ対象の場合はカケラ40個、ピックアップ対象外の場合はカケラ25個です。</color>"	"您可以在2023/9/4之前用250個轉蛋幣（祭典浴衣③）進行兌換。
+<color=""red"">※如果兌換您已經擁有的祭典浴衣③，它將自動轉換為碎片。 </color>"	"Exchange for 250 Gacha Medals (Festival Yukata③)
+*Until 9/4/2023
+<color=""red"">*Owned Festival Yukata③s will be automatically converted to Fragments upon exchange.</color>"	"뽑기 메달(축제 유카타③) 250개로 교환 가능
+※2023/9/4까지 교환 가능
+<color=""red"">※소지 중 축제 유카타③을 교환 할시, 조각으로 변환됩니다. </color>"
 40120	"ガチャメダル（お祭り浴衣③）1交換できる
-※2023/9/4まで交換可能"	您可以在2023/8/25之前用1個轉蛋幣（祭典浴衣②）進行兌換。	"Exchange with Gacha Medal (Festival Yukata②) 1
-*Exchangeable until 8/25/2023"	"뽑기 메달(축제 유카타②) 1개로 교환 가능
-※2023/8/25까지 교환 가능"
+※2023/9/4まで交換可能"	您可以在2023/9/4之前用1個轉蛋幣（祭典浴衣③）進行兌換。	"Exchange with Gacha Medal (Festival Yukata③) 1
+*Exchangeable until 9/4/2023"	"뽑기 메달(축제 유카타③) 1개로 교환 가능
+※2023/9/4까지 교환 가능"
 40121	"ガチャメダル（夏花火②）250と交換できる
 ※2023/9/4まで交換可能
 <color=""red"">※未所持のサポートカードと交換した場合は、サポートカードそのものに交換されます。</color>
-<color=""red"">※所持済みのサポートカードと交換した場合は、そのサポートのカケラ50個に交換されます。</color>"	"您可以在2023/8/28之前用250個轉蛋幣（綾乃PU）進行兌換。
-<color=""red"">※如果兌換您已經擁有的綾乃PU，它將自動轉換為碎片。 </color>"	"Exchange for 250 Gacha Medals (Ayano PU)
-*Until 8/28/2023
-<color=""red"">*Owned Ayano PUs will be automatically converted to Fragments upon exchange.</color>"	"뽑기 메달(아야노 PU) 250개로 교환 가능
-※2023/8/28까지 교환 가능
-<color=""red"">※소지 중 아야노 PU을 교환 할시, 조각으로 변환됩니다. </color>"
+<color=""red"">※所持済みのサポートカードと交換した場合は、そのサポートのカケラ50個に交換されます。</color>"	"您可以在2023/9/4之前用250個轉蛋幣（夏季烟火②）進行兌換。
+<color=""red"">※如果兌換您已經擁有的夏季烟火②，它將自動轉換為碎片。 </color>"	"Exchange for 250 Gacha Medals (Sum Fireworks②)
+*Until 9/4/2023
+<color=""red"">*Owned Sum Fireworks②s will be automatically converted to Fragments upon exchange.</color>"	"뽑기 메달(여름 불꽃놀이②) 250개로 교환 가능
+※2023/9/4까지 교환 가능
+<color=""red"">※소지 중 여름 불꽃놀이②을 교환 할시, 조각으로 변환됩니다. </color>"
 40122	"ガチャメダル（夏花火②）1交換できる
-※2023/9/4まで交換可能"	您可以在2023/8/28之前用1個轉蛋幣（綾乃PU）進行兌換。	"Exchange with Gacha Medal (Ayano PU) 1
-*Exchangeable until 8/28/2023"	"뽑기 메달(아야노 PU) 1개로 교환 가능
-※2023/8/28까지 교환 가능"
+※2023/9/4まで交換可能"	您可以在2023/9/4之前用1個轉蛋幣（夏季烟火②）進行兌換。	"Exchange with Gacha Medal (Sum Fireworks②) 1
+*Exchangeable until 9/4/2023"	"뽑기 메달(여름 불꽃놀이②) 1개로 교환 가능
+※2023/9/4까지 교환 가능"
 40123		翻訳入力エラー	翻訳入力エラー	翻訳入力エラー
 100001	親密度S	親密度S	Intimacy S	친밀도 S
 100002	親密度M	親密度M	Intimacy M	친밀도 M
