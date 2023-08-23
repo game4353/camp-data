@@ -13,3 +13,10 @@ group_id	position_id	button_text_id	tips_text_id	link	resource_id
 2	5	2		gacha	15270064
 2	6	7		shop?tab_type=101&shop_type=10&shop_item_id=700044	15270056
 2	7	5		https://yurucamp-game.enish.com/10mfest/	15370063
+3	1				15470063
+3	2	4		challenge	15070062
+3	3	7		shop?tab_type=101&shop_type=10&shop_item_id=700044	15110022
+3	4	2		gacha	15170054
+3	5	2		gacha	15270064
+3	6	3		shop?tab_type=101&shop_type=10&shop_item_id=700044	15270056
+3	7	5		https://yurucamp-game.enish.com/10mfest/	15370063

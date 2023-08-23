@@ -8,12 +8,14 @@ id	ja	zh-TW	en	ko
 1031	夜の灯りとお料理キャンプ	夜晚燈光與美食露營	Nighttime Lights and Cooking Camp	밤의 불빛과 요리 캠핑
 1041	ウッドキャンドルりべんじ！	木頭蠟燭復仇！	Wood Candle Revenge!	우드 캔들 리벤지!
 1051	夏の海でスイカ割り	在夏天海邊打西瓜	Summer Beach Watermelon Games	여름 바다에서 수박 깨기
+1061	大草原のお料理キャンプ	大草原料理營	Cooking Camp on the Great Plains	넓은 초원의 요리 캠프
 2001	イベントキャンプ	活動露營	Event Camp	이벤트 캠핑
 3001	本栖湖キャンプ場	本栖湖露營地	Lake Motosu Campground	모토스호 캠핑장
 3002	麓キャンプ場	麓露營地	Fumoto Campground	후모토 캠핑장
 3003	高ボッチ高原	高孤高原高原	Takabocchi Plateau	타카봇치 고원
 3004	イーストウッドキャンプ場	EAST WOOD露營地	Eastwood Campground	이스트우드 캠핑장
 3005	海辺のキャンプ場	海邊的露營地	Seaside Campsite	해변의 캠핑장
+3006	草原のキャンプ場	草原露營場	Grassland Campsite	초원 캠핑장
 4001	"■施設紹介
 富士五湖のひとつ、本栖湖の湖畔にあるキャンプ場。富士山と本栖湖を同時に楽しめる。
 テントサイト以外にレストランや宿泊施設もある。
@@ -926,7 +928,7 @@ From here, you can overlook the Northern Alps, Lake Suwa, and Mt. Haku. There is
 ・작은 엔진
 ・큰 엔진"
 4004	"■施設紹介
-交き火をしながら夜景を楽しめるスポットとして人気のキャンプ場。
+焚き火をしながら夜景を楽しめるスポットとして人気のキャンプ場。
 キャンプサイトが段々になっており、どのサイトからも良い眺めが楽しめる。
 
 ■乗り入れ可能車両
@@ -1527,6 +1529,299 @@ You can enjoy BBQ and bonfires on a private beach full of openness, and fully en
 ・큰 배터리
 ・작은 엔진
 ・큰 엔진"
+4006	"■施設紹介
+どこまでも広大な草原が広がる自然のキャンプ場。
+都会の喧騒を離れて、大自然の中でワイルドなキャンプを楽しむことができる。
+
+■乗り入れ可能車両
+・自転車
+・バイク
+・乗用車
+・キャンピングカー
+・トレーラー
+
+■キャンプルール
+・直火OK
+・花火OK
+・ペットOK
+
+■よく手に入る素材/食材
+・みずにつよい布地
+・もえにくい布地
+・てざわりのよい木材
+・ふつうの断熱材
+・じょうぶな金属
+・かるくてじょうぶな金属
+・じょうぶなワイヤー
+・かるい樹脂
+・じょうぶな樹脂
+・つよい繊維
+・ひかる部品
+・ふつうの電池
+
+■たまに手に入る素材/食材
+・かるくてじょうぶな布地
+・じょうぶな革
+・もえない布地
+・じょうぶなメッシュ
+・つよくてもえにくい布地
+・もえやすい木材
+・やわらかい木材
+・ふつうの木材
+・かたい木材
+・こうきんこうかのある竹材
+・うつくしい木材
+・じゅうこうな木材
+・ふわふわの素材
+・あたたかい羽毛
+・かるくてあたたかい羽毛
+・やわらかいゴム
+・じょうぶなゴム
+・こうかのたかい断熱材
+・ふつうの燃料
+・よくもえるガス
+・よくもえる燃料
+・はげしくもえる燃料
+・ねつにつよい塗料
+・うごきをよくする液体
+・かこうしやすい金属
+・きたえられた金属
+・ふつうの金属
+・さびない金属
+・かるい金属
+・かるくてつよい金属
+・ねつにつよい金属
+・かたい石
+・とうめいな樹脂
+・ねつにつよいガラス
+・きれいな釉薬
+・きれいな宝石
+・あつかいやすい粘土
+・きめのこまかい粘土
+・かるくてつよい繊維
+・ちいさなバッテリー
+・おおきなバッテリー
+・ちいさなエンジン
+・おおきなエンジン"	"■施設紹介
+どこまでも広大な草原が広がる自然のキャンプ場。
+都会の喧騒を離れて、大自然の中でワイルドなキャンプを楽しむことができる。
+
+■乗り入れ可能車両
+・自転車
+・バイク
+・乗用車
+・キャンピングカー
+・トレーラー
+
+■キャンプルール
+・直火OK
+・花火OK
+・ペットOK
+
+■よく手に入る素材/食材
+・みずにつよい布地
+・もえにくい布地
+・てざわりのよい木材
+・ふつうの断熱材
+・じょうぶな金属
+・かるくてじょうぶな金属
+・じょうぶなワイヤー
+・かるい樹脂
+・じょうぶな樹脂
+・つよい繊維
+・ひかる部品
+・ふつうの電池
+
+■たまに手に入る素材/食材
+・かるくてじょうぶな布地
+・じょうぶな革
+・もえない布地
+・じょうぶなメッシュ
+・つよくてもえにくい布地
+・もえやすい木材
+・やわらかい木材
+・ふつうの木材
+・かたい木材
+・こうきんこうかのある竹材
+・うつくしい木材
+・じゅうこうな木材
+・ふわふわの素材
+・あたたかい羽毛
+・かるくてあたたかい羽毛
+・やわらかいゴム
+・じょうぶなゴム
+・こうかのたかい断熱材
+・ふつうの燃料
+・よくもえるガス
+・よくもえる燃料
+・はげしくもえる燃料
+・ねつにつよい塗料
+・うごきをよくする液体
+・かこうしやすい金属
+・きたえられた金属
+・ふつうの金属
+・さびない金属
+・かるい金属
+・かるくてつよい金属
+・ねつにつよい金属
+・かたい石
+・とうめいな樹脂
+・ねつにつよいガラス
+・きれいな釉薬
+・きれいな宝石
+・あつかいやすい粘土
+・きめのこまかい粘土
+・かるくてつよい繊維
+・ちいさなバッテリー
+・おおきなバッテリー
+・ちいさなエンジン
+・おおきなエンジン"	"■施設紹介
+どこまでも広大な草原が広がる自然のキャンプ場。
+都会の喧騒を離れて、大自然の中でワイルドなキャンプを楽しむことができる。
+
+■乗り入れ可能車両
+・自転車
+・バイク
+・乗用車
+・キャンピングカー
+・トレーラー
+
+■キャンプルール
+・直火OK
+・花火OK
+・ペットOK
+
+■よく手に入る素材/食材
+・みずにつよい布地
+・もえにくい布地
+・てざわりのよい木材
+・ふつうの断熱材
+・じょうぶな金属
+・かるくてじょうぶな金属
+・じょうぶなワイヤー
+・かるい樹脂
+・じょうぶな樹脂
+・つよい繊維
+・ひかる部品
+・ふつうの電池
+
+■たまに手に入る素材/食材
+・かるくてじょうぶな布地
+・じょうぶな革
+・もえない布地
+・じょうぶなメッシュ
+・つよくてもえにくい布地
+・もえやすい木材
+・やわらかい木材
+・ふつうの木材
+・かたい木材
+・こうきんこうかのある竹材
+・うつくしい木材
+・じゅうこうな木材
+・ふわふわの素材
+・あたたかい羽毛
+・かるくてあたたかい羽毛
+・やわらかいゴム
+・じょうぶなゴム
+・こうかのたかい断熱材
+・ふつうの燃料
+・よくもえるガス
+・よくもえる燃料
+・はげしくもえる燃料
+・ねつにつよい塗料
+・うごきをよくする液体
+・かこうしやすい金属
+・きたえられた金属
+・ふつうの金属
+・さびない金属
+・かるい金属
+・かるくてつよい金属
+・ねつにつよい金属
+・かたい石
+・とうめいな樹脂
+・ねつにつよいガラス
+・きれいな釉薬
+・きれいな宝石
+・あつかいやすい粘土
+・きめのこまかい粘土
+・かるくてつよい繊維
+・ちいさなバッテリー
+・おおきなバッテリー
+・ちいさなエンジン
+・おおきなエンジン"	"■施設紹介
+どこまでも広大な草原が広がる自然のキャンプ場。
+都会の喧騒を離れて、大自然の中でワイルドなキャンプを楽しむことができる。
+
+■乗り入れ可能車両
+・自転車
+・バイク
+・乗用車
+・キャンピングカー
+・トレーラー
+
+■キャンプルール
+・直火OK
+・花火OK
+・ペットOK
+
+■よく手に入る素材/食材
+・みずにつよい布地
+・もえにくい布地
+・てざわりのよい木材
+・ふつうの断熱材
+・じょうぶな金属
+・かるくてじょうぶな金属
+・じょうぶなワイヤー
+・かるい樹脂
+・じょうぶな樹脂
+・つよい繊維
+・ひかる部品
+・ふつうの電池
+
+■たまに手に入る素材/食材
+・かるくてじょうぶな布地
+・じょうぶな革
+・もえない布地
+・じょうぶなメッシュ
+・つよくてもえにくい布地
+・もえやすい木材
+・やわらかい木材
+・ふつうの木材
+・かたい木材
+・こうきんこうかのある竹材
+・うつくしい木材
+・じゅうこうな木材
+・ふわふわの素材
+・あたたかい羽毛
+・かるくてあたたかい羽毛
+・やわらかいゴム
+・じょうぶなゴム
+・こうかのたかい断熱材
+・ふつうの燃料
+・よくもえるガス
+・よくもえる燃料
+・はげしくもえる燃料
+・ねつにつよい塗料
+・うごきをよくする液体
+・かこうしやすい金属
+・きたえられた金属
+・ふつうの金属
+・さびない金属
+・かるい金属
+・かるくてつよい金属
+・ねつにつよい金属
+・かたい石
+・とうめいな樹脂
+・ねつにつよいガラス
+・きれいな釉薬
+・きれいな宝石
+・あつかいやすい粘土
+・きめのこまかい粘土
+・かるくてつよい繊維
+・ちいさなバッテリー
+・おおきなバッテリー
+・ちいさなエンジン
+・おおきなエンジン"
 5001	芝生	草地	Grass	잔디
 5002	林間	林間	Forest	임간
 5003	水辺	水邊	Waterfront	물가
@@ -1618,6 +1913,9 @@ You can enjoy BBQ and bonfires on a private beach full of openness, and fully en
 9305	海キャン	海露營	Beach Camping	바다 캠핑
 9306	砂浜	沙灘	Sandy Beach	모래사장
 9307	ビーチバレー	沙灘排球	Beach Volleyball	비치발리볼
+9308	民族チック	民族小妞	Ethnic Chick	민족 틱
+9309	草原	草原	Grassland	목초지
+9310	バッファロー	水牛	Buffalo	버팔로
 9401	カレーめんをアレンジする	為咖哩麵做些變化	Arrange Curry Noodles	카레라면을 어레인지 하기
 9402	薪割り競争をする	進行柴火劈柴比賽	Compete in firewood chopping	장작 패기 경쟁
 9403	焼肉をする	烤肉	Grilling meat	고기 굽기
@@ -1639,6 +1937,10 @@ You can enjoy BBQ and bonfires on a private beach full of openness, and fully en
 9419	フルーツポンチ早食い競争をする	比誰水果調酒喝得快吧	Fruit Punch Speed Drinking	프루트 펀치 빨리 먹기 경쟁
 9420	ビーチポートレート！	海灘肖像照！	Beach Portrait	비치 포트레이트!
 9421	海鮮バーベキューをする	烤海鮮吧	Have Seafood Barbecue	해물 바비큐 하기
+9422	チョコレートチャンクピザを食べよう	チョコレートチャンクピザを食べよう	チョコレートチャンクピザを食べよう	チョコレートチャンクピザを食べよう
+9423	アウトドア実験料理その２	アウトドア実験料理その２	アウトドア実験料理その２	アウトドア実験料理その２
+9424	Tボーンステーキを食べよう	Tボーンステーキを食べよう	Tボーンステーキを食べよう	Tボーンステーキを食べよう
+9425	みんなで踊ろう！	みんなで踊ろう！	みんなで踊ろう！	みんなで踊ろう！
 20001	つながり	關係	Relationship	관계
 20002	まんぞく	滿足	Satisfaction	만족
 20003	いごこち	舒適	Coziness	쾌적함
@@ -1757,6 +2059,18 @@ You can enjoy BBQ and bonfires on a private beach full of openness, and fully en
 300610	海鮮バーベキューをしよう	來烤海鮮吧	Let's Have Seafood Barbecue	해물 바비큐를 하자
 300611	海鮮バーベキューをしよう	來烤海鮮吧	Let's Have Seafood Barbecue	해물 바비큐를 하자
 300612	海鮮バーベキューをしよう	來烤海鮮吧	Let's Have Seafood Barbecue	해물 바비큐를 하자
+300701	チョコレートチャンクピザを食べよう	チョコレートチャンクピザを食べよう	チョコレートチャンクピザを食べよう	チョコレートチャンクピザを食べよう
+300702	チョコレートチャンクピザを食べよう	チョコレートチャンクピザを食べよう	チョコレートチャンクピザを食べよう	チョコレートチャンクピザを食べよう
+300703	チョコレートチャンクピザを食べよう	チョコレートチャンクピザを食べよう	チョコレートチャンクピザを食べよう	チョコレートチャンクピザを食べよう
+300704	アウトドア実験料理その２	アウトドア実験料理その２	アウトドア実験料理その２	アウトドア実験料理その２
+300705	アウトドア実験料理その２	アウトドア実験料理その２	アウトドア実験料理その２	アウトドア実験料理その２
+300706	アウトドア実験料理その２	アウトドア実験料理その２	アウトドア実験料理その２	アウトドア実験料理その２
+300707	Tボーンステーキを食べよう	Tボーンステーキを食べよう	Tボーンステーキを食べよう	Tボーンステーキを食べよう
+300708	Tボーンステーキを食べよう	Tボーンステーキを食べよう	Tボーンステーキを食べよう	Tボーンステーキを食べよう
+300709	Tボーンステーキを食べよう	Tボーンステーキを食べよう	Tボーンステーキを食べよう	Tボーンステーキを食べよう
+300710	みんなで踊ろう！	みんなで踊ろう！	みんなで踊ろう！	みんなで踊ろう！
+300711	みんなで踊ろう！	みんなで踊ろう！	みんなで踊ろう！	みんなで踊ろう！
+300712	みんなで踊ろう！	みんなで踊ろう！	みんなで踊ろう！	みんなで踊ろう！
 410001	つながり	關係	Relationship	관계
 410002	まんぞく	滿足	Satisfaction	만족
 410003	いごこち	舒適	Coziness	쾌적함
@@ -3109,6 +3423,13 @@ You can enjoy BBQ and bonfires on a private beach full of openness, and fully en
 440689	フルーツポンチ早食い競争をする	比誰水果調酒喝得快吧	Fruit Punch Speed Drinking	프루트 펀치 빨리 먹기 경쟁
 440690	ビーチポートレート！	海灘肖像照！	Beach Portrait	비치 포트레이트!
 440691	海鮮バーベキューをする	烤海鮮吧	Have Seafood Barbecue	해물 바비큐 하기
+440692	民族チック	民族小妞	Ethnic Chick	민족 틱
+440693	草原	草原	Grassland	목초지
+440694	バッファロー	水牛	Buffalo	버팔로
+440695	チョコレートチャンクピザを食べよう	チョコレートチャンクピザを食べよう	チョコレートチャンクピザを食べよう	チョコレートチャンクピザを食べよう
+440696	アウトドア実験料理その２	アウトドア実験料理その２	アウトドア実験料理その２	アウトドア実験料理その２
+440697	Tボーンステーキを食べよう	Tボーンステーキを食べよう	Tボーンステーキを食べよう	Tボーンステーキを食べよう
+440698	みんなで踊ろう！	みんなで踊ろう！	みんなで踊ろう！	みんなで踊ろう！
 10000011	つながるきもち	相連著的心意	Good To Be Together	이어지는 마음
 10000021	まんぞくできるかな？	能夠滿足嗎？	Satisfaction Level?	만족할 수 있을까?
 10000031	いごこちいいね！	很舒服耶！	Very Cozy!	안락하고 좋은걸!
@@ -3297,6 +3618,11 @@ You can enjoy BBQ and bonfires on a private beach full of openness, and fully en
 22101981	『お祭り浴衣』大垣 千明	『祭典浴衣』大垣千明	『Festival Yukata』 Chiaki Ogaki	『축제 유카타』오가키 치아키
 22101991	『お祭り浴衣』犬山 あおい	『祭典浴衣』犬山葵	『Festival Yukata』 Aoi Inuyama	『축제 유카타』이누야마 아오이
 22102001	『お祭り浴衣』斉藤 恵那	『祭典浴衣』齊藤惠那	『Festival Yukata』 Ena Saito	『축제 유카타』사이토 에나
+22102311	『パジャマパーティー』各務原 なでしこ	『睡衣派對』各務原撫子	『Pyjama Party』 Nadeshiko Kagamihara	『파자마 파티』카가미하라 나데시코
+22102321	『パジャマパーティー』志摩 リン	『睡衣派對』志摩凜	『Pyjama Party』 Rin Shima	『파자마 파티』시마 린
+22102331	『パジャマパーティー』大垣 千明	『睡衣派對』大垣千明	『Pyjama Party』 Chiaki Ogaki	『파자마 파티』오가키 치아키
+22102341	『パジャマパーティー』犬山 あおい	『睡衣派對』犬山葵	『Pyjama Party』 Aoi Inuyama	『파자마 파티』이누야마 아오이
+22102351	『パジャマパーティー』斉藤 恵那	『睡衣派對』齊藤惠那	『Pyjama Party』 Ena Saito	『파자마 파티』사이토 에나
 23010011	もっとギアの思い出がよみがえった！②	想起了更多用品的回憶！②	More Memories Of Gear! ②	기어의 추억이 재삼 되살아났다!②
 23010021	ギアの思い出がよみがえった！①	想起了用品的回憶！①	Memories Of Gear! ①	기어의 추억이 되살아났다!①
 23010031	ギアの思い出がよみがえった！①	想起了用品的回憶！①	Memories Of Gear! ①	기어의 추억이 되살아났다!①
@@ -3744,11 +4070,13 @@ You can enjoy BBQ and bonfires on a private beach full of openness, and fully en
 26070401	おさんぽ in 高ボッチ高原	散步 in 高孤高原	A Walk At Takabotchi	산책 in 타카봇치 고원
 26070501	おさんぽ in イーストウッドキャンプ場	散步 in EASTWOOD露營場	A Walk At Eastwood Campsite	산책 in 이스트우드 캠핑장
 26070601	おさんぽ in 海辺のキャンプ場	散步 in 海邊的露營地	A Walk At Seaside Campsite	산책 in 해변의 캠핑장
+26070701	おさんぽ in 草原のキャンプ場	散步 in 草原露營地	A Walk At Grassland Campsite	산책 in 초원 캠핑장에서의
 27010121	みんなで本栖湖、薪割り競争	大家一起到本栖湖，挑戰劈柴	Wood-Chopping at Lake Motosu	다 함께 모토스호, 장작 패기 경쟁
 27020121	ちくわと遊ぼう！	一起玩竹輪吧！	Let's play with Chikuwa!	치쿠와와 놀자!
 27030121	夜の灯りとお料理キャンプ	夜晚燈光與美食露營	Nighttime Lights and Cooking Camp	밤의 불빛과 요리 캠핑
 27040121	ウッドキャンドルりべんじ！	木頭蠟燭復仇！	Wood Candle Revenge!	우드 캔들 리벤지!
 27060121	夏の海でスイカ割り	在夏天海邊打西瓜	Summer Beach Watermelon Games	여름 바다에서 수박 깨기
+27070121	大草原のお料理キャンプ	大草原料理營	Cooking Camp on the Great Plains	넓은 초원의 요리 캠프
 28090101	CHIKUWAだー！	是竹輪耶──！	It's Chikuwa!	CHIKUWA다~!
 28090111	CHIKUWAだー！	是竹輪耶──！	It's Chikuwa!	CHIKUWA다~!
 28090121	CHIKUWAだー！	是竹輪耶──！	It's Chikuwa!	CHIKUWA다~!
@@ -4202,6 +4530,10 @@ You can enjoy BBQ and bonfires on a private beach full of openness, and fully en
 40105102	フルーツポンチ早食い競争をしよう	來比誰水果調酒喝得快吧	Fruit Punch Speed Drinking	프루트 펀치 빨리 먹기 경쟁
 40105103	ビーチポートレート！	海灘肖像照！	Beach Portrait	비치 포트레이트!
 40105104	海鮮バーベキューをしよう	來烤海鮮吧	Let's Have Seafood Barbecue	해물 바비큐 하기
+40106101	チョコレートチャンクピザを食べよう	チョコレートチャンクピザを食べよう	チョコレートチャンクピザを食べよう	チョコレートチャンクピザを食べよう
+40106102	アウトドア実験料理その２	アウトドア実験料理その２	アウトドア実験料理その２	アウトドア実験料理その２
+40106103	Tボーンステーキを食べよう	Tボーンステーキを食べよう	Tボーンステーキを食べよう	Tボーンステーキを食べよう
+40106104	みんなで踊ろう！	みんなで踊ろう！	みんなで踊ろう！	みんなで踊ろう！
 51000110	いっしょにあそぼー！（はじめ）	一起去玩吧──！（開頭）	Let's Play! (Start)	같이 놀자~!(시작)
 51000111	いっしょにあそぼー！（はじめ） Lv1	一起去玩吧──！（開頭）Lv1	Let's Play! (Start) Lv1	같이 놀자~!(시작) Lv1
 51000112	いっしょにあそぼー！（はじめ） Lv2	一起去玩吧──！（開頭）Lv2	Let's Play! (Start) Lv2	같이 놀자~!(시작) Lv2
@@ -6566,6 +6898,96 @@ You can enjoy BBQ and bonfires on a private beach full of openness, and fully en
 51020033	浴衣に合わせた髪型なんだ Lv3	這是搭配浴衣的髮型喔。 Lv3	I matched my hairstyle to my yukata. Lv3	머리 모양도 유카타에 맞췄어 Lv3
 51020034	浴衣に合わせた髪型なんだ Lv4	這是搭配浴衣的髮型喔。 Lv4	I matched my hairstyle to my yukata. Lv4	머리 모양도 유카타에 맞췄어 Lv4
 51020035	浴衣に合わせた髪型なんだ Lv5	這是搭配浴衣的髮型喔。 Lv5	I matched my hairstyle to my yukata. Lv5	머리 모양도 유카타에 맞췄어 Lv5
+51023110	パジャマでキャンプたのしいねぃ	露營的時候穿睡衣好好玩喔。	Camping in pajamas is fun.	파자마 차림으로 하는 캠핑도 재밌네
+51023111	パジャマでキャンプたのしいねぃ Lv1	露營的時候穿睡衣好好玩喔。 Lv1	Camping in pajamas is fun. Lv1	파자마 차림으로 하는 캠핑도 재밌네 Lv1
+51023112	パジャマでキャンプたのしいねぃ Lv2	露營的時候穿睡衣好好玩喔。 Lv2	Camping in pajamas is fun. Lv2	파자마 차림으로 하는 캠핑도 재밌네 Lv2
+51023113	パジャマでキャンプたのしいねぃ Lv3	露營的時候穿睡衣好好玩喔。 Lv3	Camping in pajamas is fun. Lv3	파자마 차림으로 하는 캠핑도 재밌네 Lv3
+51023114	パジャマでキャンプたのしいねぃ Lv4	露營的時候穿睡衣好好玩喔。 Lv4	Camping in pajamas is fun. Lv4	파자마 차림으로 하는 캠핑도 재밌네 Lv4
+51023115	パジャマでキャンプたのしいねぃ Lv5	露營的時候穿睡衣好好玩喔。 Lv5	Camping in pajamas is fun. Lv5	파자마 차림으로 하는 캠핑도 재밌네 Lv5
+51023120	お昼寝しよう	來睡午覺吧。	Let's take a nap.	낮잠 자자
+51023121	お昼寝しよう Lv1	來睡午覺吧。 Lv1	Let's take a nap. Lv1	낮잠 자자 Lv1
+51023122	お昼寝しよう Lv2	來睡午覺吧。 Lv2	Let's take a nap. Lv2	낮잠 자자 Lv2
+51023123	お昼寝しよう Lv3	來睡午覺吧。 Lv3	Let's take a nap. Lv3	낮잠 자자 Lv3
+51023124	お昼寝しよう Lv4	來睡午覺吧。 Lv4	Let's take a nap. Lv4	낮잠 자자 Lv4
+51023125	お昼寝しよう Lv5	來睡午覺吧。 Lv5	Let's take a nap. Lv5	낮잠 자자 Lv5
+51023130	のんびりのんびり	悠哉一下悠哉一下。	Taking it easy!	느긋 느긋~
+51023131	のんびりのんびり Lv1	悠哉一下悠哉一下。 Lv1	Taking it easy! Lv1	느긋 느긋~ Lv1
+51023132	のんびりのんびり Lv2	悠哉一下悠哉一下。 Lv2	Taking it easy! Lv2	느긋 느긋~ Lv2
+51023133	のんびりのんびり Lv3	悠哉一下悠哉一下。 Lv3	Taking it easy! Lv3	느긋 느긋~ Lv3
+51023134	のんびりのんびり Lv4	悠哉一下悠哉一下。 Lv4	Taking it easy! Lv4	느긋 느긋~ Lv4
+51023135	のんびりのんびり Lv5	悠哉一下悠哉一下。 Lv5	Taking it easy! Lv5	느긋 느긋~ Lv5
+51023210	リラックスしすぎか…？	妳是不是放鬆過頭了……？	Did I relax too hard?	너무 편하게 있었나…?
+51023211	リラックスしすぎか…？ Lv1	妳是不是放鬆過頭了……？ Lv1	Did I relax too hard? Lv1	너무 편하게 있었나…? Lv1
+51023212	リラックスしすぎか…？ Lv2	妳是不是放鬆過頭了……？ Lv2	Did I relax too hard? Lv2	너무 편하게 있었나…? Lv2
+51023213	リラックスしすぎか…？ Lv3	妳是不是放鬆過頭了……？ Lv3	Did I relax too hard? Lv3	너무 편하게 있었나…? Lv3
+51023214	リラックスしすぎか…？ Lv4	妳是不是放鬆過頭了……？ Lv4	Did I relax too hard? Lv4	너무 편하게 있었나…? Lv4
+51023215	リラックスしすぎか…？ Lv5	妳是不是放鬆過頭了……？ Lv5	Did I relax too hard? Lv5	너무 편하게 있었나…? Lv5
+51023220	肩の力を抜いて	肩膀放鬆吧。	Relax the shoulders.	어깨 힘을 빼고
+51023221	肩の力を抜いて Lv1	肩膀放鬆吧。 Lv1	Relax the shoulders. Lv1	어깨 힘을 빼고 Lv1
+51023222	肩の力を抜いて Lv2	肩膀放鬆吧。 Lv2	Relax the shoulders. Lv2	어깨 힘을 빼고 Lv2
+51023223	肩の力を抜いて Lv3	肩膀放鬆吧。 Lv3	Relax the shoulders. Lv3	어깨 힘을 빼고 Lv3
+51023224	肩の力を抜いて Lv4	肩膀放鬆吧。 Lv4	Relax the shoulders. Lv4	어깨 힘을 빼고 Lv4
+51023225	肩の力を抜いて Lv5	肩膀放鬆吧。 Lv5	Relax the shoulders. Lv5	어깨 힘을 빼고 Lv5
+51023230	非日常の極みだな	這可是非日常的頂點呢。	It's rather extraordinary.	비일상의 극치네
+51023231	非日常の極みだな Lv1	這可是非日常的頂點呢。 Lv1	It's rather extraordinary. Lv1	비일상의 극치네 Lv1
+51023232	非日常の極みだな Lv2	這可是非日常的頂點呢。 Lv2	It's rather extraordinary. Lv2	비일상의 극치네 Lv2
+51023233	非日常の極みだな Lv3	這可是非日常的頂點呢。 Lv3	It's rather extraordinary. Lv3	비일상의 극치네 Lv3
+51023234	非日常の極みだな Lv4	這可是非日常的頂點呢。 Lv4	It's rather extraordinary. Lv4	비일상의 극치네 Lv4
+51023235	非日常の極みだな Lv5	這可是非日常的頂點呢。 Lv5	It's rather extraordinary. Lv5	비일상의 극치네 Lv5
+51023310	パジャマこそが今日に適した装いだ	睡衣就是今天的禮服喔。	Today's the day to wear pyjamas.	오늘과 가장 어울리는 복장은 파자마다
+51023311	パジャマこそが今日に適した装いだ Lv1	睡衣就是今天的禮服喔。 Lv1	Today's the day to wear pyjamas. Lv1	오늘과 가장 어울리는 복장은 파자마다 Lv1
+51023312	パジャマこそが今日に適した装いだ Lv2	睡衣就是今天的禮服喔。 Lv2	Today's the day to wear pyjamas. Lv2	오늘과 가장 어울리는 복장은 파자마다 Lv2
+51023313	パジャマこそが今日に適した装いだ Lv3	睡衣就是今天的禮服喔。 Lv3	Today's the day to wear pyjamas. Lv3	오늘과 가장 어울리는 복장은 파자마다 Lv3
+51023314	パジャマこそが今日に適した装いだ Lv4	睡衣就是今天的禮服喔。 Lv4	Today's the day to wear pyjamas. Lv4	오늘과 가장 어울리는 복장은 파자마다 Lv4
+51023315	パジャマこそが今日に適した装いだ Lv5	睡衣就是今天的禮服喔。 Lv5	Today's the day to wear pyjamas. Lv5	오늘과 가장 어울리는 복장은 파자마다 Lv5
+51023320	リラックスしすぎた…	好像放鬆過頭了……	I relaxed too much...	너무 편하게 있었네…
+51023321	リラックスしすぎた… Lv1	好像放鬆過頭了…… Lv1	I relaxed too much... Lv1	너무 편하게 있었네…~ Lv1
+51023322	リラックスしすぎた… Lv2	好像放鬆過頭了…… Lv2	I relaxed too much... Lv2	너무 편하게 있었네…~ Lv2
+51023323	リラックスしすぎた… Lv3	好像放鬆過頭了…… Lv3	I relaxed too much... Lv3	너무 편하게 있었네…~ Lv3
+51023324	リラックスしすぎた… Lv4	好像放鬆過頭了…… Lv4	I relaxed too much... Lv4	너무 편하게 있었네…~ Lv4
+51023325	リラックスしすぎた… Lv5	好像放鬆過頭了…… Lv5	I relaxed too much... Lv5	너무 편하게 있었네…~ Lv5
+51023330	さて寝るか	那來睡覺吧。	Time to sleep.	그럼 자볼까
+51023331	さて寝るか Lv1	那來睡覺吧。 Lv1	Time to sleep. Lv1	그럼 자볼까 Lv1
+51023332	さて寝るか Lv2	那來睡覺吧。 Lv2	Time to sleep. Lv2	그럼 자볼까 Lv2
+51023333	さて寝るか Lv3	那來睡覺吧。 Lv3	Time to sleep. Lv3	그럼 자볼까 Lv3
+51023334	さて寝るか Lv4	那來睡覺吧。 Lv4	Time to sleep. Lv4	그럼 자볼까 Lv4
+51023335	さて寝るか Lv5	那來睡覺吧。 Lv5	Time to sleep. Lv5	그럼 자볼까 Lv5
+51023410	出汁取られるかと思ったわぁ	我還想說能拿來熬高湯呢。	I thought I had taken some stock.	국물을 낼 수 있을까 했다
+51023411	出汁取られるかと思ったわぁ Lv1	我還想說能拿來熬高湯呢。 Lv1	I thought I had taken some stock. Lv1	국물을 낼 수 있을까 했다 Lv1
+51023412	出汁取られるかと思ったわぁ Lv2	我還想說能拿來熬高湯呢。 Lv2	I thought I had taken some stock. Lv2	국물을 낼 수 있을까 했다 Lv2
+51023413	出汁取られるかと思ったわぁ Lv3	我還想說能拿來熬高湯呢。 Lv3	I thought I had taken some stock. Lv3	국물을 낼 수 있을까 했다 Lv3
+51023414	出汁取られるかと思ったわぁ Lv4	我還想說能拿來熬高湯呢。 Lv4	I thought I had taken some stock. Lv4	국물을 낼 수 있을까 했다 Lv4
+51023415	出汁取られるかと思ったわぁ Lv5	我還想說能拿來熬高湯呢。 Lv5	I thought I had taken some stock. Lv5	국물을 낼 수 있을까 했다 Lv5
+51023420	さて　お昼寝や	好啦，來睡午覺。	Time to take a nap.	그럼 낮잠 잔데이
+51023421	さて　お昼寝や Lv1	好啦，來睡午覺。 Lv1	Time to take a nap. Lv1	그럼 낮잠 잔데이 Lv1
+51023422	さて　お昼寝や Lv2	好啦，來睡午覺。 Lv2	Time to take a nap. Lv2	그럼 낮잠 잔데이 Lv2
+51023423	さて　お昼寝や Lv3	好啦，來睡午覺。 Lv3	Time to take a nap. Lv3	그럼 낮잠 잔데이 Lv3
+51023424	さて　お昼寝や Lv4	好啦，來睡午覺。 Lv4	Time to take a nap. Lv4	그럼 낮잠 잔데이 Lv4
+51023425	さて　お昼寝や Lv5	好啦，來睡午覺。 Lv5	Time to take a nap. Lv5	그럼 낮잠 잔데이 Lv5
+51023430	着心地ええなぁ	穿起來好舒服喔。	This is so comfortable.	착용감이 괜찮네
+51023431	着心地ええなぁ Lv1	穿起來好舒服喔。 Lv1	This is so comfortable. Lv1	착용감이 괜찮네~ Lv1
+51023432	着心地ええなぁ Lv2	穿起來好舒服喔。 Lv2	This is so comfortable. Lv2	착용감이 괜찮네~ Lv2
+51023433	着心地ええなぁ Lv3	穿起來好舒服喔。 Lv3	This is so comfortable. Lv3	착용감이 괜찮네~ Lv3
+51023434	着心地ええなぁ Lv4	穿起來好舒服喔。 Lv4	This is so comfortable. Lv4	착용감이 괜찮네~ Lv4
+51023435	着心地ええなぁ Lv5	穿起來好舒服喔。 Lv5	This is so comfortable. Lv5	착용감이 괜찮네~ Lv5
+51023510	二度寝しちゃおうかなー	來睡回籠覺好了──	Maybe I'll go for round two of sleep.	다시 잘까~
+51023511	二度寝しちゃおうかなー Lv1	來睡回籠覺好了── Lv1	Maybe I'll go for round two of sleep. Lv1	다시 잘까~ Lv1
+51023512	二度寝しちゃおうかなー Lv2	來睡回籠覺好了── Lv2	Maybe I'll go for round two of sleep. Lv2	다시 잘까~ Lv2
+51023513	二度寝しちゃおうかなー Lv3	來睡回籠覺好了── Lv3	Maybe I'll go for round two of sleep. Lv3	다시 잘까~ Lv3
+51023514	二度寝しちゃおうかなー Lv4	來睡回籠覺好了── Lv4	Maybe I'll go for round two of sleep. Lv4	다시 잘까~ Lv4
+51023515	二度寝しちゃおうかなー Lv5	來睡回籠覺好了── Lv5	Maybe I'll go for round two of sleep. Lv5	다시 잘까~ Lv5
+51023520	このパジャマ着心地いいー	這件睡衣穿起來好舒服──	These pajamas are really comfortable.	이 파자마, 착용감이 좋아~
+51023521	このパジャマ着心地いいー Lv1	這件睡衣穿起來好舒服── Lv1	These pajamas are really comfortable. Lv1	이 파자마, 착용감이 좋아~ Lv1
+51023522	このパジャマ着心地いいー Lv2	這件睡衣穿起來好舒服── Lv2	These pajamas are really comfortable. Lv2	이 파자마, 착용감이 좋아~ Lv2
+51023523	このパジャマ着心地いいー Lv3	這件睡衣穿起來好舒服── Lv3	These pajamas are really comfortable. Lv3	이 파자마, 착용감이 좋아~ Lv3
+51023524	このパジャマ着心地いいー Lv4	這件睡衣穿起來好舒服── Lv4	These pajamas are really comfortable. Lv4	이 파자마, 착용감이 좋아~ Lv4
+51023525	このパジャマ着心地いいー Lv5	這件睡衣穿起來好舒服── Lv5	These pajamas are really comfortable. Lv5	이 파자마, 착용감이 좋아~ Lv5
+51023530	わん！　なんちゃって	汪！亂說的啦。	Woof! Just kidding.	멍! 막 이래~
+51023531	わん！　なんちゃって Lv1	汪！亂說的啦。 Lv1	Woof! Just kidding. Lv1	멍! 막 이래~ Lv1
+51023532	わん！　なんちゃって Lv2	汪！亂說的啦。 Lv2	Woof! Just kidding. Lv2	멍! 막 이래~ Lv2
+51023533	わん！　なんちゃって Lv3	汪！亂說的啦。 Lv3	Woof! Just kidding. Lv3	멍! 막 이래~ Lv3
+51023534	わん！　なんちゃって Lv4	汪！亂說的啦。 Lv4	Woof! Just kidding. Lv4	멍! 막 이래~ Lv4
+51023535	わん！　なんちゃって Lv5	汪！亂說的啦。 Lv5	Woof! Just kidding. Lv5	멍! 막 이래~ Lv5
 62000110	松ぼっくり	松果	Pinecone	솔방울
 62000111	松ぼっくり Lv1	松果 Lv1	Pinecone Lv1	솔방울 Lv1
 62000112	松ぼっくり Lv2	松果 Lv2	Pinecone Lv2	솔방울 Lv2
@@ -8813,6 +9235,18 @@ You can enjoy BBQ and bonfires on a private beach full of openness, and fully en
 つながりのステータスがそこそこ増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
 關係狀態稍微增加"	During Chill Time at camp, effects may occasionally occur. Relationship moderate increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
 [관계]가 일정량 증가"
+100401061	"キャンプのチルタイム中、たまに効果が発生する。
+いごこちのステータスがちょっと増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
+舒適狀態稍微增加"	During Chill Time at camp, effects may occasionally occur. Coziness slightly increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
+[쾌적함]이 조금 증가"
+100401062	"キャンプのチルタイム中、たまに効果が発生する。
+いごこちのステータスが増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
+舒適狀態增加"	During Chill Time at camp, effects may occasionally occur. Coziness increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
+[쾌적함]이 증가"
+100401063	"キャンプのチルタイム中、たまに効果が発生する。
+いごこちのステータスがそこそこ増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
+舒適狀態稍微增加"	During Chill Time at camp, effects may occasionally occur. Coziness moderate increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
+[쾌적함]이 일정량 증가"
 100402011	"キャンプのチルタイム中、たまに効果が発生する。
 いごこちのステータスがちょっと増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
 舒適狀態稍微增加"	During Chill Time at camp, effects may occasionally occur. Coziness slightly increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
@@ -8873,6 +9307,18 @@ You can enjoy BBQ and bonfires on a private beach full of openness, and fully en
 まんぞくのステータスがそこそこ増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
 滿足狀態稍微增加"	During Chill Time at camp, effects may occasionally occur. Satisfaction moderate increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
 [만족]이 일정량 증가"
+100402061	"キャンプのチルタイム中、たまに効果が発生する。
+ぬくもりのステータスがちょっと増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
+溫暖狀態稍微增加"	During Chill Time at camp, effects may occasionally occur. Warmth slightly increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
+[따뜻함]이 조금 증가"
+100402062	"キャンプのチルタイム中、たまに効果が発生する。
+ぬくもりのステータスが増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
+溫暖狀態增加"	During Chill Time at camp, effects may occasionally occur. Warmth increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
+[따뜻함]이 증가"
+100402063	"キャンプのチルタイム中、たまに効果が発生する。
+ぬくもりのステータスがそこそこ増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
+溫暖狀態稍微增加"	During Chill Time at camp, effects may occasionally occur. Warmth moderate increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
+[따뜻함]이 일정량 증가"
 100403011	"キャンプのチルタイム中、たまに効果が発生する。
 いやしのステータスがちょっと増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
 治癒狀態稍微增加"	During Chill Time at camp, effects may occasionally occur. Healing slightly increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
@@ -10241,6 +10687,90 @@ You can enjoy BBQ and bonfires on a private beach full of openness, and fully en
 ぬくもりのステータスが増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
 溫暖狀態增加"	During Chill Time at camp, effects may occasionally occur. Warmth increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
 [따뜻함]이 증가"
+100406921	"キャンプのチルタイム中、たまに効果が発生する。
+いごこちのステータスがほんのちょっと増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
+舒適狀態僅稍微增加"	During Chill Time at camp, effects may occasionally occur. Coziness just a little increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
+[쾌적함]이 아주 조금 증가"
+100406922	"キャンプのチルタイム中、たまに効果が発生する。
+いごこちのステータスがちょっと増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
+舒適狀態稍微增加"	During Chill Time at camp, effects may occasionally occur. Coziness slightly increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
+[쾌적함]이 조금 증가"
+100406923	"キャンプのチルタイム中、たまに効果が発生する。
+いごこちのステータスが増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
+舒適狀態增加"	During Chill Time at camp, effects may occasionally occur. Coziness increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
+[쾌적함]이 증가"
+100406931	"キャンプのチルタイム中、たまに効果が発生する。
+いやしのステータスがほんのちょっと増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
+治癒狀態僅稍微增加"	During Chill Time at camp, effects may occasionally occur. Healing just a little increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
+[치유]가 아주 조금 증가"
+100406932	"キャンプのチルタイム中、たまに効果が発生する。
+いやしのステータスがちょっと増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
+治癒狀態稍微增加"	During Chill Time at camp, effects may occasionally occur. Healing slightly increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
+[치유]가 조금 증가"
+100406933	"キャンプのチルタイム中、たまに効果が発生する。
+いやしのステータスが増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
+治癒狀態增加"	During Chill Time at camp, effects may occasionally occur. Healing increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
+[치유]가 증가"
+100406941	"キャンプのチルタイム中、たまに効果が発生する。
+まんぞくのステータスがほんのちょっと増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
+滿足狀態僅稍微增加"	During Chill Time at camp, effects may occasionally occur. Satisfaction just a little increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
+[만족]이 아주 조금 증가"
+100406942	"キャンプのチルタイム中、たまに効果が発生する。
+まんぞくのステータスがちょっと増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
+滿足狀態稍微增加"	During Chill Time at camp, effects may occasionally occur. Satisfaction slightly increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
+[만족]이 조금 증가"
+100406943	"キャンプのチルタイム中、たまに効果が発生する。
+まんぞくのステータスが増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
+滿足狀態增加"	During Chill Time at camp, effects may occasionally occur. Satisfaction increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
+[만족]이 증가"
+100406951	"キャンプのチルタイム中、たまに効果が発生する。
+いごこちのステータスがほんのちょっと増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
+舒適狀態僅稍微增加"	During Chill Time at camp, effects may occasionally occur. Coziness just a little increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
+[쾌적함]이 아주 조금 증가"
+100406952	"キャンプのチルタイム中、たまに効果が発生する。
+いごこちのステータスがちょっと増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
+舒適狀態稍微增加"	During Chill Time at camp, effects may occasionally occur. Coziness slightly increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
+[쾌적함]이 조금 증가"
+100406953	"キャンプのチルタイム中、たまに効果が発生する。
+いごこちのステータスが増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
+舒適狀態增加"	During Chill Time at camp, effects may occasionally occur. Coziness increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
+[쾌적함]이 증가"
+100406961	"キャンプのチルタイム中、たまに効果が発生する。
+まんぞくのステータスがほんのちょっと増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
+滿足狀態僅稍微增加"	During Chill Time at camp, effects may occasionally occur. Satisfaction just a little increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
+[만족]이 아주 조금 증가"
+100406962	"キャンプのチルタイム中、たまに効果が発生する。
+まんぞくのステータスがちょっと増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
+滿足狀態稍微增加"	During Chill Time at camp, effects may occasionally occur. Satisfaction slightly increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
+[만족]이 조금 증가"
+100406963	"キャンプのチルタイム中、たまに効果が発生する。
+まんぞくのステータスが増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
+滿足狀態增加"	During Chill Time at camp, effects may occasionally occur. Satisfaction increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
+[만족]이 증가"
+100406971	"キャンプのチルタイム中、たまに効果が発生する。
+ぬくもりのステータスがほんのちょっと増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
+溫暖狀態僅稍微增加"	During Chill Time at camp, effects may occasionally occur. Warmth just a little increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
+[따뜻함]이 아주 조금 증가"
+100406972	"キャンプのチルタイム中、たまに効果が発生する。
+ぬくもりのステータスがちょっと増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
+溫暖狀態稍微增加"	During Chill Time at camp, effects may occasionally occur. Warmth slightly increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
+[따뜻함]이 조금 증가"
+100406973	"キャンプのチルタイム中、たまに効果が発生する。
+ぬくもりのステータスが増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
+溫暖狀態增加"	During Chill Time at camp, effects may occasionally occur. Warmth increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
+[따뜻함]이 증가"
+100406981	"キャンプのチルタイム中、たまに効果が発生する。
+いごこちのステータスがほんのちょっと増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
+舒適狀態僅稍微增加"	During Chill Time at camp, effects may occasionally occur. Coziness just a little increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
+[쾌적함]이 아주 조금 증가"
+100406982	"キャンプのチルタイム中、たまに効果が発生する。
+いごこちのステータスがちょっと増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
+舒適狀態稍微增加"	During Chill Time at camp, effects may occasionally occur. Coziness slightly increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
+[쾌적함]이 조금 증가"
+100406983	"キャンプのチルタイム中、たまに効果が発生する。
+いごこちのステータスが増加する。"	"在露營的CHILL TIME，偶爾會產生效果。
+舒適狀態增加"	During Chill Time at camp, effects may occasionally occur. Coziness increases	"캠핑의 CHILL TIME 중에 가끔 효과가 발생.
+[쾌적함]이 증가"
 110000011	"あそぶミッションのはじめに
 つながりがほんのわずかにあがる"	"玩任務開始時
 關係狀態僅僅稍微增加"	At the start of the Play Mission, Relationship very little increase	"[놀다] 미션 시작 시에
@@ -23872,6 +24402,681 @@ You can enjoy BBQ and bonfires on a private beach full of openness, and fully en
 玩任務變得
 相對較多更熟練"	Relationship increases, Play Missions become moderate better	"[관계]가 증가
 [놀다] 미션이
+상당히 능숙해짐"
+151023111	"暑いキャンプ場で
+りょうりミッションのおわりに
+いごこちがすこしあがる"	"炎热的露营地
+料理任務結束時
+舒適狀態略微增加"	"At a hot campsite,
+At the end of the Cooking Mission,
+Coziness a little increase"	"더운 캠핑장에서
+[요리] 미션이 끝날때
+[쾌적함]이 일정량 증가"
+151023112	"暑いキャンプ場で
+りょうりミッションのおわりに
+いごこちがあがる"	"炎热的露营地
+料理任務結束時
+舒適狀態增加"	"At a hot campsite,
+At the end of the Cooking Mission,
+Coziness increase"	"더운 캠핑장에서
+[요리] 미션이 끝날때
+[쾌적함]이 증가"
+151023113	"暑いキャンプ場で
+りょうりミッションのおわりに
+いごこちがそこそこあがる"	"炎热的露营地
+料理任務結束時
+舒適狀態相對較多增加"	"At a hot campsite,
+At the end of the Cooking Mission,
+Coziness moderate increase"	"더운 캠핑장에서
+[요리] 미션이 끝날때
+[쾌적함]이 상당히 증가"
+151023114	"暑いキャンプ場で
+りょうりミッションのおわりに
+いごこちがすごくあがる"	"炎热的露营地
+料理任務結束時
+舒適狀態非常大幅增加"	"At a hot campsite,
+At the end of the Cooking Mission,
+Coziness greatly increase"	"더운 캠핑장에서
+[요리] 미션이 끝날때
+[쾌적함]이 매우 증가"
+151023115	"暑いキャンプ場で
+りょうりミッションのおわりに
+いごこちがものすごくあがる"	"炎热的露营地
+料理任務結束時
+舒適狀態極度大幅增加"	"At a hot campsite,
+At the end of the Cooking Mission,
+Coziness extremely increase"	"더운 캠핑장에서
+[요리] 미션이 끝날때
+쾌적함이 엄청나게 증가하다"
+151023121	"水辺のキャンプ場で
+くつろぐミッションのとちゅうに
+いごこちがわずかにあがる"	"在水邊露營地
+放鬆任務途中時
+舒適狀態稍稍增加"	"At a waterfront campsite,
+At the en route of the Relax Mission,
+Coziness slightly increase"	"물가 캠핑장에서
+[편히쉬다] 미션 도중 에
+[쾌적함]이 소량 증가"
+151023122	"水辺のキャンプ場で
+くつろぐミッションのとちゅうに
+いごこちがすこしあがる"	"在水邊露營地
+放鬆任務途中時
+舒適狀態略微增加"	"At a waterfront campsite,
+At the en route of the Relax Mission,
+Coziness a little increase"	"물가 캠핑장에서
+[편히쉬다] 미션 도중 에
+[쾌적함]이 일정량 증가"
+151023123	"水辺のキャンプ場で
+くつろぐミッションのとちゅうに
+いごこちがあがる"	"在水邊露營地
+放鬆任務途中時
+舒適狀態增加"	"At a waterfront campsite,
+At the en route of the Relax Mission,
+Coziness increase"	"물가 캠핑장에서
+[편히쉬다] 미션 도중 에
+[쾌적함]이 증가"
+151023124	"水辺のキャンプ場で
+くつろぐミッションのとちゅうに
+いごこちがそこそこあがる"	"在水邊露營地
+放鬆任務途中時
+舒適狀態相對較多增加"	"At a waterfront campsite,
+At the en route of the Relax Mission,
+Coziness moderate increase"	"물가 캠핑장에서
+[편히쉬다] 미션 도중 에
+[쾌적함]이 상당히 증가"
+151023125	"水辺のキャンプ場で
+くつろぐミッションのとちゅうに
+いごこちがすごくあがる"	"在水邊露營地
+放鬆任務途中時
+舒適狀態非常大幅增加"	"At a waterfront campsite,
+At the en route of the Relax Mission,
+Coziness greatly increase"	"물가 캠핑장에서
+[편히쉬다] 미션 도중 에
+[쾌적함]이 매우 증가"
+151023131	"いごこちがあがり
+りょうりミッションが
+ちょっと上手になる"	"舒適增加
+料理任務變得
+稍微更熟練"	"Coziness increases,
+Cooking Missions become
+a little bit better"	"[쾌적함]이 증가
+[요리] 미션이
+약간 능숙해짐"
+151023132	"いごこちがあがり
+りょうりミッションが
+わずかに上手になる"	"舒適增加
+料理任務變得
+稍稍更熟練"	"Coziness increases,
+Cooking Missions become
+slightly better"	"[쾌적함]이 증가
+[요리] 미션이
+조금 능숙해짐"
+151023133	"いごこちがあがり
+りょうりミッションが
+すこし上手になる"	"舒適增加
+料理任務變得
+略微更熟練"	"Coziness increases,
+Cooking Missions become
+a little better"	"[쾌적함]이 증가
+[요리] 미션이
+좀 더 능숙해짐"
+151023134	"いごこちがあがり
+りょうりミッションが
+上手になる"	"舒適增加
+料理任務變得
+更熟練"	"Coziness increases,
+Cooking Missions become
+better"	"[쾌적함]이 증가
+[요리] 미션이
+능숙해짐"
+151023135	"いごこちがあがり
+りょうりミッションが
+そこそこ上手になる"	"舒適增加
+料理任務變得
+相對較多更熟練"	"Coziness increases,
+Cooking Missions become
+moderate better"	"[쾌적함]이 증가
+[요리] 미션이
+상당히 능숙해짐"
+151023211	"暑いキャンプ場で
+あそぶミッションのとちゅうに
+いやしがわずかにあがる"	"炎热的露营地
+玩任務途中時
+治癒狀態稍稍增加"	"At a hot campsite,
+At the en route of the Play Mission,
+Healing slightly increase"	"더운 캠핑장에서
+[놀다] 미션 도중 에
+[치유]가 소량 증가"
+151023212	"暑いキャンプ場で
+あそぶミッションのとちゅうに
+いやしがすこしあがる"	"炎热的露营地
+玩任務途中時
+治癒狀態略微增加"	"At a hot campsite,
+At the en route of the Play Mission,
+Healing a little increase"	"더운 캠핑장에서
+[놀다] 미션 도중 에
+[치유]가 일정량 증가"
+151023213	"暑いキャンプ場で
+あそぶミッションのとちゅうに
+いやしがあがる"	"炎热的露营地
+玩任務途中時
+治癒狀態增加"	"At a hot campsite,
+At the en route of the Play Mission,
+Healing increase"	"더운 캠핑장에서
+[놀다] 미션 도중 에
+[치유]가 증가"
+151023214	"暑いキャンプ場で
+あそぶミッションのとちゅうに
+いやしがそこそこあがる"	"炎热的露营地
+玩任務途中時
+治癒狀態相對較多增加"	"At a hot campsite,
+At the en route of the Play Mission,
+Healing moderate increase"	"더운 캠핑장에서
+[놀다] 미션 도중 에
+[치유]가 상당히 증가"
+151023215	"暑いキャンプ場で
+あそぶミッションのとちゅうに
+いやしがすごくあがる"	"炎热的露营地
+玩任務途中時
+治癒狀態非常大幅增加"	"At a hot campsite,
+At the en route of the Play Mission,
+Healing greatly increase"	"더운 캠핑장에서
+[놀다] 미션 도중 에
+[치유]가 매우 증가"
+151023221	"水辺のキャンプ場で
+あそぶミッションのおわりに
+いやしがすこしあがる"	"在水邊露營地
+玩任務結束時
+治癒狀態略微增加"	"At a waterfront campsite,
+At the end of the Play Mission,
+Healing a little increase"	"물가 캠핑장에서
+[놀다] 미션이 끝날때
+[치유]가 일정량 증가"
+151023222	"水辺のキャンプ場で
+あそぶミッションのおわりに
+いやしがあがる"	"在水邊露營地
+玩任務結束時
+治癒狀態增加"	"At a waterfront campsite,
+At the end of the Play Mission,
+Healing increase"	"물가 캠핑장에서
+[놀다] 미션이 끝날때
+[치유]가 증가"
+151023223	"水辺のキャンプ場で
+あそぶミッションのおわりに
+いやしがそこそこあがる"	"在水邊露營地
+玩任務結束時
+治癒狀態相對較多增加"	"At a waterfront campsite,
+At the end of the Play Mission,
+Healing moderate increase"	"물가 캠핑장에서
+[놀다] 미션이 끝날때
+[치유]가 상당히 증가"
+151023224	"水辺のキャンプ場で
+あそぶミッションのおわりに
+いやしがすごくあがる"	"在水邊露營地
+玩任務結束時
+治癒狀態非常大幅增加"	"At a waterfront campsite,
+At the end of the Play Mission,
+Healing greatly increase"	"물가 캠핑장에서
+[놀다] 미션이 끝날때
+[치유]가 매우 증가"
+151023225	"水辺のキャンプ場で
+あそぶミッションのおわりに
+いやしがものすごくあがる"	"在水邊露營地
+玩任務結束時
+治癒狀態極度大幅增加"	"At a waterfront campsite,
+At the end of the Play Mission,
+Healing extremely increase"	"물가 캠핑장에서
+[놀다] 미션이 끝날때
+[치유]가 엄청나게 증가"
+151023231	"いやしがあがり
+くつろぐミッションが
+ちょっと上手になる"	"治癒增加
+放鬆任務變得
+稍微更熟練"	"Healing increases,
+Relax Missions become
+a little bit better"	"[치유]가 증가
+[편히쉬다] 미션이
+약간 능숙해짐"
+151023232	"いやしがあがり
+くつろぐミッションが
+わずかに上手になる"	"治癒增加
+放鬆任務變得
+稍稍更熟練"	"Healing increases,
+Relax Missions become
+slightly better"	"[치유]가 증가
+[편히쉬다] 미션이
+조금 능숙해짐"
+151023233	"いやしがあがり
+くつろぐミッションが
+すこし上手になる"	"治癒增加
+放鬆任務變得
+略微更熟練"	"Healing increases,
+Relax Missions become
+a little better"	"[치유]가 증가
+[편히쉬다] 미션이
+좀 더 능숙해짐"
+151023234	"いやしがあがり
+くつろぐミッションが
+上手になる"	"治癒增加
+放鬆任務變得
+更熟練"	"Healing increases,
+Relax Missions become
+better"	"[치유]가 증가
+[편히쉬다] 미션이
+능숙해짐"
+151023235	"いやしがあがり
+くつろぐミッションが
+そこそこ上手になる"	"治癒增加
+放鬆任務變得
+相對較多更熟練"	"Healing increases,
+Relax Missions become
+moderate better"	"[치유]가 증가
+[편히쉬다] 미션이
+상당히 능숙해짐"
+151023311	"暑いキャンプ場で
+あそぶミッションのおわりに
+つながりがすこしあがる"	"炎热的露营地
+玩任務結束時
+關係狀態略微增加"	"At a hot campsite,
+At the end of the Play Mission,
+Relationship a little increase"	"더운 캠핑장에서
+[놀다] 미션이 끝날때
+[관계]가 일정량 증가"
+151023312	"暑いキャンプ場で
+あそぶミッションのおわりに
+つながりがあがる"	"炎热的露营地
+玩任務結束時
+關係狀態增加"	"At a hot campsite,
+At the end of the Play Mission,
+Relationship increase"	"더운 캠핑장에서
+[놀다] 미션이 끝날때
+[관계]가 증가"
+151023313	"暑いキャンプ場で
+あそぶミッションのおわりに
+つながりがそこそこあがる"	"炎热的露营地
+玩任務結束時
+關係狀態相對較多增加"	"At a hot campsite,
+At the end of the Play Mission,
+Relationship moderate increase"	"더운 캠핑장에서
+[놀다] 미션이 끝날때
+[관계]가 상당히 증가"
+151023314	"暑いキャンプ場で
+あそぶミッションのおわりに
+つながりがすごくあがる"	"炎热的露营地
+玩任務結束時
+關係狀態非常大幅增加"	"At a hot campsite,
+At the end of the Play Mission,
+Relationship greatly increase"	"더운 캠핑장에서
+[놀다] 미션이 끝날때
+[관계]가 매우 증가"
+151023315	"暑いキャンプ場で
+あそぶミッションのおわりに
+つながりがものすごくあがる"	"炎热的露营地
+玩任務結束時
+關係狀態極度大幅增加"	"At a hot campsite,
+At the end of the Play Mission,
+Relationship extremely increase"	"더운 캠핑장에서
+[놀다] 미션이 끝날때
+[관계]가 엄청나게 증가"
+151023321	"水辺のキャンプ場で
+あそぶミッションのとちゅうに
+つながりがわずかにあがる"	"在水邊露營地
+玩任務途中時
+關係狀態稍稍增加"	"At a waterfront campsite,
+At the en route of the Play Mission,
+Relationship slightly increase"	"물가 캠핑장에서
+[놀다] 미션 도중 에
+[관계]가 소량 증가"
+151023322	"水辺のキャンプ場で
+あそぶミッションのとちゅうに
+つながりがすこしあがる"	"在水邊露營地
+玩任務途中時
+關係狀態略微增加"	"At a waterfront campsite,
+At the en route of the Play Mission,
+Relationship a little increase"	"물가 캠핑장에서
+[놀다] 미션 도중 에
+[관계]가 일정량 증가"
+151023323	"水辺のキャンプ場で
+あそぶミッションのとちゅうに
+つながりがあがる"	"在水邊露營地
+玩任務途中時
+關係狀態增加"	"At a waterfront campsite,
+At the en route of the Play Mission,
+Relationship increase"	"물가 캠핑장에서
+[놀다] 미션 도중 에
+[관계]가 증가"
+151023324	"水辺のキャンプ場で
+あそぶミッションのとちゅうに
+つながりがそこそこあがる"	"在水邊露營地
+玩任務途中時
+關係狀態相對較多增加"	"At a waterfront campsite,
+At the en route of the Play Mission,
+Relationship moderate increase"	"물가 캠핑장에서
+[놀다] 미션 도중 에
+[관계]가 상당히 증가"
+151023325	"水辺のキャンプ場で
+あそぶミッションのとちゅうに
+つながりがすごくあがる"	"在水邊露營地
+玩任務途中時
+關係狀態非常大幅增加"	"At a waterfront campsite,
+At the en route of the Play Mission,
+Relationship greatly increase"	"물가 캠핑장에서
+[놀다] 미션 도중 에
+[관계]가 매우 증가"
+151023331	"つながりがあがり
+くつろぐミッションが
+ちょっと上手になる"	"關係增加
+放鬆任務變得
+稍微更熟練"	"Relationship increases,
+Relax Missions become
+a little bit better"	"[관계]가 증가
+[편히쉬다] 미션이
+약간 능숙해짐"
+151023332	"つながりがあがり
+くつろぐミッションが
+わずかに上手になる"	"關係增加
+放鬆任務變得
+稍稍更熟練"	"Relationship increases,
+Relax Missions become
+slightly better"	"[관계]가 증가
+[편히쉬다] 미션이
+조금 능숙해짐"
+151023333	"つながりがあがり
+くつろぐミッションが
+すこし上手になる"	"關係增加
+放鬆任務變得
+略微更熟練"	"Relationship increases,
+Relax Missions become
+a little better"	"[관계]가 증가
+[편히쉬다] 미션이
+좀 더 능숙해짐"
+151023334	"つながりがあがり
+くつろぐミッションが
+上手になる"	"關係增加
+放鬆任務變得
+更熟練"	"Relationship increases,
+Relax Missions become
+better"	"[관계]가 증가
+[편히쉬다] 미션이
+능숙해짐"
+151023335	"つながりがあがり
+くつろぐミッションが
+そこそこ上手になる"	"關係增加
+放鬆任務變得
+相對較多更熟練"	"Relationship increases,
+Relax Missions become
+moderate better"	"[관계]가 증가
+[편히쉬다] 미션이
+상당히 능숙해짐"
+151023411	"水辺のキャンプ場で
+あそぶミッションのおわりに
+まんぞくがすこしあがる"	"在水邊露營地
+玩任務結束時
+滿足狀態略微增加"	"At a waterfront campsite,
+At the end of the Play Mission,
+Satisfaction a little increase"	"물가 캠핑장에서
+[놀다] 미션이 끝날때
+[만족]이 일정량 증가"
+151023412	"水辺のキャンプ場で
+あそぶミッションのおわりに
+まんぞくがあがる"	"在水邊露營地
+玩任務結束時
+滿足狀態增加"	"At a waterfront campsite,
+At the end of the Play Mission,
+Satisfaction increase"	"물가 캠핑장에서
+[놀다] 미션이 끝날때
+[만족]이 증가"
+151023413	"水辺のキャンプ場で
+あそぶミッションのおわりに
+まんぞくがそこそこあがる"	"在水邊露營地
+玩任務結束時
+滿足狀態相對較多增加"	"At a waterfront campsite,
+At the end of the Play Mission,
+Satisfaction moderate increase"	"물가 캠핑장에서
+[놀다] 미션이 끝날때
+[만족]이 상당히 증가"
+151023414	"水辺のキャンプ場で
+あそぶミッションのおわりに
+まんぞくがすごくあがる"	"在水邊露營地
+玩任務結束時
+滿足狀態非常大幅增加"	"At a waterfront campsite,
+At the end of the Play Mission,
+Satisfaction greatly increase"	"물가 캠핑장에서
+[놀다] 미션이 끝날때
+[만족]이 매우 증가"
+151023415	"水辺のキャンプ場で
+あそぶミッションのおわりに
+まんぞくがものすごくあがる"	"在水邊露營地
+玩任務結束時
+滿足狀態極度大幅增加"	"At a waterfront campsite,
+At the end of the Play Mission,
+Satisfaction extremely increase"	"물가 캠핑장에서
+[놀다] 미션이 끝날때
+[만족]이 엄청나게 증가"
+151023421	"芝生のキャンプ場で
+あそぶミッションのとちゅうに
+まんぞくがわずかにあがる"	"在草地露營地
+玩任務途中時
+滿足狀態稍稍增加"	"At a grass campsite,
+At the en route of the Play Mission,
+Satisfaction slightly increase"	"잔디 캠핑장에서
+[놀다] 미션 도중 에
+[만족]이 소량 증가"
+151023422	"芝生のキャンプ場で
+あそぶミッションのとちゅうに
+まんぞくがすこしあがる"	"在草地露營地
+玩任務途中時
+滿足狀態略微增加"	"At a grass campsite,
+At the en route of the Play Mission,
+Satisfaction a little increase"	"잔디 캠핑장에서
+[놀다] 미션 도중 에
+[만족]이 일정량 증가"
+151023423	"芝生のキャンプ場で
+あそぶミッションのとちゅうに
+まんぞくがあがる"	"在草地露營地
+玩任務途中時
+滿足狀態增加"	"At a grass campsite,
+At the en route of the Play Mission,
+Satisfaction increase"	"잔디 캠핑장에서
+[놀다] 미션 도중 에
+[만족]이 증가"
+151023424	"芝生のキャンプ場で
+あそぶミッションのとちゅうに
+まんぞくがそこそこあがる"	"在草地露營地
+玩任務途中時
+滿足狀態相對較多增加"	"At a grass campsite,
+At the en route of the Play Mission,
+Satisfaction moderate increase"	"잔디 캠핑장에서
+[놀다] 미션 도중 에
+[만족]이 상당히 증가"
+151023425	"芝生のキャンプ場で
+あそぶミッションのとちゅうに
+まんぞくがすごくあがる"	"在草地露營地
+玩任務途中時
+滿足狀態非常大幅增加"	"At a grass campsite,
+At the en route of the Play Mission,
+Satisfaction greatly increase"	"잔디 캠핑장에서
+[놀다] 미션 도중 에
+[만족]이 매우 증가"
+151023431	"まんぞくがあがり
+くつろぐミッションが
+ちょっと上手になる"	"滿足增加
+放鬆任務變得
+稍微更熟練"	"Satisfaction increases,
+Relax Missions become
+a little bit better"	"[만족]이 증가
+[편히쉬다] 미션이
+약간 능숙해짐"
+151023432	"まんぞくがあがり
+くつろぐミッションが
+わずかに上手になる"	"滿足增加
+放鬆任務變得
+稍稍更熟練"	"Satisfaction increases,
+Relax Missions become
+slightly better"	"[만족]이 증가
+[편히쉬다] 미션이
+조금 능숙해짐"
+151023433	"まんぞくがあがり
+くつろぐミッションが
+すこし上手になる"	"滿足增加
+放鬆任務變得
+略微更熟練"	"Satisfaction increases,
+Relax Missions become
+a little better"	"[만족]이 증가
+[편히쉬다] 미션이
+좀 더 능숙해짐"
+151023434	"まんぞくがあがり
+くつろぐミッションが
+上手になる"	"滿足增加
+放鬆任務變得
+更熟練"	"Satisfaction increases,
+Relax Missions become
+better"	"[만족]이 증가
+[편히쉬다] 미션이
+능숙해짐"
+151023435	"まんぞくがあがり
+くつろぐミッションが
+そこそこ上手になる"	"滿足增加
+放鬆任務變得
+相對較多更熟練"	"Satisfaction increases,
+Relax Missions become
+moderate better"	"[만족]이 증가
+[편히쉬다] 미션이
+상당히 능숙해짐"
+151023511	"水辺のキャンプ場で
+あそぶミッションのとちゅうに
+まんぞくがわずかにあがる"	"在水邊露營地
+玩任務途中時
+滿足狀態稍稍增加"	"At a waterfront campsite,
+At the en route of the Play Mission,
+Satisfaction slightly increase"	"물가 캠핑장에서
+[놀다] 미션 도중 에
+[만족]이 소량 증가"
+151023512	"水辺のキャンプ場で
+あそぶミッションのとちゅうに
+まんぞくがすこしあがる"	"在水邊露營地
+玩任務途中時
+滿足狀態略微增加"	"At a waterfront campsite,
+At the en route of the Play Mission,
+Satisfaction a little increase"	"물가 캠핑장에서
+[놀다] 미션 도중 에
+[만족]이 일정량 증가"
+151023513	"水辺のキャンプ場で
+あそぶミッションのとちゅうに
+まんぞくがあがる"	"在水邊露營地
+玩任務途中時
+滿足狀態增加"	"At a waterfront campsite,
+At the en route of the Play Mission,
+Satisfaction increase"	"물가 캠핑장에서
+[놀다] 미션 도중 에
+[만족]이 증가"
+151023514	"水辺のキャンプ場で
+あそぶミッションのとちゅうに
+まんぞくがそこそこあがる"	"在水邊露營地
+玩任務途中時
+滿足狀態相對較多增加"	"At a waterfront campsite,
+At the en route of the Play Mission,
+Satisfaction moderate increase"	"물가 캠핑장에서
+[놀다] 미션 도중 에
+[만족]이 상당히 증가"
+151023515	"水辺のキャンプ場で
+あそぶミッションのとちゅうに
+まんぞくがすごくあがる"	"在水邊露營地
+玩任務途中時
+滿足狀態非常大幅增加"	"At a waterfront campsite,
+At the en route of the Play Mission,
+Satisfaction greatly increase"	"물가 캠핑장에서
+[놀다] 미션 도중 에
+[만족]이 매우 증가"
+151023521	"芝生のキャンプ場で
+あそぶミッションのおわりに
+まんぞくがすこしあがる"	"在草地露營地
+玩任務結束時
+滿足狀態略微增加"	"At a grass campsite,
+At the end of the Play Mission,
+Satisfaction a little increase"	"잔디 캠핑장에서
+[놀다] 미션이 끝날때
+[만족]이 일정량 증가"
+151023522	"芝生のキャンプ場で
+あそぶミッションのおわりに
+まんぞくがあがる"	"在草地露營地
+玩任務結束時
+滿足狀態增加"	"At a grass campsite,
+At the end of the Play Mission,
+Satisfaction increase"	"잔디 캠핑장에서
+[놀다] 미션이 끝날때
+[만족]이 증가"
+151023523	"芝生のキャンプ場で
+あそぶミッションのおわりに
+まんぞくがそこそこあがる"	"在草地露營地
+玩任務結束時
+滿足狀態相對較多增加"	"At a grass campsite,
+At the end of the Play Mission,
+Satisfaction moderate increase"	"잔디 캠핑장에서
+[놀다] 미션이 끝날때
+[만족]이 상당히 증가"
+151023524	"芝生のキャンプ場で
+あそぶミッションのおわりに
+まんぞくがすごくあがる"	"在草地露營地
+玩任務結束時
+滿足狀態非常大幅增加"	"At a grass campsite,
+At the end of the Play Mission,
+Satisfaction greatly increase"	"잔디 캠핑장에서
+[놀다] 미션이 끝날때
+[만족]이 매우 증가"
+151023525	"芝生のキャンプ場で
+あそぶミッションのおわりに
+まんぞくがものすごくあがる"	"在草地露營地
+玩任務結束時
+滿足狀態極度大幅增加"	"At a grass campsite,
+At the end of the Play Mission,
+Satisfaction extremely increase"	"잔디 캠핑장에서
+[놀다] 미션이 끝날때
+[만족]이 엄청나게 증가"
+151023531	"まんぞくがあがり
+くつろぐミッションが
+ちょっと上手になる"	"滿足增加
+放鬆任務變得
+稍微更熟練"	"Satisfaction increases,
+Relax Missions become
+a little bit better"	"[만족]이 증가
+[편히쉬다] 미션이
+약간 능숙해짐"
+151023532	"まんぞくがあがり
+くつろぐミッションが
+わずかに上手になる"	"滿足增加
+放鬆任務變得
+稍稍更熟練"	"Satisfaction increases,
+Relax Missions become
+slightly better"	"[만족]이 증가
+[편히쉬다] 미션이
+조금 능숙해짐"
+151023533	"まんぞくがあがり
+くつろぐミッションが
+すこし上手になる"	"滿足增加
+放鬆任務變得
+略微更熟練"	"Satisfaction increases,
+Relax Missions become
+a little better"	"[만족]이 증가
+[편히쉬다] 미션이
+좀 더 능숙해짐"
+151023534	"まんぞくがあがり
+くつろぐミッションが
+上手になる"	"滿足增加
+放鬆任務變得
+更熟練"	"Satisfaction increases,
+Relax Missions become
+better"	"[만족]이 증가
+[편히쉬다] 미션이
+능숙해짐"
+151023535	"まんぞくがあがり
+くつろぐミッションが
+そこそこ上手になる"	"滿足增加
+放鬆任務變得
+相對較多更熟練"	"Satisfaction increases,
+Relax Missions become
+moderate better"	"[만족]이 증가
+[편히쉬다] 미션이
 상당히 능숙해짐"
 162000111	"いやしがあがり
 くつろぐミッションが
