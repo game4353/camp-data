@@ -51,8 +51,8 @@ id	ja	zh-TW	en	ko
 1050	絶対なでしこ育成MAXスペシャルガチャ	絕對撫子培育MAX特別轉蛋	Nadeshiko MAX Growth Special Gacha	절대 나데시코 육성 MAX스페셜 뽑기
 1051	SR土岐綾乃PUサポートカードガチャ	SR土岐綾乃PU輔助卡轉蛋	SR Ayano Toki PU Support Card Gacha	SR도키 아야노PU서포트 카드 뽑기
 1052	パジャマパーティーコスチュームガチャ	睡衣派對服裝轉蛋	Pyjama Party Costume Gacha	파자마 파티코스튬 뽑기
-1053	千明★3確定ガチャ	★3必出！抽獎券轉蛋	★3 Ensured!Ticket Gacha	★3 확정!티켓 뽑기
-1054	恵那★3確定ガチャ	★3必出！抽獎券轉蛋	★3 Ensured!Ticket Gacha	★3 확정!티켓 뽑기
+1053	千明★3確定ガチャ	千明限定★3必出券轉蛋	Chiaki Limited ★3 Ensured Ticket Gacha	치아키 한정 ★3확정 티켓뽑기
+1054	恵那★3確定ガチャ	惠那限定★3必出券轉蛋	Ena Limited ★3 Ensured Ticket Gacha	에나 한정 ★3확정 티켓뽑기
 2001	0	0(TW)	0(EN)	0(KO)
 3002	チュートリアル中専用のガチャです。	這是教學期間專用的轉蛋。	This is a Gacha exclusively for use during the tutorial.	튜토리얼 중 전용 뽑기입니다.
 3003	有償ガチャのテンプレです	有償ガチャのテンプレです(TW)	有償ガチャのテンプレです(EN)	有償ガチャのテンプレです(KO)
@@ -202,20 +202,20 @@ which can be <color=""red"">exchanged for a ★3 of your choice!</color>"	"뽑�
 3037	"<color=""red"">★3コスチュームが手に入る！</color>
 大垣千明★3確定ガチャチケ専用の
 ガチャです"	"<color=""red"">可以獲得★3服裝！</color>
-是專用於★3確定轉蛋券的
+是大垣千明專用於★3確定轉蛋券的
 轉蛋！"	"<color=""red"">Get a ★3 costume!</color>
 This Gacha is exclusive for
-★3 Guaranteed Gacha Tickets!"	"<color=""red"">★3 코스튬을 획득할 수 있습니다!</color>
-★3 확정 뽑기 티켓 전용
+Chiaki Ogaki ★3 Ensured Gacha Ticket!"	"<color=""red"">★3 코스튬을 획득할 수 있습니다!</color>
+오가키 치아키 ★3 확정 뽑기 티켓 전용
 뽑기입니다!"
 3038	"<color=""red"">★3コスチュームが手に入る！</color>
-犬山あおい★3確定ガチャチケ専用の
+齋藤恵那★3確定ガチャチケ専用の
 ガチャです"	"<color=""red"">可以獲得★3服裝！</color>
-是專用於★3確定轉蛋券的
+是齊藤惠那專用於★3確定轉蛋券的
 轉蛋！"	"<color=""red"">Get a ★3 costume!</color>
 This Gacha is exclusive for
-★3 Guaranteed Gacha Tickets!"	"<color=""red"">★3 코스튬을 획득할 수 있습니다!</color>
-★3 확정 뽑기 티켓 전용
+Ena Saito ★3 Guaranteed Gacha Tickets!"	"<color=""red"">★3 코스튬을 획득할 수 있습니다!</color>
+사이토 에나 ★3 확정 뽑기 티켓 전용
 뽑기입니다!"
 4002	中野 二乃★4カード	中野 二乃★4カード(TW)	中野 二乃★4カード(EN)	中野 二乃★4カード(KO)
 4003	中野 二乃★3カード	中野 二乃★3カード(TW)	中野 二乃★3カード(EN)	中野 二乃★3カード(KO)
@@ -816,27 +816,27 @@ This Gacha is exclusive for
 2023/08/25 11:00:00 ～ 終了日未定
 ・千明の★3コスチュームが必ず手に入る！
 ・登場するコスチュームはすべて着せ替え衣装付き！ホームや記念撮影で撮影したり、キャンプに連れて行ったりしましょう♪"	"【舉辦期間】
-2023/06/15 11:00:00 ～ 結束日期未定
-・必定能得到★3的服裝！
+2023/08/25 11:00:00 ～ 結束日期未定
+・必定能得到千明★3的服裝！
 ・登場的服裝都附帶換裝服飾！在主頁或紀念拍照時拍照，或是帶到露營去吧♪"	"【Holding Period】
-2023/06/15 11:00:00 - End date to be determined
-· You will definitely get a ★3 costume!
+2023/08/25 11:00:00 - End date to be determined
+· You will definitely get a Chiaki ★3 costume!
 · All the costumes that appear come with dress-up outfits! Take pictures at home or during commemorative photos, or take them camping♪"	"【개최 기간】
-2023/06/15 11:00:00 ~ 종료일 미정
-・반드시 ★3 코스튬을 얻을 수 있습니다!
+2023/08/25 11:00:00 ~ 종료일 미정
+・반드시 치아키 ★3 코스튬을 얻을 수 있습니다!
 ・코스튬은 모두 의상 변경이 가능합니다 ! 획득한 복장으로 홈이나 기념 촬영도 하시고 캠핑도 떠나 보세요♪"
 5039	"【開催期間】
 2023/08/25 11:00:00 ～ 終了日未定
 ・恵那の★3コスチュームが必ず手に入る！
 ・登場するコスチュームはすべて着せ替え衣装付き！ホームや記念撮影で撮影したり、キャンプに連れて行ったりしましょう♪"	"【舉辦期間】
-2023/06/15 11:00:00 ～ 結束日期未定
-・必定能得到★3的服裝！
+2023/08/25 11:00:00 ～ 結束日期未定
+・必定能得到惠那★3的服裝！
 ・登場的服裝都附帶換裝服飾！在主頁或紀念拍照時拍照，或是帶到露營去吧♪"	"【Holding Period】
-2023/06/15 11:00:00 - End date to be determined
-· You will definitely get a ★3 costume!
+2023/08/25 11:00:00 - End date to be determined
+· You will definitely get a Ena ★3 costume!
 · All the costumes that appear come with dress-up outfits! Take pictures at home or during commemorative photos, or take them camping♪"	"【개최 기간】
-2023/06/15 11:00:00 ~ 종료일 미정
-・반드시 ★3 코스튬을 얻을 수 있습니다!
+2023/08/25 11:00:00 ~ 종료일 미정
+・반드시 에나 ★3 코스튬을 얻을 수 있습니다!
 ・코스튬은 모두 의상 변경이 가능합니다 ! 획득한 복장으로 홈이나 기념 촬영도 하시고 캠핑도 떠나 보세요♪"
 6001	"＜ガチャの注目ポイント＞
 ・【袴2020】に日向坂46メンバー8人が新登場！
@@ -2876,7 +2876,7 @@ Pickup ★3 Costume: 40 shards of the corresponding costume
 ★3服裝：相應服裝的碎片×25
 
 ＜注意事項＞
-※本轉蛋只能使用「★3確定轉蛋券」來進行。
+※本轉蛋只能使用「大垣千明★3必出轉蛋票」來進行。
 ※轉蛋的內容可能會在沒有預告的情況下更改。"	"· This is a Gacha where you can obtain ★3 costumes.
 · When you obtain a costume, you can also get a number of 'Fujisan' as a bonus, depending on the rarity of the costume obtained.
 · If you obtain a costume you already own, it will be converted into a number of costume fragments depending on its rarity.
@@ -2888,7 +2888,7 @@ Pickup ★3 Costume: 40 shards of the corresponding costume
 ★3 Costume: Corresponding costume fragments×25
 
 ＜Notes＞
-※This Gacha can only be done with '★3 Guaranteed Gacha Ticket'.
+※This Gacha can only be done with 'Chiaki Ogaki ★3 Ensured Gacha Ticket'.
 ※The contents of the Gacha are subject to change without notice."	"・★3 코스튬을 획득할 수 있는 뽑기입니다.
 ・코스튬을 획득하면 획득한 코스튬의 레어도에 따라 ‘후지산’을 추가로 획득할 수 있습니다.
 ・이미 소유하고 있는 코스튬을 획득한 경우, 레어도에 따라 각 코스튬의 조각으로 변환됩니다.
@@ -2900,7 +2900,7 @@ Pickup ★3 Costume: 40 shards of the corresponding costume
 ★3 코스튬：해당 코스튬의 조각×25
 
 ＜주의 사항＞
-※본 뽑기는 ‘★3 확정 뽑기 티켓’으로만 할 수 있습니다.
+※본 뽑기는 ‘오가키 치아키 ★3 확정 뽑기 티켓’으로만 할 수 있습니다.
 ※뽑기의 내용은 예고 없이 변경될 수 있습니다."
 6038	"・恵那の★3コスチュームを獲得できるガチャです。
 ・コスチュームを獲得すると、獲得したコスチュームのレアリティに応じた数の「ふじさん」をおまけで獲得できます。
@@ -2914,7 +2914,7 @@ Pickup ★3 Costume: 40 shards of the corresponding costume
 ★3コスチューム：該当コスチュームのカケラ×25
 
 ＜注意事項＞
-※本ガチャは「犬山あおい★3確定ガチャチケ」でのみできます。
+※本ガチャは「齋藤恵那★3確定ガチャチケ」でのみできます。
 ※ガチャの内容は予告なく変更する場合があります。"	"・這是可以獲得★3服裝的轉蛋。
 ・當你獲得服裝時，根據獲得的服裝的稀有度，你可以額外獲得一定數量的「富士山」。
 ・如果你已經擁有的服裝被獲得，將根據稀有度轉換為各種服裝碎片的數量。
@@ -2926,7 +2926,7 @@ Pickup ★3 Costume: 40 shards of the corresponding costume
 ★3服裝：相應服裝的碎片×25
 
 ＜注意事項＞
-※本轉蛋只能使用「★3確定轉蛋券」來進行。
+※本轉蛋只能使用「齊藤惠那★3必出轉蛋票」來進行。
 ※轉蛋的內容可能會在沒有預告的情況下更改。"	"· This is a Gacha where you can obtain ★3 costumes.
 · When you obtain a costume, you can also get a number of 'Fujisan' as a bonus, depending on the rarity of the costume obtained.
 · If you obtain a costume you already own, it will be converted into a number of costume fragments depending on its rarity.
@@ -2938,7 +2938,7 @@ Pickup ★3 Costume: 40 shards of the corresponding costume
 ★3 Costume: Corresponding costume fragments×25
 
 ＜Notes＞
-※This Gacha can only be done with '★3 Guaranteed Gacha Ticket'.
+※This Gacha can only be done with 'Ena Saito ★3 Ensured Gacha Ticket'.
 ※The contents of the Gacha are subject to change without notice."	"・★3 코스튬을 획득할 수 있는 뽑기입니다.
 ・코스튬을 획득하면 획득한 코스튬의 레어도에 따라 ‘후지산’을 추가로 획득할 수 있습니다.
 ・이미 소유하고 있는 코스튬을 획득한 경우, 레어도에 따라 각 코스튬의 조각으로 변환됩니다.
@@ -2950,7 +2950,7 @@ Pickup ★3 Costume: 40 shards of the corresponding costume
 ★3 코스튬：해당 코스튬의 조각×25
 
 ＜주의 사항＞
-※본 뽑기는 ‘★3 확정 뽑기 티켓’으로만 할 수 있습니다.
+※본 뽑기는 ‘사이토 에나 ★3 확정 뽑기 티켓’으로만 할 수 있습니다.
 ※뽑기의 내용은 예고 없이 변경될 수 있습니다."
 7001	10度目のガチャが終わると11度目以降のガチャはステップ1～10を繰り返します。	10度目のガチャが終わると11度目以降のガチャはステップ1～10を繰り返します。(TW)	10度目のガチャが終わると11度目以降のガチャはステップ1～10を繰り返します。(EN)	10度目のガチャが終わると11度目以降のガチャはステップ1～10を繰り返します。(KO)
 7003	4度目のガチャが終わると5度目以降のガチャはステップ1～4を繰り返します。	4度目のガチャが終わると5度目以降のガチャはステップ1～4を繰り返します。(TW)	4度目のガチャが終わると5度目以降のガチャはステップ1～4を繰り返します。(EN)	4度目のガチャが終わると5度目以降のガチャはステップ1～4を繰り返します。(KO)

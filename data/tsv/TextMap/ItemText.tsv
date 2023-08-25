@@ -207,14 +207,14 @@ YPが90回復する"	恢復Yurustagram所需的 90 YP	Restores 90 YP needed to Y
 70262	志摩リン★3確定ガチャができるチケット	一張可以玩★3必出轉蛋的票	"Tickets where you can do
  ★3 Ensured Gacha"	★3 확정 뽑기가 가능한 티켓입니다
 70271	大垣千明★3確定ガチャチケ	大垣千明★3必出轉蛋票	Chiaki Ogaki ★3 Ensured Gacha Ticket	오가키 치아키 ★3 확정 뽑기 티켓
-70272	大垣千明★3確定ガチャができるチケット	一張可以玩★3必出轉蛋的票	"Tickets where you can do
- ★3 Ensured Gacha"	★3 확정 뽑기가 가능한 티켓입니다
+70272	大垣千明★3確定ガチャができるチケット	一張可以玩千明限定★3必出券轉蛋	"Tickets where you can do
+ Chiaki Limited ★3 Ensured Ticket Gacha"	치아키 ★3 확정 뽑기가 가능한 티켓입니다
 70281	犬山あおい★3確定ガチャチケ	犬山葵★3必出轉蛋票	Aoi Inuyama ★3 Ensured Gacha Ticket	이누야마 아오이 ★3 확정 뽑기 티켓
 70282	犬山あおい★3確定ガチャができるチケット	一張可以玩★3必出轉蛋的票	"Tickets where you can do
  ★3 Ensured Gacha"	★3 확정 뽑기가 가능한 티켓입니다
 70291	齋藤恵那★3確定ガチャチケ	齊藤惠那★3必出轉蛋票	Ena Saito ★3 Ensured Gacha Ticket	사이토 에나 ★3 확정 뽑기 티켓
-70292	齋藤恵那★3確定ガチャができるチケット	一張可以玩★3必出轉蛋的票	"Tickets where you can do
- ★3 Ensured Gacha"	★3 확정 뽑기가 가능한 티켓입니다
+70292	齋藤恵那★3確定ガチャができるチケット	一張可以玩惠那限定★3必出券轉蛋	"Tickets where you can do
+ Ena Limited ★3 Ensured Ticket Gacha"	에나 ★3 확정 뽑기가 가능한 티켓입니다
 70321	絶対なでしこ育成MAXスペシャルガチャチケ	絕對撫子培育MAX特別轉蛋券	MAX Growth Special Gacha Ticket	절대 나데시코 육성 MAX스페셜 뽑기
 70322	絶対なでしこ育成MAXスペシャルガチャができるチケット	絕對撫子培育MAX特別轉蛋抽獎券	Ticket for Nadeshiko MAX Growth Special Gacha	절대 나데시코 육성 MAX스페셜 뽑기티켓
 70331	綾乃ピックアップガチャチケ	綾乃精選轉蛋券	Ayano Pickup Gacha Ticket	아야노 픽업 가챠 티켓
@@ -493,10 +493,10 @@ AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高
 510071	★3コスチューム交換券	★3 服裝兌換券	★3 Costume Exchange Ticket	★3코스튬 교환 티켓
 510101	★1千明交換券	★1 服裝兌換券	★1 Costume Exchange Ticket	★1코스튬 교환 티켓
 510111	★2千明交換券	★2 服裝兌換券	★2 Costume Exchange Ticket	★2코스튬 교환 티켓
-510121	★3千明交換券	★3 服裝兌換券	★3 Costume Exchange Ticket	★3코스튬 교환 티켓
+510121	★3千明交換券	★3 千明服裝兌換券	★3 Chiaki Costume Exchange Ticket	★3 치아키코스튬 교환 티켓
 510131	★1恵那交換券	★1 服裝兌換券	★1 Costume Exchange Ticket	★1코스튬 교환 티켓
 510141	★2恵那交換券	★2 服裝兌換券	★2 Costume Exchange Ticket	★2코스튬 교환 티켓
-510151	★3恵那交換券	★3 服裝兌換券	★3 Costume Exchange Ticket	★3코스튬 교환 티켓
+510151	★3恵那交換券	★3 惠那服裝兌換券	★3 Ena Costume Exchange Ticket	★3 에나코스튬 교환 티켓
 510161	ランクアップ素材セレクトBOX	等級提升素材選擇箱	Rank Up Material Select BOX	랭크 업 소재 셀렉트 박스
 510162	"対象アイテムの中から
 欲しいアイテムを選んで
@@ -1104,6 +1104,12 @@ AP上限150がもらえるお得なパス"	超值通行證，將 AP 上限提高
 20201371	『真夏の夜の打ち上げ花火』のカケラ	『仲夏之夜點燃沖天炮。』的碎片	『Midsummer Night's Fireworks』Fragment	『한여름 밤의 불꽃놀이 축제』의 조각
 20201381	『伊豆ジオスポめぐりがんばろう！！』のカケラ	『努力走遍伊豆地質公園吧！！』的碎片	『Visit Izu's Geospots!』Fragment	『이즈 지오 스폿 순회, 힘내자!!』의 조각
 20201391	『薪屋さんのものがおすすめ』のカケラ	『建議買木柴店賣的商品。』的碎片	『Go To The Firewood Shop』Fragment	『장작 업체에서 사는 것을 추천』의 조각
+20201401	『秋キャンをたのしもう！』のカケラ	『在露營時舉辦親手製夏日祭典！』的碎片	『DIY Festival Camping!』Fragment	『직접 준비한 축제 캠핑!』의 조각
+20201411	『ティピーテントでごはんタイム！』のカケラ	『拿手持式煙火盡情噴射──！』的碎片	『Fired Up Handheld Fireworks!』Fragment	『작은 폭죽으로 파이어!』의 조각
+20201421	『チクワ将軍参上！』のカケラ	『請載我去笛吹公園。』的碎片	『Take Me To Fuefuki Please』Fragment	『후에후키 공원까지 태워주세요』의 조각
+20201431	『秋の夜長は踊らにゃソンソン！？』のカケラ	『兒時玩伴的小綾。』的碎片	『Childhood Friend Aya』Fragment	『소꿉친구 아야』의 조각
+20201441	『運転席のお姉ちゃん』のカケラ	『仲夏之夜點燃沖天炮。』的碎片	『Midsummer Night's Fireworks』Fragment	『한여름 밤의 불꽃놀이 축제』의 조각
+20201451	『おやつにするか』のカケラ	『努力走遍伊豆地質公園吧！！』的碎片	『Visit Izu's Geospots!』Fragment	『이즈 지오 스폿 순회, 힘내자!!』의 조각
 30000011	限界突破素材(ギア設計図)[N]	翻訳不要	翻訳不要	翻訳不要
 30000012	ギア設計図の完成、愛着アップに必要な素材（テスト用）	翻訳不要	翻訳不要	翻訳不要
 30000021	限界突破素材(ギア設計図)[R]	翻訳不要	翻訳不要	翻訳不要
