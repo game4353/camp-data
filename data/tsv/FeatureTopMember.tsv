@@ -20,3 +20,8 @@ feature_id	member_id	costume_id	gear_id	position_x	position_y	position_z	rotatio
 705	1	7004	-1	0.325	0.001	-1.684	140.764	rank3_2l
 705	3	7003	-1	0.536	0.001	-1.004	140.764	rank5_2l
 705	4	7001	-1	-0.331	0.001	-1.833	140.764	rank2_2l
+707	1	37001						
+707	2	37002						
+707	3	37003						
+707	4	37004						
+707	5	37005						

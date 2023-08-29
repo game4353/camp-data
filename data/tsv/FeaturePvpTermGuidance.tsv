@@ -1,2 +1,9 @@
-id	feature_id	term	guide_member_id	guide_text_id_1	guide_text_id_2	guide_text_id_3
-1	706	1	1	70601	70601	70601
+id	term	guide_card_id	guide_idle	voice	guide_text_id_1	guide_voice_id_1	guide_motion_id_1	guide_text_id_2	guide_voice_id_2	guide_motion_id_2	guide_text_id_3	guide_voice_id_3	guide_motion_id_3
+3100	1	10193	rank4_2l	1	3111	4501	rank3_2l	3112	4501	rank4_2l	3113	4501	rank4_2l
+3100	2	10193	rank4_2l	1	3121	4094	rank3_2l	3122	3001	rank5_2l	3123	3004	rank4_2l
+3100	3	10193	rank4_2l	1	3131	3010	rank3_2l	3132	3001	rank5_2l	3133	5022	rank4_2l
+3100	4	10193	rank4_2l	1	3141	4059	rank3_2l	3142	3010	rank5_2l	3143	4010	rank4_2l
+3100	5	10193	rank4_2l	1	3151	3053	rank3_2l	3152	7007	rank5_2l	3153	3032	rank4_2l
+3100	6	10193	rank4_2l	1	3161	3054	rank3_2l	3162	5004	rank5_2l	3163	3004	rank4_2l
+3100	7	10193	rank4_2l	1	3171	6002	rank3_2l	3172	6003	rank5_2l	3173	4520	rank4_2l
+3100	8	10193	rank4_2l	1	3181	4507	rank3_2l	3182	4507	rank5_2l	3183	4097	rank4_2l

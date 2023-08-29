@@ -1204,6 +1204,25 @@ id	ja	zh-TW	en	ko
 11166	フルーツ飴	水果糖	Candied Fruit	과일 사탕
 11167	フルーツ飴（GR）	水果糖（GR）	Candied Fruit (GR)	과일 사탕(그린)
 11168	お祭りちくわ	墨鏡狗狗（連帽衫）	Sunglass Dog (Hoodie)	선글라스 멍멍이(파카)
+11169	ティピーテント	圓錐帳篷	Tepee	티피 텐트
+11170	ティピーテント（BR）	圓錐帳篷（BR）	Tepee (BR)	티피 텐트(브라운)
+11171	石のかまど	石窯	Stone Kamado	돌화덕
+11172	石のかまど（BR）	石窯（BR）	Stone Kamado (BR)	돌화덕(브라운)
+11173	ネイティブ柄の大きなラグ	原住民樣式的大露營毯	Native-Patterned Rug - L	커다란 네이티브 무늬 러그
+11174	ネイティブ柄の大きなラグ（BL）	原住民樣式的大露營毯（BL）	Native-Patterned Rug - L (BL)	커다란 네이티브 무늬 러그(블루)
+11175	ネイティブ柄の小さなラグ	原住民樣式的小露營毯	Native-Patterned Rug - S	작은 네이티브 무늬 러그
+11176	ネイティブ柄の小さなラグ（BL）	原住民樣式的小露營毯（BL）	Native-Patterned Rug - S (BL)	작은 네이티브 무늬 러그(블루)
+11177	いが栗	板栗	Chestnut	밤송이
+11178	青いいが栗	青澀的板栗	Green Chestnut	풋밤송이
+11179	ドリームキャッチャー	捕夢網	Dream Catcher	드림 캐처
+11180	ドリームキャッチャー（RD）	捕夢網（RD）	Dream Catcher (RD)	드림 캐처(레드)
+11181	小さなティピーテント	小小的圓錐帳篷	Mini Tepee	작은 티피 텐트
+11182	小さなティピーテント（WH）	小小的圓錐帳篷（WH）	Mini Tepee (WH)	작은 티피 텐트(화이트)
+11183	簡単ナチョス	簡易奶酪辣味玉米片	Easy Nachos	간단 나초스
+11184	簡単ナチョス（BL)	簡易奶酪辣味玉米片（BL)	Easy Nachos (BL)	간단 나초스(블루)
+11185	チョコレートチャンクピザ	巧克力塊狀披薩	Chocolate Chunks Pizza	초콜릿 청크 피자
+11186	チョコレートチャンクピザ（イチゴ）	巧克力塊狀披薩（草莓）	Chocolate Chunks Pizza (SB)	초콜릿 청크 피자(딸기)
+11187	Ｔボーンステーキ	丁骨牛排	T-Bone Steak	티본 스테이크
 20001	"リンが使っているソロ用テント。
 吊り下げ式。"	"凜使用的單人帳篷。
 吊掛式。"	"A-frame solo tent used by Rin.
@@ -6435,3 +6454,63 @@ fruits."	알록달록하고 예쁜 과일 사탕.
 流行款的連帽衫。"	"A mysterious dog wearing sunglasses.
 It looks cool in a hoodie."	"선글라스를 쓴 수수께끼의 멍멍이.
 세련된 파커 차림이 인상적이다."
+21171	"移動用の住居が元となったテント。
+中で焚き火ができる。"	"由游牧用的住家所演變而來的帳篷。
+可以在裡面生篝火。"	"A tent based on nomadic life.
+You can keep a fire inside."	"이동용 주거 공간을 본뜬 텐트.
+안에서 모닥불도 피울 수 있다."
+21172	"移動用の住居が元となったテント。
+中で焚き火ができる。ブラウン系のカラー。"	"由游牧用的住家所演變而來的帳篷。
+可以在裡面生篝火。棕色系的色調。"	"A tent based on nomadic life.
+You can keep a fire inside. Brown."	"이동용 주거 공간을 본뜬 텐트.
+안에서 모닥불도 피울 수 있다. 브라운 컬러."
+21173	拾ってきた石で作ったかまど。	用撿來的石頭作的窯。	A furnace made from stones.	주워온 돌로 만든 화덕.
+21174	アメリカの先住民に伝わる柄のラグ。	北美原住民們代代相傳的露營毯樣式。	"A patterned rug of Native American
+heritage."	아메리카 원주민의 전통 무늬를 본뜬 러그.
+21175	"アメリカの先住民に伝わる柄のラグ。
+ブルー系の爽やかカラー。"	"北美原住民們代代相傳的露營毯樣式。
+藍色系的颯爽色調。"	"A patterned rug of Native American
+heritage in a refreshing blue."	"아메리카 원주민의 전통 무늬를 본뜬 러그.
+블루 계열의 산뜻한 컬러."
+21176	"ちょうど食べ頃の秋の味覚。
+鋭いトゲに気をつけて。"	"剛好到了熟成時節的秋天美食。
+要小心它的尖刺。"	"Perfectly ripe, a taste of autumn.
+Be careful of the spines."	"먹기 좋게 익은 가을 제철 음식.
+날카로운 가시를 꼭 조심하세요."
+21177	"もう少しで食べ頃の秋の味覚。
+鋭いトゲに気をつけて。"	"還差一點就到熟成時節的秋天美食。
+要小心它的尖刺。"	"Not yet ripe, a taste of autumn.
+Be careful of the spines."	"곧 무르익을 가을 제철 음식.
+날카로운 가시를 꼭 조심하세요."
+21178	"高いところに吊るす魔除け。
+悪夢をキャッチしてくれる。"	"掛在高處的護身符。
+可以幫忙捕捉住惡夢。"	"An amulet to hang in a high place.
+Traps nightmares."	"높은 곳에 매달아 두는 부적.
+악몽을 캐치해 준다고 한다."
+21179	"高いところに吊るす魔除け。
+悪夢をキャッチしてくれる。レッド系。"	"掛在高處的護身符。
+可以幫忙捕捉住惡夢。紅色系。"	"An amulet to hang in a high place.
+Traps nightmares. Red."	"높은 곳에 매달아 두는 부적.
+악몽을 캐치해 준다고 한다. 레드 계열."
+21180	ティピーテントのミニチュア。	圓錐帳篷的微型版。	A miniature of a tepee.	티피 텐트를 미니추어화한 것.
+21181	"包丁もバーナーも要らない
+お菓子とサラダを混ぜるだけの逸品。"	"菜刀跟爐子都不需要，
+混和零食跟沙拉就能作的逸品。"	"No knife or burner needed. Just
+mix chips and vegetables."	"과자와 샐러드를 섞기만 하면 되는
+식칼도 버너도 필요 없는 일품요리."
+21182	"チョコレートにマシュマロがのったピザ。
+カロリー爆弾。"	"在草莓巧克力上面放棉花糖的披薩。
+卡路里炸彈。
+多放了草莓。"	"Chocolate strawberries and marshmallow
+pizza. A calorie bomb. With strawberries."	"딸기 초콜릿과 마시멜로를 올려 구운
+피자. 칼로리 폭탄. 딸기까지 추가."
+21183	"イチゴチョコレートにマシュマロがのった
+ピザ。カロリー爆弾。イチゴを追加。"	"在巧克力上面放棉花糖的披薩。
+卡路里炸彈。多放了草莓。"	"Chocolate and marshmallow pizza.
+A calorie bomb. With strawberries."	"초콜릿과 마시멜로를 올려 구운 피자.
+칼로리 폭탄. 딸기까지 추가."
+21184	"肉厚でジューシーなステーキ。
+ロマンの塊。"	"肉質豐厚多汁的牛排。
+浪漫的集合。"	"A thick and juicy steak.
+Very dreamy."	"두꺼운 고기에 육즙이 흐르는 스테이크.
+로망 덩어리 그 자체."

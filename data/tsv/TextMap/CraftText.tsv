@@ -269,6 +269,8 @@ id	ja	zh-TW	en	ko
 85010460	かまぼこトンネル	魚板隧道	Kamaboko Tunnel	어묵 터널
 85010461	かまぼこトンネル（LG）	魚板隧道（LG）	Kamaboko Tunnel (LG)	어묵 터널(라이트 그린)
 85010470	パップテント	軍幕帳（Pup Tent）	Pup Tent	펍 텐트
+85010520	ティピーテント	圓錐帳篷	Tepee	티피 텐트
+85010521	ティピーテント（BR）	圓錐帳篷（BR）	Tepee (BR)	티피 텐트(브라운)
 85020010	リンのローチェア	凜的低腳椅	Rin's Camping Chair	린의 로우 체어
 85020020	なでしこのローチェア	撫子的低腳椅	Nadeshiko's Camping Chair	나데시코의 로우 체어
 85020030	コンパクトローチェア	輕巧低腳椅	Compact Camping Chair	콤팩트 로우 체어
@@ -626,6 +628,8 @@ id	ja	zh-TW	en	ko
 85070160	千明が買った焚き火台	千明買的篝火台	Campfire Stand That Chiaki Bought	치아키가 샀던 모닥불 받침대
 85070170	コミコミ3万の焚き火台	含稅三萬日圓的篝火台	30K All Inclusive Campfire Stand	모든 세금 포함 3만짜리 모닥불 받침대
 85070180	鳥羽先生の妹の焚き火台	鳥羽老師的妹妹的篝火台	Ms. Toba's Sister's Campfire Stand	토바 선생님 여동생의 모닥불 받침대
+85070190	石のかまど	石窯	Stone Kamado	돌화덕
+85070191	石のかまど（BR）	石窯（BR）	Stone Kamado (BR)	돌화덕(브라운)
 85080010	なでしこのタープ	撫子的天幕	Nadeshiko's Tarp	나데시코의 타프
 85080020	和風タープ	和風天幕	Japanese-Style Tarp	일식 타프
 85080030	野クルのヘキサゴンタープ	野活組的六角形天幕	Outclub's Hexagon Tarp	야클의 헥사곤 타프
@@ -734,6 +738,10 @@ id	ja	zh-TW	en	ko
 85085030	大きな桜のレジャーシート	大型櫻花野餐墊	Large Sakura Blanket	커다란 벚꽃 레저 시트
 85085070	ござ	蓆墊	Mat	전통 돗자리
 85085071	ござ（GR）	蓆墊（GR）	Mat (GR)	전통 돗자리(그린)
+85085080	ネイティブ柄の大きなラグ	原住民樣式的大露營毯	Native-Patterned Rug - L	커다란 네이티브 무늬 러그
+85085081	ネイティブ柄の大きなラグ（BL）	原住民樣式的大露營毯（BL）	Native-Patterned Rug - L (BL)	커다란 네이티브 무늬 러그(블루)
+85085090	ネイティブ柄の小さなラグ	原住民樣式的小露營毯	Native-Patterned Rug - S	작은 네이티브 무늬 러그
+85085091	ネイティブ柄の小さなラグ（BL）	原住民樣式的小露營毯（BL）	Native-Patterned Rug - S (BL)	작은 네이티브 무늬 러그(블루)
 85090010	リンの鉈	凜的柴刀	Rin's Machete	린의 나대
 85090020	ウォータータンク	儲水桶	Water Tank	워터 탱크
 85090030	じょうろ	花灑	Watering Can	물뿌리개
@@ -1072,6 +1080,12 @@ id	ja	zh-TW	en	ko
 85091831	線香花火セット（GR）	仙女棒組合包（GR）	Sparkler Set (GR)	선향불꽃 세트(그린)
 85091850	くじ引き	抽籤盒	Lottery	뽑기 상자
 85091851	くじ引き（PK）	抽籤盒（PK）	Lottery (PK)	뽑기 상자(핑크)
+85091860	いが栗	板栗	Chestnut	밤송이
+85091861	青いいが栗	青澀的板栗	Green Chestnut	풋밤송이
+85091870	ドリームキャッチャー	捕夢網	Dream Catcher	드림 캐처
+85091871	ドリームキャッチャー（RD）	捕夢網（RD）	Dream Catcher (RD)	드림 캐처(레드)
+85091880	小さなティピーテント	小小的圓錐帳篷	Mini Tepee	작은 티피 텐트
+85091881	小さなティピーテント（WH）	小小的圓錐帳篷（WH）	Mini Tepee (WH)	작은 티피 텐트(화이트)
 87010010	焼き鳥	烤雞肉串	Yakitori	닭꼬치
 87010020	焼き肉	烤肉	Yakiniku	야키니쿠
 87010030	焼きベーコン	煎培根	Fried Bacon	베이컨 구이
@@ -1080,6 +1094,7 @@ id	ja	zh-TW	en	ko
 87010060	ソーセージ	香腸	Sausage	소시지
 87010080	タコさんウインナー	章魚先生香腸	Octopus Wiener	문어 씨 비엔나
 87010090	豚串	豬肉串	Pork Skewer	돼지고기 꼬치
+87010110	Ｔボーンステーキ	丁骨牛排	T-Bone Steak	티본 스테이크
 87020010	焼き鮭	烤鮭魚	Grilled Salmon	연어구이
 87020020	ワカサギの天ぷら	西太公魚天婦羅	Smelt Tempura	빙어튀김
 87020030	土鍋で具だくさんアヒージョ	配菜豐富的砂鍋蒜味蝦	Everything Claypot Ajillo	건더기 가득 질그릇 아히요
@@ -1104,6 +1119,8 @@ id	ja	zh-TW	en	ko
 87040020	サンドイッチ	三明治	Sandwich	샌드위치
 87040030	チーズいっぱいマルゲリータ	滿滿乳酪瑪格麗特披薩	Cheesy Margherita	치즈 가득 마르게리타
 87040040	ハンバーガー	漢堡	Hamburger	햄버거
+87040050	チョコレートチャンクピザ	巧克力塊狀披薩	Chocolate Chunks Pizza	초콜릿 청크 피자
+87040051	チョコレートチャンクピザ（イチゴ）	巧克力塊狀披薩（草莓）	Chocolate Chunks Pizza (SB)	초콜릿 청크 피자(딸기)
 87050010	煮込みカレー	燉咖哩	Curry	푹 끓인 카레
 87050020	ジャンバラヤ	什錦燉飯	Jambalaya	잠발라야
 87050030	豚串のせご飯	豬肉串蓋飯	Pork Skewer Rice Bowl	돼지고기 얹은 밥
@@ -1138,3 +1155,5 @@ id	ja	zh-TW	en	ko
 87100120	フルーツポンチ	水果調酒	Fruit Punch	프루트 펀치
 87100130	フルーツ飴	水果糖	Candied Fruit	과일 사탕
 87100131	フルーツ飴（GR）	水果糖（GR）	Candied Fruit (GR)	과일 사탕(그린)
+87100140	簡単ナチョス	簡易奶酪辣味玉米片	Easy Nachos	간단 나초스
+87100141	簡単ナチョス（BL)	簡易奶酪辣味玉米片（BL)	Easy Nachos (BL)	간단 나초스(블루)
