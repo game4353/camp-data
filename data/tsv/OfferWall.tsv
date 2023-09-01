@@ -70,4 +70,8 @@ id	type	language	resource_type	resource_id	ios	android	pc	priority	interval	link
 73	1	ja,en,zh-TW,ko		53090012	1	1	1	200	9999	gacha?gacha_id=10021	1		2023-08-18 11:00:00	2023-09-01 10:59:59
 74	1	ja,en,zh-TW,ko		53090015	1	1	1	202	9999	gacha?gacha_id=10023	1		2023-08-23 11:00:00	2023-09-06 23:59:59
 75		ja,en,zh-TW,ko		30370073	1	1	1	126	9999	shop?tab_type=22&shop_type=14&shop_item_id=700048	5		2023-08-25 11:00:00	2023-09-10 23:59:59
-76		ja,en,zh-TW,ko		30310023	1	1	1	127	9999	gacha?gacha_id=10024	1		2023-09-01 11:00:00	2023-09-13 10:59:59
+76		ja,en,zh-TW,ko		30310024	1	1	1	128	9999	gacha?gacha_id=10024	1		2023-09-01 11:00:00	2023-09-13 10:59:59
+77		ja,en,zh-TW,ko		30310025	1	1	1	127	9999	gacha?gacha_id=10025	1		2023-09-01 11:00:00	2023-09-13 10:59:59
+78	1	ja,en,zh-TW,ko		53090016	1	1	1	204	9999	gacha?gacha_id=10024	1		2023-09-01 11:00:00	2023-09-13 10:59:59
+79	1	ja,en,zh-TW,ko		53090017	1	1	1	203	9999	gacha?gacha_id=10025	1		2023-09-01 11:00:00	2023-09-13 10:59:59
+80		ja,en,zh-TW,ko		30370083	1	1	1	129	9999	shop?tab_type=22&shop_type=14&shop_item_id=200663	5		2023-09-01 11:00:00	2023-09-30 23:59:59

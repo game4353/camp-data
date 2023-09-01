@@ -321,8 +321,8 @@ Campfire Stand"	모든 세금 포함 3만짜리 모닥불 받침대
 298	『パジャマパーティー(千明)』のカケラ	『睡衣派對(葵)』的碎片	『Pyjama Party(Chiaki)』Fragment	『파자마 파티(치아키)』의 조각
 299	『パジャマパーティー(あおい)』のカケラ	『睡衣派對(葵)』的碎片	『Pyjama Party(Aoi)』Fragment	『파자마 파티(아오이)』의 조각
 300	『パジャマパーティー(恵那)』のカケラ	『睡衣派對(惠那)』的碎片	『Pyjama Party(Ena)』Fragment	『파자마 파티(에나)』의 조각
-301	『民族チックなウェア(なでしこ)』のカケラ	『睡衣派對(惠那)』的碎片	『Pyjama Party(Ena)』Fragment	『파자마 파티(에나)』의 조각
-302	『民族チックなウェア(千明)』のカケラ	『睡衣派對(惠那)』的碎片	『Pyjama Party(Ena)』Fragment	『파자마 파티(에나)』의 조각
+301	『民族チックなウェア(なでしこ)』のカケラ	『民族風服飾(撫子)』的碎片	『Ethnic Chic Style(Nadeshiko)』Fragment	『민족풍 웨어(나데시코)』의 조각
+302	『民族チックなウェア(千明)』のカケラ	『民族風服飾(千明)』的碎片	『Ethnic Chic Style(Chiaki)』Fragment	『민족풍 웨어(치아키)』의 조각
 303	キャンプ雑誌(地)	露營雜誌(地)	Camping Magazine (Ground)	캠핑 잡지(땅)
 304	キャンプ雑誌(水)	露營雜誌(水)	Camping Magazine (Water)	캠핑 잡지(물)
 305	キャンプ雑誌(火)	露營雜誌(火)	Camping Magazine (Fire)	캠핑 잡지(불)
@@ -1886,8 +1886,10 @@ Campfire Stand"	모든 세금 포함 3만짜리 모닥불 받침대
 1863	お楽しみBOX	樂趣箱子	Enjoyment Box	즐거움 상자
 1864	コスチュームガチャチケ×10	服裝轉蛋票×10	Costume Gacha Ticket×10	코스튬 뽑기 티켓×10
 1865	サポートカードガチャチケ×10	輔助卡轉蛋券×10	Support Card Gacha Ticket×10	서포트 카드 뽑기 티켓×10
-1866	1000万DL大感謝祭 ★3交換券	一千萬下載大感謝祭 ★3交換券	Thanksgiving Festival ★3 Exchange Ticket	전 세계 대감사제 ★3 교환권
-1867	1000万DL大感謝祭 SR交換券	一千萬下載大感謝祭 SR交換券	Thanksgiving Festival SR Exchange Ticket	전 세계 대감사제 SR 교환권
+1866	1000万DL大感謝祭 ★3交換券	一千萬下載大感謝祭 ★3交換券	"Thanksgiving Festival
+★3 Exchange Ticket"	전 세계 대감사제 ★3 교환권
+1867	1000万DL大感謝祭 SR交換券	一千萬下載大感謝祭 SR交換券	"Thanksgiving Festival
+SR Exchange Ticket"	전 세계 대감사제 SR 교환권
 1868	1000万大感謝祭コイン詰め合わせBOX(特上)	1000萬大感謝祭币混合礼盒（特级）	Thanks Fest Coin Assortment Box (Premium)	1000만대감사제코인 혼합 선물 상자(특급)
 1869	1000万大感謝祭コイン詰め合わせBOX(上)	1000萬大感謝祭币混合礼盒（高级）	Thanks Fest Coin Assortment Box (Hihgh)	1000만대감사제코인 혼합 선물 상자(상급)
 1870	1000万大感謝祭コイン詰め合わせBOX(並)	1000萬大感謝祭币混合礼盒（标准）	Thanks Fest Coin Assortment Box (Standard)	1000만대감사제코인 혼합 선물 상자(일반)
@@ -1913,9 +1915,30 @@ Campfire Stand"	모든 세금 포함 3만짜리 모닥불 받침대
 1890	恵那限定★3交換チケット	惠那限定★3兌換券	Ena Limited ★3 Exchange Ticket	에나 한정 ★3교환 티켓
 1891	野外活動ガチャチケ×20	野外活動轉蛋票×20	Outdoor Activity Gacha Ticket×20	야외 활동 뽑기 티켓×20
 1892	野外活動ガチャチケ×10	野外活動轉蛋票×10	Outdoor Activity Gacha Ticket×10	야외 활동 뽑기 티켓×10
-1893	★3『民族チックなウェア』大垣千明	★3『祭典浴衣』大垣千明	★3『Festival Yukata』 Chiaki Ogaki	★3『축제 유카타』오가키 치아키
-1894	★3『民族チックなウェア』犬山あおい	★3『祭典浴衣』犬山葵	★3『Festival Yukata』 Aoi Inuyama	★3『축제 유카타』이누야마 아오이
-1895		翻訳入力エラー	翻訳入力エラー	翻訳入力エラー
+1893	★3『民族チックなウェア』各務原なでしこ	★3『民族風服飾』各務原撫子	★3『Ethnic Chic Style』 Nadeshiko Kagamihara	★3『민족풍 웨어』카가미하라 나데시코
+1894	★3『民族チックなウェア』大垣千明	★3『民族風服飾』大垣千明	★3『Ethnic Chic Style』 Chiaki Ogaki	★3『민족풍 웨어』오가키 치아키
+1895	SR『秋キャンをたのしもう！』	SR『來享受秋天露營吧！』	SR『Let's Enjoy Camping in Autumn!』	SR『가을 캠핑을 즐기자!』
+1896	SR『ティピーテントでごはんタイム！』	SR『在圓錐帳篷度過晚餐時光！』	SR『Dinner In The Tepee!』	SR『티피 텐트에서 식사 시간!』
+1897	『ティピーテント』のカケラ	『圓錐帳篷』的碎片	『Tepee』Fragment	『티피 텐트』의 조각
+1898	『ティピーテント（BR）』のカケラ	『圓錐帳篷（BR）』的碎片	『Tepee (BR)』Fragment	『티피 텐트(브라운)』의 조각
+1899	『石のかまど』のカケラ	『石窯』的碎片	『Stone Kamado』Fragment	『돌화덕』의 조각
+1900	『石のかまど（BR）』のカケラ	『石窯（BR）』的碎片	『Stone Kamado (BR)』Fragment	『돌화덕(브라운)』의 조각
+1901	『ネイティブ柄の大きなラグ』のカケラ	『原住民樣式的大露營毯』的碎片	『Native-Patterned Rug - L』Fragment	『커다란 네이티브 무늬 러그』의 조각
+1902	『ネイティブ柄の大きなラグ（BL）』のカケラ	『原住民樣式的大露營毯（BL）』的碎片	『Native-Patterned Rug - L (BL)』Fragment	『커다란 네이티브 무늬 러그(블루)』의 조각
+1903	『ネイティブ柄の小さなラグ』のカケラ	『原住民樣式的小露營毯』的碎片	『Native-Patterned Rug - S』Fragment	『작은 네이티브 무늬 러그』의 조각
+1904	『ネイティブ柄の小さなラグ（BL）』のカケラ	『原住民樣式的小露營毯（BL）』的碎片	『Native-Patterned Rug - S (BL)』Fragment	『작은 네이티브 무늬 러그(블루)』의 조각
+1905	『いが栗』のカケラ	『板栗』的碎片	『Chestnut』Fragment	『밤송이』의 조각
+1906	『青いいが栗』のカケラ	『青澀的板栗』的碎片	『Green Chestnut』Fragment	『풋밤송이』의 조각
+1907	『ドリームキャッチャー』のカケラ	『捕夢網』的碎片	『Dream Catcher』Fragment	『드림 캐처』의 조각
+1908	『ドリームキャッチャー（RD）』のカケラ	『捕夢網（RD）』的碎片	『Dream Catcher (RD)』Fragment	『드림 캐처(레드)』의 조각
+1909	『小さなティピーテント』のカケラ	『小小的圓錐帳篷』的碎片	『Mini Tepee』Fragment	『작은 티피 텐트』의 조각
+1910	『小さなティピーテント（WH）』のカケラ	『小小的圓錐帳篷（WH）』的碎片	『Mini Tepee (WH)』Fragment	『작은 티피 텐트(화이트)』의 조각
+1911	『簡単ナチョス』のカケラ	『簡易奶酪辣味玉米片』的碎片	『Easy Nachos』Fragment	『간단 나초스』의 조각
+1912	『簡単ナチョス（BL)』のカケラ	『簡易奶酪辣味玉米片（BL)』的碎片	『Easy Nachos (BL)』Fragment	『간단 나초스(블루)』의 조각
+1913	『チョコレートチャンクピザ』のカケラ	『巧克力塊狀披薩』的碎片	『Chocolate Chunks Pizza』Fragment	『초콜릿 청크 피자』의 조각
+1914	『チョコレートチャンクピザ（イチゴ）』のカケラ	『巧克力塊狀披薩（草莓）』的碎片	『Chocolate Chunks Pizza (SB)』Fragment	『초콜릿 청크 피자(딸기)』의 조각
+1915	『Ｔボーンステーキ』のカケラ	『丁骨牛排』的碎片	『T-Bone Steak』Fragment	『티본 스테이크』의 조각
+1916		翻訳入力エラー	翻訳入力エラー	翻訳入力エラー
 20001	お助けアイテム	"指定したパズル玉スキル玉
 仕掛けを壊すことができる
 ※仕掛けは1段階下げる効果(TW)"	"指定したパズル玉スキル玉
@@ -2746,7 +2769,8 @@ person.※You can purchase until September 10, 2023."	"코스튬 뽑기가 가�
 20126	"サポートカードガチャができるチケット×30
 
 ※お一人様一つまで購入できます。
-※2023/9/10まで購入できます。"	"一張可以玩輔助卡轉蛋的票×30n
+※2023/9/10まで購入できます。"	"一張可以玩輔助卡轉蛋的票×30
+
 ※每人只能購買
 一個。※您可以購買到2023年9月10日為止。"	"Tickets where you can do
  Support Card Gacha×30
@@ -2773,7 +2797,8 @@ person.※You can purchase until September 10, 2023."	"코스튬 뽑기가 가�
 20128	"サポートカードガチャができるチケット×50
 
 ※お一人様一つまで購入できます。
-※2023/9/10まで購入できます。"	"一張可以玩輔助卡轉蛋的票×50n
+※2023/9/10まで購入できます。"	"一張可以玩輔助卡轉蛋的票×50
+
 ※每人只能購買
 一個。※您可以購買到2023年9月10日為止。"	"Tickets where you can do
  Support Card Gacha×50
@@ -2800,7 +2825,8 @@ person.※You can purchase until September 10, 2023."	"코스튬 뽑기가 가�
 20130	"サポートカードガチャができるチケット×100
 
 ※お一人様一つまで購入できます。
-※2023/9/10まで購入できます。"	"一張可以玩輔助卡轉蛋的票×100n
+※2023/9/10まで購入できます。"	"一張可以玩輔助卡轉蛋的票×100
+
 ※每人只能購買
 一個。※您可以購買到2023年9月10日為止。"	"Tickets where you can do
  Support Card Gacha×100
@@ -2973,21 +2999,34 @@ Get Outdoor Activity Gacha Tickets at a great deal!
 
 ※구매 제한 없음.
 ※ 2023년 9월 30일까지 구매 가능합니다."
-20144	"ガチャメダル（民族チック）250と交換できる
+20144	"ガチャメダル（民族）250と交換できる
 ※2023/9/16まで交換可能
 <color=""red"">※未所持のコスチュームと交換した場合は、コスチュームそのものに交換されます。</color>
 <color=""red"">※所持済みのコスチュームと交換した場合は、そのコスチュームのカケラに交換されます。</color>
-<color=""red"">ピックアップ対象の場合はカケラ40個、ピックアップ対象外の場合はカケラ25個です。</color>"	"您可以在2023/9/4之前用250個轉蛋幣（祭典浴衣③）進行兌換。
-<color=""red"">※如果兌換您已經擁有的祭典浴衣③，它將自動轉換為碎片。 </color>"	"Exchange for 250 Gacha Medals (Festival Yukata③)
-*Until 9/4/2023
-<color=""red"">*Owned Festival Yukata③s will be automatically converted to Fragments upon exchange.</color>"	"뽑기 메달(축제 유카타③) 250개로 교환 가능
-※2023/9/4까지 교환 가능
-<color=""red"">※소지 중 축제 유카타③을 교환 할시, 조각으로 변환됩니다. </color>"
-20145	"ガチャメダル（民族チック）1交換できる
-※2023/9/16まで交換可能"	您可以在2023/9/4之前用1個轉蛋幣（祭典浴衣③）進行兌換。	"Exchange with Gacha Medal (Festival Yukata③) 1
-*Exchangeable until 9/4/2023"	"뽑기 메달(축제 유카타③) 1개로 교환 가능
-※2023/9/4까지 교환 가능"
-20146		翻訳入力エラー	翻訳入力エラー	翻訳入力エラー
+<color=""red"">ピックアップ対象の場合はカケラ40個、ピックアップ対象外の場合はカケラ25個です。</color>"	"您可以在2023/9/16之前用250個轉蛋幣（民族）進行兌換。
+<color=""red"">※如果兌換您已經擁有的民族，它將自動轉換為碎片。 </color>"	"Exchange for 250 Gacha Medals (Ethnic Chic)
+*Until 9/16/2023
+<color=""red"">*Owned Ethnic Chics will be automatically converted to Fragments upon exchange.</color>"	"뽑기 메달(민족) 250개로 교환 가능
+※2023/9/16까지 교환 가능
+<color=""red"">※소지 중 민족을 교환 할시, 조각으로 변환됩니다. </color>"
+20145	"ガチャメダル（民族）1交換できる
+※2023/9/16まで交換可能"	您可以在2023/9/16之前用1個轉蛋幣（民族）進行兌換。	"Exchange with Gacha Medal (Ethnic Chic) 1
+*Exchangeable until 9/16/2023"	"뽑기 메달(민족) 1개로 교환 가능
+※2023/9/16까지 교환 가능"
+20146	"ガチャメダル（ネイティブ）250と交換できる
+※2023/9/16まで交換可能
+<color=""red"">※未所持のサポートカードと交換した場合は、サポートカードそのものに交換されます。</color>
+<color=""red"">※所持済みのサポートカードと交換した場合は、そのサポートのカケラ50個に交換されます。</color>"	"您可以在2023/9/16之前用250個轉蛋幣（部落）進行兌換。
+<color=""red"">※如果兌換您已經擁有的部落，它將自動轉換為碎片。 </color>"	"Exchange for 250 Gacha Medals (Tribe)
+*Until 9/16/2023
+<color=""red"">*Owned Tribes will be automatically converted to Fragments upon exchange.</color>"	"뽑기 메달(트라이브) 250개로 교환 가능
+※2023/9/16까지 교환 가능
+<color=""red"">※소지 중 트라이브을 교환 할시, 조각으로 변환됩니다. </color>"
+20147	"ガチャメダル（ネイティブ）1交換できる
+※2023/9/16まで交換可能"	您可以在2023/9/16之前用1個轉蛋幣（部落）進行兌換。	"Exchange with Gacha Medal (Tribe) 1
+*Exchangeable until 9/16/2023"	"뽑기 메달(트라이브) 1개로 교환 가능
+※2023/9/16까지 교환 가능"
+20148		翻訳入力エラー	翻訳入力エラー	翻訳入力エラー
 40001	"パズルに詰まった時に使ってみると案外クリアできるかも！？
 
 ・風太郎×3"	"パズルに詰まった時に使ってみると案外クリアできるかも！？
@@ -3804,7 +3843,8 @@ person.※You can purchase until September 10, 2023."	"코스튬 뽑기가 가�
 40113	"サポートカードガチャができるチケット×30
 
 ※お一人様一つまで購入できます。
-※2023/9/10まで購入できます。"	"一張可以玩輔助卡轉蛋的票×30n
+※2023/9/10まで購入できます。"	"一張可以玩輔助卡轉蛋的票×30
+
 ※每人只能購買
 一個。※您可以購買到2023年9月10日為止。"	"Tickets where you can do
  Support Card Gacha×30
@@ -3831,7 +3871,8 @@ person.※You can purchase until September 10, 2023."	"코스튬 뽑기가 가�
 40115	"サポートカードガチャができるチケット×50
 
 ※お一人様一つまで購入できます。
-※2023/9/10まで購入できます。"	"一張可以玩輔助卡轉蛋的票×50n
+※2023/9/10まで購入できます。"	"一張可以玩輔助卡轉蛋的票×50
+
 ※每人只能購買
 一個。※您可以購買到2023年9月10日為止。"	"Tickets where you can do
  Support Card Gacha×50
@@ -3858,7 +3899,8 @@ person.※You can purchase until September 10, 2023."	"코스튬 뽑기가 가�
 40117	"サポートカードガチャができるチケット×100
 
 ※お一人様一つまで購入できます。
-※2023/9/10まで購入できます。"	"一張可以玩輔助卡轉蛋的票×100n
+※2023/9/10まで購入できます。"	"一張可以玩輔助卡轉蛋的票×100
+
 ※每人只能購買
 一個。※您可以購買到2023年9月10日為止。"	"Tickets where you can do
  Support Card Gacha×100
@@ -4032,21 +4074,34 @@ Get Outdoor Activity Gacha Tickets at a great deal!
 
 ※구매 제한 없음.
 ※ 2023년 9월 30일까지 구매 가능합니다."
-40131	"ガチャメダル（民族チック）250と交換できる
+40131	"ガチャメダル（民族）250と交換できる
 ※2023/9/16まで交換可能
 <color=""red"">※未所持のコスチュームと交換した場合は、コスチュームそのものに交換されます。</color>
 <color=""red"">※所持済みのコスチュームと交換した場合は、そのコスチュームのカケラに交換されます。</color>
-<color=""red"">ピックアップ対象の場合はカケラ40個、ピックアップ対象外の場合はカケラ25個です。</color>"	"您可以在2023/9/4之前用250個轉蛋幣（祭典浴衣③）進行兌換。
-<color=""red"">※如果兌換您已經擁有的祭典浴衣③，它將自動轉換為碎片。 </color>"	"Exchange for 250 Gacha Medals (Festival Yukata③)
-*Until 9/4/2023
-<color=""red"">*Owned Festival Yukata③s will be automatically converted to Fragments upon exchange.</color>"	"뽑기 메달(축제 유카타③) 250개로 교환 가능
-※2023/9/4까지 교환 가능
-<color=""red"">※소지 중 축제 유카타③을 교환 할시, 조각으로 변환됩니다. </color>"
-40132	"ガチャメダル（民族チック）1交換できる
-※2023/9/16まで交換可能"	您可以在2023/9/4之前用1個轉蛋幣（祭典浴衣③）進行兌換。	"Exchange with Gacha Medal (Festival Yukata③) 1
-*Exchangeable until 9/4/2023"	"뽑기 메달(축제 유카타③) 1개로 교환 가능
-※2023/9/4까지 교환 가능"
-40133		翻訳入力エラー	翻訳入力エラー	翻訳入力エラー
+<color=""red"">ピックアップ対象の場合はカケラ40個、ピックアップ対象外の場合はカケラ25個です。</color>"	"您可以在2023/9/16之前用250個轉蛋幣（民族）進行兌換。
+<color=""red"">※如果兌換您已經擁有的民族，它將自動轉換為碎片。 </color>"	"Exchange for 250 Gacha Medals (Ethnic Chic)
+*Until 9/16/2023
+<color=""red"">*Owned Ethnic Chics will be automatically converted to Fragments upon exchange.</color>"	"뽑기 메달(민족) 250개로 교환 가능
+※2023/9/16까지 교환 가능
+<color=""red"">※소지 중 민족을 교환 할시, 조각으로 변환됩니다. </color>"
+40132	"ガチャメダル（民族）1交換できる
+※2023/9/16まで交換可能"	您可以在2023/9/16之前用1個轉蛋幣（民族）進行兌換。	"Exchange with Gacha Medal (Ethnic Chic) 1
+*Exchangeable until 9/16/2023"	"뽑기 메달(민족) 1개로 교환 가능
+※2023/9/16까지 교환 가능"
+40133	"ガチャメダル（ネイティブ）250と交換できる
+※2023/9/16まで交換可能
+<color=""red"">※未所持のサポートカードと交換した場合は、サポートカードそのものに交換されます。</color>
+<color=""red"">※所持済みのサポートカードと交換した場合は、そのサポートのカケラ50個に交換されます。</color>"	"您可以在2023/9/16之前用250個轉蛋幣（部落）進行兌換。
+<color=""red"">※如果兌換您已經擁有的部落，它將自動轉換為碎片。 </color>"	"Exchange for 250 Gacha Medals (Tribe)
+*Until 9/16/2023
+<color=""red"">*Owned Tribes will be automatically converted to Fragments upon exchange.</color>"	"뽑기 메달(트라이브) 250개로 교환 가능
+※2023/9/16까지 교환 가능
+<color=""red"">※소지 중 트라이브을 교환 할시, 조각으로 변환됩니다. </color>"
+40134	"ガチャメダル（ネイティブ）1交換できる
+※2023/9/16まで交換可能"	您可以在2023/9/16之前用1個轉蛋幣（部落）進行兌換。	"Exchange with Gacha Medal (Tribe) 1
+*Exchangeable until 9/16/2023"	"뽑기 메달(트라이브) 1개로 교환 가능
+※2023/9/16까지 교환 가능"
+40135		翻訳入力エラー	翻訳入力エラー	翻訳入力エラー
 100001	親密度S	親密度S	Intimacy S	친밀도 S
 100002	親密度M	親密度M	Intimacy M	친밀도 M
 100003	親密度L	親密度L	Intimacy L	친밀도 L
@@ -4100,4 +4155,5 @@ Nadeshiko Kagamihara"	"『유루캠△ 2권 복장』
 300010	1000万DL大感謝祭 ★3交換券	翻訳不要	翻訳不要	翻訳不要
 300011	1000万大感謝祭コイン詰め合わせBOX(特上)	翻訳不要	翻訳不要	翻訳不要
 300012	千明限定★3確定チケット	翻訳不要	翻訳不要	翻訳不要
-300013		翻訳入力エラー	翻訳入力エラー	翻訳入力エラー
+300013	野外活動ガチャチケ×20	翻訳不要	翻訳不要	翻訳不要
+300014		翻訳入力エラー	翻訳入力エラー	翻訳入力エラー
